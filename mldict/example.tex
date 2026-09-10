@@ -1,0 +1,30 @@
+% Minimal example of writing in the dictionary's notation.
+% Compile with: lualatex example.tex   (or pdflatex)
+\documentclass{article}
+\usepackage{mldict}
+\begin{document}
+
+\section*{Empirical risk minimization in \texttt{mldict} notation}
+
+A dataset $\dataset = \{ (\featurevec^{(1)}, \truelabel^{(1)}), \ldots,
+(\featurevec^{(\samplesize)}, \truelabel^{(\samplesize)}) \}$ consists of
+$\samplesize$ data points, each with a feature vector
+$\featurevec^{(\sampleidx)} \in \featurespace = \reals^{\featuredim}$ and a
+label $\truelabel^{(\sampleidx)} \in \labelspace$. A model, or hypothesis
+space, $\hypospace$ is a set of maps
+$\hypothesis: \featurespace \to \labelspace$. Empirical risk minimization
+learns the hypothesis
+\[
+  \learnthypothesis \in \operatorname*{arg\,min}_{\hypothesis \in \hypospace}
+  \frac{1}{\samplesize} \sum_{\sampleidx=1}^{\samplesize}
+  \lossfunc{(\featurevec^{(\sampleidx)}, \truelabel^{(\sampleidx)})}{\hypothesis}
+  \text{.}
+\]
+Gradient descent on a parametrized model iterates
+$\weights^{(\iteridx+1)} = \weights^{(\iteridx)} - \lrate \nabla
+f(\weights^{(\iteridx)})$ with learning rate $\lrate$.
+
+The reference for every symbol is the dictionary's List of Symbols:
+\texttt{https://dictionaryofml.org/symbols.html}
+
+\end{document}
