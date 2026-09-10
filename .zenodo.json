@@ -1,0 +1,25 @@
+{
+  "title": "Dictionary of Applied Machine Learning (course edition)",
+  "upload_type": "publication",
+  "publication_type": "book",
+  "creators": [
+    {"name": "Jung, Alexander",
+     "affiliation": "Department of Computer Science, Aalto University, Finland",
+     "orcid": "0000-0001-7538-0990"},
+    {"name": "Olioumtsevits, Konstantina",
+     "affiliation": "Aalto University, Finland"},
+    {"name": "Schnoor, Ekkehard",
+     "affiliation": "Aalto University, Finland"}
+  ],
+  "license": "CC-BY-4.0",
+  "imprint_isbn": "978-952-64-3013-3",
+  "related_identifiers": [
+    {"identifier": "https://dictionaryofml.org",
+     "relation": "isSupplementedBy", "scheme": "url"},
+    {"identifier": "https://github.com/alexjungaalto/dictionaryofml",
+     "relation": "isSupplementedBy", "scheme": "url"}
+  ],
+  "description": "Open course edition of the Dictionary of Applied Machine Learning: precisely defined, cross-referenced machine-learning terms, each with citations, a typeset PDF, and a Python demo that recomputes what the entry states. Published at https://dictionaryofml.org with machine-readable exports (terms.json, llms.txt) and a companion repository (Colab notebooks, the mldict LaTeX notation package, an MCP server). Distinct from the copyrighted Springer Dictionary of Applied Machine Learning by the same authors.",
+  "keywords": ["machine learning", "dictionary", "glossary", "notation",
+               "reproducibility"]
+}
