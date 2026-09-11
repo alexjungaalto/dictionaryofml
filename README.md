@@ -31,15 +31,21 @@ Basic checks are applied to the Python demos before release:
 
 - each demo runs its own `check()` assertions on the quantities it
   computes, with fixed random seeds for reproducibility;
-- `ruff check --select F` (correctness rules only: undefined and unused
-  names);
-- `bandit`, restricted to the exec/eval/shell-injection checks
+- [`ruff check --select F`](https://docs.astral.sh/ruff/) (correctness
+  rules only: undefined and unused names);
+- [`bandit`](https://bandit.readthedocs.io/), restricted to the
+  exec/eval/shell-injection checks
   (B102, B307, B602, B605) — the one deliberate exception is the `llm`
   demo, whose subject is an LLM wrapper executing emitted code;
 - project-specific linters for figure style and for keeping a demo's
   prose within the concepts its dictionary entry introduces.
 
 These are screens, not proofs of correctness.
+
+The demos import two third-party packages, `numpy` and `matplotlib`
+(both preinstalled on Colab); the source repository pins their exact
+versions, since the committed figure data is byte-reproducible only
+under the pinned pair.
 
 ## MCP server
 
