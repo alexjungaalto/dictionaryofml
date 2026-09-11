@@ -19,6 +19,28 @@ the full content is also machine-readable as
 [terms.json](https://dictionaryofml.org/terms.json) and indexed for LLM
 crawlers in [llms.txt](https://dictionaryofml.org/llms.txt).
 
+## Provenance and disclaimer
+
+The source code in this repository (demo notebooks, LaTeX package, MCP
+server) was created with the help of large language models (LLMs), under
+review by the author. It is provided as is, without warranty of any kind:
+**use at your own risk** and verify results independently before relying
+on them.
+
+Basic checks are applied to the Python demos before release:
+
+- each demo runs its own `check()` assertions on the quantities it
+  computes, with fixed random seeds for reproducibility;
+- `ruff check --select F` (correctness rules only: undefined and unused
+  names);
+- `bandit`, restricted to the exec/eval/shell-injection checks
+  (B102, B307, B602, B605) — the one deliberate exception is the `llm`
+  demo, whose subject is an LLM wrapper executing emitted code;
+- project-specific linters for figure style and for keeping a demo's
+  prose within the concepts its dictionary entry introduces.
+
+These are screens, not proofs of correctness.
+
 ## MCP server
 
 ```bash
