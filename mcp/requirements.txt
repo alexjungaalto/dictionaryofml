@@ -1,1 +1,7 @@
-mcp>=1.0
+# mcp 2.x removed the low-level Server.list_tools()/call_tool() decorators
+# this server is built on, so an unpinned install now fails at import with
+# "'Server' object has no attribute 'list_tools'". Found 2026-10-26 when a
+# fresh venv resolved mcp 2.3.0.
+mcp>=1.0,<2
+# streamable HTTP only (python server.py --http); stdio needs neither
+uvicorn

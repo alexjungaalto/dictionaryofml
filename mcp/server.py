@@ -8,9 +8,20 @@ machine-readable export, https://dictionaryofml.org/terms.json, and cached
 on disk for a day, so the server always serves the latest published
 edition and works offline once warmed.
 
+Two transports, one tool set. The tools, the cache and the formatting
+below do not know which is in use: the Model Context Protocol carries the
+same JSON-RPC messages either way.
+
+    stdio (default)   The client launches this file as a child process and
+                      talks over its stdin/stdout. Local clients only.
+    streamable HTTP   This file runs as a server and the client POSTs to a
+                      URL, so a remote client (claude.ai connectors, a
+                      phone) can reach it. Served at /mcp.
+
 Usage:
     pip install -r requirements.txt
-    python server.py
+    python server.py                      # stdio
+    python server.py --http [--host H] [--port P]
 
 Register with Claude Code:
     claude mcp add --scope user dictionaryofml -- python /path/to/server.py
@@ -23,15 +34,21 @@ import time
 import urllib.request
 from difflib import SequenceMatcher
 
+import argparse
 import asyncio
+import contextlib
 import mcp.server.stdio
 import mcp.types as types
 from mcp.server import Server
 
 TERMS_URL = os.environ.get("DICTML_TERMS_URL",
                            "https://dictionaryofml.org/terms.json")
-CACHE = os.path.join(os.path.expanduser("~"), ".cache", "dictionaryofml",
-                     "terms.json")
+# DICTML_CACHE lets a service unit put the cache somewhere writable: run
+# under a system user with ProtectHome=true there is no usable ~/.cache.
+CACHE = os.environ.get(
+    "DICTML_CACHE",
+    os.path.join(os.path.expanduser("~"), ".cache", "dictionaryofml",
+                 "terms.json"))
 CACHE_TTL = 24 * 3600
 
 
@@ -171,10 +188,60 @@ async def call_tool(name, args):
 
 
 async def main():
+    """stdio: the client owns the process and speaks over its pipes."""
     async with mcp.server.stdio.stdio_server() as (read, write):
         await server.run(read, write,
                          server.create_initialization_options())
 
 
+def http_app():
+    """The same server as an ASGI app, mounted at /mcp.
+
+    Stateless: every request stands on its own, with no Mcp-Session-Id to
+    keep. The tools here only read a cached copy of terms.json, so there is
+    no session state worth carrying, and a stateless endpoint survives a
+    restart of this process without stranding a client mid-session.
+    """
+    from mcp.server.streamable_http_manager import StreamableHTTPSessionManager
+    from starlette.applications import Starlette
+    from starlette.routing import Mount
+    from starlette.responses import PlainTextResponse
+    from starlette.routing import Route
+
+    manager = StreamableHTTPSessionManager(app=server, stateless=True)
+
+    async def handle(scope, receive, send):
+        await manager.handle_request(scope, receive, send)
+
+    async def health(_request):
+        doc = load_terms()
+        return PlainTextResponse(f"ok {len(by_key(doc))} terms\n")
+
+    @contextlib.asynccontextmanager
+    async def lifespan(_app):
+        async with manager.run():
+            yield
+
+    # The manager is mounted as the catch-all, after /healthz: mounting it
+    # at "/mcp" makes Starlette answer a POST to the bare /mcp with a 307
+    # to /mcp/ (a client that does not re-POST sees nothing), and turning
+    # redirect_slashes off makes that same request a 404 instead. nginx
+    # proxies only /mcp through to this app, so the catch-all is scoped
+    # there in production and accepts /mcp locally.
+    return Starlette(routes=[Route("/healthz", health), Mount("/", handle)],
+                     lifespan=lifespan)
+
+
 if __name__ == "__main__":
-    asyncio.run(main())
+    ap = argparse.ArgumentParser(description=__doc__)
+    ap.add_argument("--http", action="store_true",
+                    help="serve streamable HTTP instead of stdio")
+    ap.add_argument("--host", default="127.0.0.1")
+    ap.add_argument("--port", type=int, default=8777)
+    args = ap.parse_args()
+    if args.http:
+        import uvicorn
+        uvicorn.run(http_app(), host=args.host, port=args.port,
+                    log_level="info")
+    else:
+        asyncio.run(main())
