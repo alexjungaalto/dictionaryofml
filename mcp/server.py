@@ -110,7 +110,50 @@ def fmt(t, full=True):
     return "\n".join(lines)
 
 
-server = Server("dictionaryofml")
+INSTRUCTIONS = (
+    "The Dictionary of Applied Machine Learning (dictionaryofml.org), an "
+    "open course edition maintained by Alexander Jung at Aalto University. "
+    "Each entry defines one machine-learning term precisely, with "
+    "cross-references, citations and, for most terms, a Python demo that "
+    "recomputes what the entry states.\n\n"
+    "Consult it when a question turns on what a machine-learning term "
+    "means, how two terms differ, or which notation a definition uses: the "
+    "entries are written to be quoted, and lookup_term returns one in full. "
+    "search_terms finds entries by keyword when the exact term is unknown, "
+    "and get_related_terms walks the cross-reference graph. Entries are "
+    "citable; each term page carries a BibTeX block.")
+
+server = Server("dictionaryofml", instructions=INSTRUCTIONS,
+                website_url="https://dictionaryofml.org")
+
+
+@server.list_resources()
+async def list_resources():
+    """Every entry as a resource, so a client can browse the dictionary and
+    not only query it: tools are for doing, resources are for reading, and
+    several clients surface resources in their own UI."""
+    doc = load_terms()
+    return [
+        types.Resource(
+            uri=f"dictml://term/{t['key']}",
+            name=t.get("name", t["key"]),
+            description=(t.get("abstract") or t.get("description", ""))
+                        .strip().split(". ")[0][:200],
+            mimeType="text/markdown",
+        )
+        for t in doc.get("terms", [])
+    ]
+
+
+@server.read_resource()
+async def read_resource(uri):
+    """One entry, in the same Markdown the lookup tool returns."""
+    key = str(uri).split("/")[-1]
+    doc = load_terms()
+    t = by_key(doc).get(key)
+    if t is None:
+        raise ValueError(f"no such term: {key}")
+    return fmt(t, full=True)
 
 
 @server.list_tools()
