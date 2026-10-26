@@ -330,6 +330,9 @@
 \newcommand{\featuremtx}{\mX}
 \newcommand{\weight}{w}
 \newcommand{\weights}{\vw}
+% stack(...): the entries of its arguments collected into one vector,
+% e.g. the layer weight matrices of an ANN forming its model parameters
+\newcommand{\stack}[1]{\operatorname{stack}\big( #1 \big)}
 \newcommand{\offset}{b} % offset (bias) of an affine hypothesis, e.g., sign(w^T x + b)
 \newcommand{\regularizer}[1]{\mathcal{R}\big\{ #1 \big\}}
 \newcommand{\decreg}[1]{\mathcal{R}_{#1}}
