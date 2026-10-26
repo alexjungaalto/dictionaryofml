@@ -1,6 +1,6 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "io.github.alexjungaalto/dictionaryofml",
+  "name": "org.dictionaryofml/dictionary",
   "title": "Dictionary of Applied Machine Learning",
   "description": "Look up, search and cross-reference machine-learning terms from dictionaryofml.org.",
   "version": "1.0.0",

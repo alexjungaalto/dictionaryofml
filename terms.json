@@ -13,6 +13,18 @@
  ],
  "note": "Definitions are lightly cleaned LaTeX: inline math is transliterated, display math kept as TeX, glossary links replaced by the linked term's name, citations rendered as author and year, figures dropped. That cleaning is lossy, so each term also carries a 'latex' field: the same entry as a compilable standalone, keeping its displays, TikZ figures and the equation labels its \\eqref calls name, with the macro definitions it uses inlined. The typeset PDF is the authoritative form of each entry.",
  "retrieved_format_docs": "https://dictionaryofml.org/llms.txt",
+ "mcp": {
+  "url": "https://dictionaryofml.org/mcp",
+  "transport": "streamable-http",
+  "authentication": "none",
+  "tools": [
+   "list_all_terms",
+   "lookup_term",
+   "search_terms",
+   "get_related_terms"
+  ],
+  "docs": "https://dictionaryofml.org/mcp.html"
+ },
  "terms": [
   {
    "key": "accuracy",
