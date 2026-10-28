@@ -15,6 +15,8 @@ for a day — the server always serves the latest published edition.
 | `lookup_term` | Full entry by key or display name (fuzzy) |
 | `search_terms` | Keyword search across names and definitions |
 | `get_related_terms` | The entry's See-also cross-references, with abstracts |
+| `list_learning_paths` | The author's curated reading orders (topic, audience, terms in order) behind the [Seminar-Baukasten](https://alexjung.at/baukasten/) |
+| `get_learning_path` | One reading order by topic, or the entries for an explicit list of terms, in order |
 
 ## Setup
 

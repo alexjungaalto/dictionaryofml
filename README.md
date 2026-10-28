@@ -55,7 +55,7 @@ claude mcp add --scope user dictionaryofml -- python /path/to/mcp/server.py
 ```
 
 Tools: `list_all_terms`, `lookup_term`, `search_terms`,
-`get_related_terms`. Content is fetched from the site's terms.json and
+`get_related_terms`, `list_learning_paths`, `get_learning_path`. Content is fetched from the site's terms.json and
 cached for a day.
 
 ## Citing

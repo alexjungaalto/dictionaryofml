@@ -120,8 +120,12 @@ INSTRUCTIONS = (
     "means, how two terms differ, or which notation a definition uses: the "
     "entries are written to be quoted, and lookup_term returns one in full. "
     "search_terms finds entries by keyword when the exact term is unknown, "
-    "and get_related_terms walks the cross-reference graph. Entries are "
-    "citable; each term page carries a BibTeX block.")
+    "and get_related_terms walks the cross-reference graph. When someone "
+    "asks what to read, learn, or teach about a topic, list_learning_paths "
+    "gives the author's curated reading orders (topic, audience, terms in "
+    "order) and get_learning_path returns one of them, or the entries for "
+    "an explicit list of terms in that order. Entries are citable; each "
+    "term page carries a BibTeX block.")
 
 server = Server("dictionaryofml", instructions=INSTRUCTIONS,
                 website_url="https://dictionaryofml.org")
@@ -133,7 +137,16 @@ async def list_resources():
     not only query it: tools are for doing, resources are for reading, and
     several clients surface resources in their own UI."""
     doc = load_terms()
-    return [
+    paths = [
+        types.Resource(
+            uri=f"dictml://path/{p['id']}",
+            name=f"Reading order: {p.get('topic') or p['title']}",
+            description=f"{p.get('audience', '')} — {len(p.get('terms', []))} terms",
+            mimeType="text/markdown",
+        )
+        for p in doc.get("paths", [])
+    ]
+    return paths + [
         types.Resource(
             uri=f"dictml://term/{t['key']}",
             name=t.get("name", t["key"]),
@@ -150,6 +163,11 @@ async def read_resource(uri):
     """One entry, in the same Markdown the lookup tool returns."""
     key = str(uri).split("/")[-1]
     doc = load_terms()
+    if str(uri).startswith("dictml://path/"):
+        path = next((p for p in doc.get("paths", []) if p["id"] == key), None)
+        if path is None:
+            raise ValueError(f"no such path: {key}")
+        return fmt_path(path, doc)
     t = by_key(doc).get(key)
     if t is None:
         raise ValueError(f"no such term: {key}")
@@ -186,6 +204,28 @@ async def list_tools():
             inputSchema={"type": "object",
                          "properties": {"term": {"type": "string"}},
                          "required": ["term"]}),
+        types.Tool(
+            name="list_learning_paths",
+            description="The author's curated reading orders through the "
+                        "dictionary: one per topic (how ChatGPT works, AI "
+                        "foundations, explainable and trustworthy AI, "
+                        "mathematics of AI, ...), each with its audience and "
+                        "its terms in the order to read them. Use when "
+                        "someone asks what to learn, read, or teach about a "
+                        "topic, or how to structure a course or seminar.",
+            inputSchema={"type": "object", "properties": {}}),
+        types.Tool(
+            name="get_learning_path",
+            description="One reading order with the abstract of every term "
+                        "in it. Give `topic` (a path id or words from its "
+                        "title or audience), or `terms` (an explicit list of "
+                        "term keys or names, kept in the given order) — the "
+                        "form a selection on alexjung.at/baukasten/ takes.",
+            inputSchema={"type": "object",
+                         "properties": {
+                             "topic": {"type": "string"},
+                             "terms": {"type": "array",
+                                       "items": {"type": "string"}}}}),
     ]
 
 
@@ -225,9 +265,74 @@ async def call_tool(name, args):
                            f"{r.get('abstract', '')[:300]}" if r
                            else f"- {k} (not in the published set)")
             text = f"Terms related to {t['name']}:\n" + "\n".join(out)
+    elif name == "list_learning_paths":
+        paths = doc.get("paths", [])
+        if not paths:
+            text = "The published terms.json carries no reading orders yet."
+        else:
+            text = "Curated reading orders (Seminar-Baukasten):\n" + "\n".join(
+                f"- {p.get('topic') or p['title']} (id: {p['id']}; "
+                f"{p.get('audience', '')}): "
+                + ", ".join(t["key"] for t in p.get("terms", []))
+                for p in paths)
+    elif name == "get_learning_path":
+        text = learning_path_text(doc, args.get("topic"), args.get("terms"))
     else:
         text = f"Unknown tool {name!r}."
     return [types.TextContent(type="text", text=text)]
+
+
+def fmt_path(path, doc):
+    """One reading order as Markdown: the topic, the audience, then every
+    term in order with its abstract and link."""
+    terms = by_key(doc)
+    lines = [f"# {path.get('topic') or path['title']}",
+             f"Audience: {path.get('audience', '')}",
+             f"Seminar-Baukasten: https://alexjung.at/baukasten/#terms="
+             + ",".join(t["key"] for t in path.get("terms", [])), ""]
+    for i, entry in enumerate(path.get("terms", []), 1):
+        t = terms.get(entry["key"])
+        abstract = (t or {}).get("abstract") or (t or {}).get("description", "")
+        lines.append(f"{i}. **{entry.get('name', entry['key'])}** "
+                     f"(key: {entry['key']}) — {abstract[:400]}\n   {entry['url']}")
+    return "\n".join(lines)
+
+
+def learning_path_text(doc, topic=None, term_list=None):
+    """The answer of get_learning_path: a curated path by topic, or the
+    entries for an explicit list of terms, in the order given."""
+    if term_list:
+        found, missing = [], []
+        for name in term_list:
+            t = resolve(doc, str(name))
+            (found if t else missing).append(t or name)
+        path = {"id": "selection", "title": "Selected terms", "topic": "Selected terms",
+                "audience": "as selected", "terms": [
+                    {"key": t["key"], "name": t["name"], "url": t["url"]}
+                    for t in found if isinstance(t, dict)]}
+        text = fmt_path(path, doc)
+        if missing:
+            text += "\n\nNot in the published set: " + ", ".join(map(str, missing))
+        return text
+    paths = doc.get("paths", [])
+    if not paths:
+        return "The published terms.json carries no reading orders yet."
+    q = (topic or "").lower().strip()
+    if not q:
+        return ("Name a topic. Available: "
+                + "; ".join(f"{p['id']} ({p.get('topic') or p['title']})" for p in paths))
+    best, best_score = None, 0.0
+    for p in paths:
+        hay = " ".join([p["id"], p["title"], p.get("topic", ""), p.get("audience", "")]).lower()
+        score = 3 * (q == p["id"]) + 2 * (q in hay) \
+            + SequenceMatcher(None, q, (p.get("topic") or p["title"]).lower()).ratio()
+        if score > best_score:
+            best, best_score = p, score
+    if best is None or best_score < 0.4:
+        return ("No reading order matches "
+                f"{topic!r}. Available: "
+                + "; ".join(f"{p['id']} ({p.get('topic') or p['title']})" for p in paths))
+    return fmt_path(best, doc)
 
 
 async def main():
