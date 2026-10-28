@@ -13,6 +13,586 @@
  ],
  "note": "Definitions are lightly cleaned LaTeX: inline math is transliterated, display math kept as TeX, glossary links replaced by the linked term's name, citations rendered as author and year, figures dropped. That cleaning is lossy, so each term also carries a 'latex' field: the same entry as a compilable standalone, keeping its displays, TikZ figures and the equation labels its \\eqref calls name, with the macro definitions it uses inlined, and a 'markdown' field: the same entry with every math span kept as LaTeX, the book's macros expanded to standard LaTeX, floats as figure links and captions. Display math in the fields below is expanded the same way. The typeset PDF is the authoritative form of each entry.",
  "retrieved_format_docs": "https://dictionaryofml.org/llms.txt",
+ "paths": [
+  {
+   "id": "llm",
+   "title": "Wie funktioniert ChatGPT?",
+   "topic": "Wie funktioniert ChatGPT? (LLMs)",
+   "audience": "LLMs · für alle, Öffentlichkeit & Firmen",
+   "terms": [
+    {
+     "key": "llm",
+     "name": "large language model",
+     "url": "https://dictionaryofml.org/terms/llm.html"
+    },
+    {
+     "key": "transformer",
+     "name": "transformer",
+     "url": "https://dictionaryofml.org/terms/transformer.html"
+    },
+    {
+     "key": "attention",
+     "name": "attention",
+     "url": "https://dictionaryofml.org/terms/attention.html"
+    }
+   ]
+  },
+  {
+   "id": "grundlagen",
+   "title": "KI-Grundlagen",
+   "topic": "KI-Grundlagen",
+   "audience": "ML Core · für Bildungswerke, AK, Einsteiger",
+   "terms": [
+    {
+     "key": "data",
+     "name": "data",
+     "url": "https://dictionaryofml.org/terms/data.html"
+    },
+    {
+     "key": "datapoint",
+     "name": "data point",
+     "url": "https://dictionaryofml.org/terms/datapoint.html"
+    },
+    {
+     "key": "dataset",
+     "name": "dataset",
+     "url": "https://dictionaryofml.org/terms/dataset.html"
+    },
+    {
+     "key": "feature",
+     "name": "feature",
+     "url": "https://dictionaryofml.org/terms/feature.html"
+    },
+    {
+     "key": "label",
+     "name": "label",
+     "url": "https://dictionaryofml.org/terms/label.html"
+    },
+    {
+     "key": "model",
+     "name": "model",
+     "url": "https://dictionaryofml.org/terms/model.html"
+    },
+    {
+     "key": "loss",
+     "name": "loss",
+     "url": "https://dictionaryofml.org/terms/loss.html"
+    },
+    {
+     "key": "erm",
+     "name": "empirical risk minimization",
+     "url": "https://dictionaryofml.org/terms/erm.html"
+    },
+    {
+     "key": "hypothesis",
+     "name": "hypothesis",
+     "url": "https://dictionaryofml.org/terms/hypothesis.html"
+    },
+    {
+     "key": "hypospace",
+     "name": "hypothesis space",
+     "url": "https://dictionaryofml.org/terms/hypospace.html"
+    },
+    {
+     "key": "generalization",
+     "name": "generalization",
+     "url": "https://dictionaryofml.org/terms/generalization.html"
+    },
+    {
+     "key": "overfitting",
+     "name": "overfitting",
+     "url": "https://dictionaryofml.org/terms/overfitting.html"
+    },
+    {
+     "key": "regularization",
+     "name": "regularization",
+     "url": "https://dictionaryofml.org/terms/regularization.html"
+    },
+    {
+     "key": "linreg",
+     "name": "linear regression",
+     "url": "https://dictionaryofml.org/terms/linreg.html"
+    },
+    {
+     "key": "svm",
+     "name": "support vector machine",
+     "url": "https://dictionaryofml.org/terms/svm.html"
+    },
+    {
+     "key": "gradient",
+     "name": "gradient",
+     "url": "https://dictionaryofml.org/terms/gradient.html"
+    },
+    {
+     "key": "gd",
+     "name": "gradient descent",
+     "url": "https://dictionaryofml.org/terms/gd.html"
+    },
+    {
+     "key": "stochGD",
+     "name": "stochastic gradient descent",
+     "url": "https://dictionaryofml.org/terms/stochGD.html"
+    },
+    {
+     "key": "kernelmethod",
+     "name": "kernel method",
+     "url": "https://dictionaryofml.org/terms/kernelmethod.html"
+    },
+    {
+     "key": "supervisedlearning",
+     "name": "supervised learning",
+     "url": "https://dictionaryofml.org/terms/supervisedlearning.html"
+    },
+    {
+     "key": "unsupervisedlearning",
+     "name": "unsupervised learning",
+     "url": "https://dictionaryofml.org/terms/unsupervisedlearning.html"
+    },
+    {
+     "key": "kernelridgeregression",
+     "name": "kernel ridge regression",
+     "url": "https://dictionaryofml.org/terms/kernelridgeregression.html"
+    },
+    {
+     "key": "accuracy",
+     "name": "accuracy",
+     "url": "https://dictionaryofml.org/terms/accuracy.html"
+    },
+    {
+     "key": "ann",
+     "name": "artificial neural network",
+     "url": "https://dictionaryofml.org/terms/ann.html"
+    },
+    {
+     "key": "autoencoder",
+     "name": "autoencoder",
+     "url": "https://dictionaryofml.org/terms/autoencoder.html"
+    },
+    {
+     "key": "backpropagation",
+     "name": "backpropagation",
+     "url": "https://dictionaryofml.org/terms/backpropagation.html"
+    },
+    {
+     "key": "bagging",
+     "name": "bagging",
+     "url": "https://dictionaryofml.org/terms/bagging.html"
+    },
+    {
+     "key": "baseline",
+     "name": "baseline",
+     "url": "https://dictionaryofml.org/terms/baseline.html"
+    },
+    {
+     "key": "binclass",
+     "name": "binary classification",
+     "url": "https://dictionaryofml.org/terms/binclass.html"
+    },
+    {
+     "key": "boosting",
+     "name": "boosting",
+     "url": "https://dictionaryofml.org/terms/boosting.html"
+    },
+    {
+     "key": "bootstrap",
+     "name": "bootstrap",
+     "url": "https://dictionaryofml.org/terms/bootstrap.html"
+    },
+    {
+     "key": "classification",
+     "name": "classification",
+     "url": "https://dictionaryofml.org/terms/classification.html"
+    },
+    {
+     "key": "clustering",
+     "name": "clustering",
+     "url": "https://dictionaryofml.org/terms/clustering.html"
+    },
+    {
+     "key": "cm",
+     "name": "confusion matrix",
+     "url": "https://dictionaryofml.org/terms/cm.html"
+    },
+    {
+     "key": "dataaug",
+     "name": "data augmentation",
+     "url": "https://dictionaryofml.org/terms/dataaug.html"
+    },
+    {
+     "key": "dataimputation",
+     "name": "data imputation",
+     "url": "https://dictionaryofml.org/terms/dataimputation.html"
+    },
+    {
+     "key": "dataleakage",
+     "name": "data leakage",
+     "url": "https://dictionaryofml.org/terms/dataleakage.html"
+    },
+    {
+     "key": "decisiontree",
+     "name": "decision tree",
+     "url": "https://dictionaryofml.org/terms/decisiontree.html"
+    },
+    {
+     "key": "dimred",
+     "name": "dimensionality reduction",
+     "url": "https://dictionaryofml.org/terms/dimred.html"
+    },
+    {
+     "key": "distshift",
+     "name": "distribution shift",
+     "url": "https://dictionaryofml.org/terms/distshift.html"
+    },
+    {
+     "key": "ensemble",
+     "name": "ensemble",
+     "url": "https://dictionaryofml.org/terms/ensemble.html"
+    },
+    {
+     "key": "featureimportance",
+     "name": "feature importance",
+     "url": "https://dictionaryofml.org/terms/featureimportance.html"
+    },
+    {
+     "key": "featlearn",
+     "name": "feature learning",
+     "url": "https://dictionaryofml.org/terms/featlearn.html"
+    },
+    {
+     "key": "featuremtx",
+     "name": "feature matrix",
+     "url": "https://dictionaryofml.org/terms/featuremtx.html"
+    },
+    {
+     "key": "featurevec",
+     "name": "feature vector",
+     "url": "https://dictionaryofml.org/terms/featurevec.html"
+    },
+    {
+     "key": "finetuning",
+     "name": "fine-tuning",
+     "url": "https://dictionaryofml.org/terms/finetuning.html"
+    },
+    {
+     "key": "hyperparameter",
+     "name": "hyperparameter",
+     "url": "https://dictionaryofml.org/terms/hyperparameter.html"
+    },
+    {
+     "key": "iidasspt",
+     "name": "independent and identically distributed assumption",
+     "url": "https://dictionaryofml.org/terms/iidasspt.html"
+    },
+    {
+     "key": "kfoldcv",
+     "name": "k-fold cross-validation",
+     "url": "https://dictionaryofml.org/terms/kfoldcv.html"
+    },
+    {
+     "key": "kmeans",
+     "name": "k-means",
+     "url": "https://dictionaryofml.org/terms/kmeans.html"
+    },
+    {
+     "key": "learnrate",
+     "name": "learning rate",
+     "url": "https://dictionaryofml.org/terms/learnrate.html"
+    },
+    {
+     "key": "linclass",
+     "name": "linear classifier",
+     "url": "https://dictionaryofml.org/terms/linclass.html"
+    },
+    {
+     "key": "logloss",
+     "name": "logistic loss",
+     "url": "https://dictionaryofml.org/terms/logloss.html"
+    },
+    {
+     "key": "logreg",
+     "name": "logistic regression",
+     "url": "https://dictionaryofml.org/terms/logreg.html"
+    },
+    {
+     "key": "modelsel",
+     "name": "model selection",
+     "url": "https://dictionaryofml.org/terms/modelsel.html"
+    },
+    {
+     "key": "onlinelearning",
+     "name": "online learning",
+     "url": "https://dictionaryofml.org/terms/onlinelearning.html"
+    },
+    {
+     "key": "pretraining",
+     "name": "pretraining",
+     "url": "https://dictionaryofml.org/terms/pretraining.html"
+    },
+    {
+     "key": "pca",
+     "name": "principal component analysis",
+     "url": "https://dictionaryofml.org/terms/pca.html"
+    },
+    {
+     "key": "randomforest",
+     "name": "random forest",
+     "url": "https://dictionaryofml.org/terms/randomforest.html"
+    },
+    {
+     "key": "rpca",
+     "name": "robust principal component analysis",
+     "url": "https://dictionaryofml.org/terms/rpca.html"
+    },
+    {
+     "key": "selfsupervisedlearning",
+     "name": "self-supervised learning",
+     "url": "https://dictionaryofml.org/terms/selfsupervisedlearning.html"
+    },
+    {
+     "key": "sigmoid",
+     "name": "sigmoid function",
+     "url": "https://dictionaryofml.org/terms/sigmoid.html"
+    },
+    {
+     "key": "tabulardata",
+     "name": "tabular data",
+     "url": "https://dictionaryofml.org/terms/tabulardata.html"
+    },
+    {
+     "key": "testset",
+     "name": "test set",
+     "url": "https://dictionaryofml.org/terms/testset.html"
+    },
+    {
+     "key": "training",
+     "name": "training",
+     "url": "https://dictionaryofml.org/terms/training.html"
+    },
+    {
+     "key": "trainerr",
+     "name": "training error",
+     "url": "https://dictionaryofml.org/terms/trainerr.html"
+    },
+    {
+     "key": "trainset",
+     "name": "training set",
+     "url": "https://dictionaryofml.org/terms/trainset.html"
+    },
+    {
+     "key": "transferlearning",
+     "name": "transfer learning",
+     "url": "https://dictionaryofml.org/terms/transferlearning.html"
+    },
+    {
+     "key": "valerr",
+     "name": "validation error",
+     "url": "https://dictionaryofml.org/terms/valerr.html"
+    },
+    {
+     "key": "valset",
+     "name": "validation set",
+     "url": "https://dictionaryofml.org/terms/valset.html"
+    }
+   ]
+  },
+  {
+   "id": "xai",
+   "title": "Erklärbare & vertrauenswürdige KI",
+   "topic": "Erklärbare & vertrauenswürdige KI",
+   "audience": "XAI · für Management, Compliance, Betriebsräte",
+   "terms": [
+    {
+     "key": "explainability",
+     "name": "explainability",
+     "url": "https://dictionaryofml.org/terms/explainability.html"
+    },
+    {
+     "key": "xaiterm",
+     "name": "explainable artificial intelligence",
+     "url": "https://dictionaryofml.org/terms/xaiterm.html"
+    },
+    {
+     "key": "interpretability",
+     "name": "interpretability",
+     "url": "https://dictionaryofml.org/terms/interpretability.html"
+    },
+    {
+     "key": "interpretableml",
+     "name": "interpretable machine learning",
+     "url": "https://dictionaryofml.org/terms/interpretableml.html"
+    },
+    {
+     "key": "transparency",
+     "name": "transparency",
+     "url": "https://dictionaryofml.org/terms/transparency.html"
+    },
+    {
+     "key": "cav",
+     "name": "concept activation vector",
+     "url": "https://dictionaryofml.org/terms/cav.html"
+    },
+    {
+     "key": "explanation",
+     "name": "explanation",
+     "url": "https://dictionaryofml.org/terms/explanation.html"
+    },
+    {
+     "key": "fairness",
+     "name": "fairness",
+     "url": "https://dictionaryofml.org/terms/fairness.html"
+    }
+   ]
+  },
+  {
+   "id": "recht",
+   "title": "KI, Recht & AI Act",
+   "topic": "KI, Recht & AI Act",
+   "audience": "für AK, Betriebsräte, Datenschutzbeauftragte",
+   "terms": [
+    {
+     "key": "trustAI",
+     "name": "trustworthy artificial intelligence",
+     "url": "https://dictionaryofml.org/terms/trustAI.html"
+    }
+   ]
+  },
+  {
+   "id": "systeme",
+   "title": "KI in der Praxis (ML-Systeme)",
+   "topic": "KI in der Praxis (ML-Systeme)",
+   "audience": "für Unternehmen und Technik-Teams",
+   "terms": [
+    {
+     "key": "mlpipeline",
+     "name": "machine learning pipeline",
+     "url": "https://dictionaryofml.org/terms/mlpipeline.html"
+    },
+    {
+     "key": "membershipinferenceattack",
+     "name": "membership inference attack",
+     "url": "https://dictionaryofml.org/terms/membershipinferenceattack.html"
+    },
+    {
+     "key": "tee",
+     "name": "trusted execution environment",
+     "url": "https://dictionaryofml.org/terms/tee.html"
+    }
+   ]
+  },
+  {
+   "id": "mathematik",
+   "title": "Mathematik der KI",
+   "topic": "Mathematik der KI",
+   "audience": "für Technik-Teams, Aktuar:innen, Fortgeschrittene",
+   "terms": [
+    {
+     "key": "matrix",
+     "name": "matrix",
+     "url": "https://dictionaryofml.org/terms/matrix.html"
+    },
+    {
+     "key": "eigenvalue",
+     "name": "eigenvalue",
+     "url": "https://dictionaryofml.org/terms/eigenvalue.html"
+    },
+    {
+     "key": "evd",
+     "name": "eigenvalue decomposition",
+     "url": "https://dictionaryofml.org/terms/evd.html"
+    },
+    {
+     "key": "svd",
+     "name": "singular value decomposition",
+     "url": "https://dictionaryofml.org/terms/svd.html"
+    },
+    {
+     "key": "norm",
+     "name": "norm",
+     "url": "https://dictionaryofml.org/terms/norm.html"
+    },
+    {
+     "key": "innerproduct",
+     "name": "inner product",
+     "url": "https://dictionaryofml.org/terms/innerproduct.html"
+    },
+    {
+     "key": "projection",
+     "name": "projection",
+     "url": "https://dictionaryofml.org/terms/projection.html"
+    },
+    {
+     "key": "hilbertspace",
+     "name": "Hilbert space",
+     "url": "https://dictionaryofml.org/terms/hilbertspace.html"
+    },
+    {
+     "key": "sobolevspace",
+     "name": "Sobolev space",
+     "url": "https://dictionaryofml.org/terms/sobolevspace.html"
+    },
+    {
+     "key": "convex",
+     "name": "convex",
+     "url": "https://dictionaryofml.org/terms/convex.html"
+    },
+    {
+     "key": "mean",
+     "name": "mean",
+     "url": "https://dictionaryofml.org/terms/mean.html"
+    },
+    {
+     "key": "variance",
+     "name": "variance",
+     "url": "https://dictionaryofml.org/terms/variance.html"
+    },
+    {
+     "key": "probdist",
+     "name": "probability distribution",
+     "url": "https://dictionaryofml.org/terms/probdist.html"
+    },
+    {
+     "key": "rv",
+     "name": "random variable",
+     "url": "https://dictionaryofml.org/terms/rv.html"
+    },
+    {
+     "key": "gaussrv",
+     "name": "Gaussian random variable",
+     "url": "https://dictionaryofml.org/terms/gaussrv.html"
+    },
+    {
+     "key": "covmtx",
+     "name": "covariance matrix",
+     "url": "https://dictionaryofml.org/terms/covmtx.html"
+    },
+    {
+     "key": "em",
+     "name": "expectation–maximization",
+     "url": "https://dictionaryofml.org/terms/em.html"
+    },
+    {
+     "key": "gmm",
+     "name": "Gaussian mixture model",
+     "url": "https://dictionaryofml.org/terms/gmm.html"
+    },
+    {
+     "key": "iid",
+     "name": "independent and identically distributed",
+     "url": "https://dictionaryofml.org/terms/iid.html"
+    },
+    {
+     "key": "randomexperiment",
+     "name": "random experiment",
+     "url": "https://dictionaryofml.org/terms/randomexperiment.html"
+    },
+    {
+     "key": "samplesize",
+     "name": "sample size",
+     "url": "https://dictionaryofml.org/terms/samplesize.html"
+    }
+   ]
+  }
+ ],
  "mcp": {
   "url": "https://dictionaryofml.org/mcp",
   "transport": "streamable-http",
@@ -21,7 +601,9 @@
    "list_all_terms",
    "lookup_term",
    "search_terms",
-   "get_related_terms"
+   "get_related_terms",
+   "list_learning_paths",
+   "get_learning_path"
   ],
   "docs": "https://dictionaryofml.org/mcp.html"
  },
