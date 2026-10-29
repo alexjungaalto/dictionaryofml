@@ -586,6 +586,11 @@
      "url": "https://dictionaryofml.org/terms/iid.html"
     },
     {
+     "key": "inverse",
+     "name": "inverse",
+     "url": "https://dictionaryofml.org/terms/inverse.html"
+    },
+    {
      "key": "randomexperiment",
      "name": "random experiment",
      "url": "https://dictionaryofml.org/terms/randomexperiment.html"
@@ -2069,6 +2074,33 @@
    "latex": "https://dictionaryofml.org/terms/interpretableml.tex",
    "demo": "https://dictionaryofml.org/terms/interpretableml.py",
    "notebook": "https://dictionaryofml.org/terms/interpretableml.ipynb"
+  },
+  {
+   "key": "inverse",
+   "name": "inverse",
+   "url": "https://dictionaryofml.org/terms/inverse.html",
+   "pdf": "https://dictionaryofml.org/terms/inverse.pdf",
+   "abstract": "An inverse of a function is a second function that undoes it. For f: U → V it is the function g: V → U with g(f(u)) = u and f(g(v)) = v, and it exists precisely when f is injective and every element of V has a nonempty preimage. The inverse of a linear map of Rn is again a linear map, represented by the inverse matrix A-1 with A A-1 = A-1 A = I, which exists exactly when the square matrix A is of full-rank, equivalently when its determinant is nonzero. Where no inverse exists, a left or right inverse or the Moore--Penrose pseudoinverse takes its place. In machine learning, inverses appear in the closed-form solution of linear regression, in the pair formed by the sigmoid function and the logit, which turns a score into a probability and back, and in drawing a realization through the inverse of a cumulative distribution function.",
+   "description": "A frost warning for Krems an der Donau delivers a real-valued score for the day, and the sigmoid function turns that score into the probability of frost: the score 0 becomes the probability 0.5, the score 2.2 becomes 0.9. Reading the score back off a reported probability undoes this step, and the function that does so is the logit ln( p / (1-p) ). The logit is the inverse of the sigmoid function. An inverse of a function f: U → V is a function g: V → U that undoes it in both directions: g(f(u)) = u for every u ∈ U, and f(g(v)) = v for every v ∈ V. Such a g exists precisely when f is injective and every v ∈ V has a nonempty preimage. It is then unique and written f-1. If only the first identity holds, g is a left inverse, and if only the second holds, a right inverse. Fig.~1 shows both cases for a function on a domain of four shapes. The best known instance is the inverse of a linear map. A square matrix A ∈ Rn × n represents a linear map of Rn into itself, and that map has an inverse exactly when A is of full-rank, meaning its columns are linearly independent. Such a matrix is said to be invertible, and the matrix representing the inverse linear map is the inverse matrix A-1, which satisfies \\[ {\\mathbf A} {\\mathbf A}^{-1} = {\\mathbf A}^{-1} {\\mathbf A} = \\mathbf{I} \\text{.} \\] A square matrix is invertible if and only if its determinant is nonzero. Fig.~2 shows the two linear maps acting on the standard basis of R2. For a matrix that is not square or not of full-rank, the one-sided inverses are what remains: a left inverse B satisfies B A = I, and a right inverse C satisfies A C = I. The Moore--Penrose pseudoinverse A+ selects one generalized inverse for every matrix. Inverses are used throughout machine learning. Solving a system of linear equations is one task, and the closed-form solution of linear regression is another, since it inverts the matrix Xᵀ X (see linear regression). The sigmoid function and the logit of the opening paragraph are an invertible pair, which is what lets a classifier report a probability and a reader recover the score behind it. A feature transformation that is invertible loses no information, since the raw feature vector can be recovered from the transformed one. Drawing a realization of a real-valued random variable uses the inverse of its cumulative distribution function: applied to a draw from the uniform probability distribution on [0,1], it returns a draw from the probability distribution of that random variable. A function without an inverse still raises the question an inverse would answer. A counterfactual asks for a feature vector at which a learned hypothesis takes a given value, which is an element of the preimage of that value; the hypothesis maps many feature vectors to the same prediction and has no inverse, while its preimages are nonempty.",
+   "synonyms": [],
+   "see_also": [
+    "function",
+    "injective",
+    "preimage",
+    "invertible",
+    "matrix",
+    "linearmap",
+    "det",
+    "pseudoinverse",
+    "linreg",
+    "sigmoid",
+    "logit"
+   ],
+   "readiness": 90,
+   "markdown": "https://dictionaryofml.org/terms/inverse.md",
+   "latex": "https://dictionaryofml.org/terms/inverse.tex",
+   "demo": "https://dictionaryofml.org/terms/inverse.py",
+   "notebook": "https://dictionaryofml.org/terms/inverse.ipynb"
   },
   {
    "key": "kernelmethod",
