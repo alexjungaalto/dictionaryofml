@@ -1,7 +1,7 @@
 # Dictionary of Applied Machine Learning — companion repository
 
 Companion code for the [Dictionary of Applied Machine
-Learning](https://dictionaryofml.org) (course edition, CC BY 4.0): 112
+Learning](https://dictionaryofml.org) (course edition, CC BY 4.0): 113
 machine-learning terms, each defined precisely and cross-referenced, with
 citations, a typeset PDF, and a Python demo that recomputes what the entry
 states.
