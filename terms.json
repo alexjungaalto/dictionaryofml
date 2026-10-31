@@ -1043,6 +1043,9 @@
     "variance",
     "samplecovmtx",
     "mvndist",
+    "spectraldecomp",
+    "evd",
+    "eigenvalue",
     "linreg",
     "bayesrisk",
     "baseline"
