@@ -576,6 +576,11 @@
      "url": "https://dictionaryofml.org/terms/covmtx.html"
     },
     {
+     "key": "correlation",
+     "name": "correlation",
+     "url": "https://dictionaryofml.org/terms/correlation.html"
+    },
+    {
      "key": "effdim",
      "name": "effective dimension",
      "url": "https://dictionaryofml.org/terms/effdim.html"
@@ -795,7 +800,9 @@
    ],
    "readiness": 53,
    "markdown": "https://dictionaryofml.org/terms/baselearner.md",
-   "latex": "https://dictionaryofml.org/terms/baselearner.tex"
+   "latex": "https://dictionaryofml.org/terms/baselearner.tex",
+   "demo": "https://dictionaryofml.org/terms/baselearner.py",
+   "notebook": "https://dictionaryofml.org/terms/baselearner.ipynb"
   },
   {
    "key": "baseline",
@@ -1052,6 +1059,30 @@
    "latex": "https://dictionaryofml.org/terms/convex.tex",
    "demo": "https://dictionaryofml.org/terms/convex.py",
    "notebook": "https://dictionaryofml.org/terms/convex.ipynb"
+  },
+  {
+   "key": "correlation",
+   "name": "correlation",
+   "url": "https://dictionaryofml.org/terms/correlation.html",
+   "pdf": "https://dictionaryofml.org/terms/correlation.pdf",
+   "abstract": "The correlation between two real-valued RVs with nonzero standard deviations is their covariance divided by the product of their standard deviations, a dimensionless number in [-1, 1] also referred to as the Pearson correlation coefficient. It equals 1 or -1 exactly when one random variable is an increasing or a decreasing affine function of the other, and it is 0 for uncorrelated RVs. Independent RVs are uncorrelated, but uncorrelated RVs need not be independent, since correlation quantifies only linear dependence. The correlation between the predictions of the base learners of an ensemble bounds the variance reduction that averaging them can achieve.",
+   "description": "Fig.~1 uses the same dataset as the covariance matrix entry: 1827 daily weather measurements at Krems an der Donau. Each data point represents one day by the feature vector x=(x1,x2)ᵀ containing its minimum and maximum temperatures. Selecting a data point uniformly at random defines a random vector x. Correlation quantifies whether unusually large values of x1 tend to occur with unusually large values of x2. More generally, for two real-valued RVs x and y on a common probability space with nonzero standard deviations σx and σy, their correlation is their covariance normalized by the product of these standard deviations, \\[ \\rho := \\frac{{\\rm cov}\\left(x,y\\right)}{\\sigma_{x} \\sigma_{y}} \\in [-1, 1]\\text{.} \\] The value ρ is also referred to as the Pearson correlation coefficient. Unlike the covariance, correlation is dimensionless. Adding a constant to either random variable, or multiplying it by a positive constant, does not change ρ; multiplying one random variable by a negative constant reverses its sign. The extreme values ρ = 1 and ρ = -1 occur exactly when y is an increasing or a decreasing affine function of x with probability one. The RVs are uncorrelated when ρ = 0; independent RVs are uncorrelated, but uncorrelated RVs need not be independent, since ρ quantifies only linear dependence. For the weather random vector, ρ is the off-diagonal entry of C(x) divided by the square root of the product of its diagonal entries, \\[ \\rho = \\frac{\\big(\\mathbf{C}^{({\\mathbf x})}\\big)_{1,2}} {\\sqrt{\\big(\\mathbf{C}^{({\\mathbf x})}\\big)_{1,1} \\big(\\mathbf{C}^{({\\mathbf x})}\\big)_{2,2}}}\\text{.} \\] The correlation between the predictions of the base learners of an ensemble limits how much averaging them can help. An average of M identically distributed predictions, each with variance σ2 and pairwise correlation ρ, has variance ρ σ2 + (1 - ρ)σ2 / M. The second term vanishes as M grows, while the first remains, which is why bagging resamples the training set and a random forest randomizes the features at each split: both lower the correlation between their predictions.",
+   "synonyms": [],
+   "see_also": [
+    "covariance",
+    "covmtx",
+    "pearsoncorr",
+    "variance",
+    "stddev",
+    "rv",
+    "ensemble",
+    "bagging"
+   ],
+   "readiness": 80,
+   "markdown": "https://dictionaryofml.org/terms/correlation.md",
+   "latex": "https://dictionaryofml.org/terms/correlation.tex",
+   "demo": "https://dictionaryofml.org/terms/correlation.py",
+   "notebook": "https://dictionaryofml.org/terms/correlation.ipynb"
   },
   {
    "key": "covmtx",
