@@ -2313,6 +2313,8 @@
    ],
    "readiness": 100,
    "markdown": "https://dictionaryofml.org/terms/label.md",
+   "springer_doi": "10.1007/978-981-92-2012-0_12-1",
+   "published_url": "https://doi.org/10.1007/978-981-92-2012-0_12-1",
    "latex": "https://dictionaryofml.org/terms/label.tex",
    "demo": "https://dictionaryofml.org/terms/label.py",
    "notebook": "https://dictionaryofml.org/terms/label.ipynb"
@@ -2650,6 +2652,8 @@
    ],
    "readiness": 100,
    "markdown": "https://dictionaryofml.org/terms/model.md",
+   "springer_doi": "10.1007/978-981-92-2012-0_2-1",
+   "published_url": "https://doi.org/10.1007/978-981-92-2012-0_2-1",
    "latex": "https://dictionaryofml.org/terms/model.tex",
    "demo": "https://dictionaryofml.org/terms/model.py",
    "notebook": "https://dictionaryofml.org/terms/model.ipynb"
