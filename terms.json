@@ -653,7 +653,13 @@
    "markdown": "https://dictionaryofml.org/terms/accuracy.md",
    "latex": "https://dictionaryofml.org/terms/accuracy.tex",
    "demo": "https://dictionaryofml.org/terms/accuracy.py",
-   "notebook": "https://dictionaryofml.org/terms/accuracy.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/accuracy.ipynb",
+   "sha256": {
+    "accuracy.ipynb": "ef9bd5c54f9c52bebcff2d1134c6bf247e0e0481d324ea21428afbeeda9d654a",
+    "accuracy.md": "b6567346750ecd11485c4e75a49dfd7fd75a0f73e90a8ee6cbd00a3da97dce09",
+    "accuracy.py": "94e5ee92a690c87182b5597c4a78e3a31e99d8d48a9424591e94644c78cc9e35",
+    "accuracy.tex": "45af3b9ecdffa237fc457d83e8792829768b9949fc6070260276809dc7ba2d1c"
+   }
   },
   {
    "key": "ann",
@@ -677,7 +683,13 @@
    "markdown": "https://dictionaryofml.org/terms/ann.md",
    "latex": "https://dictionaryofml.org/terms/ann.tex",
    "demo": "https://dictionaryofml.org/terms/ann.py",
-   "notebook": "https://dictionaryofml.org/terms/ann.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/ann.ipynb",
+   "sha256": {
+    "ann.ipynb": "686ea5bc54455e2ce16ac7ca42f2e8ec6d2aea316a0637548e002038bdebbfa8",
+    "ann.md": "c0287dce095d2d17c1ed58325ebdcce295b29d88c8270e6f1bcfbec8d485e209",
+    "ann.py": "bd922cd98f6acc3334793cc34a821dd93c9be279d29e1631f3baded406a91af5",
+    "ann.tex": "f4fa7d7cf2d74e4bd23b66786a72f523838b48330e475a43af0e66f62bb75f5a"
+   }
   },
   {
    "key": "attention",
@@ -702,7 +714,13 @@
    "markdown": "https://dictionaryofml.org/terms/attention.md",
    "latex": "https://dictionaryofml.org/terms/attention.tex",
    "demo": "https://dictionaryofml.org/terms/attention.py",
-   "notebook": "https://dictionaryofml.org/terms/attention.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/attention.ipynb",
+   "sha256": {
+    "attention.ipynb": "6f02c2bb885e31a20550dfc10951f91ede5b8d4df7da5fb187528f5b1bb1d10b",
+    "attention.md": "369c0177428b22b8f90a3b7944828e22b79c1b5139d56205bb14fa39a6fa86d9",
+    "attention.py": "b4bec4b5b4299d917198e411d4fc272ca7c36d83ff49fbed713da87275a2271d",
+    "attention.tex": "7c889ae620ca56d19b6abc0bad727b94205f5bf039709302c7d1085c09aabc7d"
+   }
   },
   {
    "key": "autoencoder",
@@ -730,7 +748,13 @@
    "markdown": "https://dictionaryofml.org/terms/autoencoder.md",
    "latex": "https://dictionaryofml.org/terms/autoencoder.tex",
    "demo": "https://dictionaryofml.org/terms/autoencoder.py",
-   "notebook": "https://dictionaryofml.org/terms/autoencoder.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/autoencoder.ipynb",
+   "sha256": {
+    "autoencoder.ipynb": "f43f964e8366379306e1a2125636f50401105f25776fc6eb830e82371be5decd",
+    "autoencoder.md": "6aff8e6fdedbc89b899a69ed82b9131a89d25c28ae25d837813f0e58cba8208d",
+    "autoencoder.py": "ff0f8e714ca8dbe6c903e93b6ebfd65ca2bdd9d6ab1a47cbd95f7c8222a7c735",
+    "autoencoder.tex": "3810fdb4caa28efbd66ea4b14a1eb2283ee37d1dabae155dcb8185d5d041d1b0"
+   }
   },
   {
    "key": "backpropagation",
@@ -757,7 +781,13 @@
    "markdown": "https://dictionaryofml.org/terms/backpropagation.md",
    "latex": "https://dictionaryofml.org/terms/backpropagation.tex",
    "demo": "https://dictionaryofml.org/terms/backpropagation.py",
-   "notebook": "https://dictionaryofml.org/terms/backpropagation.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/backpropagation.ipynb",
+   "sha256": {
+    "backpropagation.ipynb": "ad0edb9da478d6d6075b0d9e15eed0c20ad8cee32984f49961c87cdf51bd9a20",
+    "backpropagation.md": "f1904bf3b31c2f67ecf265da11652855b90fdbeeb68c2993b0e2d06ac3e48843",
+    "backpropagation.py": "f2caea8f3902409355346c54b5431196cd1f74ac8fa7f9717c8186ebace8cb75",
+    "backpropagation.tex": "594f1098af207d71f63e10d4a11e71b8160a8c9873b47c9c4bf1f2f37f223170"
+   }
   },
   {
    "key": "bagging",
@@ -782,7 +812,13 @@
    "markdown": "https://dictionaryofml.org/terms/bagging.md",
    "latex": "https://dictionaryofml.org/terms/bagging.tex",
    "demo": "https://dictionaryofml.org/terms/bagging.py",
-   "notebook": "https://dictionaryofml.org/terms/bagging.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/bagging.ipynb",
+   "sha256": {
+    "bagging.ipynb": "230410fbd79c7a273fcdce310562d9676d44c64676d5f250535e885e2a55f21a",
+    "bagging.md": "a19c585be9efa00ae71c4e814017e2e89a589e4b8d61de7976978bf5e9056c45",
+    "bagging.py": "a4fe6bc9a61bf01d63f3bf15cd306f6cc1d21f3c7d50315b13aac8f08132fbd1",
+    "bagging.tex": "58c418004162cb0581b97260d5fa26e4ce41cf1ca05c0586f5a8c0f888d63553"
+   }
   },
   {
    "key": "baselearner",
@@ -802,7 +838,13 @@
    "markdown": "https://dictionaryofml.org/terms/baselearner.md",
    "latex": "https://dictionaryofml.org/terms/baselearner.tex",
    "demo": "https://dictionaryofml.org/terms/baselearner.py",
-   "notebook": "https://dictionaryofml.org/terms/baselearner.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/baselearner.ipynb",
+   "sha256": {
+    "baselearner.ipynb": "636890b558d6fec774b4dd81b03fe04331bcc94455ce11060a3269b95d61b909",
+    "baselearner.md": "ce3c28dabcc470470aff7e44f2e94c2bf6b2c5a87555608fdd3a66a18f292307",
+    "baselearner.py": "5beb1eeefb7a1cffa428a878e83e6d38b40f9f2a4b4fe22066b32ac9e201ff17",
+    "baselearner.tex": "443a04b9ec3a13c409b0dd5fec93bee37aac348c4d7391fbececb164e1ffdfe6"
+   }
   },
   {
    "key": "baseline",
@@ -829,7 +871,13 @@
    "markdown": "https://dictionaryofml.org/terms/baseline.md",
    "latex": "https://dictionaryofml.org/terms/baseline.tex",
    "demo": "https://dictionaryofml.org/terms/baseline.py",
-   "notebook": "https://dictionaryofml.org/terms/baseline.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/baseline.ipynb",
+   "sha256": {
+    "baseline.ipynb": "8a013671fd8fe6cba9072a85109f9bb26ef47d144dce8f223dae83049d629714",
+    "baseline.md": "3e6c2c68728f07ba29100d88bd35073e59ade4008b4673ec57f5422afd669c01",
+    "baseline.py": "aa681dc3f921d919687dcaffe387f9603bcaf09af8c74194ec5aceda8c28ac02",
+    "baseline.tex": "8e407fdb905b3ad785c911230feb541a25403d1775545714bf5874fb18d907f0"
+   }
   },
   {
    "key": "binclass",
@@ -858,7 +906,13 @@
    "markdown": "https://dictionaryofml.org/terms/binclass.md",
    "latex": "https://dictionaryofml.org/terms/binclass.tex",
    "demo": "https://dictionaryofml.org/terms/binclass.py",
-   "notebook": "https://dictionaryofml.org/terms/binclass.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/binclass.ipynb",
+   "sha256": {
+    "binclass.ipynb": "866b02d5b3bd503bbac855e6b690b2c443ea032d67d24bc82232f8cc3235c8ad",
+    "binclass.md": "efacce8343a8082406a5a5673e804d6b9547fa28dec8b927b171833c6b0b53b7",
+    "binclass.py": "8f37c24f890ad63c141cc3a2b57ccf8eaeccc34726c81428d2108f1f71b1ad9f",
+    "binclass.tex": "714e8cc653a5d35ebe8d2c6a4e937d7aa8a19c0f179364e5c31c2caa6043d07c"
+   }
   },
   {
    "key": "boosting",
@@ -880,7 +934,13 @@
    "markdown": "https://dictionaryofml.org/terms/boosting.md",
    "latex": "https://dictionaryofml.org/terms/boosting.tex",
    "demo": "https://dictionaryofml.org/terms/boosting.py",
-   "notebook": "https://dictionaryofml.org/terms/boosting.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/boosting.ipynb",
+   "sha256": {
+    "boosting.ipynb": "7030861386763aee71435740c2bcb79ca16dffbce9ad12989a2e6cb4a640c87b",
+    "boosting.md": "6c916bed3ad96726264dde36f0c2768c276c610c3c355bada7fa864a8b138381",
+    "boosting.py": "1eabbe07d2c168f9b318075c20d27f111c6a927530ae0db1301903f040d2ee29",
+    "boosting.tex": "a7a0620033904c186e3b799bee59a74c14668d1bba924344f9706df81bff9f8b"
+   }
   },
   {
    "key": "bootstrap",
@@ -907,7 +967,13 @@
    "markdown": "https://dictionaryofml.org/terms/bootstrap.md",
    "latex": "https://dictionaryofml.org/terms/bootstrap.tex",
    "demo": "https://dictionaryofml.org/terms/bootstrap.py",
-   "notebook": "https://dictionaryofml.org/terms/bootstrap.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/bootstrap.ipynb",
+   "sha256": {
+    "bootstrap.ipynb": "684cacd7b38a69f3629902356e52247caea2b63c5f1ca142690348019874a11e",
+    "bootstrap.md": "d3782717fbd25009f73c0ec03249dd317a594a4c1ebc32d50ea7dc94323b2ad8",
+    "bootstrap.py": "59fd38474ebd23e8224d559a8e6e65ef9bd5aac161710c0c6d65a6e03cd72efd",
+    "bootstrap.tex": "29dfa23fe30c1b4c0f01c8571cf8f769901c503c992ec175b4fc8b3935aac1e1"
+   }
   },
   {
    "key": "cav",
@@ -936,7 +1002,13 @@
    "markdown": "https://dictionaryofml.org/terms/cav.md",
    "latex": "https://dictionaryofml.org/terms/cav.tex",
    "demo": "https://dictionaryofml.org/terms/cav.py",
-   "notebook": "https://dictionaryofml.org/terms/cav.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/cav.ipynb",
+   "sha256": {
+    "cav.ipynb": "5969cea9bd783f0c626767698b953036449e6cf8fe348d15ee15ed3f9f0e3a8a",
+    "cav.md": "967bdeb13c300e78eb450d8b8d8d2776632abc7896862fff9883e02a25a77356",
+    "cav.py": "8debfc3ece931244bfbdca8f40c7c57aa46b2ec577f7930584f75574e72b431f",
+    "cav.tex": "b8aecde4e3ebbf77e8223443aef07cdc0e2c9a146f936e306c4ea214fe34667a"
+   }
   },
   {
    "key": "classification",
@@ -969,7 +1041,13 @@
    "markdown": "https://dictionaryofml.org/terms/classification.md",
    "latex": "https://dictionaryofml.org/terms/classification.tex",
    "demo": "https://dictionaryofml.org/terms/classification.py",
-   "notebook": "https://dictionaryofml.org/terms/classification.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/classification.ipynb",
+   "sha256": {
+    "classification.ipynb": "18582a5060148b830665a5354e16a4fa4350649746b9d82535e7619a49d39564",
+    "classification.md": "ca9890ff7a008f33386ec3881f015d3d0dd66d31f3c2aa4e475dfbe683cac926",
+    "classification.py": "e4a0955e7bd00d55f7302cd1ba83765ed2b1b45574cf4f5060d4e35021758118",
+    "classification.tex": "d87506b6eb3848190c9a2e094a5c74f9217188443c8f2219b214ae21ed136a02"
+   }
   },
   {
    "key": "clustering",
@@ -1009,7 +1087,13 @@
    "markdown": "https://dictionaryofml.org/terms/clustering.md",
    "latex": "https://dictionaryofml.org/terms/clustering.tex",
    "demo": "https://dictionaryofml.org/terms/clustering.py",
-   "notebook": "https://dictionaryofml.org/terms/clustering.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/clustering.ipynb",
+   "sha256": {
+    "clustering.ipynb": "893a9cf2b69b5818de086e96a1e99f5194b4eb9ce9152845351a4c931a823e8b",
+    "clustering.md": "1e8fccd98aed95f2a2ffc2dcf350dfd38750186ba055bde468865d6d8e226816",
+    "clustering.py": "c880eb725360496ba66299d568df0560e7484be5552a7d729057a63cdd3e8f3b",
+    "clustering.tex": "b04a15334735acb325739976a9dc543b5ae191410f05956d78649f320a64fd84"
+   }
   },
   {
    "key": "cm",
@@ -1037,7 +1121,13 @@
    "markdown": "https://dictionaryofml.org/terms/cm.md",
    "latex": "https://dictionaryofml.org/terms/cm.tex",
    "demo": "https://dictionaryofml.org/terms/cm.py",
-   "notebook": "https://dictionaryofml.org/terms/cm.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/cm.ipynb",
+   "sha256": {
+    "cm.ipynb": "8e8c82be0b9154cb8cc8ba99942ae8d8e467907cb04525d81e1e4e42950654e9",
+    "cm.md": "1716992f05e57964abc6dce0b9283f547f86804cc49643c5d7afeb817fc08ecd",
+    "cm.py": "389b5abe508149024478c734be494ff5f4aa6b14f13eb3274ea52f94bfa6e896",
+    "cm.tex": "7389e604c19b7910033e7fe9bb579e5dfe14b05b3166bbb031ac1553e3c9cea6"
+   }
   },
   {
    "key": "convex",
@@ -1058,7 +1148,13 @@
    "markdown": "https://dictionaryofml.org/terms/convex.md",
    "latex": "https://dictionaryofml.org/terms/convex.tex",
    "demo": "https://dictionaryofml.org/terms/convex.py",
-   "notebook": "https://dictionaryofml.org/terms/convex.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/convex.ipynb",
+   "sha256": {
+    "convex.ipynb": "5e95cc1c11ba325edce3f8a62146ff37ec474d243098983697b202e41bfc80a5",
+    "convex.md": "ea8f4343eff4fc26f4be071c0487a4b26b2cb1babe372304cdf0611e0cca0130",
+    "convex.py": "81e660c4bb5c633b29ddc044af958e3621245aec94e385a4922c42810fc81355",
+    "convex.tex": "94b468600422f4b95f8e9e2525c5d153647a78d4130441b6df0635ab12da2e67"
+   }
   },
   {
    "key": "correlation",
@@ -1073,7 +1169,13 @@
    "markdown": "https://dictionaryofml.org/terms/correlation.md",
    "latex": "https://dictionaryofml.org/terms/correlation.tex",
    "demo": "https://dictionaryofml.org/terms/correlation.py",
-   "notebook": "https://dictionaryofml.org/terms/correlation.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/correlation.ipynb",
+   "sha256": {
+    "correlation.ipynb": "deffec4aa7bc180b63712ad187fa25f4c1cf2b3cccb3bbb7a8493e7662dbcc64",
+    "correlation.md": "f2f9cb67e252aae9a7cc11dc8038d8ff07fd95b3eb399f94f090f1e40de2e0ae",
+    "correlation.py": "e7edf73b3a99b72fd3f7619cb6b5f4890bdeef1d5c879d895bb961b7ea4beff7",
+    "correlation.tex": "a8aa732e5f282ec8f6d294cfd8d7238730c67ed8abc20e93200687de79c419be"
+   }
   },
   {
    "key": "covmtx",
@@ -1102,7 +1204,13 @@
    "markdown": "https://dictionaryofml.org/terms/covmtx.md",
    "latex": "https://dictionaryofml.org/terms/covmtx.tex",
    "demo": "https://dictionaryofml.org/terms/covmtx.py",
-   "notebook": "https://dictionaryofml.org/terms/covmtx.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/covmtx.ipynb",
+   "sha256": {
+    "covmtx.ipynb": "b260b48e721caa0f43a036a1f06447c3bbf30861354b5323f083ca8b608a73f4",
+    "covmtx.md": "2a1658d1fa5b119f3ae846bdf6072c96d6301ffeacf4d8d8cd0fd97cde9deae1",
+    "covmtx.py": "77b3c4c3d4eca960f3dba35724bb0fd2bf5be84058d5919bf494fbc3c25f4678",
+    "covmtx.tex": "6ea0970576a480e462c6a4a1381449ff91a4bfb7cc4001e82d45ac25301beefc"
+   }
   },
   {
    "key": "data",
@@ -1123,9 +1231,16 @@
    "markdown": "https://dictionaryofml.org/terms/data.md",
    "springer_doi": "10.1007/978-981-92-2012-0_1-1",
    "published_url": "https://doi.org/10.1007/978-981-92-2012-0_1-1",
+   "springer_version": 1,
    "latex": "https://dictionaryofml.org/terms/data.tex",
    "demo": "https://dictionaryofml.org/terms/data.py",
-   "notebook": "https://dictionaryofml.org/terms/data.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/data.ipynb",
+   "sha256": {
+    "data.ipynb": "fc2654692319765119b4187e527310accca56f011c31b9a52ec28c1191ca3a69",
+    "data.md": "ae2225c11476676e1f0e70b32fc76edca7ecd0b3febace01884efa1d55185532",
+    "data.py": "ac6c349e578ad7dfd78719ae976005d1b1803136b472825b35b9e7b2769f9e60",
+    "data.tex": "15cc7fc7ec43c0d0eef860e464f44d3b9ab12c12544eafe48cd530c86f26d660"
+   }
   },
   {
    "key": "dataaug",
@@ -1161,7 +1276,13 @@
    "markdown": "https://dictionaryofml.org/terms/dataaug.md",
    "latex": "https://dictionaryofml.org/terms/dataaug.tex",
    "demo": "https://dictionaryofml.org/terms/dataaug.py",
-   "notebook": "https://dictionaryofml.org/terms/dataaug.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/dataaug.ipynb",
+   "sha256": {
+    "dataaug.ipynb": "f68c8b6bd6c8b3764f536833408e07b5c0896fbd89d54b3c2343e831d3b2a7d9",
+    "dataaug.md": "f082b36875fa0f33cab8605d2bbd8fbf92dacd8df74c34d075475fc5a0612ce9",
+    "dataaug.py": "a20667f3ce22ca8c85ab9d6912323780d5fadbca60276865621b649707da6455",
+    "dataaug.tex": "212fb866cd63e7c3148e13df01893c255b7271e487a24dd2547c4b0bdb56567c"
+   }
   },
   {
    "key": "dataimputation",
@@ -1192,7 +1313,13 @@
    "markdown": "https://dictionaryofml.org/terms/dataimputation.md",
    "latex": "https://dictionaryofml.org/terms/dataimputation.tex",
    "demo": "https://dictionaryofml.org/terms/dataimputation.py",
-   "notebook": "https://dictionaryofml.org/terms/dataimputation.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/dataimputation.ipynb",
+   "sha256": {
+    "dataimputation.ipynb": "62f7755105f131d5aa863a6e690d2e2ab49ea7251d5dcf985120b42b8aed7092",
+    "dataimputation.md": "585b9f345ea52198bc9382fc8bc4fe5c16553b17f45689b57c1e2cc2aa441f0e",
+    "dataimputation.py": "0a33b274d66ea070302ff0a19daff21b803c948090858cfee1ec9322b6f04af5",
+    "dataimputation.tex": "67425ba9b515c0d7d85d23d8b776a866f7af24808b37ff295b7cf4aeda05f726"
+   }
   },
   {
    "key": "dataleakage",
@@ -1214,7 +1341,13 @@
    "markdown": "https://dictionaryofml.org/terms/dataleakage.md",
    "latex": "https://dictionaryofml.org/terms/dataleakage.tex",
    "demo": "https://dictionaryofml.org/terms/dataleakage.py",
-   "notebook": "https://dictionaryofml.org/terms/dataleakage.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/dataleakage.ipynb",
+   "sha256": {
+    "dataleakage.ipynb": "6ee1068ce76c017494aa9c4ca429537f8ea5442bf565e414b559f92830f0a3bb",
+    "dataleakage.md": "815004fbd53ca624fc025d007a8775d576889e8453af88f5f2f21d5aba0f8978",
+    "dataleakage.py": "04ed89e2f944ffe5581ccd4c8b8c5b84efb4378b75c99137b7720b86666e4327",
+    "dataleakage.tex": "484f777a2ad453799db3f566d525b3ff92f2c80173b917b517c5dac04f349004"
+   }
   },
   {
    "key": "datapoint",
@@ -1237,7 +1370,13 @@
    "markdown": "https://dictionaryofml.org/terms/datapoint.md",
    "latex": "https://dictionaryofml.org/terms/datapoint.tex",
    "demo": "https://dictionaryofml.org/terms/datapoint.py",
-   "notebook": "https://dictionaryofml.org/terms/datapoint.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/datapoint.ipynb",
+   "sha256": {
+    "datapoint.ipynb": "29f4175871366de2638845a530e28896cbd8337b2ff337c27822703ba3a7105b",
+    "datapoint.md": "13e70dbd414d1176990b5dbc233686b27dd0c9f816cedf7fd6a5239ee54aa5fa",
+    "datapoint.py": "3e4a3d36183247364d2f118072f1ba5812c6fbac8a9d1738f639fadcb11a4e0c",
+    "datapoint.tex": "d1cf8e83678c5963616752c333f67465df8b487a7d3d977a517f2b16cbd9967b"
+   }
   },
   {
    "key": "dataset",
@@ -1263,7 +1402,13 @@
    "markdown": "https://dictionaryofml.org/terms/dataset.md",
    "latex": "https://dictionaryofml.org/terms/dataset.tex",
    "demo": "https://dictionaryofml.org/terms/dataset.py",
-   "notebook": "https://dictionaryofml.org/terms/dataset.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/dataset.ipynb",
+   "sha256": {
+    "dataset.ipynb": "f191e974e8903a7bc9b2eace7987f7aeab8db86cd079034c17972a08df24e1bc",
+    "dataset.md": "bb1b3aee57204bae55b1046f174de5a8bfebd23a082ed9e58eb094e5c92b2797",
+    "dataset.py": "4486883bb3ae9acfebc74f0b7454f83853b3a7c214b40d9c1aef8b31e4600773",
+    "dataset.tex": "9e68b3af6da2b3d74262e7abf1cc7693d53f8854fffb7406379b3517ec46c75e"
+   }
   },
   {
    "key": "decisionboundary",
@@ -1285,7 +1430,13 @@
    "markdown": "https://dictionaryofml.org/terms/decisionboundary.md",
    "latex": "https://dictionaryofml.org/terms/decisionboundary.tex",
    "demo": "https://dictionaryofml.org/terms/decisionboundary.py",
-   "notebook": "https://dictionaryofml.org/terms/decisionboundary.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/decisionboundary.ipynb",
+   "sha256": {
+    "decisionboundary.ipynb": "1494706bce4205c23362d6497242c4791b4c4f411762729b171fd0834c0a3494",
+    "decisionboundary.md": "e635e1d02bc7d186c9a623645773dea335be047cb2c2b6f79976c7454d728441",
+    "decisionboundary.py": "153abe3102a56622388220dfe09c63d70a7291a1cfa113e13d0216978bb19387",
+    "decisionboundary.tex": "88aeb61974b0a95dfb64bdd0518b694ff78a59e27ea9f21eddcc1ec355e32c6b"
+   }
   },
   {
    "key": "decisiontree",
@@ -1308,7 +1459,13 @@
    "markdown": "https://dictionaryofml.org/terms/decisiontree.md",
    "latex": "https://dictionaryofml.org/terms/decisiontree.tex",
    "demo": "https://dictionaryofml.org/terms/decisiontree.py",
-   "notebook": "https://dictionaryofml.org/terms/decisiontree.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/decisiontree.ipynb",
+   "sha256": {
+    "decisiontree.ipynb": "2b5256220c2f79010c7838327b735b4ea24760bf33e2e6e0013f354e293b7bc7",
+    "decisiontree.md": "dfa87d0f916cd26fd0964735687e95b70f230b8af66f6f25991425de79f40091",
+    "decisiontree.py": "44bba56a0c6f2a362761e5462562d982f2e8114cbb41bddc569287c382bf63a1",
+    "decisiontree.tex": "c84b5cbf24f3f686d8d7f017a25affbaf911caf9ff68cb360c7bba7713463884"
+   }
   },
   {
    "key": "dimred",
@@ -1331,7 +1488,13 @@
    "markdown": "https://dictionaryofml.org/terms/dimred.md",
    "latex": "https://dictionaryofml.org/terms/dimred.tex",
    "demo": "https://dictionaryofml.org/terms/dimred.py",
-   "notebook": "https://dictionaryofml.org/terms/dimred.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/dimred.ipynb",
+   "sha256": {
+    "dimred.ipynb": "b35cce9f090da32c727f784a8b1bd3567875bb8a12a2b17a6c3a5ab751e3fb0f",
+    "dimred.md": "6e59192a49f78d63437ab8dc2d48c7a635e007b5921ca4d568dc485bbb2d9995",
+    "dimred.py": "f7b812829a8190538482fb6d438409ca9fabd650b6ff10e5566a783690513a77",
+    "dimred.tex": "bb0a689b5e7342aa8e3815f7e136f6ba6c7c092a3ad8bbf0cbdf99cee9962f03"
+   }
   },
   {
    "key": "distshift",
@@ -1360,7 +1523,13 @@
    "markdown": "https://dictionaryofml.org/terms/distshift.md",
    "latex": "https://dictionaryofml.org/terms/distshift.tex",
    "demo": "https://dictionaryofml.org/terms/distshift.py",
-   "notebook": "https://dictionaryofml.org/terms/distshift.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/distshift.ipynb",
+   "sha256": {
+    "distshift.ipynb": "ee514c121c5bdfeb44ebb564cd788908a2f0a8237f58840b3de6e3db37f15188",
+    "distshift.md": "521ff933714d97ab2fffb355d285b7b51f13d8b1e0133f61cf7afa9b005204f2",
+    "distshift.py": "c0bc3a7a53b70d35d1f6ed89cc876ad376c3066abea2c16ace4f631ae00b0a26",
+    "distshift.tex": "bebfabfa4f8c6602b2c852d739696b3e2348ec400d17b05fe01d4ef8df578e2d"
+   }
   },
   {
    "key": "effdim",
@@ -1388,7 +1557,13 @@
    "markdown": "https://dictionaryofml.org/terms/effdim.md",
    "latex": "https://dictionaryofml.org/terms/effdim.tex",
    "demo": "https://dictionaryofml.org/terms/effdim.py",
-   "notebook": "https://dictionaryofml.org/terms/effdim.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/effdim.ipynb",
+   "sha256": {
+    "effdim.ipynb": "737224d68560be590d9a118382f9e05e435a35510d021746ac6e46be3e90481f",
+    "effdim.md": "28c0b719996440cd1e9b0fa6816cfbf41ac2145b25b0c20317ae6e97404bf070",
+    "effdim.py": "e844583e756afb2fa42c9b3704d69faa91ef6380a9edae4a29f7a40438be4f25",
+    "effdim.tex": "6e78c0ba07c590fce1d5c725cd7c4a80f866dd6d9d9f8eb1bef3ebccc6df1d64"
+   }
   },
   {
    "key": "eigenvalue",
@@ -1416,7 +1591,13 @@
    "markdown": "https://dictionaryofml.org/terms/eigenvalue.md",
    "latex": "https://dictionaryofml.org/terms/eigenvalue.tex",
    "demo": "https://dictionaryofml.org/terms/eigenvalue.py",
-   "notebook": "https://dictionaryofml.org/terms/eigenvalue.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/eigenvalue.ipynb",
+   "sha256": {
+    "eigenvalue.ipynb": "f560e733c82a45e8fa19251def333717e981d29dc59885b3c7528076437d095c",
+    "eigenvalue.md": "b19fbf452f1ff340bb2964ec65ad4f011022fe2c55da24f9ccd95d059da6f38f",
+    "eigenvalue.py": "4b9e9a80b853d2707f94206306003d66985be3b049b42697ab07351078ece95b",
+    "eigenvalue.tex": "2341d9f127cec5b38cf46b83b42fddb5a237122aeb3ed468a3f1bfabe4611999"
+   }
   },
   {
    "key": "em",
@@ -1445,7 +1626,13 @@
    "markdown": "https://dictionaryofml.org/terms/em.md",
    "latex": "https://dictionaryofml.org/terms/em.tex",
    "demo": "https://dictionaryofml.org/terms/em.py",
-   "notebook": "https://dictionaryofml.org/terms/em.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/em.ipynb",
+   "sha256": {
+    "em.ipynb": "aa76428591ea9adab038c2508eb7f5fbc7ddc1366cca0f5e4705d86d678844a1",
+    "em.md": "4a999bd47bc2fe607e9430da5e83e0917737efce859ffbf4202728d30aff922c",
+    "em.py": "1c50ffce55f05be856edf13d026d17adbd4be87a72e927db8caa689995069e88",
+    "em.tex": "ff88b643b93b73535b8f1f1963ffa186bd01b44a29d785d85c8eafb9682fbee4"
+   }
   },
   {
    "key": "ensemble",
@@ -1468,7 +1655,13 @@
    "markdown": "https://dictionaryofml.org/terms/ensemble.md",
    "latex": "https://dictionaryofml.org/terms/ensemble.tex",
    "demo": "https://dictionaryofml.org/terms/ensemble.py",
-   "notebook": "https://dictionaryofml.org/terms/ensemble.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/ensemble.ipynb",
+   "sha256": {
+    "ensemble.ipynb": "13e58efa7b8ccb2c4383ea9b1cc467b43cace7f53fb025ed5c709411c28c0f7c",
+    "ensemble.md": "4c085b205bb486193246357c5dd6151ce43c2d34011dd8db8c47bd3558c9e3a0",
+    "ensemble.py": "7230a6db5910d1124ea15f1eb76d80c01bfbc0aa56cd88399af1fb85037122db",
+    "ensemble.tex": "f4c8bebbdd4c8dd6837819c404711156b4ba7a809eba21313c409c71350a3d49"
+   }
   },
   {
    "key": "erm",
@@ -1495,7 +1688,13 @@
    "markdown": "https://dictionaryofml.org/terms/erm.md",
    "latex": "https://dictionaryofml.org/terms/erm.tex",
    "demo": "https://dictionaryofml.org/terms/erm.py",
-   "notebook": "https://dictionaryofml.org/terms/erm.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/erm.ipynb",
+   "sha256": {
+    "erm.ipynb": "a6bb4562e956fefbc5e624a117f1bfa401c46ee0578e3dcd9b24b49780d65f03",
+    "erm.md": "1b9d2c958e68329ebeddaed0cb70b0e3c6e4b63be030af097149457ebd26d101",
+    "erm.py": "a3f5c0bd1050932a6b6a7d97ccd769ca9a91971b9dd5bd5d290aec8efd1822b6",
+    "erm.tex": "09aaea18602c8f67269c974b77f5c08d1b3b3bcf6b89ac9caf500626342f6f97"
+   }
   },
   {
    "key": "evd",
@@ -1528,7 +1727,13 @@
    "markdown": "https://dictionaryofml.org/terms/evd.md",
    "latex": "https://dictionaryofml.org/terms/evd.tex",
    "demo": "https://dictionaryofml.org/terms/evd.py",
-   "notebook": "https://dictionaryofml.org/terms/evd.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/evd.ipynb",
+   "sha256": {
+    "evd.ipynb": "7a39a04b40cfcad51974e0c4a9c9bbae4020e3de3d37ac4fa1a6a7d6cdc3a039",
+    "evd.md": "bec87ee7c4598d53220d4467ea857742c732ab32bebd0910649f8a0a0f7b2b23",
+    "evd.py": "cb1498dd825d066f5ecf1d5b1b665fcb10c0789246c8db85ef176340dc10372e",
+    "evd.tex": "688273e2860bd7be1aeacc3ff250e9645eb67cf3d5e0bd881acdba6366b52cc0"
+   }
   },
   {
    "key": "explainability",
@@ -1553,7 +1758,13 @@
    "markdown": "https://dictionaryofml.org/terms/explainability.md",
    "latex": "https://dictionaryofml.org/terms/explainability.tex",
    "demo": "https://dictionaryofml.org/terms/explainability.py",
-   "notebook": "https://dictionaryofml.org/terms/explainability.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/explainability.ipynb",
+   "sha256": {
+    "explainability.ipynb": "8433b190f16f9d5c6f0be5aa15c07361b083dd8c69c6317bd1d46be59610cd23",
+    "explainability.md": "2171d715f473f9870723333c42efe5f4770dcd1c978e6ece62a31f056ca35418",
+    "explainability.py": "d7c88e4eb8e193b0db4bf5bfb8381708822134cde5995fde871d489bc5dfa8c1",
+    "explainability.tex": "a51b37dba0376d6caed6ab11c7692e094b6d07b832c265ab6c51f8fcdd07cde0"
+   }
   },
   {
    "key": "explanation",
@@ -1581,7 +1792,13 @@
    "markdown": "https://dictionaryofml.org/terms/explanation.md",
    "latex": "https://dictionaryofml.org/terms/explanation.tex",
    "demo": "https://dictionaryofml.org/terms/explanation.py",
-   "notebook": "https://dictionaryofml.org/terms/explanation.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/explanation.ipynb",
+   "sha256": {
+    "explanation.ipynb": "3ad2d655e3ff7bf042c225f90e409f101c3caecc8fab53ad662f61bc398541c1",
+    "explanation.md": "3c4389621d48ff4e699653c19c5f9084a4fd8af78f36c3c0d550ab7bd18459d6",
+    "explanation.py": "0e29caffdad22401bca996ab68d5ed7ebf08692ef7598e6b845a200698768ece",
+    "explanation.tex": "b4b6785f2f7e64c33e5641d815bc0ca9e9a30b3fce622ffd9dc67fcbaaaca41c"
+   }
   },
   {
    "key": "fairness",
@@ -1615,7 +1832,13 @@
    "markdown": "https://dictionaryofml.org/terms/fairness.md",
    "latex": "https://dictionaryofml.org/terms/fairness.tex",
    "demo": "https://dictionaryofml.org/terms/fairness.py",
-   "notebook": "https://dictionaryofml.org/terms/fairness.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/fairness.ipynb",
+   "sha256": {
+    "fairness.ipynb": "50af89a16989c00bb797793e367ecdf508b4d08509ea0b9f41b6f866c8ffaf31",
+    "fairness.md": "e7c53dab5075716e680d8d9823ab88564dbe91ed52b7862a6e33e98e19e292cc",
+    "fairness.py": "e80254948ebd077ce0aa8e89f11b242c426003e3820a3852301241c4c622976d",
+    "fairness.tex": "a50307124de5c9c389a93c000f9c76f468e7745578427fdde4c22f0a31f9629f"
+   }
   },
   {
    "key": "featlearn",
@@ -1643,7 +1866,13 @@
    "markdown": "https://dictionaryofml.org/terms/featlearn.md",
    "latex": "https://dictionaryofml.org/terms/featlearn.tex",
    "demo": "https://dictionaryofml.org/terms/featlearn.py",
-   "notebook": "https://dictionaryofml.org/terms/featlearn.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/featlearn.ipynb",
+   "sha256": {
+    "featlearn.ipynb": "ac4bdf634f42dcd44786528a1d2946930e284c08fc4303065f0459b33ec433c3",
+    "featlearn.md": "2196d2e3e72598a7d072d917d6df4e99491d39a077213258ad3ca6360d754473",
+    "featlearn.py": "e39157e9860b13cadb9af137d3a72424f78d4ed810b9b51f8bcece260192c8cd",
+    "featlearn.tex": "cf3c406d599e9876db2a42a2047dac333f7431ead868a0622abb5e8694caf4dd"
+   }
   },
   {
    "key": "feature",
@@ -1673,7 +1902,13 @@
    "markdown": "https://dictionaryofml.org/terms/feature.md",
    "latex": "https://dictionaryofml.org/terms/feature.tex",
    "demo": "https://dictionaryofml.org/terms/feature.py",
-   "notebook": "https://dictionaryofml.org/terms/feature.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/feature.ipynb",
+   "sha256": {
+    "feature.ipynb": "abb4e40487438ef8decfe6dc74dcc9d28aae55adecb2ad2c7c22f97c3a234e23",
+    "feature.md": "0808f291be03342dec79914f6c9b756ec92f98818f921e86398d76a05eafa55f",
+    "feature.py": "c4386e0576f274024096e4cf49bb7789f367dd8528bcff974164df73cc60bc3b",
+    "feature.tex": "6193980d5839c568c958547c5b864d625dca11df1a879f0049b5a45e14339768"
+   }
   },
   {
    "key": "featureimportance",
@@ -1694,7 +1929,13 @@
    "markdown": "https://dictionaryofml.org/terms/featureimportance.md",
    "latex": "https://dictionaryofml.org/terms/featureimportance.tex",
    "demo": "https://dictionaryofml.org/terms/featureimportance.py",
-   "notebook": "https://dictionaryofml.org/terms/featureimportance.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/featureimportance.ipynb",
+   "sha256": {
+    "featureimportance.ipynb": "874840dfb717c78528e1d3e8d02e3f1ec76c7601531010ffb7f18b2ceeaf8613",
+    "featureimportance.md": "35712a590d5740baf413a7f02c09057697bcefedcc6bb61554314d22bf230a6c",
+    "featureimportance.py": "dcb7621141eee2329d619296eb274f27abe65957e863be76dc208424dfb6d951",
+    "featureimportance.tex": "9e629ebe604a1b3bfc102a51e54a170dc7aabc528a08380cdb6408579933b3c3"
+   }
   },
   {
    "key": "featuremtx",
@@ -1729,7 +1970,13 @@
    "markdown": "https://dictionaryofml.org/terms/featuremtx.md",
    "latex": "https://dictionaryofml.org/terms/featuremtx.tex",
    "demo": "https://dictionaryofml.org/terms/featuremtx.py",
-   "notebook": "https://dictionaryofml.org/terms/featuremtx.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/featuremtx.ipynb",
+   "sha256": {
+    "featuremtx.ipynb": "3ac0984ded77f3f83bf1a018344720faeaafde9781e32749b759480a063fe10b",
+    "featuremtx.md": "6aed548140fa9a7afdc43e85d91ec76a4521bf84ed3b55430e9283e862035853",
+    "featuremtx.py": "d891d26555829bf4cfb3e26891fa28f18207091c2718e5e340071df628e6158d",
+    "featuremtx.tex": "2853aab45c52fad51b5c03e8f70a10aa25676408728daad6b4e539f1d9f163e8"
+   }
   },
   {
    "key": "featurevec",
@@ -1759,7 +2006,13 @@
    "markdown": "https://dictionaryofml.org/terms/featurevec.md",
    "latex": "https://dictionaryofml.org/terms/featurevec.tex",
    "demo": "https://dictionaryofml.org/terms/featurevec.py",
-   "notebook": "https://dictionaryofml.org/terms/featurevec.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/featurevec.ipynb",
+   "sha256": {
+    "featurevec.ipynb": "22c656ef809717e4fb51d0e4974112c9b87039458a773d1fa2031b939f3faa80",
+    "featurevec.md": "70c7975a58237a81b97963e6956f50ac3422379e7e72ecbf379ca4499eee25d2",
+    "featurevec.py": "bbf8d05e7f458473e863a1729b1f49449972828ad92c80ac4ed2c0f40119d845",
+    "featurevec.tex": "166d06f0c9e522a643e3b50468aa5bface54312c8a6e804b9b78c2a6f5e64460"
+   }
   },
   {
    "key": "finetuning",
@@ -1788,7 +2041,13 @@
    "markdown": "https://dictionaryofml.org/terms/finetuning.md",
    "latex": "https://dictionaryofml.org/terms/finetuning.tex",
    "demo": "https://dictionaryofml.org/terms/finetuning.py",
-   "notebook": "https://dictionaryofml.org/terms/finetuning.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/finetuning.ipynb",
+   "sha256": {
+    "finetuning.ipynb": "22e8df9c37c680bc7b02be8655e05d54bce19989d77b484e92735b51c1ad54d6",
+    "finetuning.md": "ac0bfd30491c41eb06c05a2db47317c5925b008389988feb98d4e5cd3e24a29b",
+    "finetuning.py": "adc792a6bfa3e2990f6afb8f8908de06fd4a4b21994799d1f2dd939f1db5e04a",
+    "finetuning.tex": "60a484f2b8c227404d53449876ac9dd642f95399c5104e2c92a81844d24481bd"
+   }
   },
   {
    "key": "gaussrv",
@@ -1811,7 +2070,13 @@
    "markdown": "https://dictionaryofml.org/terms/gaussrv.md",
    "latex": "https://dictionaryofml.org/terms/gaussrv.tex",
    "demo": "https://dictionaryofml.org/terms/gaussrv.py",
-   "notebook": "https://dictionaryofml.org/terms/gaussrv.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/gaussrv.ipynb",
+   "sha256": {
+    "gaussrv.ipynb": "c93f04d6114981d6ecf6ee6725d62241497d79995e433082b1091ce5fca9bd73",
+    "gaussrv.md": "279adb2ad6bc0c248b96d74b30c3977c21439060b1989870195c671d25f16587",
+    "gaussrv.py": "d114ef9076bc0ae8732829460e30026f98be5e8a00e80dd1c81503e6c0e09b01",
+    "gaussrv.tex": "2ef6a701049829d67a1f503ad7929b6ace6f9ce7a315417b270f9b706f726e26"
+   }
   },
   {
    "key": "gd",
@@ -1836,7 +2101,13 @@
    "markdown": "https://dictionaryofml.org/terms/gd.md",
    "latex": "https://dictionaryofml.org/terms/gd.tex",
    "demo": "https://dictionaryofml.org/terms/gd.py",
-   "notebook": "https://dictionaryofml.org/terms/gd.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/gd.ipynb",
+   "sha256": {
+    "gd.ipynb": "98de2e222a19dc10eb1a198799964e79517e44a08681c278ae6606003dc6db85",
+    "gd.md": "c8a67cfc7be39cd5d99cb8ee2c00cbbeb4301e34d943e51653b9068d3605c0bd",
+    "gd.py": "fd66ae01bc8e98cae5b7464b1be647f504ac287b319ce301727f6557c6dccc71",
+    "gd.tex": "28a7574b16852b2e1d124c6344f96ef2d3882143bc172c2227ef6d701cdd809c"
+   }
   },
   {
    "key": "generalization",
@@ -1860,7 +2131,13 @@
    "markdown": "https://dictionaryofml.org/terms/generalization.md",
    "latex": "https://dictionaryofml.org/terms/generalization.tex",
    "demo": "https://dictionaryofml.org/terms/generalization.py",
-   "notebook": "https://dictionaryofml.org/terms/generalization.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/generalization.ipynb",
+   "sha256": {
+    "generalization.ipynb": "5cfe0210aae3bc899f18ef30d4819327ff5d540b09470e0a06bfb2e636bcb138",
+    "generalization.md": "5cbe9ba074241a66c3903205d43a487c24576a9361a5a5ace6141755e9acc90d",
+    "generalization.py": "cc0e3715efd051bfda83b1b13fa341ce1610eddf4fb5b76349a865d23b0bfd7c",
+    "generalization.tex": "d5843e0c348d41eba16cbe90abc4171de68049f99decb6f46f2befdb99bf6fdb"
+   }
   },
   {
    "key": "gmm",
@@ -1887,7 +2164,13 @@
    "markdown": "https://dictionaryofml.org/terms/gmm.md",
    "latex": "https://dictionaryofml.org/terms/gmm.tex",
    "demo": "https://dictionaryofml.org/terms/gmm.py",
-   "notebook": "https://dictionaryofml.org/terms/gmm.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/gmm.ipynb",
+   "sha256": {
+    "gmm.ipynb": "0e9a31a8bccee7cbe464c1e1555ccc39935a8a8681f866a416341acb8806be99",
+    "gmm.md": "95c5271c296e8df88b6d44593cb8f90462d3c81fb4d0ec2575178a986ea2f741",
+    "gmm.py": "eee343a8c052f1f9c0c0f3568ffd46f5895c54b507d02bd95a4eb69d76b7b305",
+    "gmm.tex": "b0dbb9cbb779fa3429b8f1aa6242ead191157d6c68bdf6ade745b1c31140f464"
+   }
   },
   {
    "key": "gradient",
@@ -1911,7 +2194,13 @@
    "markdown": "https://dictionaryofml.org/terms/gradient.md",
    "latex": "https://dictionaryofml.org/terms/gradient.tex",
    "demo": "https://dictionaryofml.org/terms/gradient.py",
-   "notebook": "https://dictionaryofml.org/terms/gradient.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/gradient.ipynb",
+   "sha256": {
+    "gradient.ipynb": "85d5663173b0c02704225d342410108e1386c6c4642c4e0352f7d5bc4959d760",
+    "gradient.md": "101fa95a2d3e165486fed6a94b65bc11349b1c3be1b748e882a41f136a5a8c3f",
+    "gradient.py": "6b5bcd825f0368cbc951a73c4468baabfedde5765c94b3255799447860da86b8",
+    "gradient.tex": "69e563e13c728984270da3d7c21009c27768f6917d7fd2e98096bb5f2cddffeb"
+   }
   },
   {
    "key": "hilbertspace",
@@ -1935,7 +2224,13 @@
    "markdown": "https://dictionaryofml.org/terms/hilbertspace.md",
    "latex": "https://dictionaryofml.org/terms/hilbertspace.tex",
    "demo": "https://dictionaryofml.org/terms/hilbertspace.py",
-   "notebook": "https://dictionaryofml.org/terms/hilbertspace.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/hilbertspace.ipynb",
+   "sha256": {
+    "hilbertspace.ipynb": "1f746272d09475c5cf467aa62a8d8b797853afda6df58134f5bdad2b27243fb4",
+    "hilbertspace.md": "db138a87194b7a692ae536b7150acfd3f7158ef0c6d815c9f01283c4d0364ba5",
+    "hilbertspace.py": "c1e6de8ab9835d206362c2e40ab9de64478008c7fbe38e88c768a567a3cc7f7a",
+    "hilbertspace.tex": "f1d7ce71ece866d4ad3d12c2c65adf4d2c7374f16a35d4c0b28701f2b7282dd5"
+   }
   },
   {
    "key": "hyperparameter",
@@ -1960,7 +2255,13 @@
    "markdown": "https://dictionaryofml.org/terms/hyperparameter.md",
    "latex": "https://dictionaryofml.org/terms/hyperparameter.tex",
    "demo": "https://dictionaryofml.org/terms/hyperparameter.py",
-   "notebook": "https://dictionaryofml.org/terms/hyperparameter.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/hyperparameter.ipynb",
+   "sha256": {
+    "hyperparameter.ipynb": "a91ce6a89ab3948f014b450e59fda62fccfe36c885f55327c8a22b1449377bec",
+    "hyperparameter.md": "03e9035b4d4e30719a8a8cd41c1adc6b7640ee50248b725532cd0d64faea5ab8",
+    "hyperparameter.py": "fe96a5e36a27b4699a05eb1dd1cb5e3f6aea06d63cb7a63168f205eddee8b974",
+    "hyperparameter.tex": "70311440b3a69babf663d2bffb15ca95c8b6a02c5c56cc849c24faa2684069c8"
+   }
   },
   {
    "key": "hypospace",
@@ -1987,7 +2288,13 @@
    "markdown": "https://dictionaryofml.org/terms/hypospace.md",
    "latex": "https://dictionaryofml.org/terms/hypospace.tex",
    "demo": "https://dictionaryofml.org/terms/hypospace.py",
-   "notebook": "https://dictionaryofml.org/terms/hypospace.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/hypospace.ipynb",
+   "sha256": {
+    "hypospace.ipynb": "fbb1e371ccb36eb0a6cb8cd9b8517460125233efc602828c3770b182c7ca27bb",
+    "hypospace.md": "6c389d70c3cf44a4feea84504817ddc7077b6e3adcee531e453ddcccf19070eb",
+    "hypospace.py": "a72c8bddfaf41e9c49b63bfcc33ccb1a2fe413fd22b51c6032ed41d46bc1af2e",
+    "hypospace.tex": "ca77a6381c83780dfa07539cfbb8a4b9435959e3c8fb097478390aed24b3385b"
+   }
   },
   {
    "key": "hypothesis",
@@ -2012,7 +2319,13 @@
    "markdown": "https://dictionaryofml.org/terms/hypothesis.md",
    "latex": "https://dictionaryofml.org/terms/hypothesis.tex",
    "demo": "https://dictionaryofml.org/terms/hypothesis.py",
-   "notebook": "https://dictionaryofml.org/terms/hypothesis.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/hypothesis.ipynb",
+   "sha256": {
+    "hypothesis.ipynb": "e2ef5e1e5168bb18dd38d67894f3520342c99a9981d62b411eb265682136b89e",
+    "hypothesis.md": "5b7df71559a8ef73f29c60e8920a684dd9bbd16f172d49587586fa0adf8b26d1",
+    "hypothesis.py": "98d1787cff15f427c9621315d1f33bc3e278fdd4d33c2b6be04532ef184a211c",
+    "hypothesis.tex": "48db848f5c8ae2e14de8f2e83dbbf5abe60ad854f749771f1b7615099593599d"
+   }
   },
   {
    "key": "iid",
@@ -2039,7 +2352,13 @@
    "markdown": "https://dictionaryofml.org/terms/iid.md",
    "latex": "https://dictionaryofml.org/terms/iid.tex",
    "demo": "https://dictionaryofml.org/terms/iid.py",
-   "notebook": "https://dictionaryofml.org/terms/iid.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/iid.ipynb",
+   "sha256": {
+    "iid.ipynb": "5c559ede1c345950e61feb83d2259dadc3df29c4ce5737a53a8a933b8cf95221",
+    "iid.md": "93f48ce0ca2796fd85a42add5b20b5f69106ac14bd44a4a4e8ccd6f1d6670cca",
+    "iid.py": "9514f962f9bb1b5ad3c070519c253560055c8fdbd9c1429bd1d363e9312b98ed",
+    "iid.tex": "7b2c7bdb541cbda3b9ee52d9bf0703fdafc1609edac43d8c300f23b5022b1a2f"
+   }
   },
   {
    "key": "iidasspt",
@@ -2071,7 +2390,13 @@
    "markdown": "https://dictionaryofml.org/terms/iidasspt.md",
    "latex": "https://dictionaryofml.org/terms/iidasspt.tex",
    "demo": "https://dictionaryofml.org/terms/iidasspt.py",
-   "notebook": "https://dictionaryofml.org/terms/iidasspt.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/iidasspt.ipynb",
+   "sha256": {
+    "iidasspt.ipynb": "040b016e1c050a485acf9fa659a8e196fe28f19b63f4c6e3e500706911f6c41a",
+    "iidasspt.md": "f543c52bf8d38366193f9c5feab412531ced6b705ae63965f4abe139c7f65bba",
+    "iidasspt.py": "e9863b58576f0cba59b82b9edf9f7fbde7f192bcb406aa0b57e0e8899b5f131d",
+    "iidasspt.tex": "299ac43c770b994c82e4dc3477047e19922cf8872e6de5bb8dec18395595aa78"
+   }
   },
   {
    "key": "innerproduct",
@@ -2098,7 +2423,13 @@
    "markdown": "https://dictionaryofml.org/terms/innerproduct.md",
    "latex": "https://dictionaryofml.org/terms/innerproduct.tex",
    "demo": "https://dictionaryofml.org/terms/innerproduct.py",
-   "notebook": "https://dictionaryofml.org/terms/innerproduct.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/innerproduct.ipynb",
+   "sha256": {
+    "innerproduct.ipynb": "213c757f1dbd848b6f5212672c4ce6509e8bda92b26278a1137726accd6a262a",
+    "innerproduct.md": "58342e5655dd0a39a45df6119e724587d0a112877074af4e4a3ffb2d648dd55f",
+    "innerproduct.py": "76af0294f5617209a90ce5077f22e1afed45a7329acc8000f44ed488be36ae59",
+    "innerproduct.tex": "5f32d72a774e2d25b75e47f61ca4c7d81c1ac9bb6d7cddf55a7473f5ad9da935"
+   }
   },
   {
    "key": "interpretability",
@@ -2122,7 +2453,13 @@
    "markdown": "https://dictionaryofml.org/terms/interpretability.md",
    "latex": "https://dictionaryofml.org/terms/interpretability.tex",
    "demo": "https://dictionaryofml.org/terms/interpretability.py",
-   "notebook": "https://dictionaryofml.org/terms/interpretability.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/interpretability.ipynb",
+   "sha256": {
+    "interpretability.ipynb": "ad0ad6d25d2ea6ea878c8541ecfc1d727da1f918f3af3a8a93691e099aa1c26a",
+    "interpretability.md": "d88cda999345fe56f114652f572eade4a3aa688c98575b6cdb4aa535b26b3199",
+    "interpretability.py": "3f24722b9b992aadafcc65762affb14a95761f22d3de55b8793bce6c5c193611",
+    "interpretability.tex": "534cb5527aecda0c2efe35339b0c37ae189bfe13f646ee53af883439af36710d"
+   }
   },
   {
    "key": "interpretableml",
@@ -2147,7 +2484,13 @@
    "markdown": "https://dictionaryofml.org/terms/interpretableml.md",
    "latex": "https://dictionaryofml.org/terms/interpretableml.tex",
    "demo": "https://dictionaryofml.org/terms/interpretableml.py",
-   "notebook": "https://dictionaryofml.org/terms/interpretableml.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/interpretableml.ipynb",
+   "sha256": {
+    "interpretableml.ipynb": "d5d64de7499c3fb2ca8ae2451755bf5e7e4e6ab763d714665bd826d2b6584a2f",
+    "interpretableml.md": "539428791b51fb46bf7bb996a7dbc79828502de84c4bc6c401155cc3f5c333b4",
+    "interpretableml.py": "0befe1a03364bb94d55587cc40ff0795015d0125d53fd706e00359fcef5f9c9e",
+    "interpretableml.tex": "9e294196a67ab3c14ee981023384cc423a06dd9bba43000f805d24b1108356a7"
+   }
   },
   {
    "key": "inverse",
@@ -2174,7 +2517,13 @@
    "markdown": "https://dictionaryofml.org/terms/inverse.md",
    "latex": "https://dictionaryofml.org/terms/inverse.tex",
    "demo": "https://dictionaryofml.org/terms/inverse.py",
-   "notebook": "https://dictionaryofml.org/terms/inverse.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/inverse.ipynb",
+   "sha256": {
+    "inverse.ipynb": "fc139d3d108e5197f60c378c7c3e5f1f8f2f590c07f8f65ac5917d0b3eeacb47",
+    "inverse.md": "a914bcd626d93a092ff705c5993ff66575e47deea0531fb56fd0a1757b584753",
+    "inverse.py": "8425163d0d7efd0799975a6446c10fd96eb535ed3d427ad4d468a58469d1db03",
+    "inverse.tex": "609804d6ec6837ed1a3999fefd4afd0b6999df55a0c247f9d4f5fd857c504eab"
+   }
   },
   {
    "key": "kernelmethod",
@@ -2197,9 +2546,18 @@
    ],
    "readiness": 100,
    "markdown": "https://dictionaryofml.org/terms/kernelmethod.md",
+   "springer_doi": "10.1007/978-981-92-2012-0_16-1",
+   "published_url": "https://doi.org/10.1007/978-981-92-2012-0_16-1",
+   "springer_version": 1,
    "latex": "https://dictionaryofml.org/terms/kernelmethod.tex",
    "demo": "https://dictionaryofml.org/terms/kernelmethod.py",
-   "notebook": "https://dictionaryofml.org/terms/kernelmethod.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/kernelmethod.ipynb",
+   "sha256": {
+    "kernelmethod.ipynb": "dd157e0a250e8237ca6574c09fdcccd5826cc38fd060908ef341011438db4326",
+    "kernelmethod.md": "9fa6f3eacfa35f5ec06178e62abd287412bdf4723fea155a40d6acf583e9bd07",
+    "kernelmethod.py": "f741060fbadca3f0bae1f0c24304a7d4c60e9c6e454df141f9fbf0974b02cabe",
+    "kernelmethod.tex": "c36a4e82e1390abf537ba73a24e6f487ad3222e3b539a434ea4019ed92db2b65"
+   }
   },
   {
    "key": "kernelridgeregression",
@@ -2226,7 +2584,13 @@
    "markdown": "https://dictionaryofml.org/terms/kernelridgeregression.md",
    "latex": "https://dictionaryofml.org/terms/kernelridgeregression.tex",
    "demo": "https://dictionaryofml.org/terms/kernelridgeregression.py",
-   "notebook": "https://dictionaryofml.org/terms/kernelridgeregression.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/kernelridgeregression.ipynb",
+   "sha256": {
+    "kernelridgeregression.ipynb": "6b15ff04dc3f460ac8cc5adab590284f533bee563a2176ebbf72ad592419acfa",
+    "kernelridgeregression.md": "653c8b9a2e436caa4e15202a71485e326d00266d0075b21dd79e198d51d376fe",
+    "kernelridgeregression.py": "aabb978da2aef047fe871d4cc50c9525e610395ef654c54e0b5734858b36b0ea",
+    "kernelridgeregression.tex": "5524333385165945a71601788b3ff1d31ec27552b199922e6ea5db83023b3186"
+   }
   },
   {
    "key": "kfoldcv",
@@ -2250,7 +2614,13 @@
    "markdown": "https://dictionaryofml.org/terms/kfoldcv.md",
    "latex": "https://dictionaryofml.org/terms/kfoldcv.tex",
    "demo": "https://dictionaryofml.org/terms/kfoldcv.py",
-   "notebook": "https://dictionaryofml.org/terms/kfoldcv.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/kfoldcv.ipynb",
+   "sha256": {
+    "kfoldcv.ipynb": "45843a6a68d739839a86b88db7afa1307167593c2a329e72fd06cab258260d03",
+    "kfoldcv.md": "94d77be3812914b62bdd4ca6c36b26f7f8cf1b07ea29910518267e216d17d1a3",
+    "kfoldcv.py": "10487618e57e4628801a4e57160db513b805fdf70899a76e2933b5d814f2cbad",
+    "kfoldcv.tex": "ad1f0c484966eb2431eebc5b607f3e237595dc1affaa370407b4fe06a7b4f510"
+   }
   },
   {
    "key": "kmeans",
@@ -2286,7 +2656,13 @@
    "markdown": "https://dictionaryofml.org/terms/kmeans.md",
    "latex": "https://dictionaryofml.org/terms/kmeans.tex",
    "demo": "https://dictionaryofml.org/terms/kmeans.py",
-   "notebook": "https://dictionaryofml.org/terms/kmeans.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/kmeans.ipynb",
+   "sha256": {
+    "kmeans.ipynb": "32c5da81e06f1d4ec23dec5ae9cabbc287b65ece1a0be92186e6a95c050f4790",
+    "kmeans.md": "6d4e257d9f27e5f70a7b487118f0cfbd4815a166fc6f7b7c1bbe1ba3a7c872c3",
+    "kmeans.py": "e75ae70d83c1edd535a6f90da313d30ce8c0deeb638dc80b2e5721fc94e62558",
+    "kmeans.tex": "1b5c3f491a045a63d1e9f205cec205fcec50ca8830a39dfadd843e29d9730652"
+   }
   },
   {
    "key": "label",
@@ -2315,9 +2691,16 @@
    "markdown": "https://dictionaryofml.org/terms/label.md",
    "springer_doi": "10.1007/978-981-92-2012-0_12-1",
    "published_url": "https://doi.org/10.1007/978-981-92-2012-0_12-1",
+   "springer_version": 1,
    "latex": "https://dictionaryofml.org/terms/label.tex",
    "demo": "https://dictionaryofml.org/terms/label.py",
-   "notebook": "https://dictionaryofml.org/terms/label.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/label.ipynb",
+   "sha256": {
+    "label.ipynb": "b2ad53995ddf990cf5d18af464de84b9a4616cdafd6f652680deb1a8492149a3",
+    "label.md": "60eba584a1330b762503ccd60a4037ea6aed308a103e579c922ef570569eb09f",
+    "label.py": "80340277f2e6a0db6f1a1b0f2472d2564f2c2823acaf385e53a6179d0560c73f",
+    "label.tex": "2ff5385bf6ab5744343b0a75fa262996285aabdb2279d41265b18f41027382c1"
+   }
   },
   {
    "key": "learnrate",
@@ -2347,7 +2730,13 @@
    "markdown": "https://dictionaryofml.org/terms/learnrate.md",
    "latex": "https://dictionaryofml.org/terms/learnrate.tex",
    "demo": "https://dictionaryofml.org/terms/learnrate.py",
-   "notebook": "https://dictionaryofml.org/terms/learnrate.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/learnrate.ipynb",
+   "sha256": {
+    "learnrate.ipynb": "640519b6b7ac86e042f72aa8b239ae9b505a4bdc45cfed90b11f715659ab5c5f",
+    "learnrate.md": "0a9f1a2c1e792dc0916db76cb57c245f51628399917b6515043ef2f1130e082f",
+    "learnrate.py": "b9c5495c4e1045698593731d081b19bbf00021662dcce6e4090c55b3057c4813",
+    "learnrate.tex": "cd545a946c80fa8c802aa4253cc725406360b95acbca04661ff099623d667c70"
+   }
   },
   {
    "key": "linclass",
@@ -2376,7 +2765,13 @@
    "markdown": "https://dictionaryofml.org/terms/linclass.md",
    "latex": "https://dictionaryofml.org/terms/linclass.tex",
    "demo": "https://dictionaryofml.org/terms/linclass.py",
-   "notebook": "https://dictionaryofml.org/terms/linclass.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/linclass.ipynb",
+   "sha256": {
+    "linclass.ipynb": "6187ab6276b8a4fc33aa9166e0b57a467103312a68a484fee27a2508ab93bdca",
+    "linclass.md": "b597d4381021f65ce2e226d13ff84d32fad44ddd6d0b1a8973fe026ed18867eb",
+    "linclass.py": "b9ec2de26cbcdf55b1e5cb5d7d46653edd98d7ae0513d350f94f8c9efa803aca",
+    "linclass.tex": "66d4bda921916b992a9a2663584657952a4f564b3dc6137187c6a8a138a18fd9"
+   }
   },
   {
    "key": "linreg",
@@ -2401,7 +2796,13 @@
    "markdown": "https://dictionaryofml.org/terms/linreg.md",
    "latex": "https://dictionaryofml.org/terms/linreg.tex",
    "demo": "https://dictionaryofml.org/terms/linreg.py",
-   "notebook": "https://dictionaryofml.org/terms/linreg.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/linreg.ipynb",
+   "sha256": {
+    "linreg.ipynb": "4e2b662cffe596f7057000853e83ae537c91b64bbf43f7008d3f2922e3396943",
+    "linreg.md": "9824032ee1bacdc7f154eb2accae632f5a9782040fe1d9a645aac8414d0549a0",
+    "linreg.py": "219301f8314f9a04bb949cfbe401e53598c60f687f098056b808bb1e0862156f",
+    "linreg.tex": "16610bb750444a22542370756bc678340f2c1df3e6261c27ba965e0cb4d12b0d"
+   }
   },
   {
    "key": "llm",
@@ -2431,7 +2832,13 @@
    "markdown": "https://dictionaryofml.org/terms/llm.md",
    "latex": "https://dictionaryofml.org/terms/llm.tex",
    "demo": "https://dictionaryofml.org/terms/llm.py",
-   "notebook": "https://dictionaryofml.org/terms/llm.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/llm.ipynb",
+   "sha256": {
+    "llm.ipynb": "5eaf2c2f833b5c6f869661105056a8ef8ae920061457ae833ae9bcddd6774688",
+    "llm.md": "9bc1aecbff537f529e1f3b9ca4fc3411a744ea4731451baed1ff628f446b4d51",
+    "llm.py": "962be050fcadc7903d37037d0bcaa82486bfd865340e518e1d176a8f4b1e4fcb",
+    "llm.tex": "38e625da2dfe8722ce1d19c5e9e87c43c8af6b1e51b92cf6d557a6dddfe5e0e5"
+   }
   },
   {
    "key": "logloss",
@@ -2462,7 +2869,13 @@
    "markdown": "https://dictionaryofml.org/terms/logloss.md",
    "latex": "https://dictionaryofml.org/terms/logloss.tex",
    "demo": "https://dictionaryofml.org/terms/logloss.py",
-   "notebook": "https://dictionaryofml.org/terms/logloss.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/logloss.ipynb",
+   "sha256": {
+    "logloss.ipynb": "6af540906f48687ba75bb05f3faa15b505749d029cf89c1a0dc700ed1817a3cb",
+    "logloss.md": "6bfcc50c9d615dab4fae6daca9b4f835ef0a2694b73d83dd57db4b21fa24b78d",
+    "logloss.py": "6be3cb8112f5c3237131b7230329f5ad8a555a7d265a33e19a33bd6b86e4aad5",
+    "logloss.tex": "7fc9905678a2c7b4f7dfe92e663ab533194199b0c879b28bb6bdba042b6d1d2f"
+   }
   },
   {
    "key": "logreg",
@@ -2496,7 +2909,13 @@
    "markdown": "https://dictionaryofml.org/terms/logreg.md",
    "latex": "https://dictionaryofml.org/terms/logreg.tex",
    "demo": "https://dictionaryofml.org/terms/logreg.py",
-   "notebook": "https://dictionaryofml.org/terms/logreg.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/logreg.ipynb",
+   "sha256": {
+    "logreg.ipynb": "ab9691cd2ab78ae32a7dd61f722058dbea7d678db3a8c8193f1de5f599b4797b",
+    "logreg.md": "d0d1c9a9141fe36177430a2e803b11e2af780b233650f7a755bc07a1fde1878c",
+    "logreg.py": "24bc0243fdf51acda7be1ca39aeb554b11647c6468a15942b0953fd80009e71b",
+    "logreg.tex": "2f3c960f4031e2e8565bda17432f90e1858ee400130ef10b32cdbb667885f87f"
+   }
   },
   {
    "key": "loss",
@@ -2521,9 +2940,16 @@
    "markdown": "https://dictionaryofml.org/terms/loss.md",
    "springer_doi": "10.1007/978-981-92-2012-0_3-1",
    "published_url": "https://doi.org/10.1007/978-981-92-2012-0_3-1",
+   "springer_version": 1,
    "latex": "https://dictionaryofml.org/terms/loss.tex",
    "demo": "https://dictionaryofml.org/terms/loss.py",
-   "notebook": "https://dictionaryofml.org/terms/loss.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/loss.ipynb",
+   "sha256": {
+    "loss.ipynb": "2127267f8c9fc21909c06425d1f70a733984b2567cd1f701454b080b4c064567",
+    "loss.md": "ed42d0c06ca035067d94893ba522164c9f5be6bce3a7b21dfa42bf639898e988",
+    "loss.py": "0bbba2b9683f09e93e353c4a383650d1170aeb370d0f204d6d2b3604984232dc",
+    "loss.tex": "7d4f76750ad8a46fae989b9aee403d59e8137e162888c295282bacfe1e756d1d"
+   }
   },
   {
    "key": "matrix",
@@ -2547,7 +2973,13 @@
    "markdown": "https://dictionaryofml.org/terms/matrix.md",
    "latex": "https://dictionaryofml.org/terms/matrix.tex",
    "demo": "https://dictionaryofml.org/terms/matrix.py",
-   "notebook": "https://dictionaryofml.org/terms/matrix.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/matrix.ipynb",
+   "sha256": {
+    "matrix.ipynb": "3afe63224bbdc63c242ff349482549bc7873a2d53bb33b417ed82632c070883e",
+    "matrix.md": "ae6aef3800307bbc8b88d680515310d3911d601cec1bcaaa22a65e5a7af8adc4",
+    "matrix.py": "57bcdc0cd1007482bbd33bdeeec6e2f1d019714a4534494654daf6cf2061a91d",
+    "matrix.tex": "f54cd36943a579139b979c47a6893f24744d71473dc214018540dadca566169b"
+   }
   },
   {
    "key": "mean",
@@ -2577,7 +3009,13 @@
    "markdown": "https://dictionaryofml.org/terms/mean.md",
    "latex": "https://dictionaryofml.org/terms/mean.tex",
    "demo": "https://dictionaryofml.org/terms/mean.py",
-   "notebook": "https://dictionaryofml.org/terms/mean.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/mean.ipynb",
+   "sha256": {
+    "mean.ipynb": "06e568aacdef09d77398d01ed75131ccdaafae9a0bee0f5d42910397e4160e09",
+    "mean.md": "b0852da0a1cc1cc51517d1574b788114455f43c4fd09a92fa0a12ac9101847b8",
+    "mean.py": "315cd619d2625fac768ed70ac74e782cdf87f555a5231a35634992cc8081d1ba",
+    "mean.tex": "46c7e041a281d86b6e0faa3f7a3331f295f49fe27cd11120bf91919df320f15c"
+   }
   },
   {
    "key": "membershipinferenceattack",
@@ -2602,7 +3040,13 @@
    "markdown": "https://dictionaryofml.org/terms/membershipinferenceattack.md",
    "latex": "https://dictionaryofml.org/terms/membershipinferenceattack.tex",
    "demo": "https://dictionaryofml.org/terms/membershipinferenceattack.py",
-   "notebook": "https://dictionaryofml.org/terms/membershipinferenceattack.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/membershipinferenceattack.ipynb",
+   "sha256": {
+    "membershipinferenceattack.ipynb": "1e919a3c33f7c6ba83b2915730ab1a56b5b920f4404b18da4cbc9dbd19c63760",
+    "membershipinferenceattack.md": "3fed6c7bb35b0fc2450a883dc7eaca17bf0eb6aaaa6ba0308b1bac83351869b1",
+    "membershipinferenceattack.py": "22fe819822b16fccf47e34b1c8f0161b177bfc4fcf292aa30d4a71e19684b1ae",
+    "membershipinferenceattack.tex": "4f46dceb01756260b9cb289c81eec941ca6b2750a168d7a26d27c6fbbcee1420"
+   }
   },
   {
    "key": "mlpipeline",
@@ -2627,7 +3071,13 @@
    "markdown": "https://dictionaryofml.org/terms/mlpipeline.md",
    "latex": "https://dictionaryofml.org/terms/mlpipeline.tex",
    "demo": "https://dictionaryofml.org/terms/mlpipeline.py",
-   "notebook": "https://dictionaryofml.org/terms/mlpipeline.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/mlpipeline.ipynb",
+   "sha256": {
+    "mlpipeline.ipynb": "0e98da36ef0e05bc94faa5c25f1cbba0a842d466ad81f00f3374ed4b24267087",
+    "mlpipeline.md": "85e278fa66036dc437ce6b980e5bd5fd1f0e5c5dbea2b9dd52a41f0526984c8d",
+    "mlpipeline.py": "8b21903810db2f94fe5a2a7b1f4ac04f51feb9445381ce1c0520129722a8de71",
+    "mlpipeline.tex": "ee12abd8ea03209cd77de09f01dbef50421e0b62882a775d15b357a7e06e3e7c"
+   }
   },
   {
    "key": "model",
@@ -2654,9 +3104,16 @@
    "markdown": "https://dictionaryofml.org/terms/model.md",
    "springer_doi": "10.1007/978-981-92-2012-0_2-1",
    "published_url": "https://doi.org/10.1007/978-981-92-2012-0_2-1",
+   "springer_version": 1,
    "latex": "https://dictionaryofml.org/terms/model.tex",
    "demo": "https://dictionaryofml.org/terms/model.py",
-   "notebook": "https://dictionaryofml.org/terms/model.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/model.ipynb",
+   "sha256": {
+    "model.ipynb": "13717d0fcb357206ddd5b892718c6bc9896cd5f7ac617e27190ec323604020d9",
+    "model.md": "130209d4c2c12094af052590de06bfa99efcae2e192ddbdcb161f342ec1ea980",
+    "model.py": "3f3401374f9e0912661c5c88f27296a258865ba20a2c92fa6b82a07312f656a1",
+    "model.tex": "46eb7a605ce20ced6eb9c95ee676f4b442a450adb31cf8044d4b850441ef8d10"
+   }
   },
   {
    "key": "modelsel",
@@ -2680,7 +3137,13 @@
    "markdown": "https://dictionaryofml.org/terms/modelsel.md",
    "latex": "https://dictionaryofml.org/terms/modelsel.tex",
    "demo": "https://dictionaryofml.org/terms/modelsel.py",
-   "notebook": "https://dictionaryofml.org/terms/modelsel.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/modelsel.ipynb",
+   "sha256": {
+    "modelsel.ipynb": "8d330e014a341b7eb6cdb6bdc2c5182507ff2856635d71c2a3b41be04fc7eeb4",
+    "modelsel.md": "35685f33e3212af6b3fe086ffdfbfaf9746bc0761d72772749026d605549dca7",
+    "modelsel.py": "2b5b4c4bd3838829fc2da0ac41683f3bd57662ec8f477afe21b9b2fdce51e88f",
+    "modelsel.tex": "a19ccb544e582d4f9f4d054af5a4333f14d90d74039d44d758fa5c32311629c2"
+   }
   },
   {
    "key": "norm",
@@ -2706,7 +3169,13 @@
    "markdown": "https://dictionaryofml.org/terms/norm.md",
    "latex": "https://dictionaryofml.org/terms/norm.tex",
    "demo": "https://dictionaryofml.org/terms/norm.py",
-   "notebook": "https://dictionaryofml.org/terms/norm.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/norm.ipynb",
+   "sha256": {
+    "norm.ipynb": "b5f71845a57bcfefabc2865c79e123aca41432da272a7f4a7820eb0ca8409873",
+    "norm.md": "e75de7af94adc3694c324f60d31fa75347ebc60ee30c0e0f446996bcbcd20028",
+    "norm.py": "0bbb48f04cbc07f3394a56a883633bad82b3fc94696aab2a54d6ff6d122d8665",
+    "norm.tex": "832b7a5b4138addce47cf4ad396bd8fee032f56120a45f10a2a7b0cc37f98230"
+   }
   },
   {
    "key": "onlinelearning",
@@ -2742,7 +3211,13 @@
    "markdown": "https://dictionaryofml.org/terms/onlinelearning.md",
    "latex": "https://dictionaryofml.org/terms/onlinelearning.tex",
    "demo": "https://dictionaryofml.org/terms/onlinelearning.py",
-   "notebook": "https://dictionaryofml.org/terms/onlinelearning.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/onlinelearning.ipynb",
+   "sha256": {
+    "onlinelearning.ipynb": "fa9eea1ebe3b60f594d7b567e9339f24594a6b33519f49071fa92217505cfa63",
+    "onlinelearning.md": "a8ee9e3ed3d1d30240b9f3959c936fd2ec1f093fed8d19c3bf49325cbff6d361",
+    "onlinelearning.py": "dc951dbd57e20af2f7dea257dd3df95d63e2d255b0044e57dc4713cdd272331d",
+    "onlinelearning.tex": "da8b1e8d6bd5f92129634a01fa81a491eb2226c6e85973a1fe5e4238a7a4a809"
+   }
   },
   {
    "key": "overfitting",
@@ -2765,7 +3240,13 @@
    "markdown": "https://dictionaryofml.org/terms/overfitting.md",
    "latex": "https://dictionaryofml.org/terms/overfitting.tex",
    "demo": "https://dictionaryofml.org/terms/overfitting.py",
-   "notebook": "https://dictionaryofml.org/terms/overfitting.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/overfitting.ipynb",
+   "sha256": {
+    "overfitting.ipynb": "67eea84b16eaee585c87cd6a9762a9471875dd1ec52e5b222d3686a14f9d6ba4",
+    "overfitting.md": "7268babd94c238b07d47edadbc372651f57c0e55ed184b0538118b53c7d7b503",
+    "overfitting.py": "dd8161cb84f407756f02cdf1ccd3decb1eaf15e10d1b5fc99ed1fa3a94a63df5",
+    "overfitting.tex": "c6beef3331ec1184da1b343792cb3c6756f5ad0b590aca533700ee80bb51ebe5"
+   }
   },
   {
    "key": "pca",
@@ -2798,7 +3279,13 @@
    "markdown": "https://dictionaryofml.org/terms/pca.md",
    "latex": "https://dictionaryofml.org/terms/pca.tex",
    "demo": "https://dictionaryofml.org/terms/pca.py",
-   "notebook": "https://dictionaryofml.org/terms/pca.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/pca.ipynb",
+   "sha256": {
+    "pca.ipynb": "10254f190c5c937c50a4891c5db0af02bcfb706320558de52189740cf20d5de7",
+    "pca.md": "0b7070511c1b1ee1e9e288855ae7b765b59051d884bbdfa5cd2a3cabd25d2f6d",
+    "pca.py": "9fbf0886830e7e8fe673204e9374bcc4ecac7251cebb3240a3274f410d502339",
+    "pca.tex": "3567dfa760e60a5c6401773ee0b44517350e1a51d27bb772274c47e22d72958e"
+   }
   },
   {
    "key": "policy",
@@ -2823,7 +3310,13 @@
    "markdown": "https://dictionaryofml.org/terms/policy.md",
    "latex": "https://dictionaryofml.org/terms/policy.tex",
    "demo": "https://dictionaryofml.org/terms/policy.py",
-   "notebook": "https://dictionaryofml.org/terms/policy.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/policy.ipynb",
+   "sha256": {
+    "policy.ipynb": "b20deb2070c6af3263563923728e405d51ddbb5d7b53fb5e2b41e91bb106c8a0",
+    "policy.md": "ed3d493e7affb1e0cfa0445ad68d8c239439837a06c40eee764ec0cf045a878e",
+    "policy.py": "cfc844afdbfb038054a49b9dbe4f53527bfef1d9614d4e7dba668982299542ad",
+    "policy.tex": "13cdca837b43cd7fdcedfbf8c6d7b17c3fdf24a040a9a0b89d4794baa59d367e"
+   }
   },
   {
    "key": "pretraining",
@@ -2847,7 +3340,13 @@
    "markdown": "https://dictionaryofml.org/terms/pretraining.md",
    "latex": "https://dictionaryofml.org/terms/pretraining.tex",
    "demo": "https://dictionaryofml.org/terms/pretraining.py",
-   "notebook": "https://dictionaryofml.org/terms/pretraining.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/pretraining.ipynb",
+   "sha256": {
+    "pretraining.ipynb": "f2d73c49054710ac8f79593ee833de43dc5ddc62d6c13ca1fc8b982319bc9a33",
+    "pretraining.md": "cbabad79318b9fc30e6ca86cc88c3a763f89f3cfb4afbe832a1b276245e310f5",
+    "pretraining.py": "a854faa9f594da93825c57a5566693cedcc39193a479b348b973325396879470",
+    "pretraining.tex": "353dc921aa6638324555cdd331dc100250907b90ae724a86244780a0d6055d04"
+   }
   },
   {
    "key": "probdist",
@@ -2880,7 +3379,13 @@
    "markdown": "https://dictionaryofml.org/terms/probdist.md",
    "latex": "https://dictionaryofml.org/terms/probdist.tex",
    "demo": "https://dictionaryofml.org/terms/probdist.py",
-   "notebook": "https://dictionaryofml.org/terms/probdist.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/probdist.ipynb",
+   "sha256": {
+    "probdist.ipynb": "82345cb758cf75e4aa76ef8502f18dccebd782ac135f15642890cb7c7687c35e",
+    "probdist.md": "a95b793269fdf921158befef8db5930f65eeebb8ed720f6ab5075d02730a1df2",
+    "probdist.py": "08d048d1b9d372c5ebf5384976efbce58c65175cbc0a4ba30344235dff83eccb",
+    "probdist.tex": "d7280893da46b134e8f0b7a77895e458a69d98fd2c119f5a1765f9007f5a9aa9"
+   }
   },
   {
    "key": "projection",
@@ -2903,7 +3408,13 @@
    "markdown": "https://dictionaryofml.org/terms/projection.md",
    "latex": "https://dictionaryofml.org/terms/projection.tex",
    "demo": "https://dictionaryofml.org/terms/projection.py",
-   "notebook": "https://dictionaryofml.org/terms/projection.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/projection.ipynb",
+   "sha256": {
+    "projection.ipynb": "5863b878b9bd18bacbaba1bca31b8dc35c702b8f4b44885c695c9e876b264c64",
+    "projection.md": "5da8b1569a854120fb7c32c6196acd4ac41f6914bc1319ac24a462aa5810fce3",
+    "projection.py": "6089f76019ddc58e56b4b890fdc4bab72851912b747eba691effe03e65c421b7",
+    "projection.tex": "2f1bf26d36e93923acca72d42420c25efb07c6a43f464406ee1de7401cdc4ad3"
+   }
   },
   {
    "key": "randomexperiment",
@@ -2932,7 +3443,13 @@
    "markdown": "https://dictionaryofml.org/terms/randomexperiment.md",
    "latex": "https://dictionaryofml.org/terms/randomexperiment.tex",
    "demo": "https://dictionaryofml.org/terms/randomexperiment.py",
-   "notebook": "https://dictionaryofml.org/terms/randomexperiment.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/randomexperiment.ipynb",
+   "sha256": {
+    "randomexperiment.ipynb": "37c751d344da7d51d7e9d5dd578a92bdb75aa98cf1c9dc7509fae37d64e209b9",
+    "randomexperiment.md": "fe5ff033b552c39e504ea92cfe468ef7ded8fb6e135ea3f274ea1269fee91450",
+    "randomexperiment.py": "a21cf3512472c0a71d28a9fc84069f2d5049bfc2b171f3f812206cf440060c8a",
+    "randomexperiment.tex": "06b83d0c0dbf73132ac9e35f601ed2540b6f991d73a8290c153736320987667a"
+   }
   },
   {
    "key": "randomforest",
@@ -2955,7 +3472,13 @@
    "markdown": "https://dictionaryofml.org/terms/randomforest.md",
    "latex": "https://dictionaryofml.org/terms/randomforest.tex",
    "demo": "https://dictionaryofml.org/terms/randomforest.py",
-   "notebook": "https://dictionaryofml.org/terms/randomforest.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/randomforest.ipynb",
+   "sha256": {
+    "randomforest.ipynb": "a83b6f658ba297d95947d070623d595f6b1bf8f24d29b21ce86828c591d486e7",
+    "randomforest.md": "0f235109d62d5bd903a91ac23381cbb1fd67b7a4c323648652467ae60c262865",
+    "randomforest.py": "7d1a2215a95e7a2d625750580ad550dd7700b54e794a47c83e36319fbd9ff332",
+    "randomforest.tex": "43d418c223c9c746d0e2f1de56f7a4367b78d950f64d88f65194c624d3065ab4"
+   }
   },
   {
    "key": "regularization",
@@ -2978,9 +3501,16 @@
    "markdown": "https://dictionaryofml.org/terms/regularization.md",
    "springer_doi": "10.1007/978-981-92-2012-0_8-1",
    "published_url": "https://doi.org/10.1007/978-981-92-2012-0_8-1",
+   "springer_version": 1,
    "latex": "https://dictionaryofml.org/terms/regularization.tex",
    "demo": "https://dictionaryofml.org/terms/regularization.py",
-   "notebook": "https://dictionaryofml.org/terms/regularization.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/regularization.ipynb",
+   "sha256": {
+    "regularization.ipynb": "e7ea66640f06733b9b9e8216b7f2c5e771ce3ad116848dc1ac7cb50fe2d0e8ce",
+    "regularization.md": "e999bde88f1c4a8cae3267152bac749d678ccf9da6e68fb0c0c433d482b15285",
+    "regularization.py": "ddb9abbae197ce18f32274d47a8a0d2a0df4592abcce02adb430d976c5c59321",
+    "regularization.tex": "d811510b122ab2b5f83caf34223d2b69054a5c168441dce19582215218d05739"
+   }
   },
   {
    "key": "reinforcementlearning",
@@ -3015,7 +3545,13 @@
    "markdown": "https://dictionaryofml.org/terms/reinforcementlearning.md",
    "latex": "https://dictionaryofml.org/terms/reinforcementlearning.tex",
    "demo": "https://dictionaryofml.org/terms/reinforcementlearning.py",
-   "notebook": "https://dictionaryofml.org/terms/reinforcementlearning.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/reinforcementlearning.ipynb",
+   "sha256": {
+    "reinforcementlearning.ipynb": "0159129fbc5b5b867d9581ff67d0d262cb6115e8341a6f8678cf554eeae81299",
+    "reinforcementlearning.md": "59f4cc443c1d204f176f85399f6af31e26c19eaba22f959e3c003af9b28ad519",
+    "reinforcementlearning.py": "59f9a1fb6b598d13f0ef9d3c623014e21436a41162b50f72a91b37ea8fc15821",
+    "reinforcementlearning.tex": "5f21bffbad596302df9bcc8d3cc29e481be73c73677f4600663777744b7fc87f"
+   }
   },
   {
    "key": "reward",
@@ -3037,7 +3573,13 @@
    "markdown": "https://dictionaryofml.org/terms/reward.md",
    "latex": "https://dictionaryofml.org/terms/reward.tex",
    "demo": "https://dictionaryofml.org/terms/reward.py",
-   "notebook": "https://dictionaryofml.org/terms/reward.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/reward.ipynb",
+   "sha256": {
+    "reward.ipynb": "a1249f06fda603aaad1778640c37e6a061c02b7d52f34221d614070ae1aa9461",
+    "reward.md": "b61e321af958090be740e1007042814893e6d5a06a59eca7f8a82005f31057f6",
+    "reward.py": "3dfc99df16b520f87493d52c1cb1633d93dc7062a9079f2fa2447d4b6401f7eb",
+    "reward.tex": "90eead6d940104fdefb39af69ff07e5fcbc8a33474d45d712d22e8d3e3b73ee4"
+   }
   },
   {
    "key": "rpca",
@@ -3066,7 +3608,13 @@
    "markdown": "https://dictionaryofml.org/terms/rpca.md",
    "latex": "https://dictionaryofml.org/terms/rpca.tex",
    "demo": "https://dictionaryofml.org/terms/rpca.py",
-   "notebook": "https://dictionaryofml.org/terms/rpca.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/rpca.ipynb",
+   "sha256": {
+    "rpca.ipynb": "f108a2c3044cdb40121edb7b0ea422e0b78cc7fe8c329766943b03b72620490b",
+    "rpca.md": "d55cb65404b1dda2ff5f962cabff378ec941088f4d315d185f52fc4463fac080",
+    "rpca.py": "6d7c225191bda356d0a3739a84a63c1d3334b28ee779570e87aa68253110de6a",
+    "rpca.tex": "7e5c761a8f2ac418af1dd5a1b650d4c27474a9386c92fbaf5778feb814832107"
+   }
   },
   {
    "key": "rv",
@@ -3095,7 +3643,13 @@
    "markdown": "https://dictionaryofml.org/terms/rv.md",
    "latex": "https://dictionaryofml.org/terms/rv.tex",
    "demo": "https://dictionaryofml.org/terms/rv.py",
-   "notebook": "https://dictionaryofml.org/terms/rv.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/rv.ipynb",
+   "sha256": {
+    "rv.ipynb": "b524f01c14557fd217fec1e864bfa29f1c82883c27717b8daaa6f95ffe646e6d",
+    "rv.md": "45556d123d44a316086e50789965c081a841b4dc848046acb2d14383ffb685da",
+    "rv.py": "4fb39530d8b9b299795872c4d6b74164bd726b79c8b9f328df76399848e47417",
+    "rv.tex": "b88f4fe1fec7e8b0f12ca77a554e8b02be957fc33bb95014dcdef3c9699d68a8"
+   }
   },
   {
    "key": "samplesize",
@@ -3129,7 +3683,13 @@
    "markdown": "https://dictionaryofml.org/terms/samplesize.md",
    "latex": "https://dictionaryofml.org/terms/samplesize.tex",
    "demo": "https://dictionaryofml.org/terms/samplesize.py",
-   "notebook": "https://dictionaryofml.org/terms/samplesize.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/samplesize.ipynb",
+   "sha256": {
+    "samplesize.ipynb": "7f18e7c3e21275c85f3af2295a24bcf4556bf5f53a56284851ee09300a582aac",
+    "samplesize.md": "d836d1f73f6bd93f036ac9572a92623eb6e6ea30983e34c7f9defd64d1be7a77",
+    "samplesize.py": "b2cf447e48fb7703d1562fc6fb3664ced16a1aa894a4bd97bc5d2423494c4887",
+    "samplesize.tex": "a8f574898295623b70f91d92e9221e2c8131e596901ace2d525d2c95e78fc1ab"
+   }
   },
   {
    "key": "selfsupervisedlearning",
@@ -3155,7 +3715,13 @@
    "markdown": "https://dictionaryofml.org/terms/selfsupervisedlearning.md",
    "latex": "https://dictionaryofml.org/terms/selfsupervisedlearning.tex",
    "demo": "https://dictionaryofml.org/terms/selfsupervisedlearning.py",
-   "notebook": "https://dictionaryofml.org/terms/selfsupervisedlearning.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/selfsupervisedlearning.ipynb",
+   "sha256": {
+    "selfsupervisedlearning.ipynb": "35ea280108bd9cc7ff018341ed9c831022169a1d45aa97f391b8af2eec30eb7a",
+    "selfsupervisedlearning.md": "cbf8b64398caa1f097d854df81aaa1de17d14267c4f9c47adf0f9b2e888bb186",
+    "selfsupervisedlearning.py": "d828a67d53d9633877951803ceaefa0e84e7ee56bb6e91216a521e5036bc214d",
+    "selfsupervisedlearning.tex": "6d5839df98bc539a916c8e9b1484d4b5e1123336b770224f2e68e6c28d4a1d7f"
+   }
   },
   {
    "key": "sigmoid",
@@ -3181,7 +3747,13 @@
    "markdown": "https://dictionaryofml.org/terms/sigmoid.md",
    "latex": "https://dictionaryofml.org/terms/sigmoid.tex",
    "demo": "https://dictionaryofml.org/terms/sigmoid.py",
-   "notebook": "https://dictionaryofml.org/terms/sigmoid.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/sigmoid.ipynb",
+   "sha256": {
+    "sigmoid.ipynb": "c102befdf1f5beaa74fc58a010bd24dbd8bd1c6c1c97d139a4305b9527d30329",
+    "sigmoid.md": "feff22657ccaad3468c3df4450bd0cf3eef611fd042b687f67c6526432f389be",
+    "sigmoid.py": "a200db6ecd0a9ccebc043d7305024ea844baa702c9e886872b7fca5d81a5c5a0",
+    "sigmoid.tex": "fe5211434ceffb757437215c4745ff6f42b95ecc36a3217bbb19cd2456dc383f"
+   }
   },
   {
    "key": "sobolevspace",
@@ -3212,7 +3784,13 @@
    "markdown": "https://dictionaryofml.org/terms/sobolevspace.md",
    "latex": "https://dictionaryofml.org/terms/sobolevspace.tex",
    "demo": "https://dictionaryofml.org/terms/sobolevspace.py",
-   "notebook": "https://dictionaryofml.org/terms/sobolevspace.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/sobolevspace.ipynb",
+   "sha256": {
+    "sobolevspace.ipynb": "d001a0cc613c18cd84151104939c1f7577429dc99b9e4fcb332836c77c13dcb5",
+    "sobolevspace.md": "54700203a2e24bb00a33932dc059d7d4ab1f84eddc23f1436a14f6cea888f813",
+    "sobolevspace.py": "e409aa4aff69957aae14d2538dceda78a020517f12e1eed2648d51ddcc4986fa",
+    "sobolevspace.tex": "4bad1a48092223cad605fcd5ca2d69794c0fde43b4c67ea2ac1c1fe5d482c226"
+   }
   },
   {
    "key": "stochGD",
@@ -3237,7 +3815,13 @@
    "markdown": "https://dictionaryofml.org/terms/stochGD.md",
    "latex": "https://dictionaryofml.org/terms/stochGD.tex",
    "demo": "https://dictionaryofml.org/terms/stochGD.py",
-   "notebook": "https://dictionaryofml.org/terms/stochGD.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/stochGD.ipynb",
+   "sha256": {
+    "stochGD.ipynb": "c7b5d1c4c63c6e35fc8407a7d13faff23bc5a41961f6d1922ba8e989f3900cbc",
+    "stochGD.md": "cb5ed5615877c92ce93d53f8624cc83ee1a3b50973e0af6264ffca47c1974944",
+    "stochGD.py": "d58023bbd0c94fcd5e0da646ac974fb3002ef67c2d07a7f60760c3509492143d",
+    "stochGD.tex": "85b530f002cfe85f8e7673d6bf9063950013620abf7e06211ee65a97e8bfe29b"
+   }
   },
   {
    "key": "supervisedlearning",
@@ -3268,7 +3852,13 @@
    "markdown": "https://dictionaryofml.org/terms/supervisedlearning.md",
    "latex": "https://dictionaryofml.org/terms/supervisedlearning.tex",
    "demo": "https://dictionaryofml.org/terms/supervisedlearning.py",
-   "notebook": "https://dictionaryofml.org/terms/supervisedlearning.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/supervisedlearning.ipynb",
+   "sha256": {
+    "supervisedlearning.ipynb": "32ce1aee161e83cf2ee4fb7c1f2bdca15f8e9a6a110b1b25450da5474c1f5791",
+    "supervisedlearning.md": "3631de68202be692088c9226287fa4579350ab126ad568d793531764c1cb4d71",
+    "supervisedlearning.py": "edd97abf9457e48a1171ae8ef510c6032dcef17e015111dd1d5a6572034bd2f7",
+    "supervisedlearning.tex": "422ea7b30bbaa06f3f4cb4ec33d5e24a7916b541c0217cfe9f4bb260d152f8dc"
+   }
   },
   {
    "key": "svd",
@@ -3296,7 +3886,13 @@
    "markdown": "https://dictionaryofml.org/terms/svd.md",
    "latex": "https://dictionaryofml.org/terms/svd.tex",
    "demo": "https://dictionaryofml.org/terms/svd.py",
-   "notebook": "https://dictionaryofml.org/terms/svd.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/svd.ipynb",
+   "sha256": {
+    "svd.ipynb": "a41394bc549cdd528f9d09f94e4620813bec5da445d8dc2c083d22a7f805a2f3",
+    "svd.md": "a074d9d85dc2ad2b128871d6180cfc18acf4273e093afaa7281375f974c688c5",
+    "svd.py": "cce9acf8b4e9226fb53f231fca1ace757e168a72580f5acbc44b6771a36ec706",
+    "svd.tex": "bebc4790fe5943280543da8124875c25405b0cb38c1570c4af621a89fd88e0f0"
+   }
   },
   {
    "key": "svm",
@@ -3322,7 +3918,13 @@
    "markdown": "https://dictionaryofml.org/terms/svm.md",
    "latex": "https://dictionaryofml.org/terms/svm.tex",
    "demo": "https://dictionaryofml.org/terms/svm.py",
-   "notebook": "https://dictionaryofml.org/terms/svm.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/svm.ipynb",
+   "sha256": {
+    "svm.ipynb": "35d1252236b0b674e48c4025d34d9277e6a1f28cfae362997cabc406f66930e1",
+    "svm.md": "f333475864f02f50d8f41158f9ba7662377f32abd1ee06ce32605a74574350c6",
+    "svm.py": "b908f4113cf23dba49fbaa44a9aeb2db7aabc992a1eb8a9dcf3e322e7cfac692",
+    "svm.tex": "578ccc7d2ea86fb51133f35404a58c1bcfc076db19f839c0d261458c52a8d404"
+   }
   },
   {
    "key": "tabulardata",
@@ -3349,7 +3951,13 @@
    "markdown": "https://dictionaryofml.org/terms/tabulardata.md",
    "latex": "https://dictionaryofml.org/terms/tabulardata.tex",
    "demo": "https://dictionaryofml.org/terms/tabulardata.py",
-   "notebook": "https://dictionaryofml.org/terms/tabulardata.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/tabulardata.ipynb",
+   "sha256": {
+    "tabulardata.ipynb": "df86148e5e1a336a39134e576299fd39943888f971724828dd0b94d8a7490061",
+    "tabulardata.md": "5e5a9634c0bd4e34e90ba5d5f555394c312ead501cd62ff0cd833dce6b814d34",
+    "tabulardata.py": "28575d223d8519a49a457797ca8db817ed4e585ee7d32da846b001078bf6da4d",
+    "tabulardata.tex": "2d233c04d54449c9a923b609560c9db53a0da2d31c0f010e872936c4b6f707f5"
+   }
   },
   {
    "key": "tee",
@@ -3379,7 +3987,13 @@
    "markdown": "https://dictionaryofml.org/terms/tee.md",
    "latex": "https://dictionaryofml.org/terms/tee.tex",
    "demo": "https://dictionaryofml.org/terms/tee.py",
-   "notebook": "https://dictionaryofml.org/terms/tee.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/tee.ipynb",
+   "sha256": {
+    "tee.ipynb": "efdbe2fa35e1bf28725d92017ecd3b8e584c7ba66b322f415334b6e4df633cfc",
+    "tee.md": "3b25887ff7646bab2b5f3a8ef41f0a130cc79ac481efab452fbe751a54f633b5",
+    "tee.py": "74f1230c39d7f45d38488ca2cea65c65e813738e90073f82fe1fdc224f794bb6",
+    "tee.tex": "efa34ffb944a8e52f81aacf06b5d1400307cf1362d29ca0d2e8e9758aee700e0"
+   }
   },
   {
    "key": "testset",
@@ -3405,7 +4019,13 @@
    "markdown": "https://dictionaryofml.org/terms/testset.md",
    "latex": "https://dictionaryofml.org/terms/testset.tex",
    "demo": "https://dictionaryofml.org/terms/testset.py",
-   "notebook": "https://dictionaryofml.org/terms/testset.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/testset.ipynb",
+   "sha256": {
+    "testset.ipynb": "0ddd1250a20e5a0f35f11755e1b1045b9d231868a6c3f60c0329c96f5d2faf1e",
+    "testset.md": "1a22a38ed2b363ef1781b75421ad5872435ca732bbe8703cf1c56e28d1bc86fe",
+    "testset.py": "4e047c3714fc9bfc209de0c740000609f0a01a20d23b052f3d406e2a8637da69",
+    "testset.tex": "99e2dbb774626aa8ea5da0823551233d87d5c1e4dda4463b3413c4062f0e7ad2"
+   }
   },
   {
    "key": "trainerr",
@@ -3437,7 +4057,13 @@
    "markdown": "https://dictionaryofml.org/terms/trainerr.md",
    "latex": "https://dictionaryofml.org/terms/trainerr.tex",
    "demo": "https://dictionaryofml.org/terms/trainerr.py",
-   "notebook": "https://dictionaryofml.org/terms/trainerr.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/trainerr.ipynb",
+   "sha256": {
+    "trainerr.ipynb": "512334264efca767600ecf5adcdeb58ec273f2a172da32d95aa1baf3e228690f",
+    "trainerr.md": "f190fcd44b89092d35147732fc5d262480f9d291a14349911287d31093cde9ad",
+    "trainerr.py": "f67d2e5d6c212abb3f775641dbe9c47ebac0ca060101a0c7cc967cc8baa40598",
+    "trainerr.tex": "9b0a64b355e3dfbabc7cd351dcc8d55e8c2bc82e28199162f8279cfb37d9a033"
+   }
   },
   {
    "key": "training",
@@ -3472,7 +4098,13 @@
    "markdown": "https://dictionaryofml.org/terms/training.md",
    "latex": "https://dictionaryofml.org/terms/training.tex",
    "demo": "https://dictionaryofml.org/terms/training.py",
-   "notebook": "https://dictionaryofml.org/terms/training.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/training.ipynb",
+   "sha256": {
+    "training.ipynb": "163fe9321524deefe151af338ecfad0f9d2abaf259de6142e270f7e25c99cf0c",
+    "training.md": "19d8764479358420a01adebd0ce7ddbf0dd752ec46e25c6dc567d08deae1578d",
+    "training.py": "0772d3bef93c14566998c8d8b8b880c71e726d5d4edd226111051798ef560e54",
+    "training.tex": "8bc0481e433f0b56d0d42b6036de5e2b11a1898e5f218d8f6737d04be8d7a56d"
+   }
   },
   {
    "key": "trainset",
@@ -3500,7 +4132,13 @@
    "markdown": "https://dictionaryofml.org/terms/trainset.md",
    "latex": "https://dictionaryofml.org/terms/trainset.tex",
    "demo": "https://dictionaryofml.org/terms/trainset.py",
-   "notebook": "https://dictionaryofml.org/terms/trainset.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/trainset.ipynb",
+   "sha256": {
+    "trainset.ipynb": "8065914b3bdb20bba000bd5f90b97cc1bb26e4829f5a5259eaae771d415ff568",
+    "trainset.md": "39355369b18ca879d28f2b8d02a09ad105cb702f59b36239ebf6ae540c3a785e",
+    "trainset.py": "ee410459c759f87c13556c41bc77d346627a153d6acf65153e5e9adb6521e7b4",
+    "trainset.tex": "aec9c6f787b153fd40602573a619ddae511881916d37b347ae8242c5d8f97dc7"
+   }
   },
   {
    "key": "transferlearning",
@@ -3527,7 +4165,13 @@
    "markdown": "https://dictionaryofml.org/terms/transferlearning.md",
    "latex": "https://dictionaryofml.org/terms/transferlearning.tex",
    "demo": "https://dictionaryofml.org/terms/transferlearning.py",
-   "notebook": "https://dictionaryofml.org/terms/transferlearning.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/transferlearning.ipynb",
+   "sha256": {
+    "transferlearning.ipynb": "aab37757dfc418c8ce510535dc3a6d666307e92950382f8d429f629ec07d73fa",
+    "transferlearning.md": "e5fabc720dc91645b7333b897c847bf0aa4b3fcfc8f8f126c8868e2f23fcc209",
+    "transferlearning.py": "f4776b3a3e011b5a9a5f44e30ac5bbc6f59ed2734717f55bcf2aae321f23d56b",
+    "transferlearning.tex": "9d1544f7af4b1251772cdbec6631ac32a699a1880180cf91f659de2896b5cf40"
+   }
   },
   {
    "key": "transformer",
@@ -3556,7 +4200,13 @@
    "markdown": "https://dictionaryofml.org/terms/transformer.md",
    "latex": "https://dictionaryofml.org/terms/transformer.tex",
    "demo": "https://dictionaryofml.org/terms/transformer.py",
-   "notebook": "https://dictionaryofml.org/terms/transformer.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/transformer.ipynb",
+   "sha256": {
+    "transformer.ipynb": "a14420dc39b2dd574a4af1264c43910cadf76fd098bcfe0870f24f0fc377b8fd",
+    "transformer.md": "b5aba6ea8c786cbc9a508a56c45f782732a55efd6cc21792bc207e251bf509da",
+    "transformer.py": "b0bd11a6e7308de9edeaf6d5a9dfea425ebdc0e34b208169bec78f14131f7af3",
+    "transformer.tex": "fc9b88b6e8e063c9c909b047d2f3ef65c4db282804de62427277cd2370841ef8"
+   }
   },
   {
    "key": "transparency",
@@ -3588,7 +4238,13 @@
    "markdown": "https://dictionaryofml.org/terms/transparency.md",
    "latex": "https://dictionaryofml.org/terms/transparency.tex",
    "demo": "https://dictionaryofml.org/terms/transparency.py",
-   "notebook": "https://dictionaryofml.org/terms/transparency.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/transparency.ipynb",
+   "sha256": {
+    "transparency.ipynb": "97a3788b28621f7872303b6b46bd81c8eb6d3e780d617a926ddeb51910fffe18",
+    "transparency.md": "f7ae254542c16e273a6fdacc99e4466fec6c29797d51e14d256cf384d89f0ca9",
+    "transparency.py": "b602a73d6aa674f148c5b04ea6f434eb6f04ce54ab99a1035d36b26bf162f13d",
+    "transparency.tex": "d7c4ea164fdf87400eac92a7b94176b0e2ee4d6859f242ce2aec59eb6f394093"
+   }
   },
   {
    "key": "trustAI",
@@ -3621,7 +4277,13 @@
    "markdown": "https://dictionaryofml.org/terms/trustAI.md",
    "latex": "https://dictionaryofml.org/terms/trustAI.tex",
    "demo": "https://dictionaryofml.org/terms/trustAI.py",
-   "notebook": "https://dictionaryofml.org/terms/trustAI.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/trustAI.ipynb",
+   "sha256": {
+    "trustAI.ipynb": "a0497b2b473cd02ab15ba525e8e43dccd2e3480a145acfd228c8475620ea95b4",
+    "trustAI.md": "d947877e919f5d8bebaec7d921ed4cf4dd922b0e14c5b8b0eaa826ed1e4099e0",
+    "trustAI.py": "a8b8894897d9bcd9a837f8d3bbd7ddd67622e3187349e7393f39243a4833a52e",
+    "trustAI.tex": "cd171122c0a4c16a209fbd2855666d7de167f2a659140ce77c5de9b08487d90f"
+   }
   },
   {
    "key": "unsupervisedlearning",
@@ -3652,7 +4314,13 @@
    "markdown": "https://dictionaryofml.org/terms/unsupervisedlearning.md",
    "latex": "https://dictionaryofml.org/terms/unsupervisedlearning.tex",
    "demo": "https://dictionaryofml.org/terms/unsupervisedlearning.py",
-   "notebook": "https://dictionaryofml.org/terms/unsupervisedlearning.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/unsupervisedlearning.ipynb",
+   "sha256": {
+    "unsupervisedlearning.ipynb": "491e65f6587ab084e47db10d80ad3ccd0cf1a79db23dd48a6bbbc29afc6b5dce",
+    "unsupervisedlearning.md": "b18a544ea9a88fe63c26564d9bfec1002d1d96e5f3a60ca6a66e4803d683bb66",
+    "unsupervisedlearning.py": "25a01fadc57a78f82d3662569e01a0d8306b1b0f65a4ac4654d3823a5883dade",
+    "unsupervisedlearning.tex": "ec4efc87b496e70a153825de29de0a02e48fbdc2b54bc30c87811ef735de9956"
+   }
   },
   {
    "key": "valerr",
@@ -3683,7 +4351,13 @@
    "markdown": "https://dictionaryofml.org/terms/valerr.md",
    "latex": "https://dictionaryofml.org/terms/valerr.tex",
    "demo": "https://dictionaryofml.org/terms/valerr.py",
-   "notebook": "https://dictionaryofml.org/terms/valerr.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/valerr.ipynb",
+   "sha256": {
+    "valerr.ipynb": "dc43d25378573ea034fe1f8a2a2b1baff3de8927b8bd7a4f1ef100ab7842ad82",
+    "valerr.md": "37822c17c96a4e5cb8f4d21d396da04238dfd249e744e46796cd88fed8758051",
+    "valerr.py": "25363a268f601c90eb62bb702db308efbb5194c3c0ad43f9fb2ad8366144deb6",
+    "valerr.tex": "93ff30af4ac0d243a6a8dcdc01a6e820bf3cd8da74a15d9f719a3eebbdc6b720"
+   }
   },
   {
    "key": "valset",
@@ -3711,7 +4385,13 @@
    "markdown": "https://dictionaryofml.org/terms/valset.md",
    "latex": "https://dictionaryofml.org/terms/valset.tex",
    "demo": "https://dictionaryofml.org/terms/valset.py",
-   "notebook": "https://dictionaryofml.org/terms/valset.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/valset.ipynb",
+   "sha256": {
+    "valset.ipynb": "af4eae3241b6397911a4dd4308917bfc2b4fcab360de4b5dce23be724a4875ed",
+    "valset.md": "3e4a2780fa4829fe3073438c844d59f856b880d2fb04544140a8c0bf70c12610",
+    "valset.py": "e7d0f2c8d1d270657ea4291e11c291d72b68070b7246806791082b44073cfbe9",
+    "valset.tex": "46645e4947b2fdb818ed701d31fcfc38319d8f52e0f5ec819e5de33c6d1995aa"
+   }
   },
   {
    "key": "variance",
@@ -3742,7 +4422,13 @@
    "markdown": "https://dictionaryofml.org/terms/variance.md",
    "latex": "https://dictionaryofml.org/terms/variance.tex",
    "demo": "https://dictionaryofml.org/terms/variance.py",
-   "notebook": "https://dictionaryofml.org/terms/variance.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/variance.ipynb",
+   "sha256": {
+    "variance.ipynb": "5793e60028005ade27976e83a8a9e47402f304a22be69f26391e9d1cd7e4deb7",
+    "variance.md": "fdd5973851aa50a9bcd6eb107b50fd323161fc1b2396aa432d2ab7e6ab0f05f8",
+    "variance.py": "8964bc936cdaf8f1d16a4feb39df5a040e6959d74659d54bb2f190a148ee3f6d",
+    "variance.tex": "83298a194e7751a6eaaf0db89044339af0d81a01c4cb8d4074db600fd40ca8a4"
+   }
   },
   {
    "key": "xaiterm",
@@ -3772,7 +4458,13 @@
    "markdown": "https://dictionaryofml.org/terms/xaiterm.md",
    "latex": "https://dictionaryofml.org/terms/xaiterm.tex",
    "demo": "https://dictionaryofml.org/terms/xaiterm.py",
-   "notebook": "https://dictionaryofml.org/terms/xaiterm.ipynb"
+   "notebook": "https://dictionaryofml.org/terms/xaiterm.ipynb",
+   "sha256": {
+    "xaiterm.ipynb": "26e988ea97e2e7a41d80d51834d9096307c0c5a73571223b3290e957f0e82daf",
+    "xaiterm.md": "9d8f6e8b68d2c20692da5cba838ee5fbcd984a6fc83e9d7e9fcdc95040a277c0",
+    "xaiterm.py": "aded77d9a80b401637a8b5dc7116faa7b904230139634109778d99ee386d2752",
+    "xaiterm.tex": "6bb7652c0127b3e5e6b6adbdbe2c7a2b28dba9d50dfc20bc0be4e973542775a4"
+   }
   }
  ]
 }
