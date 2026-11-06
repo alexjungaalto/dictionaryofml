@@ -661,7 +661,7 @@
    "notebook": "https://dictionaryofml.org/terms/accuracy.ipynb",
    "sha256": {
     "accuracy.ipynb": "29abf70894804b69355fe2ce15e05db71755e48a34fef1d3f9d841f73c66c36c",
-    "accuracy.md": "1c029cc5809400b86777d2fa34e40846b24dfbb08d401e9d167526bc9c8571be",
+    "accuracy.md": "e5972ab1378570947baab82f1cdef110a5cbcb25be3edcc1e8011d7bc94692e7",
     "accuracy.py": "eaafb209196c1a42a434bc36642c7beba5332b38e5dd7ff0a05bd05c1d4e84e8",
     "accuracy.tex": "d1869f26371006e56b0108097e009ec9612651cf576d85dd8e1c0d4479e85989"
    }
@@ -691,7 +691,7 @@
    "notebook": "https://dictionaryofml.org/terms/ann.ipynb",
    "sha256": {
     "ann.ipynb": "b0bd0e3835e203f1ab10eae1ff58389412e7d98db2336f1d1c055e08493d73c0",
-    "ann.md": "f40f0d8f39fdaa8e0df15fde0685940cc191396dd3901d95931b398e2c82d130",
+    "ann.md": "4befa5da2b63921c2c79eca4524fb59e90dde008e6993d91e197a1f8920b7df6",
     "ann.py": "3d56ea5dc1ab1bcaaa56ca96f90016e659886e3bb751c702fc4840146dec9f33",
     "ann.tex": "f4fa7d7cf2d74e4bd23b66786a72f523838b48330e475a43af0e66f62bb75f5a"
    }
@@ -722,7 +722,7 @@
    "notebook": "https://dictionaryofml.org/terms/attention.ipynb",
    "sha256": {
     "attention.ipynb": "dbb7263edc393f9c0e8aad2daba5b97d5b1390aaa22e4a89b77c9d38ca869694",
-    "attention.md": "44ad209e748768e289f83cd2d3dff54377f06885eda475f17d05a8cf716fcc76",
+    "attention.md": "06d2724f4a2d2b3c7fff60919c92903c81a19c0c9956e7836728d4f7894952b9",
     "attention.py": "5cd0ff17fff91c23d3d8f9f0c5b01e8051f3f5086b4d484abddd3908dfcee4ff",
     "attention.tex": "ddbe606d2688ec2e051d4413f36192b87f1e3cfe1075fcc60f7637d14f409d68"
    }
@@ -756,7 +756,7 @@
    "notebook": "https://dictionaryofml.org/terms/autoencoder.ipynb",
    "sha256": {
     "autoencoder.ipynb": "7b4fe668ffb60da707c51ccb7a231ec12f0b4ede31a9b0dc4523abb911316f68",
-    "autoencoder.md": "e72c22b041bf46568362a514f9e4c7616a67b65a70c3df1fc4855a52dd67fcb3",
+    "autoencoder.md": "bd62a0cb60395f39cfa482bc511444232489cd8938db721332ea81acd8b76db2",
     "autoencoder.py": "42fb4a103c3781c3852e2046b8607edd357434473e7534ab9e2561d61f18dd95",
     "autoencoder.tex": "3810fdb4caa28efbd66ea4b14a1eb2283ee37d1dabae155dcb8185d5d041d1b0"
    }
@@ -789,7 +789,7 @@
    "notebook": "https://dictionaryofml.org/terms/backpropagation.ipynb",
    "sha256": {
     "backpropagation.ipynb": "f606543b37279c5a043de17402a70574a9253f51d670c32c66dae06826add000",
-    "backpropagation.md": "437f6c848fc03a940c1c5630b45fcc306100d0dc9fecdddc6e10a1d02beefbf3",
+    "backpropagation.md": "3759d91370bb374471f0ca26d1e2a290487e2b25e9403b2a757e36c4f298a47b",
     "backpropagation.py": "bc084d49dfab63f3b4dfd9310ba716dc52348a56da1cbfe600f438f2eacaacd3",
     "backpropagation.tex": "594f1098af207d71f63e10d4a11e71b8160a8c9873b47c9c4bf1f2f37f223170"
    }
@@ -820,7 +820,7 @@
    "notebook": "https://dictionaryofml.org/terms/bagging.ipynb",
    "sha256": {
     "bagging.ipynb": "60b1793a4c5e2b5242065fc95b8880a456d687fa2468ba22c523e15fbe6062f4",
-    "bagging.md": "ab6e366ab56bbadd5beae7e26faced8be149991122402bc65ecf4fea283e733e",
+    "bagging.md": "f0f826179936e00418a61aee8854c77691f632975f314b6c33384c7f3a206973",
     "bagging.py": "b9b2ee95d12851213d7c96aa3d9d91fb477c6faaa6f6d2b155e1edeebc6c8bd9",
     "bagging.tex": "58c418004162cb0581b97260d5fa26e4ce41cf1ca05c0586f5a8c0f888d63553"
    }
@@ -846,7 +846,7 @@
    "notebook": "https://dictionaryofml.org/terms/baselearner.ipynb",
    "sha256": {
     "baselearner.ipynb": "a60cad72e0ec91e6d6d2cd04029f65038a0504a147f2505eb0d31dee92841199",
-    "baselearner.md": "f7fb3a92fd9a85f82d7c837729728bc572d28c319f21e1586502d085a1cf60f4",
+    "baselearner.md": "b327735841a879f298bc2922a8fd8e3f93bb655c5642372feba89b2cc18290a4",
     "baselearner.py": "7f497457bfc92be6035b5ec172140c565fb85e02edc887246a0a5f780d3c322c",
     "baselearner.tex": "91d2a71d08776d9743e4af59d9087725c138b198634bc670072f7a9adbc309a0"
    }
@@ -879,7 +879,7 @@
    "notebook": "https://dictionaryofml.org/terms/baseline.ipynb",
    "sha256": {
     "baseline.ipynb": "358b56fcd5db586f2b1326a68fa87f4894efee2fda95033814919269206a595c",
-    "baseline.md": "0c49f4f333a81ce34d13c641ff32d18b537a32e16238cfdce674ea5c688c1dd9",
+    "baseline.md": "2009afd1d9112785b7710b8b3ff6e054dccbf42c891175d3c44b06f8eee8f0a8",
     "baseline.py": "b3540afcb7914a69fe7e63d75c6950a60e4bfc70586dedc9a1a75d0fe5ddb055",
     "baseline.tex": "34ed33f00e8fcf7f2d65fcb22a0e34da9028dfaabec6a50df178a0833470a105"
    }
@@ -914,7 +914,7 @@
    "notebook": "https://dictionaryofml.org/terms/binclass.ipynb",
    "sha256": {
     "binclass.ipynb": "a7eb937741e72c18d1a3d76aaa849fe5ddea921672f02d1e77c88843a39f72b0",
-    "binclass.md": "f97bba74115caad913101dd2b9ec1ee3711deacd3a37a43e52d8d7480fd52572",
+    "binclass.md": "9311285097ec2456db53e0118bef99332e9da73474615d85886154860fa6a6e2",
     "binclass.py": "a6a2ce1f45377fb1c73bb03c5c267462c3d02eb5781c4b12b5ccb162c71ac552",
     "binclass.tex": "714e8cc653a5d35ebe8d2c6a4e937d7aa8a19c0f179364e5c31c2caa6043d07c"
    }
@@ -942,7 +942,7 @@
    "notebook": "https://dictionaryofml.org/terms/boosting.ipynb",
    "sha256": {
     "boosting.ipynb": "d7b66e41eb9ae725b25e400af321ad2c7943ebc06c421efa7773746d7d6bbfde",
-    "boosting.md": "4d7c3b52332dcdfe01aa254bfc39546f56751fb4f36c8fe09c253343afbf88de",
+    "boosting.md": "564c9d9b1d62b00e85be1b0f0c18e7fc12f3e2ca465a904e0520b110e509962a",
     "boosting.py": "d4c6dfbbca6046334af53dd2889fa2a61a296e927e8b3012817e60d5cd7eabf9",
     "boosting.tex": "be241b1100591cd7631f676d67cf95dd81026926f220980284ba1cc89def91c6"
    }
@@ -975,7 +975,7 @@
    "notebook": "https://dictionaryofml.org/terms/bootstrap.ipynb",
    "sha256": {
     "bootstrap.ipynb": "6328f1f11943ddd3c4211797dc852693deab97a80a7a486dc3e2e3389ec40849",
-    "bootstrap.md": "b24eb719dc795bf299a7c5335539df435125d0022614e6d89374f3a5950e9708",
+    "bootstrap.md": "abbff910d2096dfa8c244960f4b03eb5791c15debd013f80a9bed64fc78afb67",
     "bootstrap.py": "c3d1929a2361b1e96e4ccbbdddb610844fca14564d46ae2ea59acb2cf100d365",
     "bootstrap.tex": "d7e0dfe4f444ccbb03851541da85bef10b4297837b59af13d939a57dcf74b1fa"
    }
@@ -1010,7 +1010,7 @@
    "notebook": "https://dictionaryofml.org/terms/cav.ipynb",
    "sha256": {
     "cav.ipynb": "7b66b4ef84296486a5176f15b5d16a803922650e005600c6fddd5a549a02cad2",
-    "cav.md": "46d1cece3ed29026e91dc079674483224771f2cbb93401dc494eef81441f899a",
+    "cav.md": "48b8b01ee5ea3fb8c9501de3de0fc8ca80664ea7546a20a3d82ea02506da9981",
     "cav.py": "226961f45198018028c985630fa148f7becd1b718bfbe1d532b8fb2599efbd7d",
     "cav.tex": "b8aecde4e3ebbf77e8223443aef07cdc0e2c9a146f936e306c4ea214fe34667a"
    }
@@ -1049,7 +1049,7 @@
    "notebook": "https://dictionaryofml.org/terms/classification.ipynb",
    "sha256": {
     "classification.ipynb": "3121ba1b492960ef599cc8f370bc80979de9460c37d81c5e45aeb90e87983e9f",
-    "classification.md": "7c20dcd6130236927bb9955f85ef61841031c4bd7d45a3900a727b413e196161",
+    "classification.md": "3176d83b8c9862111f93800caac7c011271a97efea3de25f975dc5abb8de77a6",
     "classification.py": "6229ebcc5dae05d7b706d81ae1ac4360daf9ccdfea78046b85b4f12575ac7d78",
     "classification.tex": "ecc9d9d952bd04223837ed4742616c76a60ef6cef776365cf91de74386643893"
    }
@@ -1095,7 +1095,7 @@
    "notebook": "https://dictionaryofml.org/terms/clustering.ipynb",
    "sha256": {
     "clustering.ipynb": "733af3f85a7ad1882b112a22f634371be3becc70860506285580cc75beba1aac",
-    "clustering.md": "22c89fbc3ad949407defb1381b42f819510f0378b43e294c075725b259d9c7ed",
+    "clustering.md": "6b94deac02d01a7900dad6d52ab3a997a686d2ffaace2ec0c4a0f958a133f1f9",
     "clustering.py": "59b0575d0dec9bb5870546064b969823ebc76e3128a90672c924740b26de7f8f",
     "clustering.tex": "b04a15334735acb325739976a9dc543b5ae191410f05956d78649f320a64fd84"
    }
@@ -1129,7 +1129,7 @@
    "notebook": "https://dictionaryofml.org/terms/cm.ipynb",
    "sha256": {
     "cm.ipynb": "d370ae2149ef8804c587d6c4632a38a64a8e52a936a46e3bfd355a04f7fe8c06",
-    "cm.md": "0ac97260a222e1727ebd5055f4c3bde9255af86d7115f3a60f5563cd774eb686",
+    "cm.md": "23474f1dd6420130d98b50084ef26ad137d73321ce44133577d97bae54639075",
     "cm.py": "3b09dbacfd0f8df353849209df8884df4de928eb7127ada886184258b44342b5",
     "cm.tex": "f6e22fc6e1f17ea74371c07513ecc33e7823db4af3dbe671f4ea6d4c4aee4cfc"
    }
@@ -1180,7 +1180,7 @@
    "notebook": "https://dictionaryofml.org/terms/correlation.ipynb",
    "sha256": {
     "correlation.ipynb": "01f847f78d5b29f3a99ef2fc8f024691f819e740d730327c52b8a73417b0c870",
-    "correlation.md": "b55adbdcc7846b63446231fb6f5d230fbc57f2b32fce7852acf048a22ca42724",
+    "correlation.md": "6dcc0a6226e5c2ee5f0f455e3a09eed05d63646bec8b7b451845fda89f39beb6",
     "correlation.py": "29faa88eedff7b8934196f69f2108ba4ac70fef50ee052462152edc0958de8b1",
     "correlation.tex": "7153a0c2193ba5e41b321813935737cbfd54d9b73b6f75bc1d785946b5033d21"
    }
@@ -1215,7 +1215,7 @@
    "notebook": "https://dictionaryofml.org/terms/covmtx.ipynb",
    "sha256": {
     "covmtx.ipynb": "0a411b0177f4d2e3a54512ca7ed98101804828a64fa62b85c19732a75aee8607",
-    "covmtx.md": "2e3bb08418262ed9dd081529ef0faf6d0f25e1a1b4ff4d4513f14f8057d6b9ea",
+    "covmtx.md": "3caf7b8bc1d1bbe30c10b1ee442eb85f148ac55ec2d0eaf667475e30de316557",
     "covmtx.py": "051cae7583454630c2115d63fc85f23a2a8dd263e9c710703f9769934cec88ab",
     "covmtx.tex": "0b90d8da76f915274c3bd09e67b71d19e23046373317388b28ee885d47d49d0d"
    }
@@ -1287,7 +1287,7 @@
    "notebook": "https://dictionaryofml.org/terms/dataaug.ipynb",
    "sha256": {
     "dataaug.ipynb": "11d81a3e2985a93be354405431688ad56be1f2ef5d201e75538cf8407cf541f3",
-    "dataaug.md": "5632da180c9e3a4b660d4acaec52a4f849a7597805f2c4dc7afba94314639471",
+    "dataaug.md": "552b90c81b0f7e27223d33c76416db112153bd78c3f72e275176b8853b37ede4",
     "dataaug.py": "3f5f99252b2ee432fce45f1d67f788278a4f1b22fc46b2e6ee481ebebaaf30e8",
     "dataaug.tex": "d2e00431b44f843d08c85d263792b5fd13334dc6bc72b0f3c85a64e997f970ce"
    }
@@ -1324,7 +1324,7 @@
    "notebook": "https://dictionaryofml.org/terms/dataimputation.ipynb",
    "sha256": {
     "dataimputation.ipynb": "bc79b41ff904f895dc93b26c129cbf849e8a084aaf7e584b1f9007ee779063b2",
-    "dataimputation.md": "5df7c7820430e500217e12958b377cf000e9aa79a57f32fa39dd11afb5f111f8",
+    "dataimputation.md": "efb1cc06f37cb8e5ae69bc193a6aff720387f5c744a38a32359d4824f5929ccd",
     "dataimputation.py": "c139680621d04392f3112d42a1527dcc6a78c66477a9369989601972234d29a2",
     "dataimputation.tex": "67425ba9b515c0d7d85d23d8b776a866f7af24808b37ff295b7cf4aeda05f726"
    }
@@ -1352,7 +1352,7 @@
    "notebook": "https://dictionaryofml.org/terms/dataleakage.ipynb",
    "sha256": {
     "dataleakage.ipynb": "063937f0ae0e70d2d060523a569bb398fa87a928599ec05fbca6353d0f417ca2",
-    "dataleakage.md": "2d9b47d0fd059b38cdf7ed443a531e5d85df0eb445be508f59715be4b1c619df",
+    "dataleakage.md": "f654991da821f89223de3305fc00cb9edd0759a0b5ff6ffb0d441322d4367721",
     "dataleakage.py": "6b59d87be67099e6e24144b44900d61d51de27140c058f7c0662bc73c83884c5",
     "dataleakage.tex": "484f777a2ad453799db3f566d525b3ff92f2c80173b917b517c5dac04f349004"
    }
@@ -1512,7 +1512,7 @@
    "notebook": "https://dictionaryofml.org/terms/decisiontree.ipynb",
    "sha256": {
     "decisiontree.ipynb": "5bbc982d7636b6211e363a4f4de47726f003d2334a1a847e072667f34ebbe1ca",
-    "decisiontree.md": "4d4c34c8c0ac4124de58606a24853afee7b2d15c2b82be1b93731090ac2a45d4",
+    "decisiontree.md": "ac81475119404110b0e67587a4f97768ea93098f46f9de950dd9b05e2d4ca555",
     "decisiontree.py": "7e63833f0e0556eae37afd25cade52002cbc8182ce6ccf6273fc4ccb6a52a7e7",
     "decisiontree.tex": "c84b5cbf24f3f686d8d7f017a25affbaf911caf9ff68cb360c7bba7713463884"
    }
@@ -1541,7 +1541,7 @@
    "notebook": "https://dictionaryofml.org/terms/dimred.ipynb",
    "sha256": {
     "dimred.ipynb": "2677c43ad0cbe90dccee91b717aa0957c7c095c41c1d999a4dab565c81eb8bae",
-    "dimred.md": "56747e07d86a5e182b94fb3d0e15459cca4a7a0a4b64e0da0a5bb0dcd16c42b9",
+    "dimred.md": "ca0955790ac72bfc5493542d10a1b0fd0ff826805cf96c617b62c4a610dccf22",
     "dimred.py": "9c4887b9412fbb003d6134d64edc8d25bd47978e7401f8c9db1d45d05a62b704",
     "dimred.tex": "bb0a689b5e7342aa8e3815f7e136f6ba6c7c092a3ad8bbf0cbdf99cee9962f03"
    }
@@ -1576,7 +1576,7 @@
    "notebook": "https://dictionaryofml.org/terms/distshift.ipynb",
    "sha256": {
     "distshift.ipynb": "f3e3795f03037fad2d1e16bcb2d16a983245fdce961cf47573bcbb96c187ea83",
-    "distshift.md": "bfcc9deb3f5df788747d799defa61447c26f8476a9aa08721ebcc406cf337b16",
+    "distshift.md": "99962ba5c596426c5355a5344ba3291bf68453271f242ff6dfb9798b66a6d45a",
     "distshift.py": "73073296f8bec2801a23d75bfd584f14a424997d94ba936fa769d783b6d23d3b",
     "distshift.tex": "bebfabfa4f8c6602b2c852d739696b3e2348ec400d17b05fe01d4ef8df578e2d"
    }
@@ -1610,7 +1610,7 @@
    "notebook": "https://dictionaryofml.org/terms/effdim.ipynb",
    "sha256": {
     "effdim.ipynb": "f8a23e850ef3e91cb2918d4f869ae86694182f5a5f92e3002976d53d89471bc2",
-    "effdim.md": "a4b3ca11580bd78496fa19c2068ffd16c01b07ea099ca1bca4b86f5c8d394ea4",
+    "effdim.md": "8fe81955f99bd9c835be3702323cea0af94554aecc4c909a6dade4f928f19bb5",
     "effdim.py": "559567b3474af4c31c55210141beb7a86964fe35060d8faa69a1c5251c993384",
     "effdim.tex": "6e78c0ba07c590fce1d5c725cd7c4a80f866dd6d9d9f8eb1bef3ebccc6df1d64"
    }
@@ -1644,7 +1644,7 @@
    "notebook": "https://dictionaryofml.org/terms/eigenvalue.ipynb",
    "sha256": {
     "eigenvalue.ipynb": "0dd537bd414aca0abaf851c76c2d14fb17b790bde1646cd7b2eb850ffc2bdb78",
-    "eigenvalue.md": "6398e7bba0080451f0ecc971382910c35ebd97abceed64a630df795c11fde14f",
+    "eigenvalue.md": "2c7cfdc1d73440854cc8986f2aeab206589e61b99e12b26d56a0b85a2747c371",
     "eigenvalue.py": "735d4a9953035f086373caa8c3451c89e58adb15f396828ee40dc31198e32fdd",
     "eigenvalue.tex": "2341d9f127cec5b38cf46b83b42fddb5a237122aeb3ed468a3f1bfabe4611999"
    }
@@ -1679,7 +1679,7 @@
    "notebook": "https://dictionaryofml.org/terms/em.ipynb",
    "sha256": {
     "em.ipynb": "8cfaee8c662c008fd6ee3faf63ea2894b5ae537712dd916dc5aa66482c196367",
-    "em.md": "5b7373f18717f37a1bf92e0beec39b7037284c8b945693974812f108ab7538b8",
+    "em.md": "daef174995ba5fcb532ad92b543edce072cbe53a8de4390b375cfe36a38c97b1",
     "em.py": "47e2bcbbc13bfa07cb1997ea610f8beb265e3af36bddcd25b960a4ebb3729f9d",
     "em.tex": "ff88b643b93b73535b8f1f1963ffa186bd01b44a29d785d85c8eafb9682fbee4"
    }
@@ -1708,7 +1708,7 @@
    "notebook": "https://dictionaryofml.org/terms/ensemble.ipynb",
    "sha256": {
     "ensemble.ipynb": "4fdf2288874d309c5a2c16ba723b78775e86351e29968ee5ca0a0ccdeb7ceed4",
-    "ensemble.md": "76418155df01e4adeee7dacb85197d059c4d755fd0e54a44642badf9b6a7470b",
+    "ensemble.md": "8ad02da929007cf33b7e06256063197313f577a0181e7a84636d6c72813bedb0",
     "ensemble.py": "beeada68333945d95454caaee2b210c8a6523fd4e2e78c8587d1c8c3fb8e1dae",
     "ensemble.tex": "6e556978ad6283a3996ccfa3d3a38a2c5d9fb9db2788c79d207ec53d7dd149dd"
    }
@@ -1783,7 +1783,7 @@
    "notebook": "https://dictionaryofml.org/terms/evd.ipynb",
    "sha256": {
     "evd.ipynb": "659e6a8326f3e76c5891c56bf70640967062094f19e1bd96de947b63c72ff695",
-    "evd.md": "055be79bd1c39df0407a5766913897e2c0e3c634245ddcdbefe6c8ebf98fe0c3",
+    "evd.md": "b18f74f754668262dbb1d576724ab338f0929a076591b2a84a1f7b71bff7b1dd",
     "evd.py": "8df39f894b84e27bc16422074ee2f91893bb037fd36e106015745c8f8010f090",
     "evd.tex": "688273e2860bd7be1aeacc3ff250e9645eb67cf3d5e0bd881acdba6366b52cc0"
    }
@@ -1814,7 +1814,7 @@
    "notebook": "https://dictionaryofml.org/terms/explainability.ipynb",
    "sha256": {
     "explainability.ipynb": "6d2b1ec3dffa98b6707686f1e9e250932dec12bf3c663a016e762f75f00300c6",
-    "explainability.md": "ce3ce8b635b320679357977397351eb02eca09d3f91bc35ff1357051f97c8d93",
+    "explainability.md": "928aa87166235a5d9ab2d2079814b2efc2665d6acf31f2fcedc71a4d783dfca5",
     "explainability.py": "a1e55038086ed174a72a298445f14466803ed1856a4cef5fa93c05d2ca0859d3",
     "explainability.tex": "ea0293f1d1c93432bef56fecd4ada30b2f62e687187df1d81e5539511539237f"
    }
@@ -1848,7 +1848,7 @@
    "notebook": "https://dictionaryofml.org/terms/explanation.ipynb",
    "sha256": {
     "explanation.ipynb": "9b565520612ba3ceea019439fdf3bbcee13b25909a9ad48624f853de3da97eae",
-    "explanation.md": "49946b02aa0d90ed852a346cdab5c52571e092a070ca7b64dbab10dca43ef5f4",
+    "explanation.md": "afc52a073ca16481ed7a0a9e4545ab299d2bbd5611f2a65336d03e733fa049a2",
     "explanation.py": "8afca98ecab2cc2970f0b8a3a2d2a69d67c688ebf8f8e71b4a6245685ba6c169",
     "explanation.tex": "c894187b5d5af824f1aee225def27bbbc35593bc23c24c630829d7c9ef36078a"
    }
@@ -1888,7 +1888,7 @@
    "notebook": "https://dictionaryofml.org/terms/fairness.ipynb",
    "sha256": {
     "fairness.ipynb": "699387dd221934d9a9951b0aac5634a74d701056462a7b172c7765d0368cbed7",
-    "fairness.md": "cb297abf793c543d9ddd4cbfc54d12c241668efa620ee68d631703194e08b5ba",
+    "fairness.md": "784d80b03353a0bc79fe28434727499bc48b650b7ea89203b7b4cfd2e652c02f",
     "fairness.py": "a00e41071731e0e6c94cc84cd6b03d12f794509eac0b66e3b0dd59c2e05d135f",
     "fairness.tex": "a50307124de5c9c389a93c000f9c76f468e7745578427fdde4c22f0a31f9629f"
    }
@@ -1922,7 +1922,7 @@
    "notebook": "https://dictionaryofml.org/terms/featlearn.ipynb",
    "sha256": {
     "featlearn.ipynb": "4b998ecf876b346e5eab472cbbbe6d390fb48787b2e1f4341e3bf730d44f55a6",
-    "featlearn.md": "994d0784b9154f855ac925c8c99ab5fe315e47827f27aa719c5b35fd6350fccd",
+    "featlearn.md": "7c2b9999ba454a8c958bc06c01db3e962957111e94947b2a96467a7f87a571e9",
     "featlearn.py": "db88b6db292d44f4ae746de6e842297473500f5fd9f390d0d6666af7693f6c5c",
     "featlearn.tex": "cf3c406d599e9876db2a42a2047dac333f7431ead868a0622abb5e8694caf4dd"
    }
@@ -1992,7 +1992,7 @@
    "notebook": "https://dictionaryofml.org/terms/featureimportance.ipynb",
    "sha256": {
     "featureimportance.ipynb": "00f1f7297887cc89336152e63a2c4a32df54a27a2098bd11950b77da5ed1b789",
-    "featureimportance.md": "86ec83f34bac94f1b99b462056e427d08d339d12c60b75682e4971b1b83c3987",
+    "featureimportance.md": "c5aad8842c321709a360ac5b7b1c36bdacf8baa85879a72254eb3f81657acb2e",
     "featureimportance.py": "3557ee9596345b841c8378b4dc4d61fe91b4ea07434ccc953260faaf3bd0b5b6",
     "featureimportance.tex": "c22933314e281ee6743192f36c44eb25155afec529a003927048661c150a14a5"
    }
@@ -2033,7 +2033,7 @@
    "notebook": "https://dictionaryofml.org/terms/featuremtx.ipynb",
    "sha256": {
     "featuremtx.ipynb": "cc2d62b32e86a1229a1bcb4d8beb763df98e65305c6aca7cfbb863d4eaa009b7",
-    "featuremtx.md": "44b478505d81d78dad63cc5c8fa79588f05a894cef344cfa254520b55817e6ff",
+    "featuremtx.md": "33811b2daf7c94decb494a066a320af03a55f4694a80e5eafeeddd375bae7590",
     "featuremtx.py": "0223eb07ee30bc47bc4fc8a43b39130314fedc98f24cbe515f89892bfd75a9c7",
     "featuremtx.tex": "2853aab45c52fad51b5c03e8f70a10aa25676408728daad6b4e539f1d9f163e8"
    }
@@ -2069,7 +2069,7 @@
    "notebook": "https://dictionaryofml.org/terms/featurevec.ipynb",
    "sha256": {
     "featurevec.ipynb": "60fe48d3cd50f632bf5e5658d93d0c6920c267757675ec3030fa7651b6a257b5",
-    "featurevec.md": "347664f8a098e99f24c56817ccfc3d1d2f34719f020174dc35eb7ed71719126e",
+    "featurevec.md": "03b36cc32574d7d7aef52796292687e2cf09c57c2ff03b7ad37e9e6be16c49ff",
     "featurevec.py": "a575952663e9ae536745ab7542bd95784494093dd88fa055e7aa101c27fa385c",
     "featurevec.tex": "166d06f0c9e522a643e3b50468aa5bface54312c8a6e804b9b78c2a6f5e64460"
    }
@@ -2104,7 +2104,7 @@
    "notebook": "https://dictionaryofml.org/terms/finetuning.ipynb",
    "sha256": {
     "finetuning.ipynb": "5e1cbf871b33160c0e6055cccb4d52875d254ac126e6e4022b2f957ed9720b20",
-    "finetuning.md": "ae8ff9bf33b058a4a6b346c15564304cda07e1e556bb5804b472942285ab9217",
+    "finetuning.md": "37eec8cb74e782777ce9ce8130f8b0efd60850632fdf81c3538c3537855fc3b5",
     "finetuning.py": "e8aecd6b725877749c6e5ac2a1ad45b6130601ea0fb01d2917ac0c519dcb0354",
     "finetuning.tex": "60a484f2b8c227404d53449876ac9dd642f95399c5104e2c92a81844d24481bd"
    }
@@ -2133,7 +2133,7 @@
    "notebook": "https://dictionaryofml.org/terms/gaussrv.ipynb",
    "sha256": {
     "gaussrv.ipynb": "5cd87b2861be5fe190ed2d95c85d32e45213f2d403064586b5bf9b41582d84b3",
-    "gaussrv.md": "d79a3e2e0e2aed959092fe6e69c31fe61a0557b592b4dd9a5a786064aaad331b",
+    "gaussrv.md": "f213b1d23a7fa5acbe5127e8a01e8bc435825ef20cb9351a03d4e43ed36aa750",
     "gaussrv.py": "3d7f49d897555e432d63702e986bd42721e8fffa5f25d73492975ef14754c096",
     "gaussrv.tex": "2ef6a701049829d67a1f503ad7929b6ace6f9ce7a315417b270f9b706f726e26"
    }
@@ -2164,7 +2164,7 @@
    "notebook": "https://dictionaryofml.org/terms/gd.ipynb",
    "sha256": {
     "gd.ipynb": "c7c0c0317940211e9e59d58f88b980b14d0da8561ee84de3c8fe273b4931e4dd",
-    "gd.md": "a525dd394e942e8ff6fe6b9d095571b48815fe2d7fca00e0720f0645a0cee7bf",
+    "gd.md": "62a7ca0b293b995db4aa8171c924815762d109a3762084a0fe27848a11149107",
     "gd.py": "606c3c673d41942da9159f3b1511c3e778657a439a245886879125d6d88eb7ca",
     "gd.tex": "28a7574b16852b2e1d124c6344f96ef2d3882143bc172c2227ef6d701cdd809c"
    }
@@ -2230,7 +2230,7 @@
    "notebook": "https://dictionaryofml.org/terms/gmm.ipynb",
    "sha256": {
     "gmm.ipynb": "afd98bb851eb956777e049a91e4dda1520d68a74f0a7a4629f3dfd539440bdda",
-    "gmm.md": "c7a4253ec6a0b62cf6ac24247a47a085284e795a71b1eb7adbf500b88cacbf26",
+    "gmm.md": "72257f6fd1d42daed36b0c307e45399502c37d88ccd54c5cdd959ef0abbe4a0b",
     "gmm.py": "fe93029a893606ddb7cb98bb0cd186ddbc32e6a6e46fd9c695bd2a85daec18da",
     "gmm.tex": "d2ecb14c674469d0c35e614d1b534b3bd4195b79a11decbd0b4d365c4ef43ab1"
    }
@@ -2260,7 +2260,7 @@
    "notebook": "https://dictionaryofml.org/terms/gradient.ipynb",
    "sha256": {
     "gradient.ipynb": "5be0069df38dc3b769daf0fccb4e26e850ce60ab4e4e5342e215d2aa797cfb4e",
-    "gradient.md": "b11633cd01f3233ad21ab56be60a7bdddb800574ef156529be09d9d2724535de",
+    "gradient.md": "81dcf698edc366cfce8c749d476b997ec51288cc167feb3525cb59a1125eb7a3",
     "gradient.py": "d8b4210544e13a71f4e0f0cb13dafa50256035b4040004b795f441b7be9eca41",
     "gradient.tex": "17bbc9864374764f39d16d466cd5b9da906cae6f0f3670f602aba14ccc19204b"
    }
@@ -2324,7 +2324,7 @@
    "notebook": "https://dictionaryofml.org/terms/hyperparameter.ipynb",
    "sha256": {
     "hyperparameter.ipynb": "c52101af8565570268c0aeee1aa4b31f1c54ba7bb497385324bf57faf45fe3cc",
-    "hyperparameter.md": "849150012a2883012216e93a8f5ad16c51f5829cf34e4d2f0da33f585190775a",
+    "hyperparameter.md": "70b585f34ba4e4ba9cc829ae2d3f33bdbf7e1b68187d5c32888c67def7ee84ab",
     "hyperparameter.py": "e1ffb777918ae36f3bcbdfa142ec78d6fdb0c9e0ce83be99f4f3784781d650d4",
     "hyperparameter.tex": "70311440b3a69babf663d2bffb15ca95c8b6a02c5c56cc849c24faa2684069c8"
    }
@@ -2427,7 +2427,7 @@
    "notebook": "https://dictionaryofml.org/terms/iid.ipynb",
    "sha256": {
     "iid.ipynb": "2921bed41469d6c45507f7c75c90e921d37d27e3117c33ace399b23194c5cf8d",
-    "iid.md": "93b29a2c25e8831881afe86b04a016db5a8bd1085c8bb06f3fbcc31251e18687",
+    "iid.md": "46965c6d0116cb9632c406d443b90eca2f24f1f6da0ebd914f509cec4f9da14f",
     "iid.py": "ea1d2b4db7b7287a5f126f0674ac7427a895ee771f9f429d9b00cdd604f06fd4",
     "iid.tex": "7b2c7bdb541cbda3b9ee52d9bf0703fdafc1609edac43d8c300f23b5022b1a2f"
    }
@@ -2465,7 +2465,7 @@
    "notebook": "https://dictionaryofml.org/terms/iidasspt.ipynb",
    "sha256": {
     "iidasspt.ipynb": "aea5128d795b54595bda29bb86c45f48d1dbb90ea501e1dd7488eeb86b5e81bd",
-    "iidasspt.md": "b4730c802aff4900d80dfca66a4def898583e59867401eebd137b6713bc94425",
+    "iidasspt.md": "4e9d9c1d6b13ee0b769ddb796bd0a77f0b7d4c732f5ffc1b7236142ba5c1dd64",
     "iidasspt.py": "ab1b1325bdd6504aa247f1e96d853a757396ec689e655d1ef55ea7681400efdd",
     "iidasspt.tex": "299ac43c770b994c82e4dc3477047e19922cf8872e6de5bb8dec18395595aa78"
    }
@@ -2498,7 +2498,7 @@
    "notebook": "https://dictionaryofml.org/terms/innerproduct.ipynb",
    "sha256": {
     "innerproduct.ipynb": "5ba167f497330b2b4cc75e31ae0d1716e3d5a58e97185b9263e38d5f1fe2e02b",
-    "innerproduct.md": "b668dd8f52cba396c053770e43b58ac9537c17e761903be2b2a0c6bcea97aec9",
+    "innerproduct.md": "5749c01f74b3a44fc1e267f15dd85aad3b980ceed68af018db6217c4ec0f0705",
     "innerproduct.py": "4e9c8df9fe55664ed4b719e23e1625e919917575b571dde533e4e9293e114d8f",
     "innerproduct.tex": "a1e341721b7d3e1ccab4b5ba5f0bccfa2db326215b47a328ee3ee99d27cc22cd"
    }
@@ -2528,7 +2528,7 @@
    "notebook": "https://dictionaryofml.org/terms/interpretability.ipynb",
    "sha256": {
     "interpretability.ipynb": "9812f5b82cf33d5350b38e3c9e3f1a872670c52eedfda25e7311c9cde4938383",
-    "interpretability.md": "74bf92910c395657343de239e0b14884be3b44a8384a97098db074e5c1198ddf",
+    "interpretability.md": "c47727d38e214cc42f905b582993242e10900f453323eeddcd088e3045a6ccb3",
     "interpretability.py": "9d04903c5b30ee29b92ee901e4ba59cb3e5c904ce2c84db79faba3a2b8d2197e",
     "interpretability.tex": "534cb5527aecda0c2efe35339b0c37ae189bfe13f646ee53af883439af36710d"
    }
@@ -2559,7 +2559,7 @@
    "notebook": "https://dictionaryofml.org/terms/interpretableml.ipynb",
    "sha256": {
     "interpretableml.ipynb": "b80da332196e6b5a8eb2b6b003ae8dc74605eb497a98544b38b99305e6bf09ed",
-    "interpretableml.md": "9db2f727809bf3dc0cb6654d27c63f616d7cdbf6c56c4bf337d9b6974c021c66",
+    "interpretableml.md": "7741d3c6a6bf1d7c5f4b7f27d41ea4b4d0828774878f341c02c08206631ff13d",
     "interpretableml.py": "4c47d7686dcecb57a972024409dc6da7bde6c3ca9b6556f4f406b9cc676259d0",
     "interpretableml.tex": "b0341e2c675b33e7e73c51281f66981df4577bb6b65274deb1e3984092211c1c"
    }
@@ -2592,7 +2592,7 @@
    "notebook": "https://dictionaryofml.org/terms/inverse.ipynb",
    "sha256": {
     "inverse.ipynb": "5acbd67f9051d0c2b9054e29cc72549e9690eee0e3386f487232c5f7081e5b38",
-    "inverse.md": "6fd9725c7a01302e3384787f78818cf1d90fe9bf87d61f33b7b52d4c01545db7",
+    "inverse.md": "bdcdc6f22f96e03a8e59115cad4e09cac162f676559a2f8f9a480e2eebfd205b",
     "inverse.py": "284e7e48bd5406d18f34bdabf1ce2f511be3b6a52964a84199459370ba538c6c",
     "inverse.tex": "609804d6ec6837ed1a3999fefd4afd0b6999df55a0c247f9d4f5fd857c504eab"
    }
@@ -2659,7 +2659,7 @@
    "notebook": "https://dictionaryofml.org/terms/kernelridgeregression.ipynb",
    "sha256": {
     "kernelridgeregression.ipynb": "c302ef3231ac7d024341209a098cd2e3bb5eb2f1ff1102ad832fada871c61a17",
-    "kernelridgeregression.md": "e323d9e1024c8c02dfae2ada8a39c587b0845b1a27bc7910cc5051c12f109db7",
+    "kernelridgeregression.md": "660742fa4be85434cc5a499a544d03ed7a455b5dc52ac1aef1a865c91edf08bf",
     "kernelridgeregression.py": "f7f219eab70a375cd6b5f0c30ebe21b781327374232f34347018782756ed9653",
     "kernelridgeregression.tex": "f3979e572a281d5ce4243ee469b4f5f06b088035f95a36519089445f85cb0e95"
    }
@@ -2689,7 +2689,7 @@
    "notebook": "https://dictionaryofml.org/terms/kfoldcv.ipynb",
    "sha256": {
     "kfoldcv.ipynb": "778413903108f29940538512140d7f71b2a75626ab44f8cac43ba22611ee07cb",
-    "kfoldcv.md": "74e03f33d2de2b56978d2e023b05a01d82af385bb5efbb0f129a3d7baf2ea483",
+    "kfoldcv.md": "f8ab84465ed00138de4f0a4c22ce6f19fb82e0fb6e9de822581343fd27ca7233",
     "kfoldcv.py": "b5e34bcf36bd39b015be8a183e14c3642b5d6cfcad3bc261311884226cc58b54",
     "kfoldcv.tex": "c7aa76a05390cefa19c7f257245ca75080616c74d231f020906c1a8a43c3cda5"
    }
@@ -2731,7 +2731,7 @@
    "notebook": "https://dictionaryofml.org/terms/kmeans.ipynb",
    "sha256": {
     "kmeans.ipynb": "db517cccd238207f15b68826563a97571e6905ec577f7d164b0e571d07b607cf",
-    "kmeans.md": "59f7c3e63ad267e2b7b3b09fd68999360d231094c834f6d9557a8a3d27c43b35",
+    "kmeans.md": "592f5d56832ce9437497134296412bb7c47789d04b0c2c22da9720a379bffdb4",
     "kmeans.py": "3dbc06c97c2d53064470f27a549e6ec3714407490f9de2fa0d52cf096ec23f5e",
     "kmeans.tex": "c9d71119926b08b30e768005f56bf0095c540b81ce871bc07bb591c2dcde6e74"
    }
@@ -2805,7 +2805,7 @@
    "notebook": "https://dictionaryofml.org/terms/learnrate.ipynb",
    "sha256": {
     "learnrate.ipynb": "c63944d7a419af3faeac23d32bd588b83c3257df07adc29b64b5647535aafe2b",
-    "learnrate.md": "59f6db8ac0a8842c7641ee860c8a98caf24ea9acfef0af85e0fcfab012c9f911",
+    "learnrate.md": "e39be58d23bd3f9d8364a2647de5195cb08b3126156b31ae85de4f5928424f97",
     "learnrate.py": "f8e90e807b5efdddcb277e2e02816cf3ac481063caf13ea498e91e766d53d304",
     "learnrate.tex": "cd545a946c80fa8c802aa4253cc725406360b95acbca04661ff099623d667c70"
    }
@@ -2840,7 +2840,7 @@
    "notebook": "https://dictionaryofml.org/terms/linclass.ipynb",
    "sha256": {
     "linclass.ipynb": "7c5f8a824e60ef744bebb94a5d04d79f911825ffe2ad887d77e7d0c11e2b11b8",
-    "linclass.md": "d8db7112833e9f49263d816e757729b2dde2c786d4439858dea7658f3e458281",
+    "linclass.md": "d43e05b1e76a76f58c4a0a0cc0c8ca61d1d823329dc848f96583517ae31f6000",
     "linclass.py": "bc1ea5b43c4d5ef0e9fd806a2c1401fba9456d985da89215cb33784de0fb4c24",
     "linclass.tex": "29ceaed23b11e63c1ab4361806386753d39491e8717c2240c58a8114779fec9c"
    }
@@ -2910,7 +2910,7 @@
    "notebook": "https://dictionaryofml.org/terms/llm.ipynb",
    "sha256": {
     "llm.ipynb": "ae406ac3ba99048c355b14c60ee0bfdf1848990c18344a10f76a31fd2e04f1de",
-    "llm.md": "9803eab363d64d5162aa5d62420199b06ad4531971f04ab7f0979bdbe8a44f6e",
+    "llm.md": "a226a463aaacc7d6e84dd1858741829f7273c6d1c9a8fa731fae3b3b6ae3245e",
     "llm.py": "0f1069aec59d2a89c5964f3a21d6052bb9df923b635e3dcf062d805eaf3121dc",
     "llm.tex": "38e625da2dfe8722ce1d19c5e9e87c43c8af6b1e51b92cf6d557a6dddfe5e0e5"
    }
@@ -2947,7 +2947,7 @@
    "notebook": "https://dictionaryofml.org/terms/logloss.ipynb",
    "sha256": {
     "logloss.ipynb": "dd389b4d4001dd58c5015d0f96ae5fe2a915e06b5e8ba3ce0c3e013d8179fcd8",
-    "logloss.md": "9c25a6bc23ae4297d6d9dd6410ae779191e8cc1caeda4a999f15a26d63b9922b",
+    "logloss.md": "65c249b683e2b3c796fec24a5e4509b144f0d286acb7450f9ddf4242a3460fdd",
     "logloss.py": "0487cc2efdd2e9a85d378b2b13d0c52c45f19a5eedd75729b781a32ca1c37871",
     "logloss.tex": "7fc9905678a2c7b4f7dfe92e663ab533194199b0c879b28bb6bdba042b6d1d2f"
    }
@@ -2987,7 +2987,7 @@
    "notebook": "https://dictionaryofml.org/terms/logreg.ipynb",
    "sha256": {
     "logreg.ipynb": "737caa84dfbe6bb11434b1d8491a6565da082c89367f645e56caeff54b66b304",
-    "logreg.md": "15f25d10ead9d898938384e1a295b75a37419a639dddb2434596e217fdb2e0ee",
+    "logreg.md": "d772b1cf6bded78fb1f7dd82627ce1b36498c265344580e7e56f6127877790dd",
     "logreg.py": "01b16490048e80e28c6ea548c50e0b7800a26a38de0a4a2977c78300e928827c",
     "logreg.tex": "2f3c960f4031e2e8565bda17432f90e1858ee400130ef10b32cdbb667885f87f"
    }
@@ -3051,7 +3051,7 @@
    "notebook": "https://dictionaryofml.org/terms/matrix.ipynb",
    "sha256": {
     "matrix.ipynb": "4fb9358cade303d6690f5f1709607809aed55f7d4c4e959095b4f11b6e7a4525",
-    "matrix.md": "4e976814479af57f66ba321ac09c82dae501931a8f052c308b669b83cc256f21",
+    "matrix.md": "ab0d25fb2f6f76f3595e2e30c40382a82e41aed44614a5771cc138e7ba09014d",
     "matrix.py": "88433da923b2a7c86c86311bb4878a79b2f38ea703e71d12100a6f30a7b02029",
     "matrix.tex": "f54cd36943a579139b979c47a6893f24744d71473dc214018540dadca566169b"
    }
@@ -3087,7 +3087,7 @@
    "notebook": "https://dictionaryofml.org/terms/mean.ipynb",
    "sha256": {
     "mean.ipynb": "4684acf7a58d6eca1cab3c848928f2bc4d12d570d628206e8a023c863c2df658",
-    "mean.md": "caa3330c5102de78a934130f0778f3c141709cd3c7e76a17d6e542ae7bc029f6",
+    "mean.md": "8e13f6621fb0b93c14bbe6abb2a68b827ad5df5640a8cbd0e28c3021f49b34b1",
     "mean.py": "a7145bef1ed1aef83dfabe818b44f954c0eb8a96ddcfcd1be15d6f50ec074b6c",
     "mean.tex": "46c7e041a281d86b6e0faa3f7a3331f295f49fe27cd11120bf91919df320f15c"
    }
@@ -3118,7 +3118,7 @@
    "notebook": "https://dictionaryofml.org/terms/membershipinferenceattack.ipynb",
    "sha256": {
     "membershipinferenceattack.ipynb": "3bea3b9c619c38eaf6b8e0e23e38be8b498bbbbe2442c8dc3172fa06755028aa",
-    "membershipinferenceattack.md": "06e5d28711a78d1e04eb4567bc9b7fc7da59fb518f797b82e039c417615c8d43",
+    "membershipinferenceattack.md": "945e1322229d251524a6cc5d10d963eca9b01de4035b0e02f8062828edaf1b75",
     "membershipinferenceattack.py": "ed33a1ea6ada192c40b6a0dde4c18966564dccd81d74da4e961c7ca64d68e650",
     "membershipinferenceattack.tex": "e06725dd558a1c20ba7a26c58880eb19df4ced7877754ef874821a26bc1d2c8e"
    }
@@ -3149,7 +3149,7 @@
    "notebook": "https://dictionaryofml.org/terms/mlpipeline.ipynb",
    "sha256": {
     "mlpipeline.ipynb": "0d781090d23f33283a9cadde258f0dc4c0627a8355c2147847aeb4b85afff2e8",
-    "mlpipeline.md": "9b273959a5934a5d359ccbda46469be8349991fb4e77a070694d35efb66f5191",
+    "mlpipeline.md": "d0dcf06da88046f26d9e2cc0a44f8104336204e690a026ce83097b714f1d661c",
     "mlpipeline.py": "2ee9f7d5121195ccc5fdca2c0228fa0f40ee10779e7c0105f9b6b46e9c9a81cf",
     "mlpipeline.tex": "ee12abd8ea03209cd77de09f01dbef50421e0b62882a775d15b357a7e06e3e7c"
    }
@@ -3247,7 +3247,7 @@
    "notebook": "https://dictionaryofml.org/terms/norm.ipynb",
    "sha256": {
     "norm.ipynb": "2e2c254b3124402e49a3e19c987d948c9852d518834e75340b7b114ed8cbca9c",
-    "norm.md": "aa4aadf3b4714b09c35f4d8ef3e40f898a3b29e3f83d20134d5b4040dd3b1aab",
+    "norm.md": "37a24f4b04d4546c3855666a3a8e84e944190e9ffa3fe0663188f0665ad82087",
     "norm.py": "477dcea41cc00c8390c19b6c25cfa8791cb7b908cdd70f3c081a0afa23a796f3",
     "norm.tex": "b50ea305589ee38db47ff7815b72a26cfd4099ebc5d467f2998eb4bdec4d81cd"
    }
@@ -3289,7 +3289,7 @@
    "notebook": "https://dictionaryofml.org/terms/onlinelearning.ipynb",
    "sha256": {
     "onlinelearning.ipynb": "ed27c21cb66d0e6ea589e3d0910331fd3316434f2036940c0df11088384235f7",
-    "onlinelearning.md": "921507521784b707607a48ba4af3c8752a80bb3645a5accf54b57dbc928598c8",
+    "onlinelearning.md": "4be3a660da2bbcd7a69397bdc741721065dcf66df1aa791526b9e322890c846d",
     "onlinelearning.py": "ec2e1fa3a6849153dce5cb8c0735cfa76dfa6d16227a9d14ac4322036d19165b",
     "onlinelearning.tex": "da8b1e8d6bd5f92129634a01fa81a491eb2226c6e85973a1fe5e4238a7a4a809"
    }
@@ -3318,7 +3318,7 @@
    "notebook": "https://dictionaryofml.org/terms/overfitting.ipynb",
    "sha256": {
     "overfitting.ipynb": "f42ddb272e7ca9b1f9accbaa06baa0048e60b44eccbe972ba23a049918a93d21",
-    "overfitting.md": "559210d0154a39aeecedea8c45217be5db1559644d73195c82da256e538822c1",
+    "overfitting.md": "c98ca33449b6d5f970ca281f95818990cba4b690df5233749da381fd4f9df212",
     "overfitting.py": "768cc56bfc787a8c4721f76ce7556935cbb03c8f602a037fa35cfaec8f11fc99",
     "overfitting.tex": "c6beef3331ec1184da1b343792cb3c6756f5ad0b590aca533700ee80bb51ebe5"
    }
@@ -3357,7 +3357,7 @@
    "notebook": "https://dictionaryofml.org/terms/pca.ipynb",
    "sha256": {
     "pca.ipynb": "bf55d2abd044cc59c8cdbe43a20d0e6c8d9ac473ff6e8f83e121f6a1411eef62",
-    "pca.md": "b7bd5fb79c7652260af6671c7034f27f8b8c1afeeb5318e8362a5f6d4ef6e090",
+    "pca.md": "5b380ae44165f464c1cd99dad9173278f06d3cc7c4d1f65a5c5783ccfea56797",
     "pca.py": "ba693267c7f225fc1252c061bf6dc2e026a3b204cf2b2a0278d949406c061139",
     "pca.tex": "3567dfa760e60a5c6401773ee0b44517350e1a51d27bb772274c47e22d72958e"
    }
@@ -3388,7 +3388,7 @@
    "notebook": "https://dictionaryofml.org/terms/policy.ipynb",
    "sha256": {
     "policy.ipynb": "ad72b1727d4056dfd2c1ba3000446669ff8ddc3f46c87fcb38efa1f557980904",
-    "policy.md": "d074fd0e9a8844f80668f9624371c70736dfe137e1aafc4c89b35d66f01c444a",
+    "policy.md": "aae517a313da238ac461fe9f3eee5b8d699af37e461f1fa8e6f032a79b08b75e",
     "policy.py": "d29ca4490fa86ad0f2093054f765ac6e55c91a6378bb7d66e992cebba2be397c",
     "policy.tex": "7fe2553aa4196a9f87d227b67bc66456c8757e4070ab8c0236a46e21c64dd9f2"
    }
@@ -3418,7 +3418,7 @@
    "notebook": "https://dictionaryofml.org/terms/pretraining.ipynb",
    "sha256": {
     "pretraining.ipynb": "7ab71677599e2cdd51f56cf1679a4e74a1b872cb7c21863ff4bcbf27c33a21fc",
-    "pretraining.md": "e96872ff0c94c70e057689f334bf3a2c43588ed03d7ac920c4339590fd7c98b7",
+    "pretraining.md": "7c17b55fc6c6cbcb4d10a21a851cf22f6eb861fe7b752f27d10370f0c6adfc60",
     "pretraining.py": "d42d49bcd21fe752b2228386e28866be5d5cf3908364e7a1b103ebea1a6ceca0",
     "pretraining.tex": "353dc921aa6638324555cdd331dc100250907b90ae724a86244780a0d6055d04"
    }
@@ -3457,7 +3457,7 @@
    "notebook": "https://dictionaryofml.org/terms/probdist.ipynb",
    "sha256": {
     "probdist.ipynb": "fb2b623dcf99d2f190048a566d5f8f67e30cd23eded52db21bea9e651c649442",
-    "probdist.md": "b4e75c7326f6ef70baa06e792a492b6b5e165e363e0617601b4e9be4d7c49f7f",
+    "probdist.md": "a93473eb286576114b299a5632a99e59d137dfea324446122217823d044c60dd",
     "probdist.py": "a6ca81546903016201b14af919ba54ff5e656512eadafbd93a082170a2208687",
     "probdist.tex": "d7280893da46b134e8f0b7a77895e458a69d98fd2c119f5a1765f9007f5a9aa9"
    }
@@ -3486,7 +3486,7 @@
    "notebook": "https://dictionaryofml.org/terms/projection.ipynb",
    "sha256": {
     "projection.ipynb": "4b5f623e5d9e8b673c5f76fe0b26bd88b16856bf589d8e9f114409d0d4eafaea",
-    "projection.md": "beeb27b52c37c7467ded4d8cc9024569d3290c956a1cfcece315277fd3f5aaa6",
+    "projection.md": "4dda262da1061a2a29384e65c57ecdf4be8eb4746ef4b46904a7f8690d53f139",
     "projection.py": "c2191dcb67245b9ef8ab04af342ca71e9ae4e2e3aafc370a4596c6d1f871a59d",
     "projection.tex": "17de257ab28ef693f9521092b097c493d887bde0be09320e68223e6595848d28"
    }
@@ -3521,7 +3521,7 @@
    "notebook": "https://dictionaryofml.org/terms/randomexperiment.ipynb",
    "sha256": {
     "randomexperiment.ipynb": "c1196abf8c525e6627131fe891379e056a4a1ab2e0a15ba651de43c77c6cb7ec",
-    "randomexperiment.md": "54b8a0827c5e8cfc2e7f59575c5820cdfbf942e16e2502f77aad51f7c4ed4b6f",
+    "randomexperiment.md": "213a3d4f06d3dabeb3a87a60fee4b0a9281dc2e0c8aa6d35ac99ececb18ab9df",
     "randomexperiment.py": "7b250b9d4658284c3b34d08c924c2c7477d79101637050becf3c558e811c4952",
     "randomexperiment.tex": "06b83d0c0dbf73132ac9e35f601ed2540b6f991d73a8290c153736320987667a"
    }
@@ -3550,7 +3550,7 @@
    "notebook": "https://dictionaryofml.org/terms/randomforest.ipynb",
    "sha256": {
     "randomforest.ipynb": "5ce11483be0baf19dff59d4a01796efb143b5e4e36484c4ced94a31fdf4d5082",
-    "randomforest.md": "3a8d61d79952ea23fd6f7d577ecb3096632b559cc76e5e3afe4713d0ccf1e19d",
+    "randomforest.md": "be4934455680ae1eb509956fa67d802fbb42bbedcc2e13d48b59bbf1d5a9d399",
     "randomforest.py": "edc0ce626043e4fa70bb2c9638c3fe1b3e0dfe23237349a23dcf531f49ba0ace",
     "randomforest.tex": "43d418c223c9c746d0e2f1de56f7a4367b78d950f64d88f65194c624d3065ab4"
    }
@@ -3623,7 +3623,7 @@
    "notebook": "https://dictionaryofml.org/terms/reinforcementlearning.ipynb",
    "sha256": {
     "reinforcementlearning.ipynb": "d9ea9be53bd2072d1e5cdb8b659d1f0fa6d9e3d8a8e0ed63432bd3c853007374",
-    "reinforcementlearning.md": "e2c9e5be19458c58af19c9c144f6c3661dea83b11e3367cc9cd1b39db22109d5",
+    "reinforcementlearning.md": "55610b43835a234fc66bfdfcf88eca85223a57eddd90e81d9caffdde5ad14c29",
     "reinforcementlearning.py": "dc757196a754185c6f8498b898ef66f06d2e39a64d1bbc07f3a532f03a9f5a20",
     "reinforcementlearning.tex": "5f21bffbad596302df9bcc8d3cc29e481be73c73677f4600663777744b7fc87f"
    }
@@ -3651,7 +3651,7 @@
    "notebook": "https://dictionaryofml.org/terms/reward.ipynb",
    "sha256": {
     "reward.ipynb": "8e25e9fdabf283070af612bc28976de0c2c435478e3baba0e576eb286a851954",
-    "reward.md": "db0f3df5e7c72d9bb0bb5942fb0bb400f92ed487df66554551d4df933c33ada6",
+    "reward.md": "f08d5d11dd0eccb01d2cabdeb7ee59bc92517d29b5c6950d9e069d0f1640dd2d",
     "reward.py": "397ec6ab402d5d8863fdd23e1628326dd20b5507bab94603910af84b1300573d",
     "reward.tex": "6ff8c338199f32f8919085c1b1c7231bdb2b2f55261af313d258f8eda4a6272e"
    }
@@ -3686,7 +3686,7 @@
    "notebook": "https://dictionaryofml.org/terms/rpca.ipynb",
    "sha256": {
     "rpca.ipynb": "b9946e2f9341cd46d3504d909c2af6b6554685e650360184e6eaa7b96da0ecc3",
-    "rpca.md": "dbd963c7ba9a15cdc786fe677168a4961f62125a00d48f6a60001327ce41db10",
+    "rpca.md": "b116d7c10d97f2a75745c54cd0802b4f9ff6db1ab4665f086c1afb7b03931bee",
     "rpca.py": "5e9ce9b9173baec692c95fb2e10fc256eea163c9d5d4eff75ff3acef7cf9dc50",
     "rpca.tex": "17c23be99c29af0ccd3ef676a4176d8d440706d8e92b33ec14dc1b6aa4cd86c9"
    }
@@ -3721,7 +3721,7 @@
    "notebook": "https://dictionaryofml.org/terms/rv.ipynb",
    "sha256": {
     "rv.ipynb": "7f3bb5e3f576b47b775d6ff7578e98c452102dc28c90425251426336bf0a5917",
-    "rv.md": "e1f1312f52d90e761538adbe5cbefde8afaf6410d49b8136ab155c3c1b7efe69",
+    "rv.md": "3445dd43941e847ee7d10452f32828043a3886df45b05920f133471554c50686",
     "rv.py": "129e64a5120386935b55b9a85cd43ebf07a5b28b4d2efa4d2d877453369428fe",
     "rv.tex": "b88f4fe1fec7e8b0f12ca77a554e8b02be957fc33bb95014dcdef3c9699d68a8"
    }
@@ -3761,7 +3761,7 @@
    "notebook": "https://dictionaryofml.org/terms/samplesize.ipynb",
    "sha256": {
     "samplesize.ipynb": "f189c0e5eca24567a2b98083ece7211603e6b931597f7fab27f844677d890aca",
-    "samplesize.md": "99411a25676fc7e2fc1f119a101b41b422fe4f121b02c0a6a3ea13ac5668ffa5",
+    "samplesize.md": "c8ec8f4f71f2fe16c0616b693b4715bf7804e6ad2b2fede8dcc7f154d33853f1",
     "samplesize.py": "834588e637b9740e0c91f72104a397fc3776a075486fe6a960c9543f77112cbf",
     "samplesize.tex": "774e4ef5d2d76e8ca8948e09475efe72e2ba9b7bf0aa1527a805412884e1a38f"
    }
@@ -3793,7 +3793,7 @@
    "notebook": "https://dictionaryofml.org/terms/selfsupervisedlearning.ipynb",
    "sha256": {
     "selfsupervisedlearning.ipynb": "cbf7af0338d1d98c3203bfbd63df0ddb44be4820912d57268192d6a2c37956fa",
-    "selfsupervisedlearning.md": "192ccea1fc82c0fa6cfe118274199d50f3e3e24b9d67ffa9511ea29d018bdb0d",
+    "selfsupervisedlearning.md": "2b45fc52901cd1443892554171226932e67e7d148716e80e5a31b9c7042d14b5",
     "selfsupervisedlearning.py": "7b092bc431e57c4f263865777dea83aa15456be43db018a3e6e11ef9a6da8eea",
     "selfsupervisedlearning.tex": "6d5839df98bc539a916c8e9b1484d4b5e1123336b770224f2e68e6c28d4a1d7f"
    }
@@ -3825,7 +3825,7 @@
    "notebook": "https://dictionaryofml.org/terms/sigmoid.ipynb",
    "sha256": {
     "sigmoid.ipynb": "44accb8bc7bf3b598a99f2ccb1ecde9fc88e86708388008b4f9be7aeb6c6ff05",
-    "sigmoid.md": "754fd0fee63050c85a9127f5af0d685a380b58efc03e8bc3a440f734296a7dfd",
+    "sigmoid.md": "1d92c7194feb0b892f3a1ad259f9f5b2d6697aaf167f6b923a3698d03850af3c",
     "sigmoid.py": "c09ec15955de80c9a8e0c9048af4d1eebd2a89f7f2e97fac63d5a911a384ba51",
     "sigmoid.tex": "3ac2d81a806b51aca51f85fb6052b635f17a982fc4fd69fbe298ce8956e95ab3"
    }
@@ -3862,7 +3862,7 @@
    "notebook": "https://dictionaryofml.org/terms/sobolevspace.ipynb",
    "sha256": {
     "sobolevspace.ipynb": "7dbd4433d97ee10f418b10271406c150ed5cd27b5562cb1095e3777c3104ff63",
-    "sobolevspace.md": "04987300f21a5df3fccfee1a0f265ea8a68e0513b96d39f72c2a5183e17ba226",
+    "sobolevspace.md": "e11166d0eb43026e0e0b533f876d47b7d9f2f0aed175730bf5f81c292d875c2d",
     "sobolevspace.py": "6f6f1b3b29f94697f4f795b8b06855773f6fb0a5faf32a7de2b3244796875e28",
     "sobolevspace.tex": "4bad1a48092223cad605fcd5ca2d69794c0fde43b4c67ea2ac1c1fe5d482c226"
    }
@@ -3893,7 +3893,7 @@
    "notebook": "https://dictionaryofml.org/terms/stochGD.ipynb",
    "sha256": {
     "stochGD.ipynb": "27928e6ae42498a6dcc5b17beb538649de3934d075d665a2ce8155975be230c9",
-    "stochGD.md": "25cdf677f1b3b02d92a9ab2b9ec37da5b75fdcf5aed1d150190a7dcfc04e83ab",
+    "stochGD.md": "181069e06c40f1265969c2eb544cc445d6f4c985019c494ae75f02266b447ec6",
     "stochGD.py": "e274d7cf1707d67970ae48104d3853ee1b8c2d3c332166ecb4c06efa275c1f06",
     "stochGD.tex": "aa35f0dfd7a7ef7d2f5280676fd8bc7184315d6b5d99908835989a2253668307"
    }
@@ -3930,7 +3930,7 @@
    "notebook": "https://dictionaryofml.org/terms/supervisedlearning.ipynb",
    "sha256": {
     "supervisedlearning.ipynb": "73145a24febe3f95b109fd396081e31cf07f8d2219db68dcc1d201023cd43202",
-    "supervisedlearning.md": "983c8cef8387df7280923da7994cde7698a929ecb05f5cec040c604895ea1cc6",
+    "supervisedlearning.md": "bfc8dbbb55fcfb0260050b851f72b6aaf7f7adddbf025261c84a69c82e07839a",
     "supervisedlearning.py": "5c3c041796071e5b01e04abe03ed7a530242670048248e6d4ba04030ad93d0fb",
     "supervisedlearning.tex": "422ea7b30bbaa06f3f4cb4ec33d5e24a7916b541c0217cfe9f4bb260d152f8dc"
    }
@@ -3964,7 +3964,7 @@
    "notebook": "https://dictionaryofml.org/terms/svd.ipynb",
    "sha256": {
     "svd.ipynb": "32c68d270101625aced27321124bdb72004f2ea8c2a73d970db79f5682a774a4",
-    "svd.md": "d933c168c1df3be1491273e576270f5d623f4375b4f43b266a00fb6afb703264",
+    "svd.md": "d31dd2f3b8ed8b947cbb40db21fc0a37708c3526ef74570c3ddd069f7d0ba5de",
     "svd.py": "500874de1df7b970ea3b37b2519365a0c784622b940c2b6741d213eb8c33b36e",
     "svd.tex": "bebc4790fe5943280543da8124875c25405b0cb38c1570c4af621a89fd88e0f0"
    }
@@ -3996,7 +3996,7 @@
    "notebook": "https://dictionaryofml.org/terms/svm.ipynb",
    "sha256": {
     "svm.ipynb": "6c397a41fd608e0e611641766739e2194675e1c9e01e39700e5d9f36f247ec99",
-    "svm.md": "afae3dd3f183118a7582b7c856fde60d3da704d66e19247e6b1f09df827013ff",
+    "svm.md": "5fc7c14db603973b7608ea3603bd63a1712dc02400a9babe29489446a20c7252",
     "svm.py": "53de589c44bcd9dbd40052c191e2e7e07f7cc95c713e4f9a586d916b9ffabc90",
     "svm.tex": "578ccc7d2ea86fb51133f35404a58c1bcfc076db19f839c0d261458c52a8d404"
    }
@@ -4029,7 +4029,7 @@
    "notebook": "https://dictionaryofml.org/terms/tabulardata.ipynb",
    "sha256": {
     "tabulardata.ipynb": "5d6e21dd1c51504f8bcb7ff1287f1b92a0ac03f8cff4362da80790abce200a68",
-    "tabulardata.md": "85d8c72a443204016b1da1ecd91429dd176c4949919308d9f9c8c5da4b4cf6ef",
+    "tabulardata.md": "3399e4d702ead7cf9536d95db6a2b17af8bec50a2a66cf449ea9d38a315c0bb6",
     "tabulardata.py": "8c6497bc4b358b733e47da6ba2ad6738b6930a885f91f1798773d90246010e98",
     "tabulardata.tex": "7531539279fcc61d1a646896bd5f291ae83bd199326089338972a5942b9348f5"
    }
@@ -4065,7 +4065,7 @@
    "notebook": "https://dictionaryofml.org/terms/tee.ipynb",
    "sha256": {
     "tee.ipynb": "60fe627e32f9cb6de084ca9728ed1c5e0ee641c2a03eb2d980beda81c4b9a74e",
-    "tee.md": "1cf35dbf1d8001283f001a29640aac1a4321e906cde374f6b86fb80b29998ab8",
+    "tee.md": "df8eb533922436f193e3c6f1c1a678d6706eaf138406929523a5f61c6fdd256d",
     "tee.py": "5ed517771fb0cb7a16acc937b61ea2b63c0759c6f58ab55b1303207610737d9a",
     "tee.tex": "efa34ffb944a8e52f81aacf06b5d1400307cf1362d29ca0d2e8e9758aee700e0"
    }
@@ -4097,7 +4097,7 @@
    "notebook": "https://dictionaryofml.org/terms/testset.ipynb",
    "sha256": {
     "testset.ipynb": "65820d947b6685d580cecb7abb76b15b6bd68e0c6c631684c2772298ee651752",
-    "testset.md": "ec4369edf25d69b1a91f2b449bfe11c58e27dac7d2032a6a46837d2adbbcb4a8",
+    "testset.md": "2acc96d607ec9c49b0c035e1b0bf3ab27ed764b8add81c424cbd768b7f8dcf29",
     "testset.py": "9e950e4f521a178a1f3649b162b595ddb47edd6cca4d7f0467c3464932db1e8d",
     "testset.tex": "5f9d7931b20595e651ff8c1c7c7c8e2249bdcc81145564172ce656e279355af2"
    }
@@ -4135,7 +4135,7 @@
    "notebook": "https://dictionaryofml.org/terms/trainerr.ipynb",
    "sha256": {
     "trainerr.ipynb": "b89cd2a008b0caab90eb8e634872139f158996e91d268103116e6e1edd40620a",
-    "trainerr.md": "5ae9f7d41765aa2f97dd05d2c97a4c988daee274b7eb314f1532b86ea6af8be5",
+    "trainerr.md": "1ce4da32f0dac69d0d9905f41e283e0fa2c69680c1e94e19014aedb91647ca44",
     "trainerr.py": "85c49ded4558084ac426875ab0473452bb76566821c7b0e6a3bfb75d84a998ca",
     "trainerr.tex": "9b0a64b355e3dfbabc7cd351dcc8d55e8c2bc82e28199162f8279cfb37d9a033"
    }
@@ -4176,7 +4176,7 @@
    "notebook": "https://dictionaryofml.org/terms/training.ipynb",
    "sha256": {
     "training.ipynb": "61d6d807c86010c2c2a90a1644558df639db154ff434ea2cb46a991bd2fb4cde",
-    "training.md": "2243bc19c58b6eb7ca6926990cdc669e262206d18480c77cc98703153f1cc33b",
+    "training.md": "a794d4368df6c7d8ac216b54326ca64e15dcfa5e38e21036499f33cd33c34350",
     "training.py": "3e8799add4cb21592f69fdbb0c820fdb98941360540af7a806381b387557a788",
     "training.tex": "8bc0481e433f0b56d0d42b6036de5e2b11a1898e5f218d8f6737d04be8d7a56d"
    }
@@ -4210,7 +4210,7 @@
    "notebook": "https://dictionaryofml.org/terms/trainset.ipynb",
    "sha256": {
     "trainset.ipynb": "e1c99e51dfb7b69e4f0d41d23a04fa26eeb838d049007d336b6b0688dfb3a63d",
-    "trainset.md": "8d516efcbba71bdc3df400f892c3fbe123b8ebfff4fe8bb9badc0ee42fd1c0a4",
+    "trainset.md": "0374784fa1e88095f399a7ec8929d3c799171c57d4b224e646d02150a567a186",
     "trainset.py": "f85801540d8d7d4d4e57d671017e5294f96638357e5dd5c1bed9fc91ac8285bc",
     "trainset.tex": "aec9c6f787b153fd40602573a619ddae511881916d37b347ae8242c5d8f97dc7"
    }
@@ -4243,7 +4243,7 @@
    "notebook": "https://dictionaryofml.org/terms/transferlearning.ipynb",
    "sha256": {
     "transferlearning.ipynb": "1a69caa70779f109004f86f7bb7491b3eb6e229c58147e46a660c1db2bc8f80d",
-    "transferlearning.md": "cdc6669751c18ea86beff15178bce3a6d79e0508cc1b8abf6450dd3aefff5570",
+    "transferlearning.md": "c6cd2ad6460b79f521c6d8c389754db2a224c360f953c1349751883e4663743d",
     "transferlearning.py": "a49ebaf71c346579c351c29ef532fa9c3eaf880ef030ed4a274afe942cb67cae",
     "transferlearning.tex": "9d1544f7af4b1251772cdbec6631ac32a699a1880180cf91f659de2896b5cf40"
    }
@@ -4278,7 +4278,7 @@
    "notebook": "https://dictionaryofml.org/terms/transformer.ipynb",
    "sha256": {
     "transformer.ipynb": "91ceee9b16c178b6e0f2d5e28c8d5cf13d43005ece4bf3e702a99001306cf8a2",
-    "transformer.md": "a24e5e59d2fd63b13ff146af4c46dc668548fec304707c6658ccdca72c2522c5",
+    "transformer.md": "bc8636022498d0cb82e509413cdba6fbcf21afaecda2be2110404806cd773dcb",
     "transformer.py": "62e02831aaa3c55d949f5c6036e8ac7980388f3543b6d2a42989187482573f5d",
     "transformer.tex": "b30d6ef76f888b58d6550ed01e566b3811ef065895d514ab7f3fd61034c49424"
    }
@@ -4316,7 +4316,7 @@
    "notebook": "https://dictionaryofml.org/terms/transparency.ipynb",
    "sha256": {
     "transparency.ipynb": "58df22b60c0092dc7856450c6a929cd09c2c23ccf242e2e88811a4d8dd4fd11a",
-    "transparency.md": "231c5a50a030defb35e4279caa72b382d18122b00610477b6d17bf46a6893e58",
+    "transparency.md": "614a7c0172e16730af618494931a400731b2617fa4f6158f97026743539ca733",
     "transparency.py": "83320b33c12ab3493b883125bbeb98a557fde819f043be1f255cdd0e2b558b68",
     "transparency.tex": "d7c4ea164fdf87400eac92a7b94176b0e2ee4d6859f242ce2aec59eb6f394093"
    }
@@ -4355,7 +4355,7 @@
    "notebook": "https://dictionaryofml.org/terms/trustAI.ipynb",
    "sha256": {
     "trustAI.ipynb": "7c03e8645fda72eab4bc718f66d71062ae64118945f15d8a81c67739f33aa8ae",
-    "trustAI.md": "5a0c1d2cfd01d4db43f4eabc4aa39ea9b9daa8453211d8f491f0faefb850bcfd",
+    "trustAI.md": "8f0326077cf0060961e62d26cbcef3a1b01ef582831b8814ff60745c523fc028",
     "trustAI.py": "22b6826b7ebc3e872bc564c22fd7ca560d322e615810e74422f58d132408d295",
     "trustAI.tex": "cd171122c0a4c16a209fbd2855666d7de167f2a659140ce77c5de9b08487d90f"
    }
@@ -4392,7 +4392,7 @@
    "notebook": "https://dictionaryofml.org/terms/unsupervisedlearning.ipynb",
    "sha256": {
     "unsupervisedlearning.ipynb": "d5938ae4b1244743114b64b2bf33d7e30a5cc959d24ad984bac1e7df8c578485",
-    "unsupervisedlearning.md": "d951087f7de32ba90ceb664b878b37ba9e64c9d4b7d7f546946023818615d3f4",
+    "unsupervisedlearning.md": "bce7cf6f4c65b9ececdd0348d9c3eee6785ba2954ea592568edc3babea34aeed",
     "unsupervisedlearning.py": "2a22357bf42be10b2f6b55134d61eae85ac691bde310f53d545e0a49fffc3ad2",
     "unsupervisedlearning.tex": "d490f402c83e31a553bbf1ba19e551d1a18502974e554bb1ef00f2013217b882"
    }
@@ -4429,7 +4429,7 @@
    "notebook": "https://dictionaryofml.org/terms/valerr.ipynb",
    "sha256": {
     "valerr.ipynb": "fa116ecfcb75c588884737636df9d2006566f018cd54a4ecae73666d05eaad93",
-    "valerr.md": "f39a8373082899ca47581ca6918f0969d0f3ac4818c008036be87655098b7bdc",
+    "valerr.md": "c0eb3323ace23d2b1dc23c3868b8e4d641089609c6427635f090147b9d239fd8",
     "valerr.py": "4f3aeada89891c3c311b76315a30d8c1007a56f3999fc9c147aafc0bc6e5147d",
     "valerr.tex": "2508985cbb2f0fa36aaa00681704a801b4fcf8ed9a3d5fc85b5b344a219f4209"
    }
@@ -4463,7 +4463,7 @@
    "notebook": "https://dictionaryofml.org/terms/valset.ipynb",
    "sha256": {
     "valset.ipynb": "5da869884287c9c00c14d66deda177ee8cd33e070f26242aee32bc6d944ca631",
-    "valset.md": "1ccf6267628c12b742d5e43c21c68e3d1ffc56d98a2ea5b0203888c0e67e884c",
+    "valset.md": "2fce3ecaf8bac72fa9707a91b69a66ed9f1c349c2155f5c77f31fa2c017fa492",
     "valset.py": "ad43034b734c7a2b28fe7f04e2466d59d83c9104a4bc7e35c1b279943beae8d2",
     "valset.tex": "eaef4670ec995441d21049b880389d43b00bdd629c36b56e2d028776ce04ace7"
    }
@@ -4500,7 +4500,7 @@
    "notebook": "https://dictionaryofml.org/terms/variance.ipynb",
    "sha256": {
     "variance.ipynb": "492116d59bed58330bf42f0351e1f4cc9efb2ba2f89166c5766b393dd2c79751",
-    "variance.md": "0d0366ddde9f16cc4e4e91cbff2d33078fbc0d320c0ebf84dd4808b47eb2ff5d",
+    "variance.md": "7e543137fd8a28b6e4ca748a906cee1f83f6bc4c457abed7422b0b612c92f181",
     "variance.py": "39c0a2bef980d7ac1e5e81a3fe21e99c1546adb123f90b156ca7530707980aa5",
     "variance.tex": "83298a194e7751a6eaaf0db89044339af0d81a01c4cb8d4074db600fd40ca8a4"
    }
@@ -4536,7 +4536,7 @@
    "notebook": "https://dictionaryofml.org/terms/xaiterm.ipynb",
    "sha256": {
     "xaiterm.ipynb": "1393f8bc18c3e297f9f9daba83c12dea7109502a1a4e8c768330bc8a62b3f8c2",
-    "xaiterm.md": "fdef2b4a91a39a908b5fca275f6bd7d5ad5f39e3856aeb5b0cd8bd760dc92214",
+    "xaiterm.md": "f6c37c15d2d67e9bfff3751d92ec989a2d8c1bb28eb70ab6ac040fb3bc9b54c8",
     "xaiterm.py": "2c2593882e39cdaaeeab4245443f82550b49a961676eec287b3b58432cdedbcb",
     "xaiterm.tex": "6bb7652c0127b3e5e6b6adbdbe2c7a2b28dba9d50dfc20bc0be4e973542775a4"
    }
