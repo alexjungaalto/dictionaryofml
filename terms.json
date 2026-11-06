@@ -1215,9 +1215,9 @@
    "notebook": "https://dictionaryofml.org/terms/covmtx.ipynb",
    "sha256": {
     "covmtx.ipynb": "0a411b0177f4d2e3a54512ca7ed98101804828a64fa62b85c19732a75aee8607",
-    "covmtx.md": "3caf7b8bc1d1bbe30c10b1ee442eb85f148ac55ec2d0eaf667475e30de316557",
+    "covmtx.md": "b09648a14b77adb08cc507e78885737f99e38395c6332681e65f3bf30f498f76",
     "covmtx.py": "051cae7583454630c2115d63fc85f23a2a8dd263e9c710703f9769934cec88ab",
-    "covmtx.tex": "0b90d8da76f915274c3bd09e67b71d19e23046373317388b28ee885d47d49d0d"
+    "covmtx.tex": "e9bfaf1ad6bb76cff09693bd39020dcb43d4abb767d84a522391dedeaa26cf28"
    }
   },
   {
@@ -1384,7 +1384,7 @@
    "notebook": "https://dictionaryofml.org/terms/datapoint.ipynb",
    "sha256": {
     "datapoint.ipynb": "f0d0853a4c6853b789be6eb939a4edd3cd662fb10b17a3f1bc833111515d7e8a",
-    "datapoint.md": "46df994089de8300d8db6dc54dd7673fa5f870d408ecf27872d41f86efaf39b9",
+    "datapoint.md": "15cf50fdf9889807060b4d733feb6510907ae28b186e5499c50c9c02a4ae6a06",
     "datapoint.py": "9e889d468a8144a4a49f5120930442df1a3b6f316af6ab9f860fae5e5074cbf1",
     "datapoint.tex": "d1cf8e83678c5963616752c333f67465df8b487a7d3d977a517f2b16cbd9967b"
    }
@@ -1825,7 +1825,7 @@
    "url": "https://dictionaryofml.org/terms/explanation.html",
    "pdf": "https://dictionaryofml.org/terms/explanation.pdf",
    "abstract": "An explanation accompanies a prediction delivered by a machine learning method and states which properties of the data point led to that prediction. Explanations can be text, a score per feature, a simple hypothesis that approximates the learned one near the data point, or a heat map drawn over an image. Two requirements can be contradictory. On the one hand, an explanation must be faithful: it must reflect the computation by which the learned hypothesis arrives at the prediction. On the other hand, it must be understandable: its user must be able to anticipate the predictions it accompanies. An explanation that agreed with the learned hypothesis everywhere would be that hypothesis again, so a simpler one may have to give up faithfulness somewhere.",
-   "description": "A weather service forecasts frost for the coming night at Krems an der Donau and adds which of the recent measurements weighed most. That addition is an explanation: it is provided alongside the prediction delivered by a machine learning method to increase its transparency for its human user. Explanations can take different forms. For instance, they may consist of human-readable text or quantitative indicators, such as feature importance scores for the individual features of a given data point, obtained, e.g., via the weights of a local linear approximation. Fig. 1 illustrates two types of explanations for a learned hypothesis ĥ(x) of a single feature x. The first is a local linear approximation g(x) of the nonlinear ĥ(x) around a specific feature value x'. The second form of explanation depicted in the figure is a small set of predictions ĥ(x(1)), ĥ(x(2)), ĥ(x(3)) at selected feature values, possibly chosen by the user. Another form of explanation is a heat map: an intensity map that scores each region of an image by how much it contributed to the prediction, drawn over the image itself. For a convolutional neural network, those scores are computed from the network's own activations, which is what a class activation map does. Explanations differ in scope. The local linear approximation of local interpretable model-agnostic explanations concerns a single prediction; a global explanation, such as a decision tree fitted to the predictions of the learned hypothesis, describes its behavior across the whole feature space. A counterfactual answers a different question: not which features drove the prediction, but what change of the feature vector would have changed it. Whatever form it takes, an explanation carries two requirements: it must be (i) understandable and (ii) faithful. Understandable means that the user can work with the explanation on their own. Faithful means that the explanation reflects the computation the learned hypothesis carries out, rather than one that is easier to present. An intensity map over the pixels of an image is faithful when manipulating a few of the pixels it highlights changes the prediction while changing dark ones does not (see explainable artificial intelligence). These two requirements can be contradictory. An unfaithful explanation can even be understandable and look plausible while carrying nothing about the computation. For some saliency methods, the map computed from a network with random weights is nearly the same as the map computed from the trained network. Such a map traces the edges of the input image and carries nothing about the prediction, yet it looks like a plausible explanation. An explanation that agreed with the learned hypothesis everywhere would be that hypothesis again, so a simpler explanation may have to give up faithfulness somewhere. Fig. 2 shows both requirements at work on a prediction made from weather radar. The features are the hourly precipitation over a 120 km box around Krems an der Donau, and the prediction answers whether it will rain at Krems two hours later. A convolutional neural network trained on these images is explained by a class activation map. For the hour drawn, the network assigns rain a probability close to one, and the CAM scores the bands of precipitation highest south and south-east of the town rather than on the rain already overhead. Setting the precipitation to zero in the 360 cells with the highest CAM scores lowers the predicted score by 1.57, against 0.26 for the 360 cells with the lowest scores, and the same holds on 63 of the 72 held-out hours. The same content can be delivered as text. The sentence under the panels is generated from the CAM by computing the radius that holds the cells it scores highest and the direction of their center of mass. It is therefore faithful by construction and can be checked against the radar image on the left.",
+   "description": "A weather service forecasts frost for the coming night at Krems an der Donau and adds which of the recent measurements weighed most. That addition is an explanation: it is provided alongside the prediction delivered by a machine learning method to increase its transparency for its human user. Explanations can take different forms. For instance, they may consist of human-readable text or quantitative indicators, such as feature importance scores for the individual features of a given data point, obtained, e.g., via the weights of a local linear approximation. Fig. 1 illustrates two types of explanations for a learned hypothesis ĥ(x) of a single feature x. The first is a local linear approximation g(x) of the nonlinear ĥ(x) around a specific feature value x'. The second form of explanation depicted in the figure is a small set of predictions ĥ(x(1)), ĥ(x(2)), ĥ(x(3)) at selected feature values, possibly chosen by the user. Another form of explanation is a heat map: an intensity map that scores each region of an image by how much it contributed to the prediction, drawn over the image itself. For a convolutional neural network, those scores are computed from the network's own activations, which is what a class activation map does. Explanations differ in scope. The local linear approximation of local interpretable model-agnostic explanations concerns a single prediction; a global explanation, such as a decision tree fitted to the predictions of the learned hypothesis, describes its behavior across the whole feature space. A counterfactual answers a different question: not which features drove the prediction, but what change of the feature vector would have changed it. Whatever form it takes, an explanation carries two requirements: it must be (i) understandable and (ii) faithful. Understandable means that the user can work with the explanation on their own. Faithful means that the explanation reflects the computation the learned hypothesis carries out, rather than one that is easier to present. An intensity map over the pixels of an image is faithful when manipulating a few of the pixels it highlights changes the prediction while changing dark ones does not (see explainable artificial intelligence). These two requirements can be contradictory. An unfaithful explanation can even be understandable and look plausible while carrying nothing about the computation. For some saliency methods, the map computed from a network with random weights is nearly the same as the map computed from the trained network. Such a map traces the edges of the input image and carries nothing about the prediction, yet it looks like a plausible explanation. An explanation that agreed with the learned hypothesis everywhere would be that hypothesis again, so a simpler explanation may have to give up faithfulness somewhere. Fig. 2 shows both requirements at work on a prediction made from weather radar. The features are the hourly precipitation over a 120 km box around Krems an der Donau, and the prediction answers whether it will rain at Krems two hours later. A convolutional neural network trained on these images is explained by a class activation map. For the hour drawn, the network assigns rain a probability close to one, and the class activation map scores the bands of precipitation highest south and south-east of the town rather than on the rain already overhead. Setting the precipitation to zero in the 360 cells with the highest class activation map scores lowers the predicted score by 1.57, against 0.26 for the 360 cells with the lowest scores, and the same holds on 63 of the 72 held-out hours. The same content can be delivered as text. The sentence under the panels is generated from the class activation map by computing the radius that holds the cells it scores highest and the direction of their center of mass. It is therefore faithful by construction and can be checked against the radar image on the left.",
    "synonyms": [],
    "see_also": [
     "ml",
@@ -1848,9 +1848,9 @@
    "notebook": "https://dictionaryofml.org/terms/explanation.ipynb",
    "sha256": {
     "explanation.ipynb": "9b565520612ba3ceea019439fdf3bbcee13b25909a9ad48624f853de3da97eae",
-    "explanation.md": "afc52a073ca16481ed7a0a9e4545ab299d2bbd5611f2a65336d03e733fa049a2",
+    "explanation.md": "a18d0b147bbb1e3943778cf34137f5a2de60c3f59416a51cab8a143ee72d3a98",
     "explanation.py": "8afca98ecab2cc2970f0b8a3a2d2a69d67c688ebf8f8e71b4a6245685ba6c169",
-    "explanation.tex": "c894187b5d5af824f1aee225def27bbbc35593bc23c24c630829d7c9ef36078a"
+    "explanation.tex": "a87e34478d853916e65d294b7037ef13d7e2f459fd5cc64f81f5b69b0d552d4c"
    }
   },
   {
@@ -2360,7 +2360,7 @@
    "notebook": "https://dictionaryofml.org/terms/hypospace.ipynb",
    "sha256": {
     "hypospace.ipynb": "04b1f9e341ed73789716c895580cfadbfb16f665c8c6583ced92833a8b7daeb6",
-    "hypospace.md": "62548d90c59c9d251a044b0e8626192a107b2eeaaa5f7a384c334247b2c7e533",
+    "hypospace.md": "02bfb88c394747a33c8000c96537113c8264980d2f918bb98cb5d5a7e3c3b8bd",
     "hypospace.py": "babdcf93cd1f52d3365a8ee277704d217b030b162f8b1135c5a48b58de14cad5",
     "hypospace.tex": "ca77a6381c83780dfa07539cfbb8a4b9435959e3c8fb097478390aed24b3385b"
    }
@@ -4029,7 +4029,7 @@
    "notebook": "https://dictionaryofml.org/terms/tabulardata.ipynb",
    "sha256": {
     "tabulardata.ipynb": "5d6e21dd1c51504f8bcb7ff1287f1b92a0ac03f8cff4362da80790abce200a68",
-    "tabulardata.md": "3399e4d702ead7cf9536d95db6a2b17af8bec50a2a66cf449ea9d38a315c0bb6",
+    "tabulardata.md": "3d5746e7b05174769e1cb64b81e113001f2de7f0aea1f2ac0537263e5e362f81",
     "tabulardata.py": "8c6497bc4b358b733e47da6ba2ad6738b6930a885f91f1798773d90246010e98",
     "tabulardata.tex": "7531539279fcc61d1a646896bd5f291ae83bd199326089338972a5942b9348f5"
    }
@@ -4210,7 +4210,7 @@
    "notebook": "https://dictionaryofml.org/terms/trainset.ipynb",
    "sha256": {
     "trainset.ipynb": "e1c99e51dfb7b69e4f0d41d23a04fa26eeb838d049007d336b6b0688dfb3a63d",
-    "trainset.md": "0374784fa1e88095f399a7ec8929d3c799171c57d4b224e646d02150a567a186",
+    "trainset.md": "3f44ed455757d5cceda527022226961f0c4a06d6f70fde9bbfcf55fcf242d316",
     "trainset.py": "f85801540d8d7d4d4e57d671017e5294f96638357e5dd5c1bed9fc91ac8285bc",
     "trainset.tex": "aec9c6f787b153fd40602573a619ddae511881916d37b347ae8242c5d8f97dc7"
    }
