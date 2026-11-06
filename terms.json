@@ -3215,9 +3215,9 @@
    "notebook": "https://dictionaryofml.org/terms/modelsel.ipynb",
    "sha256": {
     "modelsel.ipynb": "4a4dc1df20fcbb856ba812ee8e8b43fe6413a5a445244640a1bd230a2d38fdcc",
-    "modelsel.md": "000ba093651294b68c11f1da0a1780b114cba149ac58a4b10c72b84e5527f4f7",
+    "modelsel.md": "27f0148e6831110883d27c97825670a74124e21ece354c1ea2747a3066d079ad",
     "modelsel.py": "9e49330637474532e284c51d5ee4b62c2b981f54789ac02599687d5888914d78",
-    "modelsel.tex": "b30b95ec67e6c5355eec21705bc34f27637103e4455f120e253c8732399166b0"
+    "modelsel.tex": "f3797ab16e2ac0af41d9a4f399c05dc8839f8cb9ec42b5aa2f61f1bfe7049455"
    }
   },
   {
@@ -4099,7 +4099,7 @@
     "testset.ipynb": "65820d947b6685d580cecb7abb76b15b6bd68e0c6c631684c2772298ee651752",
     "testset.md": "6e390c75c5e402a0480e5b7dc25198f9f2a738ab71322d461e7a3c3ade94e2e4",
     "testset.py": "9e950e4f521a178a1f3649b162b595ddb47edd6cca4d7f0467c3464932db1e8d",
-    "testset.tex": "5f9d7931b20595e651ff8c1c7c7c8e2249bdcc81145564172ce656e279355af2"
+    "testset.tex": "e2382092817266833d776e571f5491baebc2e12952dc9ddb5cdeda21f7f3c6e0"
    }
   },
   {
