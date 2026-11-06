@@ -239,6 +239,11 @@
      "url": "https://dictionaryofml.org/terms/decisionboundary.html"
     },
     {
+     "key": "decisionregion",
+     "name": "decision region",
+     "url": "https://dictionaryofml.org/terms/decisionregion.html"
+    },
+    {
      "key": "decisiontree",
      "name": "decision tree",
      "url": "https://dictionaryofml.org/terms/decisiontree.html"
@@ -1424,8 +1429,8 @@
    "name": "decision boundary",
    "url": "https://dictionaryofml.org/terms/decisionboundary.html",
    "pdf": "https://dictionaryofml.org/terms/decisionboundary.pdf",
-   "abstract": "The decision boundary of a classifier consists of the feature vectors that lie arbitrarily close to two or more decision regions. An arbitrarily small perturbation of such a feature vector can therefore change the predicted label. Many classifiers threshold a real-valued scoring function, and the decision boundary is then a level set of that function. Its geometry follows from the model: a linear classifier has a hyperplane as its decision boundary, a decision tree an axis-aligned and piecewise constant one, and logistic regression on polynomial features a curved one.",
-   "description": "Consider a hypothesis h→Y whose finite label space Y represents different classes. Its decision boundary consists of those feature vectors that are arbitrarily close to two or more different decision regions. More precisely, x∈X lies on the decision boundary if every neighborhood of x contains feature vectors x' and x'' such that h(x')≠h(x''). Thus, arbitrarily small perturbations near the decision boundary can result in different predicted labels (or classes). A common construction of a classifier is by thresholding a real-valued scoring function g→R. The classifier assigns different labels according to whether g(x) lies below or above a threshold c. If g is continuous, its decision boundary is the level set x:g(x)=c, provided that g takes values on both sides of c arbitrarily close to every point in this set. For a linear classifier with g(x)=wᵀx and w≠0, this level set is the hyperplane wᵀx=c, whose normal vector is w. Fig. 1 shows that the geometry of a decision boundary depends on the model. A linear classifier produces a straight boundary, a decision tree produces an axis-aligned, piecewise constant boundary, and logistic regression applied to polynomial features can produce a curved boundary.",
+   "abstract": "The decision boundary of a classifier consists of the feature vectors that lie arbitrarily close to two or more decision regions. An arbitrarily small perturbation of such a feature vector can therefore change the predicted label. Many classifiers threshold a real-valued scoring function, and the decision boundary is then a level set of that function. Its shape depends on the model: a linear classifier has a hyperplane as its decision boundary, a decision tree one made of axis-parallel line segments, and logistic regression on polynomial features a curved one.",
+   "description": "A frost warning predicts from the minimum and the maximum air temperature of a day whether the following night brings frost. The pairs of temperatures at which the warning switches between frost and no frost form its decision boundary. In general, a classifier is a hypothesis h→Y with a finite label space Y. Its decision boundary consists of the feature vectors that are arbitrarily close to two or more of its decision regions. More precisely, x∈X lies on the decision boundary if every neighborhood of x contains feature vectors x' and x'' such that h(x')≠h(x''). An arbitrarily small perturbation of such a feature vector can therefore change the predicted label. In the notation of decision regions, each decision region Rŷ := x ∈ X: h(x) = ŷ is a subset of X = Rd. Its boundary ∂ Rŷ is the set of feature vectors such that every neighborhood contains elements of Rŷ and of its complement X Rŷ. The decision boundary is the union ŷ ∈ Y ∂ Rŷ of these boundaries over all label values. Many classifiers are built from a real-valued scoring function g→R: the predicted label depends on whether g(x) lies below or above a threshold c. If g is continuous, the decision boundary is the level set x:g(x)=c, provided that g takes values on both sides of c arbitrarily close to every point in this set. For a linear classifier with g(x)=wᵀx and w≠0, this level set is the hyperplane wᵀx=c, whose normal vector is w. Fig. 1 shows that the shape of a decision boundary depends on the model. A linear classifier has a straight decision boundary, a decision tree has one made of axis-parallel line segments, and logistic regression on polynomial features can have a curved one.",
    "synonyms": [],
    "see_also": [
     "hypothesis",
@@ -1442,9 +1447,45 @@
    "notebook": "https://dictionaryofml.org/terms/decisionboundary.ipynb",
    "sha256": {
     "decisionboundary.ipynb": "b80cad61fb7de0fb0ec86c7210f3d659a98db573df0c9bfc87ac4d7fcf1e5ca7",
-    "decisionboundary.md": "6e0d4f88968c9cec37350f22bf6ed76d83a041aecef315830a7d56aeb3c09f23",
+    "decisionboundary.md": "b428c4a0a5a615a5c95562b65b6248c5bb6585dd99dbdb61814ab18b94450646",
     "decisionboundary.py": "4c4aab2c5774d1fe2718c326f458848b44892ae5fe5a3aeb879e929cae0c2703",
-    "decisionboundary.tex": "88aeb61974b0a95dfb64bdd0518b694ff78a59e27ea9f21eddcc1ec355e32c6b"
+    "decisionboundary.tex": "a304810a760c46a781884b152374b638fadfe2f68dc832e379fbae92b2376176"
+   }
+  },
+  {
+   "key": "decisionregion",
+   "name": "decision region",
+   "url": "https://dictionaryofml.org/terms/decisionregion.html",
+   "pdf": "https://dictionaryofml.org/terms/decisionregion.pdf",
+   "abstract": "A decision region of a classifier is the set of all feature vectors that the classifier maps to one particular label value. The decision regions partition the feature space, one region per label value, and all feature vectors in the same region obtain the same prediction, so the decision regions determine the classifier completely. The union of the boundaries of the decision regions is the decision boundary. The shape of the decision regions depends on the model: a linear classifier has halfspaces, a decision tree has unions of axis-parallel rectangles, and logistic regression on polynomial features has regions separated by a curve.",
+   "description": "A frost warning predicts from the minimum and the maximum air temperature of a day whether the following night brings frost. Any rule that gives this warning splits the pairs of temperatures into two parts: the pairs for which it predicts frost and the pairs for which it does not. Each part is a decision region of the rule. In general, a classifier is a hypothesis hX → Y with a finite label space Y. Its decision region for the label value ŷ ∈ Y is the set of feature vectors that it maps to this value, \\mathcal{R}_{\\widehat{y}} := \\big\\{ {\\mathbf x} \\in \\mathcal{X}: h({\\mathbf x}) = \\widehat{y} \\big\\} \\text{.} The decision regions partition the feature space: every feature vector lies in exactly one of them, there is one region per label value, and a region may consist of several separate pieces. All feature vectors in the same decision region obtain the same prediction, so the decision regions determine the classifier completely. The boundary ∂ Rŷ of a decision region is the set of feature vectors such that every neighborhood contains elements of Rŷ and of its complement. The union of these boundaries over all label values is the decision boundary. The shape of the decision regions depends on the model. A linear classifier with h(x) = sign(wᵀ x + w0) has the two halfspaces on either side of the hyperplane wᵀ x + w0 = 0 as its decision regions. For more than two label values, a linear classifier predicts the value with the largest of K linear scores. Each decision region is then an intersection of K - 1 halfspaces and therefore convex. A decision tree compares one feature with a threshold at each split, so its decision regions are unions of axis-parallel rectangles. Logistic regression on polynomial features has decision regions separated by a curve, the level set of a polynomial. Fig. 1 shows the decision regions of three classifiers learned from the same data points with two features: a linear classifier, a decision tree, and logistic regression on polynomial features. A data point whose label differs from the label value of the region containing its feature vector is misclassified, and the fraction of such data points is the average 0/1 loss. The two label values are separated by a curve and not by any straight line, so the linear classifier misclassifies half of the data points, while the other two misclassify none.",
+   "synonyms": [],
+   "see_also": [
+    "classifier",
+    "classification",
+    "binclass",
+    "decisionboundary",
+    "boundary",
+    "neighborhood",
+    "linclass",
+    "decisiontree",
+    "logreg",
+    "halfspace",
+    "hyperplane",
+    "featurespace",
+    "labelspace",
+    "zerooneloss"
+   ],
+   "readiness": 80,
+   "markdown": "https://dictionaryofml.org/terms/decisionregion.md",
+   "latex": "https://dictionaryofml.org/terms/decisionregion.tex",
+   "demo": "https://dictionaryofml.org/terms/decisionregion.py",
+   "notebook": "https://dictionaryofml.org/terms/decisionregion.ipynb",
+   "sha256": {
+    "decisionregion.ipynb": "e4e8941c8a56e54eda99487b713608b7c090858d67e599f5887e6364caa8ceb4",
+    "decisionregion.md": "2336cb79ea1f55e217833e61e8fec6473297f25872a1b574dba1210e43008998",
+    "decisionregion.py": "e41b18425d8e8873de368a20470cbd6f7830dffce0884a710771bf9efe493636",
+    "decisionregion.tex": "adfc21199eaa92c5295db762e5bb90ebab3172ed66533173cee2c9787e267fcf"
    }
   },
   {
@@ -3056,30 +3097,30 @@
    "name": "membership inference attack",
    "url": "https://dictionaryofml.org/terms/membershipinferenceattack.html",
    "pdf": "https://dictionaryofml.org/terms/membershipinferenceattack.pdf",
-   "abstract": "A membership inference attack decides whether a given data point belonged to the training set of a published hypothesis. The signal it uses is memorization: empirical risk minimization lowers the loss on the training set and nowhere else, so a small loss at a candidate data point is evidence of membership. An adversary queries the hypothesis and compares the loss of its prediction against a threshold. What the attack can learn is therefore bounded by the gap between training error and validation error, which makes it a privacy cost of overfitting rather than a separate failure. Differential privacy bounds the leak by construction, at a cost in accuracy.",
-   "description": "A volunteer observer reads the thermometer at Krems an der Donau each morning and reports the day's minimum and maximum temperature. A company trains a hypothesis on a year of these reports, to predict the maximum from the minimum, and publishes it. A membership inference attack is the privacy attack that decides whether a given data point belonged to the training set: here, whether the report of 1 July 2026 was among the training days. Empirical risk minimization lowers the loss on the training set and nowhere else, so a data point on which ĥ incurs a small loss is one the training set probably contained. The adversary knows the feature vector x of the target but not its label. For each label value worth testing, they form the candidate data point z = ( x,y ), evaluate L(z,ĥ ), and compare it against a threshold. A label value whose loss falls below the threshold answers two questions at once: the data point belonged to the training set, and it carried that label. For a classifier whose label space records a diagnosis, the second answer is the diagnosis. Fig. 1 shows why the attack works: a hypothesis flexible enough to pass through five reported days reproduces each of their labels exactly, while a day that did not belong to the training set is missed by a visible margin. The answer is personal data, even though a temperature is not. The reports from that station come from one observer, so establishing that 1 July 2026 belonged to the training set establishes that the observer was at Krems that morning. The attack supplies the membership and the knowledge of who reports from that station supplies the rest. Information that relates to a person only through such a combination is personal data all the same, since a person counts as identifiable when they can be identified indirectly. The attack is therefore bounded by what separates the training error from the validation error: a hypothesis that generalizes leaks little, and one that memorizes leaks much. Differential privacy bounds the leak by construction, at a cost in accuracy.",
+   "abstract": "A membership inference attack aims at determining whether a particular data point was used to train a machine learning model. The basic idea is that a learned hypothesis delivers more accurate predictions for data points that are similar to those used for training. An adversary queries the learned hypothesis and compares the loss of its prediction against a threshold. Mitigation strategies include regularization, which makes a machine learning method generalize beyond the training set: such a method learns a hypothesis that behaves similarly for data points in the training set and for those outside it, which makes it harder for an adversary to guess the data points of the training set.",
+   "description": "A volunteer observer at Krems an der Donau reports the minimum and the maximum temperature for selected days. A company learns a hypothesis ĥ from these reports to predict the maximum from the minimum temperature. Anyone who can query ĥ can try to determine whether the report of a specific day was used for training. Since the reports come from one person, a yes tells that the observer was around Krems an der Donau on that day. An attack that determines in this way whether a particular data point was used to train a machine learning model is a membership inference attack, a privacy attack. The basic idea is that a learned hypothesis delivers more accurate predictions for data points that are similar to those used for training. The adversary has access to the recordings of the GeoSphere weather station at Krems. For a specific day, they take the station's minimum temperature as the feature, compute the prediction of ĥ, and compare it against the station's maximum temperature. A loss below a threshold indicates that the report of that day was used for training. The adversary might know the feature vector x of a data point but not its label. They then evaluate the loss L(( x,y ),ĥ ) for each label value y worth testing. A label value whose loss falls below the threshold indicates that the data point was used for training and that it carried this label. For a classifier whose label space records a diagnosis, the second indication is the diagnosis. Fig. 1 shows why the attack works: a hypothesis flexible enough to pass through five reported days reproduces each of their labels exactly, while a day that was not used for training is missed by a visible margin. Whether the observer was at Krems on a specific day is personal data, even though a temperature is not. The attack determines the membership of the report, and the knowledge of who reports from that station turns the membership into a statement about a person. Information that relates to a person only through such a combination is personal data, since a person counts as identifiable when they can be identified indirectly. The attack succeeds because ĥ treats the reported days differently from all other days. A company that wants to publish a hypothesis without revealing which days were reported therefore needs a machine learning method whose learned hypothesis does not single out the training set. Regularization is the standard route to this: it makes a machine learning method generalize beyond the training set, so the learned hypothesis behaves similarly for data points in the training set and for those outside it, and the adversary's guess becomes harder. For the weather application, a hypothesis that predicts the maximum temperature of an unreported day as accurately as that of a reported day gives the adversary nothing to compare. What the attack can learn is bounded by what separates the training error from the validation error. Differential privacy bounds this difference, at a cost in accuracy.",
    "synonyms": [],
    "see_also": [
     "attack",
     "privattack",
     "personaldata",
+    "regularization",
     "diffpriv",
     "overfitting",
     "trainerr",
     "valerr",
-    "trainset",
-    "erm"
+    "trainset"
    ],
-   "readiness": 92,
+   "readiness": 97,
    "markdown": "https://dictionaryofml.org/terms/membershipinferenceattack.md",
    "latex": "https://dictionaryofml.org/terms/membershipinferenceattack.tex",
    "demo": "https://dictionaryofml.org/terms/membershipinferenceattack.py",
    "notebook": "https://dictionaryofml.org/terms/membershipinferenceattack.ipynb",
    "sha256": {
     "membershipinferenceattack.ipynb": "3bea3b9c619c38eaf6b8e0e23e38be8b498bbbbe2442c8dc3172fa06755028aa",
-    "membershipinferenceattack.md": "bcf4dfc33171d2919dcbed35b6bca6d73c3f42d1873041384ef339ccd7fd12e8",
+    "membershipinferenceattack.md": "06e5d28711a78d1e04eb4567bc9b7fc7da59fb518f797b82e039c417615c8d43",
     "membershipinferenceattack.py": "ed33a1ea6ada192c40b6a0dde4c18966564dccd81d74da4e961c7ca64d68e650",
-    "membershipinferenceattack.tex": "668bf2c95c937136f6a0fec5d49140bc3fd96a2f4a71fe1d3a21a87c0f63ab59"
+    "membershipinferenceattack.tex": "e06725dd558a1c20ba7a26c58880eb19df4ced7877754ef874821a26bc1d2c8e"
    }
   },
   {
@@ -3154,8 +3195,8 @@
    "name": "model selection",
    "url": "https://dictionaryofml.org/terms/modelsel.html",
    "pdf": "https://dictionaryofml.org/terms/modelsel.pdf",
-   "abstract": "Model selection chooses among several alternative machine learning methods by comparing their validation errors. Each machine learning method delivers a learned hypothesis via some training method such as empirical risk minimization. A core design choice for a machine learning method is the underlying hypothesis space, or model. The effective hypothesis space can also depend on hyperparameters of the optimization algorithms used to solve empirical risk minimization. The training error of a machine learning method is a poor criterion for model selection, as it would always choose the largest hypothesis space. The validation errors can be obtained as the average loss on a single validation set or via k-fold cross-validation. The ultimately chosen hypothesis must be assessed on data points that have neither been used by any individual machine learning method nor for choosing among them.",
-   "description": "Six days of morning minimum temperature x and maximum daytime temperature y are to be used for predicting the afternoon from the morning. Fig. 1 shows these days and two hypothesis maps, each learned by a machine learning method via empirical risk minimization from the training set D(train) of those six days. One is a linear hypothesis, learned over a linear model; the other is a degree-five polynomial, learned over the larger hypothesis space of polynomial regression. The polynomial passes through every day of D(train), so its training error, the average squared error loss over D(train), is zero. The linear hypothesis misses each of them and its training error is 0.47. The training error therefore ranks the polynomial first, and following that ranking would pick the candidate that predicts worst on a day that did not belong to D(train). Model selection ranks instead by the validation error on a validation set D(val) that empirical risk minimization did not use, which reverses the order. It leaves a test set D(test) untouched for estimating the risk of the selected hypothesis. Model selection is the step of a machine learning workflow that chooses among several alternative machine learning methods by comparing their validation errors. Consider C candidates ĥ(c), c = 1, …, C, obtained from empirical risk minimization with a different effective hypothesis space H(c). The effective hypothesis space can also depend on hyperparameters of the optimization algorithm used to solve empirical risk minimization. Typical hyperparameters include the learning rate of a gradient-based method, the strength α of a regularization penalty term, and the depth of a decision tree. The training error of the learned hypotheses ĥ(c) is a poor criterion for choosing between them: it always chooses the largest hypothesis space, even when that results in overfitting. Model selection therefore follows model training, e.g., via empirical risk minimization, and model validation, e.g., via k-fold cross-validation. The basic workflow has three stages. \\begin{enumerate}[label=\\arabic*)] \\item For each candidate c = 1, …, C, run empirical risk minimization on the training set with hypothesis space H(c) and the corresponding hyperparameter setting. This yields a trained hypothesis ĥ(c) ∈ H(c). \\item Compute the validation error Ev(ĥ(c)) of each ĥ(c) on a validation set held out from empirical risk minimization. k-fold cross-validation is the standard estimator of the validation error when the training set is too small to spare a validation set. \\item Select the candidate with the smallest validation error. Its index is c⋆ = argminc Ev(ĥ(c)). The selected hypothesis is ĥ(c⋆). \\end{enumerate} The selected hypothesis ĥ(c⋆) must be evaluated on a test set. A test set consists of data points that have neither been used for learning any individual ĥ(c) nor for choosing between them. Under an independent and identically distributed assumption for the data generation, the average loss on D(test) is an unbiased estimator of the risk of ĥ(c⋆).",
+   "abstract": "Model selection chooses among several alternative machine learning methods by comparing their validation errors. Each machine learning method learns a hypothesis via a training method such as empirical risk minimization. A core design choice for a machine learning method is the underlying hypothesis space, or model. The effective hypothesis space can also depend on hyperparameters of the optimization algorithms used to solve empirical risk minimization. The training error of a machine learning method cannot serve as the criterion for model selection, as it would always choose the largest hypothesis space. The validation error is the average loss on a single validation set, or is obtained via k-fold cross-validation. The ultimately chosen hypothesis must be assessed on data points that have been used neither for learning any individual hypothesis nor for choosing among them.",
+   "description": "Six days at Krems an der Donau serve to predict the afternoon from the morning. Each day is a data point with its morning minimum temperature as the feature x and its maximum daytime temperature as the label y. Fig. 1 shows these days and two hypothesis maps, each learned by a machine learning method via empirical risk minimization from the training set D(train) of those six days. One is a linear hypothesis ĥ(1), learned over a linear model. The other is a degree-five polynomial ĥ(2), learned over the larger hypothesis space of polynomial regression. The polynomial passes through every day of D(train), so its training error, the average squared error loss over D(train), is zero. The linear hypothesis misses each of them and its training error is 0.47. The training error therefore ranks the polynomial first, and following that ranking would pick the candidate that predicts worst on a day that did not belong to D(train). Model selection ranks the two instead by the validation error on a validation set D(val) that empirical risk minimization did not use. On the fourteen validation days of Fig. 1, the average squared error loss is 2065 for the polynomial and 7.06 for the linear hypothesis, so model selection picks the linear hypothesis ĥ(1). The validation error of the selected hypothesis is biased downward, since the selection favored the candidate with the smallest one. Model selection therefore leaves a test set D(test) untouched for estimating the risk of the selected hypothesis. Model selection chooses among several alternative machine learning methods by comparing their validation errors. Consider C candidates ĥ(c), c = 1, …, C, obtained from empirical risk minimization with a different effective hypothesis space, or model, H(c). The effective hypothesis space can also depend on hyperparameters of the optimization algorithm used to solve empirical risk minimization. Typical hyperparameters include the learning rate of a gradient-based method, the strength α of a regularization penalty term, and the depth of a decision tree. The training error of the learned hypotheses ĥ(c) cannot serve as the criterion for choosing between them: it always chooses the largest hypothesis space, even when that results in overfitting, as the degree-five polynomial of Fig. 1 does. Model selection therefore follows model training, e.g., via empirical risk minimization, and model validation, e.g., via k-fold cross-validation. The workflow has three stages. \\begin{enumerate}[label=\\arabic*)] \\item For each candidate c = 1, …, C, empirical risk minimization is run on the training set with hypothesis space H(c) and its hyperparameter setting, which yields a learned hypothesis ĥ(c) ∈ H(c). \\item The validation error Ev(ĥ(c)) of each ĥ(c) is computed on a validation set held out from empirical risk minimization. k-fold cross-validation is the standard choice when the training set is too small to spare a validation set; it scores the machine learning method rather than one learned hypothesis. \\item The selected hypothesis is ĥ(c⋆), where c⋆ = argminc Ev(ĥ(c)) is the index of the smallest validation error. If two candidates share the smallest validation error, the one with the smaller hypothesis space is selected. \\end{enumerate} The selected hypothesis ĥ(c⋆) must be evaluated on a test set. A test set consists of data points that have been used neither for learning any individual ĥ(c) nor for choosing between them. Under an independent and identically distributed assumption for the data generation, the average loss on D(test) is an unbiased estimator of the risk of ĥ(c⋆).",
    "synonyms": [],
    "see_also": [
     "validation",
@@ -3174,9 +3215,9 @@
    "notebook": "https://dictionaryofml.org/terms/modelsel.ipynb",
    "sha256": {
     "modelsel.ipynb": "4a4dc1df20fcbb856ba812ee8e8b43fe6413a5a445244640a1bd230a2d38fdcc",
-    "modelsel.md": "151bac2cd2f0429815c3894321ae4a0b6b19e69fbf12b0eeafc1e0b497db4ae4",
+    "modelsel.md": "000ba093651294b68c11f1da0a1780b114cba149ac58a4b10c72b84e5527f4f7",
     "modelsel.py": "9e49330637474532e284c51d5ee4b62c2b981f54789ac02599687d5888914d78",
-    "modelsel.tex": "0cb8c99edb63f8de016f9703a87be617e0c226f13214a29d5d422b640e36d986"
+    "modelsel.tex": "b30b95ec67e6c5355eec21705bc34f27637103e4455f120e253c8732399166b0"
    }
   },
   {
@@ -3248,7 +3289,7 @@
    "notebook": "https://dictionaryofml.org/terms/onlinelearning.ipynb",
    "sha256": {
     "onlinelearning.ipynb": "ed27c21cb66d0e6ea589e3d0910331fd3316434f2036940c0df11088384235f7",
-    "onlinelearning.md": "afb36e5561344b46806a26765287b7356f2ed5796db49c3a95a983402f87b571",
+    "onlinelearning.md": "921507521784b707607a48ba4af3c8752a80bb3645a5accf54b57dbc928598c8",
     "onlinelearning.py": "ec2e1fa3a6849153dce5cb8c0735cfa76dfa6d16227a9d14ac4322036d19165b",
     "onlinelearning.tex": "da8b1e8d6bd5f92129634a01fa81a491eb2226c6e85973a1fe5e4238a7a4a809"
    }
