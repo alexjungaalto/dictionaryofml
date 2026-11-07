@@ -495,6 +495,29 @@
    ]
   },
   {
+   "id": "rl",
+   "title": "Lernen durch Belohnung (Reinforcement Learning)",
+   "topic": "Reinforcement Learning",
+   "audience": "RL · für Technik-Teams, Robotik, Logistik, Spieleentwicklung",
+   "terms": [
+    {
+     "key": "reinforcementlearning",
+     "name": "reinforcement learning",
+     "url": "https://dictionaryofml.org/terms/reinforcementlearning.html"
+    },
+    {
+     "key": "policy",
+     "name": "policy",
+     "url": "https://dictionaryofml.org/terms/policy.html"
+    },
+    {
+     "key": "reward",
+     "name": "reward",
+     "url": "https://dictionaryofml.org/terms/reward.html"
+    }
+   ]
+  },
+  {
    "id": "mathematik",
    "title": "Mathematik der KI",
    "topic": "Mathematik der KI",
