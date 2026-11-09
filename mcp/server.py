@@ -176,56 +176,142 @@ async def read_resource(uri):
 
 @server.list_tools()
 async def list_tools():
+    # Every argument carries a description, and every tool an annotation
+    # block: an agent picks a tool from the schema alone, without reading
+    # this file. All six only read the published terms.json, so none of
+    # them is destructive and each is idempotent; the data is the closed
+    # set of published terms, so none reaches an open world.
+    READ_ONLY = types.ToolAnnotations(readOnlyHint=True,
+                                      destructiveHint=False,
+                                      idempotentHint=True,
+                                      openWorldHint=False)
+    TERM_ARG = {
+        "type": "string",
+        "description": "A term, given either as its key (the lowercase "
+                       "one-word identifier, e.g. 'erm', 'gradientdescent') "
+                       "or as its display name (e.g. 'empirical risk "
+                       "minimization'). Matching is case-insensitive and "
+                       "tolerates small differences in spelling; an input "
+                       "that resembles no published term returns a message "
+                       "saying so rather than a wrong entry.",
+    }
     return [
         types.Tool(
             name="list_all_terms",
+            title="List every term",
             description="List every term of the Dictionary of Applied "
-                        "Machine Learning (name and key).",
-            inputSchema={"type": "object", "properties": {}}),
+                        "Machine Learning, one per line, as its display "
+                        "name followed by its key. Takes no arguments. Use "
+                        "it to find the key for a term before calling one "
+                        "of the tools that takes one.",
+            annotations=READ_ONLY,
+            inputSchema={"type": "object", "properties": {},
+                         "additionalProperties": False}),
         types.Tool(
             name="lookup_term",
-            description="Full dictionary entry (abstract, definition, "
-                        "cross-references) for a term, by key or name.",
+            title="Read one entry",
+            description="The full dictionary entry for one term: its "
+                        "abstract, its definition, the works it cites and "
+                        "its cross-references. Use it when a specific term "
+                        "is already known; use search_terms when it is not.",
+            annotations=READ_ONLY,
             inputSchema={"type": "object",
-                         "properties": {"term": {"type": "string"}},
-                         "required": ["term"]}),
+                         "properties": {"term": TERM_ARG},
+                         "required": ["term"],
+                         "additionalProperties": False}),
         types.Tool(
             name="search_terms",
-            description="Search term names and definitions for a keyword "
-                        "or phrase; returns the best matches.",
+            title="Search the dictionary",
+            description="Search the term names, abstracts and definitions "
+                        "for a keyword or phrase and return the best "
+                        "matches, each with its abstract. Use it when the "
+                        "right term is not known in advance.",
+            annotations=READ_ONLY,
             inputSchema={"type": "object",
-                         "properties": {"query": {"type": "string"},
-                                        "limit": {"type": "integer"}},
-                         "required": ["query"]}),
+                         "properties": {
+                             "query": {
+                                 "type": "string",
+                                 "description": "The words to search for, "
+                                                "e.g. 'overfitting' or "
+                                                "'gradient step size'. "
+                                                "Matching is "
+                                                "case-insensitive; a term "
+                                                "whose name contains the "
+                                                "query ranks above one "
+                                                "where only the definition "
+                                                "does.",
+                                 "minLength": 1},
+                             "limit": {
+                                 "type": "integer",
+                                 "description": "How many matches to "
+                                                "return, best first. "
+                                                "Defaults to 8.",
+                                 "default": 8,
+                                 "minimum": 1,
+                                 "maximum": 50}},
+                         "required": ["query"],
+                         "additionalProperties": False}),
         types.Tool(
             name="get_related_terms",
-            description="The terms a given entry cross-references "
-                        "(its See-also list), with their abstracts.",
+            title="Follow the cross-references",
+            description="The terms one entry cross-references, its See-also "
+                        "list, each with its abstract. Use it to widen a "
+                        "topic by one step from a term already in hand.",
+            annotations=READ_ONLY,
             inputSchema={"type": "object",
-                         "properties": {"term": {"type": "string"}},
-                         "required": ["term"]}),
+                         "properties": {"term": TERM_ARG},
+                         "required": ["term"],
+                         "additionalProperties": False}),
         types.Tool(
             name="list_learning_paths",
+            title="List the reading orders",
             description="The author's curated reading orders through the "
                         "dictionary: one per topic (how ChatGPT works, AI "
                         "foundations, explainable and trustworthy AI, "
-                        "mathematics of AI, ...), each with its audience and "
-                        "its terms in the order to read them. Use when "
-                        "someone asks what to learn, read, or teach about a "
-                        "topic, or how to structure a course or seminar.",
-            inputSchema={"type": "object", "properties": {}}),
+                        "mathematics of AI, ...), each with its audience "
+                        "and its terms in the order to read them. Takes no "
+                        "arguments. Use when someone asks what to learn, "
+                        "read, or teach about a topic, or how to structure "
+                        "a course or seminar, so the answer follows the "
+                        "author's order instead of an improvised one.",
+            annotations=READ_ONLY,
+            inputSchema={"type": "object", "properties": {},
+                         "additionalProperties": False}),
         types.Tool(
             name="get_learning_path",
+            title="Read one reading order",
             description="One reading order with the abstract of every term "
-                        "in it. Give `topic` (a path id or words from its "
-                        "title or audience), or `terms` (an explicit list of "
-                        "term keys or names, kept in the given order) — the "
-                        "form a selection on alexjung.at/baukasten/ takes.",
+                        "in it, in the order to read them. Give either "
+                        "`topic` or `terms`; giving neither returns the "
+                        "list of available reading orders.",
+            annotations=READ_ONLY,
             inputSchema={"type": "object",
                          "properties": {
-                             "topic": {"type": "string"},
-                             "terms": {"type": "array",
-                                       "items": {"type": "string"}}}}),
+                             "topic": {
+                                 "type": "string",
+                                 "description": "Which reading order to "
+                                                "return: a path id "
+                                                "(e.g. 'llm', 'grundlagen', "
+                                                "'mathematik') or words "
+                                                "from its title or its "
+                                                "audience note. Matching is "
+                                                "case-insensitive.",
+                                 "minLength": 1},
+                             "terms": {
+                                 "type": "array",
+                                 "description": "An explicit reading order "
+                                                "instead of a curated one: "
+                                                "term keys or display "
+                                                "names, kept in the given "
+                                                "order. This is the form a "
+                                                "selection on "
+                                                "alexjung.at/baukasten/ "
+                                                "takes, whose URL fragment "
+                                                "reads "
+                                                "'#terms=llm,transformer'.",
+                                 "items": {"type": "string"},
+                                 "minItems": 1}},
+                         "additionalProperties": False}),
     ]
 
 

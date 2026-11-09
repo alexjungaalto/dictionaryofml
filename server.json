@@ -3,8 +3,24 @@
   "name": "org.dictionaryofml/dictionary",
   "title": "Dictionary of Applied Machine Learning",
   "description": "Look up, search and cross-reference machine-learning terms from dictionaryofml.org.",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "websiteUrl": "https://dictionaryofml.org",
+  "icons": [
+    {
+      "src": "https://dictionaryofml.org/apple-touch-icon.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "180x180"
+      ]
+    },
+    {
+      "src": "https://dictionaryofml.org/favicon.svg",
+      "mimeType": "image/svg+xml",
+      "sizes": [
+        "any"
+      ]
+    }
+  ],
   "repository": {
     "url": "https://github.com/alexjungaalto/dictionaryofml",
     "source": "github"
