@@ -127,7 +127,10 @@ INSTRUCTIONS = (
     "an explicit list of terms in that order. Entries are citable; each "
     "term page carries a BibTeX block.")
 
-server = Server("dictionaryofml", instructions=INSTRUCTIONS,
+# Keep version in step with server.json: with no version the SDK reports its
+# own package version in serverInfo, so clients saw 1.30.0 where the registry
+# entry says 1.1.0.
+server = Server("dictionaryofml", version="1.1.0", instructions=INSTRUCTIONS,
                 website_url="https://dictionaryofml.org")
 
 
