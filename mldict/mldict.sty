@@ -375,6 +375,7 @@
 
 \newcommand{\fixedpointop}{\mathcal{F}}
 \newcommand{\gdstep}[1]{\mathcal{F}^{(#1)}}   % GD step operator; #1 = learning rate
+\newcommand{\batchgrad}[2]{{\bf g}^{(#1)}\big( #2 \big)}   % batch gradient approximation used by SGD; #1 = batch, #2 = model parameters
 \newcommand{\contractfac}{\kappa}
 \newcommand{\lipschitzconstant}{L}   % Lipschitz constant (of a function or of a gradient: L-smooth)
 \newcommand{\condnumber}[1]{\kappa\!\left(#1\right)}  % condition number of a matrix
