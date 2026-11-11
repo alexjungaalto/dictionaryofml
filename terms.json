@@ -2318,9 +2318,9 @@
    "notebook": "https://dictionaryofml.org/terms/hilbertspace.ipynb",
    "sha256": {
     "hilbertspace.ipynb": "04eeb33ed03e26795841e53c9eda01fa820aa0a2565273a5f1eed83c2103c5f8",
-    "hilbertspace.md": "24c438c7ca21cfee12e6f5c16cf3b46519d00c517a59346402ead30c1b58c8e6",
+    "hilbertspace.md": "7455a744fc5327f938daf1c877584683126ecc73c21d33ae10746008f939b2b8",
     "hilbertspace.py": "821daf34b39d58748b25915ca0f51b16e89b6a683b5f4c6cc1615151c4ffc5e9",
-    "hilbertspace.tex": "01e2bd85695721da493f696358c493b2e07577156e367baeaa1386a2f4803f91"
+    "hilbertspace.tex": "10c87d209495d5a0e27474f25e33fd6957877813249535bc66001201f3110f31"
    }
   },
   {
@@ -2490,9 +2490,9 @@
    "notebook": "https://dictionaryofml.org/terms/iidasspt.ipynb",
    "sha256": {
     "iidasspt.ipynb": "aea5128d795b54595bda29bb86c45f48d1dbb90ea501e1dd7488eeb86b5e81bd",
-    "iidasspt.md": "12a7bd5996a1e69f1a9f0226db26ea16b66c814dc4620a15c8dd6ebb0f03f5dc",
+    "iidasspt.md": "114629bf30785c9846076da31952b754de2352e488884a0c5d7194586f7b33e1",
     "iidasspt.py": "ab1b1325bdd6504aa247f1e96d853a757396ec689e655d1ef55ea7681400efdd",
-    "iidasspt.tex": "12f89eb966157c7867c6ed1552bfe60bec64097dc1f0af52c452339148d04fc5"
+    "iidasspt.tex": "a08a6f7fe85eca9befd6d85a1b32357ab10c7d4a2bb820ebe614529683b538dc"
    }
   },
   {
