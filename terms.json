@@ -684,7 +684,7 @@
    "notebook": "https://dictionaryofml.org/terms/accuracy.ipynb",
    "sha256": {
     "accuracy.ipynb": "29abf70894804b69355fe2ce15e05db71755e48a34fef1d3f9d841f73c66c36c",
-    "accuracy.md": "c43b7c843136eb6cdf32c7ae7e6a1eaef15cd4561fda046135f79ad7881d44da",
+    "accuracy.md": "b730b4067c31d83f2f7d515a8c53bdeff351d94ad15b73bf6004e22c359f0134",
     "accuracy.py": "eaafb209196c1a42a434bc36642c7beba5332b38e5dd7ff0a05bd05c1d4e84e8",
     "accuracy.tex": "412b1a38daea63cc9c5642862f56b65a6d4d3f6086f5df6e8ef7b61ebd3b8c0c"
    }
@@ -714,7 +714,7 @@
    "notebook": "https://dictionaryofml.org/terms/ann.ipynb",
    "sha256": {
     "ann.ipynb": "b0bd0e3835e203f1ab10eae1ff58389412e7d98db2336f1d1c055e08493d73c0",
-    "ann.md": "bb523c8adba0105e434507dd38eb70c30a4211977f08d1105001c4982ae21370",
+    "ann.md": "d18939bc5cd9021a24e3805ae219f81363f0c43fd05cdb94467b08fd7c0c469f",
     "ann.py": "3d56ea5dc1ab1bcaaa56ca96f90016e659886e3bb751c702fc4840146dec9f33",
     "ann.tex": "623b2082dd53ce94850e54176d60897a65ed1aa77d26d7cca1d723c5500068f4"
    }
@@ -745,7 +745,7 @@
    "notebook": "https://dictionaryofml.org/terms/attention.ipynb",
    "sha256": {
     "attention.ipynb": "dbb7263edc393f9c0e8aad2daba5b97d5b1390aaa22e4a89b77c9d38ca869694",
-    "attention.md": "b2842091abcd5cfcf4b4e7d8831be6cd9d01b395490a762c24e7abc232d629a8",
+    "attention.md": "a042e49ee1a49ce93dd809cf846d1d4f0c2c8f744076eefa8a9ce60074ba5b5b",
     "attention.py": "5cd0ff17fff91c23d3d8f9f0c5b01e8051f3f5086b4d484abddd3908dfcee4ff",
     "attention.tex": "1e473985452d0d916a750649aad24d33eb517bee608021d05e72443c9938e65f"
    }
@@ -779,7 +779,7 @@
    "notebook": "https://dictionaryofml.org/terms/autoencoder.ipynb",
    "sha256": {
     "autoencoder.ipynb": "7b4fe668ffb60da707c51ccb7a231ec12f0b4ede31a9b0dc4523abb911316f68",
-    "autoencoder.md": "31b51762f70173095ee59c9d8c300f88f06622e4e943308a30cda0e0fbf0bc74",
+    "autoencoder.md": "b60031145c8d1d399166c757678877a8e9e590eb9bc260f902a936d6b38b045c",
     "autoencoder.py": "42fb4a103c3781c3852e2046b8607edd357434473e7534ab9e2561d61f18dd95",
     "autoencoder.tex": "a210d912b9d60979564948b820857e3d1ab0dba958f35bb74f2cf3b4f85bfa81"
    }
@@ -812,7 +812,7 @@
    "notebook": "https://dictionaryofml.org/terms/backpropagation.ipynb",
    "sha256": {
     "backpropagation.ipynb": "f606543b37279c5a043de17402a70574a9253f51d670c32c66dae06826add000",
-    "backpropagation.md": "a3462b89ec47d8f901f5b438372f5f6607afd42888d4390cac8167e9391cb7a7",
+    "backpropagation.md": "2e382c302b1214af00f917e60e0203d03104e747d1f60448ec947b1e556eafa1",
     "backpropagation.py": "bc084d49dfab63f3b4dfd9310ba716dc52348a56da1cbfe600f438f2eacaacd3",
     "backpropagation.tex": "6f2f538667fedbbec65d856e65d1eb8bc3310873b3f488c7e30c779b729dcc4d"
    }
@@ -843,7 +843,7 @@
    "notebook": "https://dictionaryofml.org/terms/bagging.ipynb",
    "sha256": {
     "bagging.ipynb": "60b1793a4c5e2b5242065fc95b8880a456d687fa2468ba22c523e15fbe6062f4",
-    "bagging.md": "f0f826179936e00418a61aee8854c77691f632975f314b6c33384c7f3a206973",
+    "bagging.md": "09d79f4600274f4703c83a5df6a6fa0b4a0bb764b6022553f3d03bc7dfd033ae",
     "bagging.py": "b9b2ee95d12851213d7c96aa3d9d91fb477c6faaa6f6d2b155e1edeebc6c8bd9",
     "bagging.tex": "58c418004162cb0581b97260d5fa26e4ce41cf1ca05c0586f5a8c0f888d63553"
    }
@@ -869,7 +869,7 @@
    "notebook": "https://dictionaryofml.org/terms/baselearner.ipynb",
    "sha256": {
     "baselearner.ipynb": "a60cad72e0ec91e6d6d2cd04029f65038a0504a147f2505eb0d31dee92841199",
-    "baselearner.md": "b327735841a879f298bc2922a8fd8e3f93bb655c5642372feba89b2cc18290a4",
+    "baselearner.md": "80255eb809588f7436b6eb394b93ca79b3a1788fa17c41d2462e73afe9376893",
     "baselearner.py": "7f497457bfc92be6035b5ec172140c565fb85e02edc887246a0a5f780d3c322c",
     "baselearner.tex": "91d2a71d08776d9743e4af59d9087725c138b198634bc670072f7a9adbc309a0"
    }
@@ -879,8 +879,8 @@
    "name": "baseline",
    "url": "https://dictionaryofml.org/terms/baseline.html",
    "pdf": "https://dictionaryofml.org/terms/baseline.pdf",
-   "abstract": "A baseline is a reference level against which the performance of a trained model is compared. The cheapest baseline uses no features at all and predicts the same value for every data point, e.g., the sample mean of numeric label values, or the most frequent label in classification. Any useful method must beat that level. Baselines can be obtained from human performance, from an existing machine learning method, or from a probabilistic model. Given an accurate probabilistic model of the data generation, the smallest achievable risk is the Bayes risk, incurred by the Bayes estimator of the label given the features. In practice, however, the Bayes estimator is infeasible for at least two reasons. First, the probability distribution of the data generation process might be impossible to determine. Second, computing the Bayes risk might be computationally too expensive.",
-   "description": "On two days of 2024, the weather station Krems an der Donau (Austria) recorded the same minimum temperature of 11.8 ∘C, but a maximum of 13.2 ∘C on one day and 29.9 ∘C on the other. No hypothesis that predicts the maximum from the minimum can be right on both days. Consider some machine learning method that produces a learned hypothesis (or trained model) ĥ ∈ H. Its quality is typically evaluated by computing the average loss on a test set. The measured performance alone does not tell whether it is satisfactory: the question is whether the learned hypothesis is already close to optimal. If it is, little is gained by collecting more data or by spending more computation to improve it. Answering the question needs a baseline: a reference level for the average loss, either the smallest that any method can achieve or the level that any useful method must beat. Sometimes a baseline is computed from the dataset itself, as in the scatterplot of Fig. 1. The figure shows weather records of the station Krems an der Donau (Austria). Each of the 366 days of 2024 is a data point whose feature x is the minimum air temperature of the day and whose label y is its maximum air temperature. On the 15 days with x between 11.5 ∘C and 12.5 ∘C, the label ranged from 13.2 ∘C to 33.4 ∘C. Two of these days, the pair of the opening, even share the same feature value x = 11.8, with labels 13.2 and 29.9. A hypothesis is a map, so it assigns both days the same prediction. On these two days it therefore incurs an average squared error loss of at least (16.7/2)2 ≈ 69.7. The same holds wherever days share a feature value: the spread of their labels is a loss that no hypothesis, however learned, can avoid. The gray strips of Fig. 1 repeat this measurement across the whole feature axis. Each strip holds at least four days and is drawn over the range of labels those days carry. A strip is therefore wide where the days are sparse and narrow where they are dense. Averaging the variance of the label within the strips yields 18.75 (in squared degrees Celsius). The resulting value, 18.75 squared degrees Celsius, is the data-derived baseline: an estimate of the smallest average squared error loss any hypothesis can achieve on these days. This example uses the whole year as training set. A hypothesis learned by linear regression incurs on this training set an average squared error loss of 19.17, its training error. That is above the estimate and within three percent of it. The estimate is a floor for every hypothesis that is constant on each strip. On the two days with equal feature value, it binds every hypothesis. For the linear hypothesis, it is evidence rather than a guarantee: evidence that little is left to gain. As an estimate of the smallest achievable risk, the same number is also the reference for the average loss on a test set of other days. Baselines can provide lower bounds or upper bounds on the achievable average loss. The strip-wise estimate of Fig. 1 approximates a lower bound, the Bayes risk defined below: no hypothesis has a smaller risk. An upper bound, i.e., a baseline that any useful method should beat, comes from a trivial hypothesis map that does not depend on the features at all. For numeric labels, such a trivial prediction could be the sample mean of the labels in the training set. In classification, the constant prediction could be the label value of the majority class in the training set. Its accuracy is the share of that class, which on imbalanced data is already high. For the temperature dataset of Fig. 1, the constant prediction by the sample mean incurs an average squared error loss of 84.64, more than four times the 18.75 that the strips leave achievable. A second source of a baseline is a probabilistic model, which turns the smallest achievable loss into a quantity that can be computed. Given an accurate probabilistic model p(x,y) of the data generation, the minimum achievable risk can often be determined precisely. The minimum is over all hypotheses, not only those in the hypothesis space H. This minimum achievable risk, the Bayes risk, is the risk of the optimal hypothesis: the Bayes estimator of the label y of a data point, given its features x. For the squared error loss, the Bayes risk equals the expectation of the conditional variance of the label, given the features. The strip-wise estimate in Fig. 1 approximates exactly this quantity by the two approximations of a local average: the variance of the labels within a strip replaces the conditional variance at a point by the conditional variance on a region, and the average over the strips replaces the expectation over the features by an average over the data. This probabilistic interpretation also explains the constant baseline above. The constant prediction of the majority class is itself a Bayes estimator. Under the 0/1 loss, the Bayes estimator assigns the label with the largest posterior probability. If the features carry no information about the label, the posterior equals the prior, so the Bayes estimator is the most probable label. The Bayes risk is then the probability that the label is a different one. The trivial baseline is thus the Bayes risk of the probabilistic model in which the label does not depend on the features. It measures what is already known before any feature is read. For a given choice of loss function, the Bayes estimator (if it exists) is fully determined by the probability distribution P. However, computing the Bayes estimator and Bayes risk presents two main challenges. First, the probability distribution P is unknown and must be estimated from observed data. Second, even if P were known, exact probabilistic inference can be computationally infeasible for general probabilistic models, such as multiply connected Bayesian belief networks. One probabilistic model makes both quantities explicit: the multivariate normal distribution ( x,y ) ~ N(μ,C), for data points ( x,y ) generated by independent and identically distributed RVs with numeric features and labels. Here, for the squared error loss, the Bayes estimator is the posterior mean μy|x := Ey | x of the label y, given the features x. The Bayes risk it attains is the posterior variance σ2y|x (see Fig. 2). It is the baseline a trained hypothesis ĥ is compared against. Fig. 2 shows its prediction ĥ(x) beside the posterior mean. For the multivariate normal distribution, this posterior variance does not depend on x. It is one divided by the diagonal entry of C-1, the inverse of the covariance matrix C, that belongs to the label: σ2y|x = 1 / [C-1]y,y. In practice, the mean vector μ and the covariance matrix C can be estimated from a dataset by the sample mean and the sample covariance matrix. The baselines so far are derived, from the data or from a probabilistic model. Three further baselines are empirical: each reports the measured performance of some other predictor. A baseline might be obtained from human performance, e.g., the misclassification rate of dermatologists who diagnose skin cancer from images. For LLMs, baselines are often obtained from a benchmark, i.e., a fixed collection of test problems together with an evaluation protocol. As an example, the benchmark GSM8K measures the ability of a large language model to solve grade-school mathematics word problems. A third source is an existing machine learning method that is unsuitable for the intended machine learning application, e.g., because it is computationally too expensive. Its test set error can still serve as a baseline.",
+   "abstract": "A baseline is a reference level against which the performance of a trained model is compared. The cheapest baseline uses no features at all and predicts the same value for every data point, e.g., the sample mean of numeric label values, or the most frequent label value in classification. Any useful method must beat that level. Baselines can be obtained from human performance, from an existing machine learning method, or from a probabilistic model. Given an accurate probabilistic model of the data generation, the smallest achievable risk is the Bayes risk, incurred by the Bayes estimator of the label given the features. In practice, however, the Bayes estimator is infeasible for at least two reasons. First, the probability distribution of the data generation process might be impossible to determine. Second, computing the Bayes risk might be computationally too expensive.",
+   "description": "On two days of 2024, a weather station Krems an der Donau (Austria) recorded the same minimum temperature of 11.8 ∘C, but a maximum of 13.2 ∘C on one day and 29.9 ∘C on the other. No hypothesis that predicts the maximum daytime temperature from the minimum can be right on both days. Whatever loss a hypothesis incurs on those two days is unavoidable, so a measured loss above zero is not by itself a sign of a poor machine learning method. More generally, consider a machine learning method that produces a learned hypothesis (or trained model) ĥ ∈ H. It is evaluated by computing the average loss on a test set. The question is whether the learned hypothesis is already close to optimal. If it is, little is gained by collecting more data or by spending more computation to improve it. Answering the question needs a baseline: a reference level for the average loss, either the smallest that any method can achieve or the level that any useful method must beat. Sometimes a baseline is computed from the dataset itself, as in the scatterplot of Fig. 1. The figure shows weather records of the station Krems an der Donau (Austria). Each of the 366 days of 2024 is a data point whose feature x is the minimum air temperature of the day and whose label y is its maximum air temperature. For the 15 data points whose x is between 11.5 ∘C and 12.5 ∘C, the corresponding label ranged from 13.2 ∘C to 33.4 ∘C. Two of these data points even share the same feature value x = 11.8, with labels 13.2 and 29.9. A hypothesis is a map, so it assigns both days the same prediction. On these two data points it therefore incurs an average squared error loss of at least (16.7/2)2 ≈ 69.7. The same holds wherever data points share a feature value: the spread of their labels determines an average loss that no hypothesis, however learned, can avoid. The gray strips of Fig. 1 collect data points with very similar feature values. Each strip holds at least four data points and is drawn over the range of labels those data points carry. A strip is therefore narrow where data points are dense along the feature axis and wide where they are sparse, and it is tall wherever those data points carry very different labels. Computing the sample variance of the labels within each strip and averaging the results across all strips yields 18.75 (in squared degrees Celsius). The resulting value, 18.75 squared degrees Celsius, is an estimate of the smallest average squared error loss any hypothesis can achieve on these data points. The hypothesis learned by linear regression, the solid line of Fig. 1, incurs an average squared error loss of 19.17, its training error. That is within three percent of the baseline and evidence that little is left to gain. Baselines can provide lower bounds or upper bounds on the achievable average loss. The strip-wise estimate of Fig. 1 approximates a lower bound, the Bayes risk defined below: no hypothesis has a smaller risk. An upper bound, i.e., a baseline that any useful method should beat, comes from a trivial hypothesis map that does not depend on the features at all. For numeric labels, such a trivial prediction could be the sample mean of the labels in the training set. In classification, the constant prediction could be the label value of the majority class in the training set. Its accuracy is the share of that class, which on imbalanced data is already high. For the temperature dataset of Fig. 1, the constant prediction by the sample mean incurs an average squared error loss of 84.64, more than four times the above baseline value 18.75. A second source of a baseline is a probabilistic model, which provides a precise notion of a baseline that applies to any machine learning method. In particular, the Bayes risk is the risk of the optimal hypothesis: the Bayes estimator of the label y of a data point, given its features x. For the squared error loss, the Bayes risk equals the expectation of the posterior variance, taken over the features. The strip-wise estimate in Fig. 1 approximates the Bayes risk by local averaging: the sample variance of the labels within a strip around feature value x' approximates the conditional variance σ2y | x'. The average of the strip-wise sample variances approximates the expectation Eσ2y | x. This probabilistic interpretation also motivates the constant baseline above. The constant prediction of the majority class is itself a Bayes estimator for a probabilistic model P(y) that ignores the features of data points. Under the 0/1 loss, the Bayes estimator assigns the label with the largest posterior probability. For a probabilistic model that does not consider features, the posterior distribution equals the prior distribution of the label and, in turn, the Bayes estimator is the most probable label. The Bayes risk is then the probability that the label takes a value that is different from the most likely one. For a given choice of loss function, the Bayes estimator (if it exists) is fully determined by the probability distribution P. However, computing the Bayes estimator and Bayes risk presents two main challenges. First, the probability distribution P is unknown and must be estimated from observed data. Second, even if P were known, exact probabilistic inference can be computationally infeasible for general probabilistic models, such as multiply connected Bayesian belief networks. A widely-used probabilistic model for data points with numeric features and label is the multivariate normal distribution ( x,y ) ~ N(μ,C). Here, for the squared error loss, the Bayes estimator is the posterior mean μy|x := Ey | x of the label y, given the features x. The corresponding Bayes risk is the posterior variance σ2y|x (see Fig. 2). It is the baseline a trained hypothesis ĥ is compared against. Fig. 2 shows its prediction ĥ(x) beside the posterior mean. The baselines so far are derived, from the data or from a For the multivariate normal distribution, this posterior variance does not depend on x. More specifically, it is the reciprocal of the corresponding diagonal entry C-1, the inverse of the covariance matrix C: σ2y|x = 1 / [C-1]y,y. In practice, the mean vector μ and the covariance matrix C can be estimated from a dataset by the sample mean and the sample covariance matrix. Three further approaches to constructing a baseline use existing methods for determining predictions. First, a baseline might be obtained from human performance, e.g., the misclassification rate of dermatologists who diagnose skin cancer from images. Second, for LLMs, baselines are often obtained from a benchmark, i.e., a fixed collection of test problems together with an evaluation protocol. As an example, the benchmark GSM8K measures the ability of a large language model to solve grade-school mathematics word problems. A third source is an existing machine learning method that is unsuitable for the intended machine learning application, e.g., because it is computationally too expensive. The test set error obtained from such a method can still serve as a baseline.",
    "synonyms": [],
    "see_also": [
     "bayesrisk",
@@ -902,9 +902,9 @@
    "notebook": "https://dictionaryofml.org/terms/baseline.ipynb",
    "sha256": {
     "baseline.ipynb": "358b56fcd5db586f2b1326a68fa87f4894efee2fda95033814919269206a595c",
-    "baseline.md": "8b6f13b1cfc8567074e71e1dd99f7c05e177d3c123bb8e272aca611271c3fec2",
+    "baseline.md": "68f30b442c0d17c69e33fd19a853e4696b3faa8eed57d8aae121647bdf35574d",
     "baseline.py": "b3540afcb7914a69fe7e63d75c6950a60e4bfc70586dedc9a1a75d0fe5ddb055",
-    "baseline.tex": "bc5e6450a8674fce9fce8f9e1726a900c38cd8809e0253cf19ae1f8c059d17f3"
+    "baseline.tex": "0332db648077c01b7b1f9cd5f2183ff53e415a90ae3eb6b37e79a735214d1455"
    }
   },
   {
@@ -937,7 +937,7 @@
    "notebook": "https://dictionaryofml.org/terms/binclass.ipynb",
    "sha256": {
     "binclass.ipynb": "a7eb937741e72c18d1a3d76aaa849fe5ddea921672f02d1e77c88843a39f72b0",
-    "binclass.md": "e436f89df14bf1da8c5d2434e2ba49d9073eaf8b4ef5978d812b74989d0389b0",
+    "binclass.md": "6bbba1430f540d89e059c11425652a129892751c2425b9a656a514bdf73bbeeb",
     "binclass.py": "a6a2ce1f45377fb1c73bb03c5c267462c3d02eb5781c4b12b5ccb162c71ac552",
     "binclass.tex": "1329c6b97ae89a87e39f765187e4472e3e205ec3eb0779c17bc37aefad52e40a"
    }
@@ -965,7 +965,7 @@
    "notebook": "https://dictionaryofml.org/terms/boosting.ipynb",
    "sha256": {
     "boosting.ipynb": "d7b66e41eb9ae725b25e400af321ad2c7943ebc06c421efa7773746d7d6bbfde",
-    "boosting.md": "9146f02e713db6fa7d6f8c733277df188fb416c86d24d36bceb6b045f61ed6ab",
+    "boosting.md": "a35ed8aa3bb59b1ea269e38eb64341978e333d7b1250e44d77e81c5d57dc4852",
     "boosting.py": "d4c6dfbbca6046334af53dd2889fa2a61a296e927e8b3012817e60d5cd7eabf9",
     "boosting.tex": "cacf7952a250f003931a31d7f124893c6bc98d2c068aaaae026c6e7d32964e3a"
    }
@@ -998,7 +998,7 @@
    "notebook": "https://dictionaryofml.org/terms/bootstrap.ipynb",
    "sha256": {
     "bootstrap.ipynb": "6328f1f11943ddd3c4211797dc852693deab97a80a7a486dc3e2e3389ec40849",
-    "bootstrap.md": "99caa61564d57464c7998d8c94444e1f926f51683c69dd8ec3599725077efce3",
+    "bootstrap.md": "7f125757697a628c86392720fa232c15687b2a46d50b82fc868bb2eaa82271a7",
     "bootstrap.py": "c3d1929a2361b1e96e4ccbbdddb610844fca14564d46ae2ea59acb2cf100d365",
     "bootstrap.tex": "c52b2f37a1c2cf0000a1a1fc065e68e0183ebf916921f5e2d9a89a4f2b9839d1"
    }
@@ -1033,7 +1033,7 @@
    "notebook": "https://dictionaryofml.org/terms/cav.ipynb",
    "sha256": {
     "cav.ipynb": "7b66b4ef84296486a5176f15b5d16a803922650e005600c6fddd5a549a02cad2",
-    "cav.md": "a092705dc0b3e8198c688d8848176bb94f59e9fd687a569d425054aa67847757",
+    "cav.md": "52bf9dde383a353474f3422b697a1dd8a8134af70e0fe0cef82a1e546cdd335f",
     "cav.py": "226961f45198018028c985630fa148f7becd1b718bfbe1d532b8fb2599efbd7d",
     "cav.tex": "0c5608b11352f41ce5b3a0ecb78e8bac1b66d74277426054084bb7890ac07bf8"
    }
@@ -1072,7 +1072,7 @@
    "notebook": "https://dictionaryofml.org/terms/classification.ipynb",
    "sha256": {
     "classification.ipynb": "3121ba1b492960ef599cc8f370bc80979de9460c37d81c5e45aeb90e87983e9f",
-    "classification.md": "b5952d3ee7f68180adb559a9cfbf5a0c9b7d91291cee245d2e764c31068d8c6b",
+    "classification.md": "fa5fc64f1560eea74dcea470c16143daaec0511902c7068b61fed45bf1816f36",
     "classification.py": "6229ebcc5dae05d7b706d81ae1ac4360daf9ccdfea78046b85b4f12575ac7d78",
     "classification.tex": "0d44e4f7faa26149138c15637c713f3255d1608fa33bc025be73a61b4fd0df8f"
    }
@@ -1118,7 +1118,7 @@
    "notebook": "https://dictionaryofml.org/terms/clustering.ipynb",
    "sha256": {
     "clustering.ipynb": "733af3f85a7ad1882b112a22f634371be3becc70860506285580cc75beba1aac",
-    "clustering.md": "275948a6395f390657f36c7e3e848b09180e5cf952bca8e380372dfb92e5dc08",
+    "clustering.md": "d24948e06423856a4b8f3c1209a01cfc7d55bad349b749105d26a48132ac1462",
     "clustering.py": "59b0575d0dec9bb5870546064b969823ebc76e3128a90672c924740b26de7f8f",
     "clustering.tex": "ffd1a04d0eb218e2b1eb415a7080d8298db7655159ae58f560d0e1e30202c214"
    }
@@ -1152,7 +1152,7 @@
    "notebook": "https://dictionaryofml.org/terms/cm.ipynb",
    "sha256": {
     "cm.ipynb": "d370ae2149ef8804c587d6c4632a38a64a8e52a936a46e3bfd355a04f7fe8c06",
-    "cm.md": "23474f1dd6420130d98b50084ef26ad137d73321ce44133577d97bae54639075",
+    "cm.md": "c2c55f97697e9aa94fdc77a1f48075553a1a05d2ba4b1b1da7f093f5283203e6",
     "cm.py": "3b09dbacfd0f8df353849209df8884df4de928eb7127ada886184258b44342b5",
     "cm.tex": "f6e22fc6e1f17ea74371c07513ecc33e7823db4af3dbe671f4ea6d4c4aee4cfc"
    }
@@ -1203,7 +1203,7 @@
    "notebook": "https://dictionaryofml.org/terms/correlation.ipynb",
    "sha256": {
     "correlation.ipynb": "01f847f78d5b29f3a99ef2fc8f024691f819e740d730327c52b8a73417b0c870",
-    "correlation.md": "ee5018ca770bf4715f29551db77960ddf3dbc386b60e8f294a621c3658492b00",
+    "correlation.md": "bc9b5624c9ab322ce2237c21cafbbd0f357b41c0dba1e20338014e6c744639eb",
     "correlation.py": "29faa88eedff7b8934196f69f2108ba4ac70fef50ee052462152edc0958de8b1",
     "correlation.tex": "a4845d5b9cc4618084d442792189fad54152e26cb08f6b2431bd976f8c60bd3d"
    }
@@ -1238,7 +1238,7 @@
    "notebook": "https://dictionaryofml.org/terms/covmtx.ipynb",
    "sha256": {
     "covmtx.ipynb": "0a411b0177f4d2e3a54512ca7ed98101804828a64fa62b85c19732a75aee8607",
-    "covmtx.md": "89420398f40e3396f4f654fe294e4276f73b241e0826d656db4b6336502a89c3",
+    "covmtx.md": "9973f6ec9536859b3e805ee67094b583b8289d28d332890b8611df36aab4179e",
     "covmtx.py": "051cae7583454630c2115d63fc85f23a2a8dd263e9c710703f9769934cec88ab",
     "covmtx.tex": "e1e7f4a91a79d94795e74cb35ba85e3aa33fbe67d88cf5cc4df9844405f80d2a"
    }
@@ -1310,7 +1310,7 @@
    "notebook": "https://dictionaryofml.org/terms/dataaug.ipynb",
    "sha256": {
     "dataaug.ipynb": "11d81a3e2985a93be354405431688ad56be1f2ef5d201e75538cf8407cf541f3",
-    "dataaug.md": "a9c5a9e617da81afdef6bcd43b3239a4f8ef2f8f3433484639ac1c03f62ac928",
+    "dataaug.md": "c96602bb6da5f9ee871d2281db75ff54e47c45d0180d3fff91ebc231a0f58b9d",
     "dataaug.py": "3f5f99252b2ee432fce45f1d67f788278a4f1b22fc46b2e6ee481ebebaaf30e8",
     "dataaug.tex": "fef2a39189506536fdf0b2be965d5f64873eff63644849e27d0fafe119b6edb7"
    }
@@ -1347,7 +1347,7 @@
    "notebook": "https://dictionaryofml.org/terms/dataimputation.ipynb",
    "sha256": {
     "dataimputation.ipynb": "bc79b41ff904f895dc93b26c129cbf849e8a084aaf7e584b1f9007ee779063b2",
-    "dataimputation.md": "88a81b67eb6c4b61f16d73ff93c1837e2e1fb957f8d61b4209e88d94ede979f7",
+    "dataimputation.md": "93018feb89afe768103a9ded2122b53b1a61dd56a9041ac23355c24ff1fc48eb",
     "dataimputation.py": "c139680621d04392f3112d42a1527dcc6a78c66477a9369989601972234d29a2",
     "dataimputation.tex": "38cf850090dcdb11cf511c0d483cad6dd4a6bbcb8e1e169278e0e3c380cbc6b4"
    }
@@ -1375,7 +1375,7 @@
    "notebook": "https://dictionaryofml.org/terms/dataleakage.ipynb",
    "sha256": {
     "dataleakage.ipynb": "063937f0ae0e70d2d060523a569bb398fa87a928599ec05fbca6353d0f417ca2",
-    "dataleakage.md": "f654991da821f89223de3305fc00cb9edd0759a0b5ff6ffb0d441322d4367721",
+    "dataleakage.md": "3c0228bb17c4daf398293555d35c37491d8cdb75f312815e9881145fcb8e0f4b",
     "dataleakage.py": "6b59d87be67099e6e24144b44900d61d51de27140c058f7c0662bc73c83884c5",
     "dataleakage.tex": "484f777a2ad453799db3f566d525b3ff92f2c80173b917b517c5dac04f349004"
    }
@@ -1470,7 +1470,7 @@
    "notebook": "https://dictionaryofml.org/terms/decisionboundary.ipynb",
    "sha256": {
     "decisionboundary.ipynb": "b80cad61fb7de0fb0ec86c7210f3d659a98db573df0c9bfc87ac4d7fcf1e5ca7",
-    "decisionboundary.md": "8d28155757786290efd371bb130b3f50f53bc21fd3ca229af4e17e6044c38c1a",
+    "decisionboundary.md": "34e7512d0eeb82ce82ed548749c5dc7d4e18b9be398576b86ee9ee678d88fc38",
     "decisionboundary.py": "4c4aab2c5774d1fe2718c326f458848b44892ae5fe5a3aeb879e929cae0c2703",
     "decisionboundary.tex": "40588cbb92981c60301e88be3875d34fcbfec5efa7acc0c694ede0620d6be0bc"
    }
@@ -1506,7 +1506,7 @@
    "notebook": "https://dictionaryofml.org/terms/decisionregion.ipynb",
    "sha256": {
     "decisionregion.ipynb": "e4e8941c8a56e54eda99487b713608b7c090858d67e599f5887e6364caa8ceb4",
-    "decisionregion.md": "28c11034ddea8d5f42718083774f765465bf44088eb52db62241d167dae36459",
+    "decisionregion.md": "f292cf07eedbe831ba09539ebed6cc4d4f9f3c1cfe0b4b84f7c4d23fe9dae4b5",
     "decisionregion.py": "e41b18425d8e8873de368a20470cbd6f7830dffce0884a710771bf9efe493636",
     "decisionregion.tex": "fc173bc0ef9e85d8a65d20d4de83ef8f3f8cd56c0ae43ff3f1ca89483a6a2da1"
    }
@@ -1535,7 +1535,7 @@
    "notebook": "https://dictionaryofml.org/terms/decisiontree.ipynb",
    "sha256": {
     "decisiontree.ipynb": "5bbc982d7636b6211e363a4f4de47726f003d2334a1a847e072667f34ebbe1ca",
-    "decisiontree.md": "9d538c262ec792ff4b22ddfaad8c58ea1ffca23e58b8138c1601f153404929b3",
+    "decisiontree.md": "3b88f02c47b1ba973317bbd5f5974cc008446254e77b6c993e36a82c9e9b4932",
     "decisiontree.py": "7e63833f0e0556eae37afd25cade52002cbc8182ce6ccf6273fc4ccb6a52a7e7",
     "decisiontree.tex": "44a210cbd4dfcfbb35d9ad3b60503559f220c3a1c195fa09b66d46e0d91ce1fb"
    }
@@ -1564,7 +1564,7 @@
    "notebook": "https://dictionaryofml.org/terms/dimred.ipynb",
    "sha256": {
     "dimred.ipynb": "2677c43ad0cbe90dccee91b717aa0957c7c095c41c1d999a4dab565c81eb8bae",
-    "dimred.md": "8631f2d1b803bb536c014f69f2c4c83f88f835d993c654a32b25cef67d9a4537",
+    "dimred.md": "94b015cd58baf18edcaa50aa233df921ebd7ba44ed4f6d37f50cd17b89abe679",
     "dimred.py": "9c4887b9412fbb003d6134d64edc8d25bd47978e7401f8c9db1d45d05a62b704",
     "dimred.tex": "bc4e48f379f959badc732c327de844410f3b932041c08b975c4307d6e8991de1"
    }
@@ -1599,7 +1599,7 @@
    "notebook": "https://dictionaryofml.org/terms/distshift.ipynb",
    "sha256": {
     "distshift.ipynb": "f3e3795f03037fad2d1e16bcb2d16a983245fdce961cf47573bcbb96c187ea83",
-    "distshift.md": "c80e3a274d385ee7508396190ec0adb44bf9c3a3ba84f509bfadf8c40003b560",
+    "distshift.md": "603ec3e2c5f702265522ae5e1e72621b2eb15fd13723d7f79de051438a2d98a2",
     "distshift.py": "73073296f8bec2801a23d75bfd584f14a424997d94ba936fa769d783b6d23d3b",
     "distshift.tex": "c20c5a8dcc8786347d8f34109a02fc0610a8a19f18efde70733cf75cb5009848"
    }
@@ -1633,7 +1633,7 @@
    "notebook": "https://dictionaryofml.org/terms/effdim.ipynb",
    "sha256": {
     "effdim.ipynb": "f8a23e850ef3e91cb2918d4f869ae86694182f5a5f92e3002976d53d89471bc2",
-    "effdim.md": "6f1a358390d9ee8ce1bd4765d63d31ded6dfea1ca536e8246ad4e458b0218347",
+    "effdim.md": "9175d863c69a4c820f7276364353ee6711a80db3f703b030b70f618f10b20063",
     "effdim.py": "559567b3474af4c31c55210141beb7a86964fe35060d8faa69a1c5251c993384",
     "effdim.tex": "ba2a2d17209611899ca998951614ff1fd1400d90e1dca811f2cf2464f4db9d81"
    }
@@ -1667,7 +1667,7 @@
    "notebook": "https://dictionaryofml.org/terms/eigenvalue.ipynb",
    "sha256": {
     "eigenvalue.ipynb": "0dd537bd414aca0abaf851c76c2d14fb17b790bde1646cd7b2eb850ffc2bdb78",
-    "eigenvalue.md": "d9acc39949b2b0ca42394f748545f7751b4462d6c2fa959a1574055071716360",
+    "eigenvalue.md": "4756abbb2dc64d73b8ba3c5ed673fa17c952bb1c857d0d1bf76d3b58fcd18268",
     "eigenvalue.py": "735d4a9953035f086373caa8c3451c89e58adb15f396828ee40dc31198e32fdd",
     "eigenvalue.tex": "2cef4e94f91a3154823b2b804c16ce3e76bc1c61504763c7fe3421ce3818de3f"
    }
@@ -1702,7 +1702,7 @@
    "notebook": "https://dictionaryofml.org/terms/em.ipynb",
    "sha256": {
     "em.ipynb": "8cfaee8c662c008fd6ee3faf63ea2894b5ae537712dd916dc5aa66482c196367",
-    "em.md": "539f75c0859aad95e9b91059edf1227d7abf0dff4eca18f750c0caaea2545b73",
+    "em.md": "373cecd17585db61255d42fd0d304386ece7e5473364d9673db7d748e6d66c9e",
     "em.py": "47e2bcbbc13bfa07cb1997ea610f8beb265e3af36bddcd25b960a4ebb3729f9d",
     "em.tex": "5b8f12fdec2db7e84766166317a49d7e5610aea1baaac322c56bc30054b1a5ba"
    }
@@ -1731,7 +1731,7 @@
    "notebook": "https://dictionaryofml.org/terms/ensemble.ipynb",
    "sha256": {
     "ensemble.ipynb": "4fdf2288874d309c5a2c16ba723b78775e86351e29968ee5ca0a0ccdeb7ceed4",
-    "ensemble.md": "45e5fd30cf9020f240bb6181c811d9409f4d187719a69e2fdc87feb9ccb47984",
+    "ensemble.md": "c7a1c3d0a7522cadc1dcc4f5639d0024244113e8eaa2ca5712032527ec4de6f6",
     "ensemble.py": "beeada68333945d95454caaee2b210c8a6523fd4e2e78c8587d1c8c3fb8e1dae",
     "ensemble.tex": "095cbe936153d9d5e4bd14c15fd404cf4de922bab972e7177b8dd31cee5860c8"
    }
@@ -1806,7 +1806,7 @@
    "notebook": "https://dictionaryofml.org/terms/evd.ipynb",
    "sha256": {
     "evd.ipynb": "659e6a8326f3e76c5891c56bf70640967062094f19e1bd96de947b63c72ff695",
-    "evd.md": "c0ec5005391f4f8c9bfd58600844141c78ee61f554c4d9a000a9b9b6d600f03c",
+    "evd.md": "1335dbd55b876c1598740cc9959dbafc0fdbf18c9c1431e061649cc9aecfcc6f",
     "evd.py": "8df39f894b84e27bc16422074ee2f91893bb037fd36e106015745c8f8010f090",
     "evd.tex": "399d5808612fea168ad7d504328aaacb9248f4e7cddf94b8c320cf10c3a472c1"
    }
@@ -1837,7 +1837,7 @@
    "notebook": "https://dictionaryofml.org/terms/explainability.ipynb",
    "sha256": {
     "explainability.ipynb": "6d2b1ec3dffa98b6707686f1e9e250932dec12bf3c663a016e762f75f00300c6",
-    "explainability.md": "70f05347f43ea502dc6cbfcfe5d918de88c1cd46266417e9dbac2fbb4b3ebb39",
+    "explainability.md": "257f28b746324ce03c58e846e83971df278539308c7456e33f7caa2bfaa3c9cf",
     "explainability.py": "a1e55038086ed174a72a298445f14466803ed1856a4cef5fa93c05d2ca0859d3",
     "explainability.tex": "3074a2c2d3eb15dbb17e00b45dd7a02b91bcd5d0654a8207262655d42433ad21"
    }
@@ -1871,7 +1871,7 @@
    "notebook": "https://dictionaryofml.org/terms/explanation.ipynb",
    "sha256": {
     "explanation.ipynb": "9b565520612ba3ceea019439fdf3bbcee13b25909a9ad48624f853de3da97eae",
-    "explanation.md": "a18d0b147bbb1e3943778cf34137f5a2de60c3f59416a51cab8a143ee72d3a98",
+    "explanation.md": "0c0537b3e9883a27dac7aa14a7594ebbaf45043cb9c18547f7c380f8f4b81963",
     "explanation.py": "8afca98ecab2cc2970f0b8a3a2d2a69d67c688ebf8f8e71b4a6245685ba6c169",
     "explanation.tex": "a87e34478d853916e65d294b7037ef13d7e2f459fd5cc64f81f5b69b0d552d4c"
    }
@@ -1911,7 +1911,7 @@
    "notebook": "https://dictionaryofml.org/terms/fairness.ipynb",
    "sha256": {
     "fairness.ipynb": "699387dd221934d9a9951b0aac5634a74d701056462a7b172c7765d0368cbed7",
-    "fairness.md": "0554baf4c5ef970da2932712996cfb91fc4c66c74149a80a1fb4031c9f19aaa4",
+    "fairness.md": "32bf6ad11b5890264104ed2ddcd2694bd96e1f27837afeb51408467b2693dd88",
     "fairness.py": "a00e41071731e0e6c94cc84cd6b03d12f794509eac0b66e3b0dd59c2e05d135f",
     "fairness.tex": "d9c03c99dbf610357aa529db248dac7044eb06676e91d9b933804ec5bab2379c"
    }
@@ -1945,7 +1945,7 @@
    "notebook": "https://dictionaryofml.org/terms/featlearn.ipynb",
    "sha256": {
     "featlearn.ipynb": "4b998ecf876b346e5eab472cbbbe6d390fb48787b2e1f4341e3bf730d44f55a6",
-    "featlearn.md": "1b07a826d2e7266043cff34f160938f0ce10c125dab786c88a1eb7641181824e",
+    "featlearn.md": "4265bfa4b9a32faba9df85db6377d5d619e5581cc2baa6c671e75ff78fd45eb1",
     "featlearn.py": "db88b6db292d44f4ae746de6e842297473500f5fd9f390d0d6666af7693f6c5c",
     "featlearn.tex": "5aaf65a6797bbf8f3b7cd4830af43c222f2dc5604dd20b96446e3bd31c342ce0"
    }
@@ -2015,7 +2015,7 @@
    "notebook": "https://dictionaryofml.org/terms/featureimportance.ipynb",
    "sha256": {
     "featureimportance.ipynb": "00f1f7297887cc89336152e63a2c4a32df54a27a2098bd11950b77da5ed1b789",
-    "featureimportance.md": "c7f331b5604dcacc4f255b8cc1cd370b576d2e5634ec135e88ccd4f1cf7f1675",
+    "featureimportance.md": "1903be93648b1300b5a4597930c5640e5c2f5ca53d3fbcd0ad35758ee9cdbfd5",
     "featureimportance.py": "3557ee9596345b841c8378b4dc4d61fe91b4ea07434ccc953260faaf3bd0b5b6",
     "featureimportance.tex": "64e1f8216efc7911f0b91a7f589a5abb39d1f09fb5f19265f47515749d316a9b"
    }
@@ -2028,7 +2028,8 @@
    "abstract": "The feature matrix of a dataset collects the feature vectors of its data points as its rows, one row per data point and one column per feature. Its two most basic properties are the number of rows, which is the number of data points in the dataset, and the number of columns, which is the number of features of each data point. More properties of a dataset follow from the singular values of its feature matrix. The number of nonzero singular values is the rank, and a rank below the number of features leaves linear regression with infinitely many solutions. The ratio of the largest to the smallest nonzero singular value is the condition number of the feature matrix. The condition number determines the number of gradient descent steps required by linear regression and its robustness against perturbations of the features and labels in the training set.",
    "description": "A weather station at Krems an der Donau records eight measurements on each of the 366 days of the leap year 2024: the lowest, highest, and mean air temperature, the humidity, the wind speed, the precipitation, the sunshine duration, and the air pressure. Writing the eight measurements of one day as a row, and placing the rows of the 366 days under one another, gives a two-dimensional numeric array with 366 rows and eight columns. That array is a matrix, the feature matrix of the dataset whose data points are the 366 days, and each of its rows is the feature vector of one day. The feature matrix is the form in which machine learning software expects a dataset, and properties of the machine learning methods applied to the dataset, such as whether linear regression has a unique solution or how fast gradient descent converges, are determined by it. In general, consider a dataset D of m data points with feature vectors x(1), …, x(m), each in Rd. Stacking the feature vectors row-wise yields the feature matrix: {\\mathbf X} := \\big({\\mathbf x}^{(1)}, \\ldots, {\\mathbf x}^{(m)}\\big)^{\\top} = \\begin{pmatrix} x^{(1)}_{1} & x^{(1)}_{2} & \\cdots & x^{(1)}_{d} x^{(2)}_{1} & x^{(2)}_{2} & \\cdots & x^{(2)}_{d} \\vdots & \\vdots & \\ddots & \\vdots x^{(m)}_{1} & x^{(m)}_{2} & \\cdots & x^{(m)}_{d} \\end{pmatrix} \\in \\mathbb{R}^{m \\times d} \\text{.} The feature matrix is of size m × d, i.e., it has m rows and d columns. Each row is the transposed feature vector of one data point, and each column holds the values of one feature for all data points (see Fig. 1). Many properties of a dataset, and of the learning tasks built from it, are computed from X. The most basic ones are the numbers of rows and columns, m and d. The feature matrix also defines a linear map. A linear model with model parameters w from the parameter space Rd predicts wᵀ x(r) for the r-th data point, so the m predictions are the entries of X w. The feature matrix therefore maps each w ∈ Rd to the vector X w ∈ Rm, which is compared with the label vector y = (y(1), …, y(m))ᵀ ∈ Rm. Linear regression on a training set with feature matrix X and label vector y is the search for a vector w whose image X w is close to y in Euclidean norm. Linear regression has a unique solution only when X has full column rank, which requires m ≥ d (see normal equations). A rank below d leaves infinitely many parameter vectors w with the same training error, and the one a method returns can have a large loss outside the training set. Using more features than data points (i.e., d > m) forces this case, since then X has fewer rows than columns, which rules out full column rank. More properties of a dataset follow from the singular values of its feature matrix X. The singular value decomposition can be written as {\\mathbf X} = \\sum_{j=1}^{\\min\\{m, d\\}} \\lambda_{j} {\\mathbf v}^{(j)} \\big({\\mathbf u}^{(j)}\\big)^{\\top} \\text{,} where the vectors v(1), …, v(minm, d) ∈ Rm are orthonormal among themselves, the vectors u(1), …, u(minm, d) ∈ Rd are orthonormal among themselves. The singular values are ordered as λ1 ≥ … ≥ λminm, d ≥ 0. The number of nonzero singular values is the rank of X. A rank below d means that some feature is a linear combination of the others and adds no information beyond them. A small but nonzero singular value is the approximate form of such a dependence. When m ≥ d, the d right singular vectors form an orthonormal basis of Rd, and the smallest singular value is the smallest Euclidean norm of a linear combination of the feature columns with unit-norm coefficients, \\[ \\lambda_{d} = \\min_{{\\mathbf u} \\in \\mathbb{R}^{d}, \\Vert {{\\mathbf u}} \\Vert = 1} \\Vert {{\\mathbf X} {\\mathbf u}} \\Vert \\text{,} \\] attained at the right singular vector u(d). This holds since a unit-norm u = Σj=1d cj u(j) gives ‖ X u ‖2 = Σj=1d cj2 λj2, a weighted average of the squared singular values. When d > m, a unit-norm u orthogonal to all m right singular vectors gives X u = 0, so the minimum is 0. A small singular value therefore says that some combination of the feature columns with unit-norm coefficients is nearly the zero vector: the features are nearly collinear, and the right singular vector names the combination. For the weather year of Fig. 1, with every measurement scaled to zero sample mean and unit sample variance, the smallest singular value is 0.05 against a largest of 36.4. Its right singular vector places all of its weight on the lowest, the highest, and the mean temperature, with coefficients -0.37, -0.46, and 0.81, because the mean temperature of a day is the midpoint of its lowest and its highest up to a residual with standard deviation 0.03 degrees. Dropping the mean temperature raises the smallest singular value to 4.19 (pythondemos/featuremtx.py). The size of a singular value depends on the units of the columns, which is why the scaling to unit sample variance comes first. The squares of the singular values are the eigenvalues of Xᵀ X, which for features with zero sample mean is m times their sample covariance matrix. The same eigenvalues and eigenvectors of Xᵀ X determine principal component analysis. Its dimensionality reduction keeps the eigenvectors of the largest eigenvalues as the new features, and the sum over the data points of the squared errors of reconstructing the feature vectors from them is the sum of the eigenvalues dropped. Another important property of a feature matrix is the condition number κ (X) = λ1 / λrank(X), the ratio of the largest singular value to the smallest nonzero one. For full column rank, it is the ratio of the largest to the smallest singular value. The condition number enters linear regression twice: through the number of gradient descent steps, and through the robustness of the learned model parameters against perturbations of the training set. The number that matters in both is its square κ (X)2. The objective function f(w) = (1/m) ‖ X w - y ‖2 has the constant Hessian (2/m) Xᵀ X, whose eigenvalues are the squared singular values of X scaled by 2/m. The condition number of Xᵀ X is therefore κ (X)2. The square κ (X)2 determines the convergence speed of gradient descent on the empirical risk minimization problem of linear regression. One step with an exact line search multiplies the gap between f(w(t)) and the minimum f(ŵ) by at most 1 - 1/κ (X)2. The number of steps that reaches a given gap therefore grows in proportion to κ (X)2. Fig. 2 shows this for two feature matrices built from the weather measurements of Fig. 1. The features are the relative humidity and the wind speed, the label is the highest temperature, and each has its sample mean removed. In the recorded units the condition number is 14.5. After scaling each feature to unit sample variance, it is 1.45. Gradient descent starts at the point at distance ‖ ŵ ‖ from ŵ for which it is slowest, where the gap shrinks by exactly ((κ (X)2 - 1) / (κ (X)2 + 1))2 per step; from no start does the gap shrink by less, since this factor bounds the shrinkage of every exact-line-search step on a quadratic objective function. A gap of 10-6 of the initial one then takes 731 steps in the recorded units and 7 after the scaling. The condition number κ (X) also governs the robustness of the model parameters ŵ delivered by linear regression against perturbations of the training set. Let X have full column rank. Linear regression delivers the model parameters ŵ = X+ y with the pseudoinverse X+ = (Xᵀ X)-1 Xᵀ. They are the unique solution of the normal equations Xᵀ X ŵ = Xᵀ y, which state that the gradient of f vanishes at ŵ. Consider perturbations of the training set that change X to X + δ X and y to y + δ y, with X + δ X still of full column rank, and let ŵ + δ ŵ be the model parameters learned by linear regression on the perturbed training set. They solve the normal equations of the perturbed training set, ({\\mathbf X} + \\delta {\\mathbf X})^{\\top} ({\\mathbf X} + \\delta {\\mathbf X}) \\big(\\widehat{{\\mathbf w}} + \\delta \\widehat{{\\mathbf w}}\\big) = ({\\mathbf X} + \\delta {\\mathbf X})^{\\top} ({\\mathbf y} + \\delta {\\mathbf y}) \\text{.} Moving the terms with ŵ to the right side and using Xᵀ r = 0 for the least squares residual r = y - X ŵ, which is the normal equations of the unperturbed training set, gives the exact equation ({\\mathbf X} + \\delta {\\mathbf X})^{\\top} ({\\mathbf X} + \\delta {\\mathbf X}) \\delta \\widehat{{\\mathbf w}} = ({\\mathbf X} + \\delta {\\mathbf X})^{\\top} \\big(\\delta {\\mathbf y} - \\delta {\\mathbf X} \\widehat{{\\mathbf w}}\\big) + \\delta {\\mathbf X}^{\\top} {\\mathbf r} \\text{.} Solving for δ ŵ applies the pseudoinverse of X + δ X to the noise in the labels and to the noise in the features acting on ŵ, and the inverse of (X + δ X)ᵀ (X + δ X) to the noise in the features acting on the residual. The largest singular value of X+ is 1 / λd, and that of (Xᵀ X)-1 is 1 / λd2. The same holds for X + δ X with its own smallest singular value. Let the largest singular value of δ X be at most ε λ1 and the Euclidean norm of δ y at most ε ‖ y ‖, with ε κ (X) < 1. The smallest singular value of X + δ X is then at least λd - ε λ1, and taking Euclidean norms in the exact equation gives the perturbation bound \\begin{equation} \\Vert {\\delta \\widehat{{\\mathbf w}}} \\Vert \\leq \\frac{\\varepsilon \\kappa \\left({\\mathbf X}\\right)} {1 - \\varepsilon \\kappa \\left({\\mathbf X}\\right)} \\Big( \\frac{\\Vert {{\\mathbf y}} \\Vert}{\\lambda_{1}} + \\Vert {\\widehat{{\\mathbf w}}} \\Vert \\Big) + \\frac{\\varepsilon \\kappa \\left({\\mathbf X}\\right)^{2}} {\\big(1 - \\varepsilon \\kappa \\left({\\mathbf X}\\right)\\big)^{2}} \\frac{\\Vert {{\\mathbf r}} \\Vert}{\\lambda_{1}} \\text{.} \\end{equation} The bound Eq. (1) holds for every perturbation with ε κ (X) < 1. The bound Eq. (1) carries over to the prediction for any given feature vector x, such as that of a test data point. The learned linear model predicts xᵀ ŵ before and xᵀ (ŵ + δ ŵ) after the perturbation. The prediction therefore changes by xᵀ δ ŵ, and the Cauchy-Schwarz inequality bounds this change by \\begin{equation} \\big| {\\mathbf x}^{\\top} \\delta \\widehat{{\\mathbf w}} \\big| \\leq \\Vert {{\\mathbf x}} \\Vert \\Vert {\\delta \\widehat{{\\mathbf w}}} \\Vert \\leq \\Vert {{\\mathbf x}} \\Vert \\Bigg( \\frac{\\varepsilon \\kappa \\left({\\mathbf X}\\right)} {1 - \\varepsilon \\kappa \\left({\\mathbf X}\\right)} \\Big( \\frac{\\Vert {{\\mathbf y}} \\Vert}{\\lambda_{1}} + \\Vert {\\widehat{{\\mathbf w}}} \\Vert \\Big) + \\frac{\\varepsilon \\kappa \\left({\\mathbf X}\\right)^{2}} {\\big(1 - \\varepsilon \\kappa \\left({\\mathbf X}\\right)\\big)^{2}} \\frac{\\Vert {{\\mathbf r}} \\Vert}{\\lambda_{1}} \\Bigg) \\text{.} \\end{equation} The change of the prediction is therefore at most ‖ x ‖ times the right-hand side of the bound Eq. (1), and grows with the norm of the feature vector. Fig. 3 shows the robustness of ŵ against perturbations on a related but different and smaller dataset, the first days of the twelve months of 2024, twelve of the rows of Fig. 1. Each day has the feature vector x = (1, x)ᵀ with x its lowest temperature, and its highest temperature as the label. A hypothesis of the linear model then has intercept w1 and slope w2, and the feature matrix has a column of ones and the column of the lowest temperatures. Its condition number is 14.9, and the least squares residual is 0.20 times the norm of y. Two constructions of a perturbation of relative size ε = 0.01 are compared. The first is chosen adversarially, to make the change of the model parameters learned by linear regression as large as possible: δ X = -ε λ1 v(2) (u(2))ᵀ and δ y = ± ε ‖ y ‖ v(2), with the sign for which ŵ moves more. It changes ŵ by norm 2.23, which is 64 percent of the right-hand side of the bound Eq. (1). The second construction uses 100 realizations of random δ X and δ y. They are generated with independent and identically distributed Gaussian RVs as their entries and then normalized so that the largest singular value of δ X is ε λ1 and the Euclidean norm of δ y is ε ‖ y ‖. The largest change among the 100 realizations is 1.17, which is 34 percent of the right-hand side of the bound Eq. (1). For a day with lowest temperature x the feature vector (1, x)ᵀ has norm √(1 + x2). By the prediction bound Eq. (2) the prediction therefore changes by at most √(1 + x2) times the right-hand side of the bound Eq. (1): 3.5 degrees at x = 0 and 69 degrees at x = 20. These are the two dotted curves in Fig. 3(a), which leave the plotted range. The hypotheses learned from the random perturbations stay within 1.6 degrees of the learned hypothesis over the plotted range, and the hypothesis after the adversarial construction within 3.1 degrees. Panel (b) repeats the comparison for ε from 5 · 10-4 to 5 · 10-2. The adversarial construction reaches more than half of the right-hand side of the bound Eq. (1) up to ε = 0.02, the random construction less than half at every ε.",
    "synonyms": [
-    "design matrix"
+    "design matrix",
+    "data matrix"
    ],
    "see_also": [
     "dataset",
@@ -2056,9 +2057,9 @@
    "notebook": "https://dictionaryofml.org/terms/featuremtx.ipynb",
    "sha256": {
     "featuremtx.ipynb": "cc2d62b32e86a1229a1bcb4d8beb763df98e65305c6aca7cfbb863d4eaa009b7",
-    "featuremtx.md": "8331983b6e596a61c542400af71282f903f0fe1e4fbc1b89f8c94523a3196477",
+    "featuremtx.md": "f89f7d6c9eccd237d1edba5122b7a9897e6d61ca07a47700f08a7a778b7059a4",
     "featuremtx.py": "0223eb07ee30bc47bc4fc8a43b39130314fedc98f24cbe515f89892bfd75a9c7",
-    "featuremtx.tex": "6dd765b6b5c866a899e2c3467bf04ac1d479e017351f6a03434ddb878abad158"
+    "featuremtx.tex": "6bb9e37f3c56ed60ad030ac819f0c8a1eeb318e0d41a7f1464bcefb39459fe7f"
    }
   },
   {
@@ -2092,7 +2093,7 @@
    "notebook": "https://dictionaryofml.org/terms/featurevec.ipynb",
    "sha256": {
     "featurevec.ipynb": "60fe48d3cd50f632bf5e5658d93d0c6920c267757675ec3030fa7651b6a257b5",
-    "featurevec.md": "652b9bc4e6e7e489fdca5df065b7bc8b2ec3abcd8e7b9d8663a4f7f8e8b28972",
+    "featurevec.md": "580c0af7b877710c4a2da6a7fd300ab91597616d953cd7f492823f33d9fc87c9",
     "featurevec.py": "a575952663e9ae536745ab7542bd95784494093dd88fa055e7aa101c27fa385c",
     "featurevec.tex": "d777a1df4ccd66661220e3dc8d8031127c23aa66e9bbcc7c0d01f964c4682262"
    }
@@ -2127,7 +2128,7 @@
    "notebook": "https://dictionaryofml.org/terms/finetuning.ipynb",
    "sha256": {
     "finetuning.ipynb": "5e1cbf871b33160c0e6055cccb4d52875d254ac126e6e4022b2f957ed9720b20",
-    "finetuning.md": "ffcb9007799af09455a1b8d54bec556282d8f871e917080686e8273f23e64df1",
+    "finetuning.md": "9982695fdef4ec53252ff073b4c6ee3c147bd52db19e7f7fd7e545fb92b6a838",
     "finetuning.py": "e8aecd6b725877749c6e5ac2a1ad45b6130601ea0fb01d2917ac0c519dcb0354",
     "finetuning.tex": "8a77fc30c1ff43adb850eec5cb69838ace8c7a9f7e7e92cc4f240b535556066a"
    }
@@ -2156,7 +2157,7 @@
    "notebook": "https://dictionaryofml.org/terms/gaussrv.ipynb",
    "sha256": {
     "gaussrv.ipynb": "5cd87b2861be5fe190ed2d95c85d32e45213f2d403064586b5bf9b41582d84b3",
-    "gaussrv.md": "25490a9ff602350d89a0b35ef1cab02b9f8d260253333afac66da794bd7864c2",
+    "gaussrv.md": "e3e3b788df202e1e57a6c3235086d9d5b848df81ea650aaa73badbfee7a79ea5",
     "gaussrv.py": "3d7f49d897555e432d63702e986bd42721e8fffa5f25d73492975ef14754c096",
     "gaussrv.tex": "c2465e48e5c85442d02983b58fb516272f1088aeb5817a3af712abeb11c8d620"
    }
@@ -2187,7 +2188,7 @@
    "notebook": "https://dictionaryofml.org/terms/gd.ipynb",
    "sha256": {
     "gd.ipynb": "c7c0c0317940211e9e59d58f88b980b14d0da8561ee84de3c8fe273b4931e4dd",
-    "gd.md": "c7aa1bafcdee4cbb1d131f75488e328c87165984462bb637a80c9d49770317eb",
+    "gd.md": "0c6c762f13db474722e8f48039dd6159e8ec79b7cf5b04ae4f0fe1f7640fffbc",
     "gd.py": "606c3c673d41942da9159f3b1511c3e778657a439a245886879125d6d88eb7ca",
     "gd.tex": "66334fb8917d671e137dd10b4fbcdd2e6a192fb3ba69980c5bb7e89053e70256"
    }
@@ -2253,7 +2254,7 @@
    "notebook": "https://dictionaryofml.org/terms/gmm.ipynb",
    "sha256": {
     "gmm.ipynb": "afd98bb851eb956777e049a91e4dda1520d68a74f0a7a4629f3dfd539440bdda",
-    "gmm.md": "c526bbeb2cfb8b9e7b9f59990b5d6d088955426044d3935556b90ce245d02b74",
+    "gmm.md": "7ed9e32e2774af062b77ae0ead49ec7273430be3a45908c67fc6112e17351f3a",
     "gmm.py": "fe93029a893606ddb7cb98bb0cd186ddbc32e6a6e46fd9c695bd2a85daec18da",
     "gmm.tex": "fd85ac1f06d08b7cef5e20a31692865e5d5bb001ca5cf422b1d920974e88d403"
    }
@@ -2283,7 +2284,7 @@
    "notebook": "https://dictionaryofml.org/terms/gradient.ipynb",
    "sha256": {
     "gradient.ipynb": "5be0069df38dc3b769daf0fccb4e26e850ce60ab4e4e5342e215d2aa797cfb4e",
-    "gradient.md": "1bbde9b1fff26cbdbe39cb00b60551375975f38912210e9c6fc717e3dcd4565c",
+    "gradient.md": "4c3139d601c820fe3139fd8957d05275242488b7d262f42fcda42d68faba87af",
     "gradient.py": "d8b4210544e13a71f4e0f0cb13dafa50256035b4040004b795f441b7be9eca41",
     "gradient.tex": "cacb7df107aff35d63bdf994a3852cbf65be61d04116468a831adc748567458d"
    }
@@ -2347,7 +2348,7 @@
    "notebook": "https://dictionaryofml.org/terms/hyperparameter.ipynb",
    "sha256": {
     "hyperparameter.ipynb": "c52101af8565570268c0aeee1aa4b31f1c54ba7bb497385324bf57faf45fe3cc",
-    "hyperparameter.md": "70b585f34ba4e4ba9cc829ae2d3f33bdbf7e1b68187d5c32888c67def7ee84ab",
+    "hyperparameter.md": "767eb91029e4df1ef7452fb143cff93d5a139f38d65dc68743bd82cbe5f49aad",
     "hyperparameter.py": "e1ffb777918ae36f3bcbdfa142ec78d6fdb0c9e0ce83be99f4f3784781d650d4",
     "hyperparameter.tex": "70311440b3a69babf663d2bffb15ca95c8b6a02c5c56cc849c24faa2684069c8"
    }
@@ -2450,7 +2451,7 @@
    "notebook": "https://dictionaryofml.org/terms/iid.ipynb",
    "sha256": {
     "iid.ipynb": "2921bed41469d6c45507f7c75c90e921d37d27e3117c33ace399b23194c5cf8d",
-    "iid.md": "73ab8f19cb6d2be9e860d064eba05165ce2a02b6c172efb037d4280dd4953dc9",
+    "iid.md": "7d49fb2a2cd9d5e3dc41ae1b91b69bfcad054ea1c41f5317e5b8fc18317c5be9",
     "iid.py": "ea1d2b4db7b7287a5f126f0674ac7427a895ee771f9f429d9b00cdd604f06fd4",
     "iid.tex": "5195ca71040773daf82502823eefd578490d75ffb82ebe64d90aeeee0dc70d2e"
    }
@@ -2488,7 +2489,7 @@
    "notebook": "https://dictionaryofml.org/terms/iidasspt.ipynb",
    "sha256": {
     "iidasspt.ipynb": "aea5128d795b54595bda29bb86c45f48d1dbb90ea501e1dd7488eeb86b5e81bd",
-    "iidasspt.md": "3047d2dc926fb8a90f5dc134b565c767bae944935b94096ef2d7901e62dc7b49",
+    "iidasspt.md": "12a7bd5996a1e69f1a9f0226db26ea16b66c814dc4620a15c8dd6ebb0f03f5dc",
     "iidasspt.py": "ab1b1325bdd6504aa247f1e96d853a757396ec689e655d1ef55ea7681400efdd",
     "iidasspt.tex": "12f89eb966157c7867c6ed1552bfe60bec64097dc1f0af52c452339148d04fc5"
    }
@@ -2521,7 +2522,7 @@
    "notebook": "https://dictionaryofml.org/terms/innerproduct.ipynb",
    "sha256": {
     "innerproduct.ipynb": "5ba167f497330b2b4cc75e31ae0d1716e3d5a58e97185b9263e38d5f1fe2e02b",
-    "innerproduct.md": "2976536bcedc06606d77e9161b81d52ea4ba800caf8504a0d89f63b720860fa7",
+    "innerproduct.md": "0d841e7279df6544199c82c4e10f34fc2003cd4585e01c6024f29881f3db8a70",
     "innerproduct.py": "4e9c8df9fe55664ed4b719e23e1625e919917575b571dde533e4e9293e114d8f",
     "innerproduct.tex": "e6b1789c6cdb1d8878e4a49a64b8288277d3fb546bbbe30a578644c40a3a0175"
    }
@@ -2551,7 +2552,7 @@
    "notebook": "https://dictionaryofml.org/terms/interpretability.ipynb",
    "sha256": {
     "interpretability.ipynb": "9812f5b82cf33d5350b38e3c9e3f1a872670c52eedfda25e7311c9cde4938383",
-    "interpretability.md": "c47727d38e214cc42f905b582993242e10900f453323eeddcd088e3045a6ccb3",
+    "interpretability.md": "e09241a6a4caeef62fa4c76a221e7d90c844a09bf1845fd76b6fb7acebd01e6e",
     "interpretability.py": "9d04903c5b30ee29b92ee901e4ba59cb3e5c904ce2c84db79faba3a2b8d2197e",
     "interpretability.tex": "534cb5527aecda0c2efe35339b0c37ae189bfe13f646ee53af883439af36710d"
    }
@@ -2582,7 +2583,7 @@
    "notebook": "https://dictionaryofml.org/terms/interpretableml.ipynb",
    "sha256": {
     "interpretableml.ipynb": "b80da332196e6b5a8eb2b6b003ae8dc74605eb497a98544b38b99305e6bf09ed",
-    "interpretableml.md": "9b9f72b3b897cb3f37b2a96dec1243b7e76e039725a7434fdb118161966d7c66",
+    "interpretableml.md": "f191822aa4bc283341ae4b6cdaf4a99d45d6cf522bdbed3ded1812142aa0617e",
     "interpretableml.py": "4c47d7686dcecb57a972024409dc6da7bde6c3ca9b6556f4f406b9cc676259d0",
     "interpretableml.tex": "4219c7b7ec935f71e5197a7d5d45eaa9d0ed5069b6acc7831a06693f9abc13b8"
    }
@@ -2615,7 +2616,7 @@
    "notebook": "https://dictionaryofml.org/terms/inverse.ipynb",
    "sha256": {
     "inverse.ipynb": "5acbd67f9051d0c2b9054e29cc72549e9690eee0e3386f487232c5f7081e5b38",
-    "inverse.md": "6222a79f25195184bbf9a5f1f7e93fbbabb6c87020641fe4105d9449d9bf440e",
+    "inverse.md": "12f8b32904718b61eb8cab5e0f58b07697f6a8d790532d5ce883214fa9d126cc",
     "inverse.py": "284e7e48bd5406d18f34bdabf1ce2f511be3b6a52964a84199459370ba538c6c",
     "inverse.tex": "589488c893d9d180e235d71ff734dde6c7e8df9d007487f2b5fe188acc80ffa1"
    }
@@ -2682,7 +2683,7 @@
    "notebook": "https://dictionaryofml.org/terms/kernelridgeregression.ipynb",
    "sha256": {
     "kernelridgeregression.ipynb": "c302ef3231ac7d024341209a098cd2e3bb5eb2f1ff1102ad832fada871c61a17",
-    "kernelridgeregression.md": "0969653c2c2cb58effe27c53d7644d3a491b17d6d9ab5bf8f9086e147a971318",
+    "kernelridgeregression.md": "7cfc23f74dac41d840717bd6effd5802661c60e574d3352ae5e84c43aad5cc4d",
     "kernelridgeregression.py": "f7f219eab70a375cd6b5f0c30ebe21b781327374232f34347018782756ed9653",
     "kernelridgeregression.tex": "57970aa392b5ef5256515f1a3eb3590fb7dd9fdf261987f35e6fb67e2c156633"
    }
@@ -2712,7 +2713,7 @@
    "notebook": "https://dictionaryofml.org/terms/kfoldcv.ipynb",
    "sha256": {
     "kfoldcv.ipynb": "778413903108f29940538512140d7f71b2a75626ab44f8cac43ba22611ee07cb",
-    "kfoldcv.md": "7140efe049bd1ffd628acfd332aa17b40dd6ee493ec93f5ac9dc5b8db75e7503",
+    "kfoldcv.md": "f60537a13dd2b519bccaa0e617b8e5baa0a15a6902a1513bb84b2ffce4dfb791",
     "kfoldcv.py": "b5e34bcf36bd39b015be8a183e14c3642b5d6cfcad3bc261311884226cc58b54",
     "kfoldcv.tex": "14e3f356eae5cfabee03e0eb4c141e591aa8850e4c121e59c133e083f4b507bc"
    }
@@ -2754,7 +2755,7 @@
    "notebook": "https://dictionaryofml.org/terms/kmeans.ipynb",
    "sha256": {
     "kmeans.ipynb": "db517cccd238207f15b68826563a97571e6905ec577f7d164b0e571d07b607cf",
-    "kmeans.md": "fe6f9ff3c58e9e1e8ae001a6386260f1c8680b29c9350324d2e69d2595c2f032",
+    "kmeans.md": "03b24b26ab7eab0e9932fe06ae3de1cbb124fe9e59e20b7af9f6408b72fe638a",
     "kmeans.py": "3dbc06c97c2d53064470f27a549e6ec3714407490f9de2fa0d52cf096ec23f5e",
     "kmeans.tex": "b8207daeabe78f262d8f7b893f6faef2d7add1f6b4de1704956ec8ebe042ae34"
    }
@@ -2828,7 +2829,7 @@
    "notebook": "https://dictionaryofml.org/terms/learnrate.ipynb",
    "sha256": {
     "learnrate.ipynb": "c63944d7a419af3faeac23d32bd588b83c3257df07adc29b64b5647535aafe2b",
-    "learnrate.md": "e39be58d23bd3f9d8364a2647de5195cb08b3126156b31ae85de4f5928424f97",
+    "learnrate.md": "f16733ba233c5e80da0c316bbe23c03e0cb6dd72c6580c5829f0b89ba2062e45",
     "learnrate.py": "f8e90e807b5efdddcb277e2e02816cf3ac481063caf13ea498e91e766d53d304",
     "learnrate.tex": "cd545a946c80fa8c802aa4253cc725406360b95acbca04661ff099623d667c70"
    }
@@ -2863,7 +2864,7 @@
    "notebook": "https://dictionaryofml.org/terms/linclass.ipynb",
    "sha256": {
     "linclass.ipynb": "7c5f8a824e60ef744bebb94a5d04d79f911825ffe2ad887d77e7d0c11e2b11b8",
-    "linclass.md": "79dd298026a7cd018a7f4443eb2c1ae56038ed894c032191ee95fb27aa28e7a9",
+    "linclass.md": "b8dd1dddc1eb8b1cb46d272c4bf9a9caaba271ead58dc1e4414c07fb6d138e0c",
     "linclass.py": "bc1ea5b43c4d5ef0e9fd806a2c1401fba9456d985da89215cb33784de0fb4c24",
     "linclass.tex": "4edf2b49f5665ce0b32e3c8b22d2a6b9417daa8c17af870ce0532982eecfcd4f"
    }
@@ -2933,7 +2934,7 @@
    "notebook": "https://dictionaryofml.org/terms/llm.ipynb",
    "sha256": {
     "llm.ipynb": "ae406ac3ba99048c355b14c60ee0bfdf1848990c18344a10f76a31fd2e04f1de",
-    "llm.md": "9d554a3365aa7ce906a0aed592a2d6790a36378d017340be159c31abd42b4bd0",
+    "llm.md": "856db2ad16185e15d8ab1d4cbcf46e96a41a969c7ac422f0fd8ec0ba27ffc385",
     "llm.py": "0f1069aec59d2a89c5964f3a21d6052bb9df923b635e3dcf062d805eaf3121dc",
     "llm.tex": "ec530802f17368727222dd4bf7425a8c715f069090eb7843fddbabd777a64f50"
    }
@@ -2970,7 +2971,7 @@
    "notebook": "https://dictionaryofml.org/terms/logloss.ipynb",
    "sha256": {
     "logloss.ipynb": "dd389b4d4001dd58c5015d0f96ae5fe2a915e06b5e8ba3ce0c3e013d8179fcd8",
-    "logloss.md": "b35efd0b6e0b0fc8e8a9c7aab9c33ee4fe67b598eca54b9fd00d6aed32ed4b28",
+    "logloss.md": "7c5f3f8ee550a9ea682bb6d075db0b45bb05f31a85e423ef183ca475fba3c5a1",
     "logloss.py": "0487cc2efdd2e9a85d378b2b13d0c52c45f19a5eedd75729b781a32ca1c37871",
     "logloss.tex": "d53193b6d51b4dc724238f37be3501972a200995cba382590af9c543dc157d02"
    }
@@ -3010,7 +3011,7 @@
    "notebook": "https://dictionaryofml.org/terms/logreg.ipynb",
    "sha256": {
     "logreg.ipynb": "737caa84dfbe6bb11434b1d8491a6565da082c89367f645e56caeff54b66b304",
-    "logreg.md": "5fc0eb3938f579b8ce5b2ecff8e7f1bc929522fb995e52fb3e94655465e1f66c",
+    "logreg.md": "5ceadf96c791f6d4a13e32e60bea04909ccd6f0a6caec85c38e3d91ae6a93512",
     "logreg.py": "01b16490048e80e28c6ea548c50e0b7800a26a38de0a4a2977c78300e928827c",
     "logreg.tex": "bfddc77b0730a88f3038d71bf8f92e5f70c4cb91c32cbc70b688576c361fea8d"
    }
@@ -3074,7 +3075,7 @@
    "notebook": "https://dictionaryofml.org/terms/matrix.ipynb",
    "sha256": {
     "matrix.ipynb": "4fb9358cade303d6690f5f1709607809aed55f7d4c4e959095b4f11b6e7a4525",
-    "matrix.md": "35ee14d4e667e105a26c07c8758a932d876a1edbd62cb6c0271b1dbf9cb55f8e",
+    "matrix.md": "a2f3e3a705040581c80c5aeb9515c8340fe35ac9eab63c6b4106fdc74bfda118",
     "matrix.py": "88433da923b2a7c86c86311bb4878a79b2f38ea703e71d12100a6f30a7b02029",
     "matrix.tex": "1ce272d4902c4d50e06e13ed0292d69dac5b3a937eb918c0d5033c7eb04d148d"
    }
@@ -3110,7 +3111,7 @@
    "notebook": "https://dictionaryofml.org/terms/mean.ipynb",
    "sha256": {
     "mean.ipynb": "4684acf7a58d6eca1cab3c848928f2bc4d12d570d628206e8a023c863c2df658",
-    "mean.md": "dadcc21a725f98e82399c5690bdbaba870f35f2d2c6216f3dd5c36794c74806c",
+    "mean.md": "ac80ec6690c797405c13b8e37091f4866f52a319429d181ba8e6fa79e06472c3",
     "mean.py": "a7145bef1ed1aef83dfabe818b44f954c0eb8a96ddcfcd1be15d6f50ec074b6c",
     "mean.tex": "ca7bc855956dfd593c9e7fc17ad7d8f7a5427d0cb9bd7692088ac877aec12166"
    }
@@ -3141,7 +3142,7 @@
    "notebook": "https://dictionaryofml.org/terms/membershipinferenceattack.ipynb",
    "sha256": {
     "membershipinferenceattack.ipynb": "6e0573adfaed24ad0f4ab7c7b6ad082b88c9404e53774c6683cbbbf76dbf621f",
-    "membershipinferenceattack.md": "aaffbfc187c4b0c1d3dd4f47bad695a9d571fc43ac4e37537505a3c0a931db59",
+    "membershipinferenceattack.md": "9a8a8029c76cbce2629acb581e0d0b57e1138d40ea243fcf525f8e3e3f513668",
     "membershipinferenceattack.py": "8bbd27c69b117f09f80cabed785faf5b6c011cb6ec654390f2245f5fcb699547",
     "membershipinferenceattack.tex": "6c8738cf6369bb46ded10567bc737b2b26c19ad9991954c2adf4bfa741003b7a"
    }
@@ -3172,7 +3173,7 @@
    "notebook": "https://dictionaryofml.org/terms/mlpipeline.ipynb",
    "sha256": {
     "mlpipeline.ipynb": "0d781090d23f33283a9cadde258f0dc4c0627a8355c2147847aeb4b85afff2e8",
-    "mlpipeline.md": "44c6c25de305004e24adca8b06d88e865c60825ca4914e0bb66a29048c78aa69",
+    "mlpipeline.md": "c37569cbb7cc5d5fa7bcaea5e67b8d4a62d3f8bdf29d82d90213b4572ca5810b",
     "mlpipeline.py": "2ee9f7d5121195ccc5fdca2c0228fa0f40ee10779e7c0105f9b6b46e9c9a81cf",
     "mlpipeline.tex": "dd8b08fe0fd27004e122325ac95823338f002e18aace72b9da63d113517a9a26"
    }
@@ -3239,7 +3240,7 @@
    "notebook": "https://dictionaryofml.org/terms/modelsel.ipynb",
    "sha256": {
     "modelsel.ipynb": "4a4dc1df20fcbb856ba812ee8e8b43fe6413a5a445244640a1bd230a2d38fdcc",
-    "modelsel.md": "feda42fac1a0c9ddb85ad7234ffdb942b56d1ebd636afdc976a45f06447819f6",
+    "modelsel.md": "836d7ffcad20e89f170c6ec0e5b33392ae5086756315b117d98cce9f03eaf250",
     "modelsel.py": "9e49330637474532e284c51d5ee4b62c2b981f54789ac02599687d5888914d78",
     "modelsel.tex": "afdcda4ade6fb0c593bd696fdfb26aaba2b0748c51452b7c389a8a1442465dd6"
    }
@@ -3271,7 +3272,7 @@
    "notebook": "https://dictionaryofml.org/terms/norm.ipynb",
    "sha256": {
     "norm.ipynb": "2e2c254b3124402e49a3e19c987d948c9852d518834e75340b7b114ed8cbca9c",
-    "norm.md": "6493a2a43de2be1adaf8bb024291438d77a83dff0113d10a38a243bdd4a55eb3",
+    "norm.md": "bddda84417e2a6619127b555933f72bf2c147749bd521733d40b231721d7472b",
     "norm.py": "477dcea41cc00c8390c19b6c25cfa8791cb7b908cdd70f3c081a0afa23a796f3",
     "norm.tex": "e0a14427b0981f45e2ba6c482026ea23ce15757f066e33f2228c2ceea6741bbb"
    }
@@ -3313,7 +3314,7 @@
    "notebook": "https://dictionaryofml.org/terms/onlinelearning.ipynb",
    "sha256": {
     "onlinelearning.ipynb": "23e3369ca70342cf669bf91cc70ea3340cff59f703cc214cd6bf28d41958498c",
-    "onlinelearning.md": "9764b03c1d0a6ea650e190d4b2169a1b8283422e2db5bbde3df55dc0cb936128",
+    "onlinelearning.md": "2a7c696f7781b01d85a52eee47d670206435f9a6b1bfe6ec9724f34b8d38468a",
     "onlinelearning.py": "dd54717e0275452c43ebb5fdd3204b83c59fccc4964627a1e79feeeed3b3f711",
     "onlinelearning.tex": "7cce66d39d3584c65e3b4ab1cabe0416ca30a77982c9c75a99b79e6303d44536"
    }
@@ -3342,7 +3343,7 @@
    "notebook": "https://dictionaryofml.org/terms/overfitting.ipynb",
    "sha256": {
     "overfitting.ipynb": "f42ddb272e7ca9b1f9accbaa06baa0048e60b44eccbe972ba23a049918a93d21",
-    "overfitting.md": "ca2be48f28785a7aea491fad6530b13cb995c87bd05837275c17a5beeb5358dd",
+    "overfitting.md": "64b88525fbd976d70bcfc76a915f2ccd59955efb250b1d02a7856d8aa4bdf281",
     "overfitting.py": "768cc56bfc787a8c4721f76ce7556935cbb03c8f602a037fa35cfaec8f11fc99",
     "overfitting.tex": "8663bb8d12d17609a411334d304ddc3458f0be1511cefb36867510bf8566afd1"
    }
@@ -3381,7 +3382,7 @@
    "notebook": "https://dictionaryofml.org/terms/pca.ipynb",
    "sha256": {
     "pca.ipynb": "bf55d2abd044cc59c8cdbe43a20d0e6c8d9ac473ff6e8f83e121f6a1411eef62",
-    "pca.md": "879c1a6e14b0a7317d189af14421d1fb83847228c27d6b9c77c47c1a8632c766",
+    "pca.md": "aed7bc6bfce2da09f9f325ff02c1843c4f9e2ee27fd6fb4a4db93c4883fdadb8",
     "pca.py": "ba693267c7f225fc1252c061bf6dc2e026a3b204cf2b2a0278d949406c061139",
     "pca.tex": "ee4da257f9602f93aa82c63d40c82197401472d4ae875bfbb28ac51577aa1f58"
    }
@@ -3412,7 +3413,7 @@
    "notebook": "https://dictionaryofml.org/terms/policy.ipynb",
    "sha256": {
     "policy.ipynb": "ad72b1727d4056dfd2c1ba3000446669ff8ddc3f46c87fcb38efa1f557980904",
-    "policy.md": "4e65701bbb8d27f219b213136831e9fbca42a474daa30a4b3bcc8a217ff4f0b6",
+    "policy.md": "451cfe21a33042f527d7ad4b13a44f8f5c2490054a22ec69ba22e465bf093aec",
     "policy.py": "d29ca4490fa86ad0f2093054f765ac6e55c91a6378bb7d66e992cebba2be397c",
     "policy.tex": "dadee6f5de089b5d76e3523655c49264994f08dc33827ec31fb3c884fc8ddb20"
    }
@@ -3442,7 +3443,7 @@
    "notebook": "https://dictionaryofml.org/terms/pretraining.ipynb",
    "sha256": {
     "pretraining.ipynb": "7ab71677599e2cdd51f56cf1679a4e74a1b872cb7c21863ff4bcbf27c33a21fc",
-    "pretraining.md": "53d936d6fe1a612dffc16507a3e0ddcb2d812f81999dfbf72d8598407246bd7b",
+    "pretraining.md": "9923a68b1130aedffa9055d5b5dbe79d971851b3fb6be06ef8220194180212a0",
     "pretraining.py": "d42d49bcd21fe752b2228386e28866be5d5cf3908364e7a1b103ebea1a6ceca0",
     "pretraining.tex": "5c438907580b31dd3af82bd1768347bf92d7cc1418730d1801692bb410277aee"
    }
@@ -3481,7 +3482,7 @@
    "notebook": "https://dictionaryofml.org/terms/probdist.ipynb",
    "sha256": {
     "probdist.ipynb": "fb2b623dcf99d2f190048a566d5f8f67e30cd23eded52db21bea9e651c649442",
-    "probdist.md": "abf7b3791cb901f64fd310504ab0d54412a7db4e18a61dcdec400cf5f8346b2f",
+    "probdist.md": "ecdeeb3a16c34844513970860c1eaf79de33f966aade9525dbb9eb56f8675a34",
     "probdist.py": "a6ca81546903016201b14af919ba54ff5e656512eadafbd93a082170a2208687",
     "probdist.tex": "b0ab0fec38408d800225583e36d46283cc773e431b6880e36da4d68bb0014d54"
    }
@@ -3510,7 +3511,7 @@
    "notebook": "https://dictionaryofml.org/terms/projection.ipynb",
    "sha256": {
     "projection.ipynb": "4b5f623e5d9e8b673c5f76fe0b26bd88b16856bf589d8e9f114409d0d4eafaea",
-    "projection.md": "0f7041265a76ae473e6686a0479d0d85133e5e469c1bd235393da44bce97904f",
+    "projection.md": "bbf275e16c10d6cd294bca80394bca4b7dd65e62f3383e5877623250c7cd7061",
     "projection.py": "c2191dcb67245b9ef8ab04af342ca71e9ae4e2e3aafc370a4596c6d1f871a59d",
     "projection.tex": "2f57de5d33e66f873035460eeb9c52ee5749c565ec9b0071eb8f994ed7f127b3"
    }
@@ -3545,7 +3546,7 @@
    "notebook": "https://dictionaryofml.org/terms/randomexperiment.ipynb",
    "sha256": {
     "randomexperiment.ipynb": "c1196abf8c525e6627131fe891379e056a4a1ab2e0a15ba651de43c77c6cb7ec",
-    "randomexperiment.md": "becfdc9cade1aeeaa146279cc8db01e2e3349dfaa204b7a0034fce9e075e6622",
+    "randomexperiment.md": "53184aa2803b15986d46e5faa5e66133101c9e38289b235d498928cce673168f",
     "randomexperiment.py": "7b250b9d4658284c3b34d08c924c2c7477d79101637050becf3c558e811c4952",
     "randomexperiment.tex": "6d585bf259bc99f0f325c8f0677eca2cb70a6fa584150c081f050a022cf72105"
    }
@@ -3574,7 +3575,7 @@
    "notebook": "https://dictionaryofml.org/terms/randomforest.ipynb",
    "sha256": {
     "randomforest.ipynb": "5ce11483be0baf19dff59d4a01796efb143b5e4e36484c4ced94a31fdf4d5082",
-    "randomforest.md": "368244fc79231da0a1edacb7d78915c48060abdd6a0fd6a564a7f60636d70f35",
+    "randomforest.md": "3a3dc65577ec2c452585ce73c879b7ef99e61dca293369609466f210e7bd7a5f",
     "randomforest.py": "edc0ce626043e4fa70bb2c9638c3fe1b3e0dfe23237349a23dcf531f49ba0ace",
     "randomforest.tex": "8aeff848fc7b31efa8a941a395b933ed084ddf6f8d82667fbb725ca419507bf0"
    }
@@ -3647,7 +3648,7 @@
    "notebook": "https://dictionaryofml.org/terms/reinforcementlearning.ipynb",
    "sha256": {
     "reinforcementlearning.ipynb": "d9ea9be53bd2072d1e5cdb8b659d1f0fa6d9e3d8a8e0ed63432bd3c853007374",
-    "reinforcementlearning.md": "85ee8aac6fcdb087c7ecf0cecaa0201f989bd097fd7bc57b84959a59efae7bad",
+    "reinforcementlearning.md": "ffa572390d1ef658b5825bcf7dbfa3d850ba7bc83244b20084695cfef5f650ea",
     "reinforcementlearning.py": "dc757196a754185c6f8498b898ef66f06d2e39a64d1bbc07f3a532f03a9f5a20",
     "reinforcementlearning.tex": "6b88bdd358a6ed581c7ec6c0756ab74140caf3fe944f7873d336f4903cf42490"
    }
@@ -3675,7 +3676,7 @@
    "notebook": "https://dictionaryofml.org/terms/reward.ipynb",
    "sha256": {
     "reward.ipynb": "8e25e9fdabf283070af612bc28976de0c2c435478e3baba0e576eb286a851954",
-    "reward.md": "f08d5d11dd0eccb01d2cabdeb7ee59bc92517d29b5c6950d9e069d0f1640dd2d",
+    "reward.md": "c85d33157781f57946c9e149fa76f9d787096fff601db21ce04faedbed3a2ce4",
     "reward.py": "397ec6ab402d5d8863fdd23e1628326dd20b5507bab94603910af84b1300573d",
     "reward.tex": "6ff8c338199f32f8919085c1b1c7231bdb2b2f55261af313d258f8eda4a6272e"
    }
@@ -3710,7 +3711,7 @@
    "notebook": "https://dictionaryofml.org/terms/rpca.ipynb",
    "sha256": {
     "rpca.ipynb": "b9946e2f9341cd46d3504d909c2af6b6554685e650360184e6eaa7b96da0ecc3",
-    "rpca.md": "766d5dd83f94b41847c09714bf02685a88f8e7fa197d03e5c22ca407dfce1b09",
+    "rpca.md": "1e9a2d82abc58ba2ae8d881ba01c1de3dbf6bb7ffb76ee4997d85371a3e585cd",
     "rpca.py": "5e9ce9b9173baec692c95fb2e10fc256eea163c9d5d4eff75ff3acef7cf9dc50",
     "rpca.tex": "4abe8536a6bf861d550f9d39b41255b801a02bf7170d2b26c9261162cb00caee"
    }
@@ -3745,7 +3746,7 @@
    "notebook": "https://dictionaryofml.org/terms/rv.ipynb",
    "sha256": {
     "rv.ipynb": "7f3bb5e3f576b47b775d6ff7578e98c452102dc28c90425251426336bf0a5917",
-    "rv.md": "573dc875ccf1744608c6b0aa5a3fed7937597e6b3bf1d8f76395cfa70d65cbeb",
+    "rv.md": "5518d3e49823bec51ebd551934b6a9bcc7d47a51881e7bb06252a639aa48835b",
     "rv.py": "129e64a5120386935b55b9a85cd43ebf07a5b28b4d2efa4d2d877453369428fe",
     "rv.tex": "6a1464b0d35c0c5923833fabf27d925de1c8930b048cd047bc3e016ac41ad2d2"
    }
@@ -3785,7 +3786,7 @@
    "notebook": "https://dictionaryofml.org/terms/samplesize.ipynb",
    "sha256": {
     "samplesize.ipynb": "f189c0e5eca24567a2b98083ece7211603e6b931597f7fab27f844677d890aca",
-    "samplesize.md": "ea19764839de92aca8bfc7a2893b5482c49fbc5b0b7403b720f4e06607745020",
+    "samplesize.md": "4205fae7236eefa0ee3a5d76f1d10b80af8a2d7c57afba1825355255d86d0b3f",
     "samplesize.py": "834588e637b9740e0c91f72104a397fc3776a075486fe6a960c9543f77112cbf",
     "samplesize.tex": "cdc13c89494afa23d865c798049817888b05c47b04c4eb5c5a43af6d9b2a527a"
    }
@@ -3817,7 +3818,7 @@
    "notebook": "https://dictionaryofml.org/terms/selfsupervisedlearning.ipynb",
    "sha256": {
     "selfsupervisedlearning.ipynb": "cbf7af0338d1d98c3203bfbd63df0ddb44be4820912d57268192d6a2c37956fa",
-    "selfsupervisedlearning.md": "dd5c6f5295da58c35c38c47678d0063d12c15770f2915d8228fc65dea0196787",
+    "selfsupervisedlearning.md": "35000cb14e8de14ee94f4b1942a7bf2d043c706750f2319e3edeaf9c5db374a5",
     "selfsupervisedlearning.py": "7b092bc431e57c4f263865777dea83aa15456be43db018a3e6e11ef9a6da8eea",
     "selfsupervisedlearning.tex": "072bcfb880ea0cc53cb9f8797aa56c2874d654049e33ecb843e5cc5ff59caaa1"
    }
@@ -3849,7 +3850,7 @@
    "notebook": "https://dictionaryofml.org/terms/sigmoid.ipynb",
    "sha256": {
     "sigmoid.ipynb": "44accb8bc7bf3b598a99f2ccb1ecde9fc88e86708388008b4f9be7aeb6c6ff05",
-    "sigmoid.md": "609d4d1d88aca25bb745ceaa538f76b5c6629f5157d675ce8468f7460b967883",
+    "sigmoid.md": "3ea39f6b6d23e369e45ce2bed1c6de7f7493b7de910064e1cbfc1818eafa7913",
     "sigmoid.py": "c09ec15955de80c9a8e0c9048af4d1eebd2a89f7f2e97fac63d5a911a384ba51",
     "sigmoid.tex": "342cca210908d0ce3d5051a745adbac55cab2dbeede93a084384f0199c636f09"
    }
@@ -3886,7 +3887,7 @@
    "notebook": "https://dictionaryofml.org/terms/sobolevspace.ipynb",
    "sha256": {
     "sobolevspace.ipynb": "7dbd4433d97ee10f418b10271406c150ed5cd27b5562cb1095e3777c3104ff63",
-    "sobolevspace.md": "66ce7c7fc911392ad777f6a52f4b29d8773d654216969bce87ee23ca24ca5804",
+    "sobolevspace.md": "3f19e487428570e02fffcb01e36bc98ee2fd17aacc8cd97d22fbd85ae0ff70d2",
     "sobolevspace.py": "6f6f1b3b29f94697f4f795b8b06855773f6fb0a5faf32a7de2b3244796875e28",
     "sobolevspace.tex": "496a2a5cc3c6a45af15774e5913d35a1acad025ccbb83b4554f72d4135f80ea0"
    }
@@ -3917,7 +3918,7 @@
    "notebook": "https://dictionaryofml.org/terms/stochGD.ipynb",
    "sha256": {
     "stochGD.ipynb": "bdec7d01b94f9504218f561c00821d40535b47bbc36e27b1b72fb260aae55bae",
-    "stochGD.md": "dc749c5c66c535b7583769a169547ad677a26110ce3a538f2f01ec479a8b39d6",
+    "stochGD.md": "00f913f08ac7b1c4388788c326221081320c9807fb4ba4745a70dbbe1c8cde27",
     "stochGD.py": "c3c293d6b5c8b115fe93b73e5a0315972eb00710aa6bff6ade8de4444b9c44db",
     "stochGD.tex": "bb4746ef93877a4c47cb59103351f5199f0a829565aa5d89115e4aa828f18a71"
    }
@@ -3954,7 +3955,7 @@
    "notebook": "https://dictionaryofml.org/terms/supervisedlearning.ipynb",
    "sha256": {
     "supervisedlearning.ipynb": "73145a24febe3f95b109fd396081e31cf07f8d2219db68dcc1d201023cd43202",
-    "supervisedlearning.md": "bfc8dbbb55fcfb0260050b851f72b6aaf7f7adddbf025261c84a69c82e07839a",
+    "supervisedlearning.md": "7f0a66d17f5248137b91dd84998cb4169c68b24a152bf13038b95727f73792ba",
     "supervisedlearning.py": "5c3c041796071e5b01e04abe03ed7a530242670048248e6d4ba04030ad93d0fb",
     "supervisedlearning.tex": "422ea7b30bbaa06f3f4cb4ec33d5e24a7916b541c0217cfe9f4bb260d152f8dc"
    }
@@ -3988,7 +3989,7 @@
    "notebook": "https://dictionaryofml.org/terms/svd.ipynb",
    "sha256": {
     "svd.ipynb": "32c68d270101625aced27321124bdb72004f2ea8c2a73d970db79f5682a774a4",
-    "svd.md": "c74528f09c1b672bc5f7983166293ef8847d665f3e6015b9e35fc6cad6b6a471",
+    "svd.md": "c086e6c38fa4498b65dd7b51df519d323e728fe758320600e34fb0bdf08c62ba",
     "svd.py": "500874de1df7b970ea3b37b2519365a0c784622b940c2b6741d213eb8c33b36e",
     "svd.tex": "97e9f2cfa5a45915e7c8bba6cb0988a4dc2c59fa27a4693898b5be0163752648"
    }
@@ -4020,7 +4021,7 @@
    "notebook": "https://dictionaryofml.org/terms/svm.ipynb",
    "sha256": {
     "svm.ipynb": "6c397a41fd608e0e611641766739e2194675e1c9e01e39700e5d9f36f247ec99",
-    "svm.md": "9ba8f06df0db00ec4c93cb997cdf1ea53b602c34c71b220cd0e26412797cfbb8",
+    "svm.md": "a38a1ad2fd2b257fe9bb7c6210f2f8f07d40803d0272074344f85d5cb4b84df4",
     "svm.py": "53de589c44bcd9dbd40052c191e2e7e07f7cc95c713e4f9a586d916b9ffabc90",
     "svm.tex": "58346633dd29ff89b012aa7b33932be1100ff34d770a0d7f06ddfc519a10babf"
    }
@@ -4053,7 +4054,7 @@
    "notebook": "https://dictionaryofml.org/terms/tabulardata.ipynb",
    "sha256": {
     "tabulardata.ipynb": "5d6e21dd1c51504f8bcb7ff1287f1b92a0ac03f8cff4362da80790abce200a68",
-    "tabulardata.md": "3d5746e7b05174769e1cb64b81e113001f2de7f0aea1f2ac0537263e5e362f81",
+    "tabulardata.md": "04a639cbe57f6a04534b1922c7051a269e758e933d11960ddcc15caba71a56db",
     "tabulardata.py": "8c6497bc4b358b733e47da6ba2ad6738b6930a885f91f1798773d90246010e98",
     "tabulardata.tex": "7531539279fcc61d1a646896bd5f291ae83bd199326089338972a5942b9348f5"
    }
@@ -4089,7 +4090,7 @@
    "notebook": "https://dictionaryofml.org/terms/tee.ipynb",
    "sha256": {
     "tee.ipynb": "60fe627e32f9cb6de084ca9728ed1c5e0ee641c2a03eb2d980beda81c4b9a74e",
-    "tee.md": "6d0b7a469a50a18f3ed80947d79a3baa0647a1d89a4e9ebb66946d0a0af1feb2",
+    "tee.md": "01e86ac0e3180237db803f8264daaa37ab51293af4410b4893d30e861c75fc90",
     "tee.py": "5ed517771fb0cb7a16acc937b61ea2b63c0759c6f58ab55b1303207610737d9a",
     "tee.tex": "b4f85fd21d47eaf22ce971e913c0cecba08208f039041ee1ba96fbbf1d7e5996"
    }
@@ -4121,7 +4122,7 @@
    "notebook": "https://dictionaryofml.org/terms/testset.ipynb",
    "sha256": {
     "testset.ipynb": "65820d947b6685d580cecb7abb76b15b6bd68e0c6c631684c2772298ee651752",
-    "testset.md": "79bab0c94398ad5e9b93fb34180182647b99e89a431475431fe5aa92838dc50c",
+    "testset.md": "a6b6beff1d447b5389aa56ba1428484f5e2d8fb9ab1dfdb8ffc50acdee177495",
     "testset.py": "9e950e4f521a178a1f3649b162b595ddb47edd6cca4d7f0467c3464932db1e8d",
     "testset.tex": "5bb15dc9270720c7055976e1c3ad9d6da7462835ed4cada0a9739939d761e11d"
    }
@@ -4159,7 +4160,7 @@
    "notebook": "https://dictionaryofml.org/terms/trainerr.ipynb",
    "sha256": {
     "trainerr.ipynb": "b89cd2a008b0caab90eb8e634872139f158996e91d268103116e6e1edd40620a",
-    "trainerr.md": "1ce4da32f0dac69d0d9905f41e283e0fa2c69680c1e94e19014aedb91647ca44",
+    "trainerr.md": "d7ce201fdecd2ebe0016973231412b0689817d7983ea1668a546ab14fd6c83d7",
     "trainerr.py": "85c49ded4558084ac426875ab0473452bb76566821c7b0e6a3bfb75d84a998ca",
     "trainerr.tex": "9b0a64b355e3dfbabc7cd351dcc8d55e8c2bc82e28199162f8279cfb37d9a033"
    }
@@ -4200,7 +4201,7 @@
    "notebook": "https://dictionaryofml.org/terms/training.ipynb",
    "sha256": {
     "training.ipynb": "61d6d807c86010c2c2a90a1644558df639db154ff434ea2cb46a991bd2fb4cde",
-    "training.md": "77fe757abc23488605135d43815453028fbab045f0e726d3c370e9f431f674ac",
+    "training.md": "0c5a24a4e85fab15e6265e149bc908ed4b00c95807a50261ac59d683d5ad22a6",
     "training.py": "3e8799add4cb21592f69fdbb0c820fdb98941360540af7a806381b387557a788",
     "training.tex": "6eedbf0209b84eef554aa8979489e84521b0b9f06b21994ccd9506c00dc44985"
    }
@@ -4234,7 +4235,7 @@
    "notebook": "https://dictionaryofml.org/terms/trainset.ipynb",
    "sha256": {
     "trainset.ipynb": "e1c99e51dfb7b69e4f0d41d23a04fa26eeb838d049007d336b6b0688dfb3a63d",
-    "trainset.md": "3f44ed455757d5cceda527022226961f0c4a06d6f70fde9bbfcf55fcf242d316",
+    "trainset.md": "7d6a06b6fba5b3b648b8e4d5b0c2734f8e66ef851776e5152ab6f43f1415cb57",
     "trainset.py": "f85801540d8d7d4d4e57d671017e5294f96638357e5dd5c1bed9fc91ac8285bc",
     "trainset.tex": "aec9c6f787b153fd40602573a619ddae511881916d37b347ae8242c5d8f97dc7"
    }
@@ -4267,7 +4268,7 @@
    "notebook": "https://dictionaryofml.org/terms/transferlearning.ipynb",
    "sha256": {
     "transferlearning.ipynb": "1a69caa70779f109004f86f7bb7491b3eb6e229c58147e46a660c1db2bc8f80d",
-    "transferlearning.md": "f12e249b4be341d90372669235b17df88f84386ecd42bdfb529e667f0ee2fb98",
+    "transferlearning.md": "4936f706c04fdb3bf53a93cc663febde76da2b3cbbf2e5e1c2facb672029fece",
     "transferlearning.py": "a49ebaf71c346579c351c29ef532fa9c3eaf880ef030ed4a274afe942cb67cae",
     "transferlearning.tex": "54cece1eec004278cfe5a3592de2dd8572196bc723d81b0f9466686730470112"
    }
@@ -4302,7 +4303,7 @@
    "notebook": "https://dictionaryofml.org/terms/transformer.ipynb",
    "sha256": {
     "transformer.ipynb": "91ceee9b16c178b6e0f2d5e28c8d5cf13d43005ece4bf3e702a99001306cf8a2",
-    "transformer.md": "5a0f303c16f9c298241fe35f741d2b05d74d5fa427d8a7e160a9308c5bbae490",
+    "transformer.md": "795afa0c91d44536ee348a5e5a21d986ea9d5660f1259a4f9960cbdd4037507a",
     "transformer.py": "62e02831aaa3c55d949f5c6036e8ac7980388f3543b6d2a42989187482573f5d",
     "transformer.tex": "f87c24189b8b28c9f246f60d64bf37e1ef06a547b8c3941463a23c673823a929"
    }
@@ -4340,7 +4341,7 @@
    "notebook": "https://dictionaryofml.org/terms/transparency.ipynb",
    "sha256": {
     "transparency.ipynb": "58df22b60c0092dc7856450c6a929cd09c2c23ccf242e2e88811a4d8dd4fd11a",
-    "transparency.md": "614a7c0172e16730af618494931a400731b2617fa4f6158f97026743539ca733",
+    "transparency.md": "6ffa754693f651817d4d03f6752f8e2edec421ceb4b3bbd737c4e7534007ed12",
     "transparency.py": "83320b33c12ab3493b883125bbeb98a557fde819f043be1f255cdd0e2b558b68",
     "transparency.tex": "d7c4ea164fdf87400eac92a7b94176b0e2ee4d6859f242ce2aec59eb6f394093"
    }
@@ -4379,7 +4380,7 @@
    "notebook": "https://dictionaryofml.org/terms/trustAI.ipynb",
    "sha256": {
     "trustAI.ipynb": "7c03e8645fda72eab4bc718f66d71062ae64118945f15d8a81c67739f33aa8ae",
-    "trustAI.md": "722aa02a88e089f35c0439d06642b5acd8972093a99f9e54dade6a6f00f8bcd3",
+    "trustAI.md": "6c01794ed05a1a7bc5172d0a9b909301b80e7f1150ed990f6ed38a1461f8632d",
     "trustAI.py": "22b6826b7ebc3e872bc564c22fd7ca560d322e615810e74422f58d132408d295",
     "trustAI.tex": "1a37c0904f11b9f99dcb9396a4fdd2af90276bb07b3cd865094d606d3ba8e434"
    }
@@ -4416,7 +4417,7 @@
    "notebook": "https://dictionaryofml.org/terms/unsupervisedlearning.ipynb",
    "sha256": {
     "unsupervisedlearning.ipynb": "d5938ae4b1244743114b64b2bf33d7e30a5cc959d24ad984bac1e7df8c578485",
-    "unsupervisedlearning.md": "bce7cf6f4c65b9ececdd0348d9c3eee6785ba2954ea592568edc3babea34aeed",
+    "unsupervisedlearning.md": "4158bc00fc510557d9b1ff01b114f89b89386e83201fe16fd812a27aad884736",
     "unsupervisedlearning.py": "2a22357bf42be10b2f6b55134d61eae85ac691bde310f53d545e0a49fffc3ad2",
     "unsupervisedlearning.tex": "d490f402c83e31a553bbf1ba19e551d1a18502974e554bb1ef00f2013217b882"
    }
@@ -4453,7 +4454,7 @@
    "notebook": "https://dictionaryofml.org/terms/valerr.ipynb",
    "sha256": {
     "valerr.ipynb": "fa116ecfcb75c588884737636df9d2006566f018cd54a4ecae73666d05eaad93",
-    "valerr.md": "dea1b1fac3e396140089e652243a6fe287afdf375f48f8535b93f6af45f05111",
+    "valerr.md": "19cf6323c1e6d1593ad3d6cb02451dd38c335e331be7e4dcb24292888e181dc7",
     "valerr.py": "4f3aeada89891c3c311b76315a30d8c1007a56f3999fc9c147aafc0bc6e5147d",
     "valerr.tex": "a2aa644d4cc5854af3ce1eb1b666b73453ae36dc1441e95ed0da0be64bb02ee5"
    }
@@ -4487,7 +4488,7 @@
    "notebook": "https://dictionaryofml.org/terms/valset.ipynb",
    "sha256": {
     "valset.ipynb": "5da869884287c9c00c14d66deda177ee8cd33e070f26242aee32bc6d944ca631",
-    "valset.md": "2fce3ecaf8bac72fa9707a91b69a66ed9f1c349c2155f5c77f31fa2c017fa492",
+    "valset.md": "d470a4ea6d85b11b620a4255d4ef49adbc5adaf8cfd5a06fa216435f0c866774",
     "valset.py": "ad43034b734c7a2b28fe7f04e2466d59d83c9104a4bc7e35c1b279943beae8d2",
     "valset.tex": "eaef4670ec995441d21049b880389d43b00bdd629c36b56e2d028776ce04ace7"
    }
@@ -4524,7 +4525,7 @@
    "notebook": "https://dictionaryofml.org/terms/variance.ipynb",
    "sha256": {
     "variance.ipynb": "492116d59bed58330bf42f0351e1f4cc9efb2ba2f89166c5766b393dd2c79751",
-    "variance.md": "340b7aef5cc7f84b5044655b017a0fd6643cc9e523358b6c1d096fd1b8969767",
+    "variance.md": "606d1cf06295a4b07ca0eca5b9b697526dedaa88b097f67520933942a453d68e",
     "variance.py": "39c0a2bef980d7ac1e5e81a3fe21e99c1546adb123f90b156ca7530707980aa5",
     "variance.tex": "64f79e77e29c7696732c2126d7b265b92582f742f92e1aff4c1810ad8676d5fa"
    }
@@ -4560,7 +4561,7 @@
    "notebook": "https://dictionaryofml.org/terms/xaiterm.ipynb",
    "sha256": {
     "xaiterm.ipynb": "1393f8bc18c3e297f9f9daba83c12dea7109502a1a4e8c768330bc8a62b3f8c2",
-    "xaiterm.md": "f6c37c15d2d67e9bfff3751d92ec989a2d8c1bb28eb70ab6ac040fb3bc9b54c8",
+    "xaiterm.md": "e27f707fa77de022989965e68730e51903c6fe32bb56661301cbae64b856ed68",
     "xaiterm.py": "2c2593882e39cdaaeeab4245443f82550b49a961676eec287b3b58432cdedbcb",
     "xaiterm.tex": "6bb7652c0127b3e5e6b6adbdbe2c7a2b28dba9d50dfc20bc0be4e973542775a4"
    }
