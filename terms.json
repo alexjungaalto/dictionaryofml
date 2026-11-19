@@ -753,7 +753,7 @@
    "notebook": "https://dictionaryofml.org/terms/attention.ipynb",
    "sha256": {
     "attention.ipynb": "dbb7263edc393f9c0e8aad2daba5b97d5b1390aaa22e4a89b77c9d38ca869694",
-    "attention.md": "0fdcac6ea173805a30d8f5b2909be9ddc24fbea85b5b93b6adae3bcd4fc5f74b",
+    "attention.md": "bd0c1fadc66c25d171b48e9045b9a79cd7db5603fd177c75909e82ceb30fb43a",
     "attention.py": "5cd0ff17fff91c23d3d8f9f0c5b01e8051f3f5086b4d484abddd3908dfcee4ff",
     "attention.tex": "1e473985452d0d916a750649aad24d33eb517bee608021d05e72443c9938e65f"
    }
@@ -2203,7 +2203,7 @@
    "notebook": "https://dictionaryofml.org/terms/gd.ipynb",
    "sha256": {
     "gd.ipynb": "c7c0c0317940211e9e59d58f88b980b14d0da8561ee84de3c8fe273b4931e4dd",
-    "gd.md": "b8aa7df2d7435b4c1d413f3a96a311b44da94fd386cbe7b07e2f30284b7c40fe",
+    "gd.md": "7c15917d3fe72cff83e9384d049145e7befe963431a7578bf4cac88eba2b232c",
     "gd.py": "606c3c673d41942da9159f3b1511c3e778657a439a245886879125d6d88eb7ca",
     "gd.tex": "317bdbf0f4bacc562f438261f32a5eec36618183ccae761323bd2be15ff176d5"
    }
@@ -2540,7 +2540,7 @@
    "notebook": "https://dictionaryofml.org/terms/innerproduct.ipynb",
    "sha256": {
     "innerproduct.ipynb": "5ba167f497330b2b4cc75e31ae0d1716e3d5a58e97185b9263e38d5f1fe2e02b",
-    "innerproduct.md": "d034e052b1fbeface3584be4a1e2cc55288f08bb6bc784f596c0b4d3e91949d9",
+    "innerproduct.md": "6df2067198a9cc11bcc38afd808eca1f4faf58415612b77f0c2a2b9d918ddb7b",
     "innerproduct.py": "4e9c8df9fe55664ed4b719e23e1625e919917575b571dde533e4e9293e114d8f",
     "innerproduct.tex": "6ce935c2567cf9750b278f1c3e3387b09b217fe2008890fc8b95d32657be205a"
    }
@@ -2604,7 +2604,7 @@
    "notebook": "https://dictionaryofml.org/terms/interpretableml.ipynb",
    "sha256": {
     "interpretableml.ipynb": "b80da332196e6b5a8eb2b6b003ae8dc74605eb497a98544b38b99305e6bf09ed",
-    "interpretableml.md": "4fc57499378677e4f8df03efb5fd69822d48e5f16572b7947e2f24cda62896b7",
+    "interpretableml.md": "660ed7100db6b34a76321d055d8077595d5fb6f51eb660a59958f59716825d57",
     "interpretableml.py": "4c47d7686dcecb57a972024409dc6da7bde6c3ca9b6556f4f406b9cc676259d0",
     "interpretableml.tex": "4219c7b7ec935f71e5197a7d5d45eaa9d0ed5069b6acc7831a06693f9abc13b8"
    }
@@ -4082,7 +4082,7 @@
    "notebook": "https://dictionaryofml.org/terms/svm.ipynb",
    "sha256": {
     "svm.ipynb": "6c397a41fd608e0e611641766739e2194675e1c9e01e39700e5d9f36f247ec99",
-    "svm.md": "65334c5263830fcf6ffb0ba24f6204a9b2d3c5fb8e9ef2007247cdc2319e367f",
+    "svm.md": "e3de50df729ea39666a5958d0d73e32f12280002b787cc119a694fe87636488d",
     "svm.py": "53de589c44bcd9dbd40052c191e2e7e07f7cc95c713e4f9a586d916b9ffabc90",
     "svm.tex": "0914c4e141462cd541fb91812e83abcc2a923051fca5d6cf0b67430e8a4ccb6b"
    }
