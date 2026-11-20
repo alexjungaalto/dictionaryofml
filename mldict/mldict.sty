@@ -441,6 +441,11 @@
 \newcommand{\Laplacian}{\mathbf{L}}
 \newcommand{\NormLaplacian}{\mathbf{L}^{({\rm sym})}}
 \newcommand{\mvnormal}[2]{\mathcal{N}\left(#1,#2\right)}
+% the multivariate normal pdf EVALUATED at a point: N(x; mu, C). The
+% semicolon separates the point from the parameters, so it cannot be
+% read as a third entry of the parameter list; \mvnormal alone names
+% the distribution and must not be given an argument.
+\newcommand{\mvneval}[3]{\mathcal{N}\left(#1 \,;\, #2, #3\right)}
 \newcommand{\gtvpenalty}{\phi} 
 \newcommand{\gtv}[1]{{\rm GTV}\left\{#1\right\}} 
 \newcommand{\partition}{\mathcal{P}}
