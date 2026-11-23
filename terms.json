@@ -1075,9 +1075,9 @@
    "demo": "https://dictionaryofml.org/terms/bagging.py",
    "notebook": "https://dictionaryofml.org/terms/bagging.ipynb",
    "sha256": {
-    "bagging.ipynb": "3604235dc90dc512c47b3550499e51bcb8795b43549455947d7d9cee3872e392",
+    "bagging.ipynb": "3b2068c6bdf682898ee300c4a3b72401f9940e95fbd7b8cb9f1cbd2f6dedd76e",
     "bagging.md": "1acaeaa1acbc0293078102b31be0946e75fd625210fcafc207ede96e8fb9059d",
-    "bagging.py": "e9e727725e0504f750c4614a5c105e9c55ec91dedb93296b911e5e1f4e4ca6d2",
+    "bagging.py": "11c49c6aab3bc99635b7102689443bbd1453caabcf20d132008873dd432cf369",
     "bagging.tex": "f5dd1c5f1cc000405ba1e75d83dd5a649bfc7134d2a66e3b90d7a603467eb6b9"
    }
   },
@@ -1349,9 +1349,9 @@
    "demo": "https://dictionaryofml.org/terms/cluster.py",
    "notebook": "https://dictionaryofml.org/terms/cluster.ipynb",
    "sha256": {
-    "cluster.ipynb": "4b38efdedf3303728bba0b81eca0643efa4e672526cc7d10b911bc46f42e90c7",
+    "cluster.ipynb": "039d628a34297c7d2472b1e71eee802e8bfe33dcb9cb825c1f220b2711868dc2",
     "cluster.md": "3dfe97d6d9e21f166f6e0e8a5ef29737d141a415146b0701e977ef05d3cb0574",
-    "cluster.py": "d992d2225881f07b1b987cf8175f7df56bb3f0150749bebee6d9207f436029b5",
+    "cluster.py": "623d17b44d6164242033dc188bcf4c0539a83795a23b7e61651e70fdc0413404",
     "cluster.tex": "0f2d5685977892e6cafc0b0ce0953ae59d6d97d5002423ec90ad85416cc7dcdd"
    }
   },
@@ -1397,9 +1397,9 @@
    "demo": "https://dictionaryofml.org/terms/clustercentroid.py",
    "notebook": "https://dictionaryofml.org/terms/clustercentroid.ipynb",
    "sha256": {
-    "clustercentroid.ipynb": "9768acef4ce6bd84f7a6502f34aade16fcb594e7d50e427b43085617d8fd22ed",
+    "clustercentroid.ipynb": "92ac6c202c15be614fa02e8485e73c6ef6101ccb28fb5412fbf3f6900e0f449e",
     "clustercentroid.md": "90731dea0cf68d4a794ca5b244de5da69074a330cc3ba481db5bb51104cd195c",
-    "clustercentroid.py": "4892bf2ef299bd334fd70c3049250f360bbf47799e5e93c7b25dea5bb97a4081",
+    "clustercentroid.py": "0a569f26017d8092292e93ef174335e55fb673d4ac750277b7f06ea42316334c",
     "clustercentroid.tex": "54071dca7e13a95744a80939b51697d4aa26fa64597823ef26a66eb5b157064b"
    }
   },
@@ -1488,9 +1488,9 @@
    "demo": "https://dictionaryofml.org/terms/clusteringerror.py",
    "notebook": "https://dictionaryofml.org/terms/clusteringerror.ipynb",
    "sha256": {
-    "clusteringerror.ipynb": "86133d63468eb032ef301f91d3d856e9534c81b374450a92e097a150d55b1d6c",
+    "clusteringerror.ipynb": "7c6beac6449d340b90b9ae4babaf710d8fef83cfe82c4667dc8eb7abb099370b",
     "clusteringerror.md": "1a8ce364128722b3e883678ad729816e377adb7b9540789db37484a4fe631091",
-    "clusteringerror.py": "e5cd5df147e6a5b7b62dedd170d47a91154e6476558f16de2a80befd6e4c40b5",
+    "clusteringerror.py": "5e4516b8a67941f823acb6bde2963bf1f2fd9acd429ccf637f7fa842ad4b105a",
     "clusteringerror.tex": "53ea078c02a4e095b15e673e438141031e6649be2705e2ca87f1e57649fa8082"
    }
   },
@@ -1681,9 +1681,9 @@
    "demo": "https://dictionaryofml.org/terms/dataaug.py",
    "notebook": "https://dictionaryofml.org/terms/dataaug.ipynb",
    "sha256": {
-    "dataaug.ipynb": "d3c8036ee495634d897bbcb28bd8a8729b56556dac0bbfb6589f04fba20dfb2a",
+    "dataaug.ipynb": "13f5a48aa16105bf2a3f30f851d2e1460886b18e2869ac16457a3a099fe43b05",
     "dataaug.md": "530e9ea2cfde471cacb2b8c702b3168ab870106f4c4cba5304fda90faadbfdc1",
-    "dataaug.py": "05b3fdbee4f5d15f871b426a0bd4bb5b6590157882b47dbc88dc9f12bc9a4525",
+    "dataaug.py": "5f26f397c9550d467587950a284368ad87c5eb71dc1b00264feaa96b6a3eafa2",
     "dataaug.tex": "7c99b8adad3b7e2220b080b452ff4b063943455de07b7c105304acf9af045404"
    }
   },
@@ -1922,7 +1922,7 @@
    "url": "https://dictionaryofml.org/terms/decisiontree.html",
    "pdf": "https://dictionaryofml.org/terms/decisiontree.pdf",
    "abstract": "A decision tree is a flowchart-like representation of a hypothesis map: a root node receives the feature vector of a data point and evaluates a basic test on it. The test result selects a child node, which applies a further test, and the forwarding continues until the feature vector reaches a leaf node. A leaf node has no children and represents one specific function value, i.e., a prediction. The tree partitions the feature space into decision regions, one per leaf node, on which the represented hypothesis is constant. A maximum depth and a family of node tests define the model, the hypothesis space of all such trees, which has no vector of model parameters of fixed length and is therefore searched greedily rather than by gradient methods. Decision trees serve as base models of the random forest and of gradient-boosted decision tree methods. Small decision trees yield interpretable machine learning if the user can comprehend the tests executed at their nodes.",
-   "description": "A bank's loan approval can be written as a chain of simple tests on the applicant's features that ends in an ``approve'' or ``reject'' prediction. For example, is the income above a threshold? Is the credit score large enough? A decision tree is such a chain in general form: a flowchart-like representation of a hypothesis map h. More formally, a decision tree is a directed acyclic graph whose root node receives the feature vector x of a data point. The root node then forwards the data point to one of its child nodes based on some elementary test on the features x. If the receiving child node is not a leaf node, i.e., it has child nodes itself, it represents another test. Based on the test result, the data point is forwarded to one of its descendants. This testing and forwarding of the data point is continued until the data point ends up in a leaf node without any children, which carries the prediction ŷ = h(x) returned by the tree for this data point (Fig. 1). The leaf nodes partition the feature space into decision regions; in Fig. 1, each test compares an entry of x with a threshold, so the decision regions are rectangles. Next to each node, Fig. 1 highlights the part of the feature space that contains the feature vectors reaching that node. The depth of a decision tree is the number of tests on the longest path from the root node to a leaf node; the tree in Fig. 1 has depth two. Fixing a maximum depth D and a family of allowed tests defines the model: the hypothesis space H of all decision trees of depth at most D whose node tests belong to the family, for instance all threshold tests xj ≤ ε with j ∈ 1, …, d and ε ∈ R. A tree in H is specified by its shape, by the index j of the feature and the threshold ε that each test node compares, and by the value of each leaf node. This hypothesis space has no natural parametrization. The shape of the tree and the index j of the feature tested at each node are discrete choices, and how many of them a tree has depends on its shape, so H is not the image of a vector of model parameters of fixed length: there is no parameter space Rn on which the training error is a function. The thresholds form a vector once the shape and the tested features are fixed, but the training error is piecewise constant in each of them, since a data point changes child only when the threshold crosses its feature value, so the gradient is zero wherever it exists. Empirical risk minimization over H can therefore not use gradient descent, and a fixed point view of the training iteration does not apply: an iteration adds a node, it does not update a vector. Minimizing a bound that adds a size penalty to the training error is computationally hard, and the methods below search H greedily. Training a decision tree amounts to extending a leaf node by attaching another decision tree. In the simplest case, a leaf node is replaced with a test node whose children are new leaf nodes (Fig. 2). Widely used training methods for decision trees include classification and regression trees (CART), iterative dichotomiser 3 (ID3), and C4.5. Starting from a single leaf node, CART repeatedly replaces a leaf node with a test node. An impurity measure assigns a nonnegative number to a set of labels: it is zero when the labels agree, and it grows as they spread out. Among candidate tests that compare a single feature with a threshold, CART scores each test by the impurity of the two children, weighted by the fraction of data points routed to each of them, and greedily selects the test with the smallest score, i.e., with the largest reduction against the impurity of the parent node. Common impurity measures are the Gini index and the entropy for classification, and the squared error around the mean label for regression. The growth stops only when a leaf node contains too few data points, not when no candidate test reduces the impurity much, since a test that reduces the impurity little can enable a test with a large impurity reduction below it. The large tree is then pruned back by cost-complexity pruning, which removes the subtrees whose impurity reduction is smaller than the penalty for the leaf nodes they add. Fig. 3 shows, as a scatterplot, the result of this training on real data. Each day of 2024 at the weather station Krems an der Donau (Austria) that carries both readings is a data point, with the air temperature at 06:00 (UTC) as its feature and the temperature at 15:00 (UTC) of the same day as its label. The learned depth-2 tree is a piecewise constant hypothesis with four pieces, one per leaf node, each equal to the mean label of the days routed there. The tree was grown to depth two rather than until the stopping rule above applied, so that each of its four pieces is visible in the picture. Decision trees serve as base models of the random forest and of gradient-boosted decision tree methods. A decision tree with a small number of nodes is often considered interpretable: its computation can be traced by following the data point from the root node to a leaf node. Small decision trees are therefore a common choice in interpretable machine learning.",
+   "description": "A bank's loan approval can be written as a chain of simple tests on the applicant's features that ends in an ``approve'' or ``reject'' prediction. For example, is the income above a threshold? Is the credit score large enough? A decision tree is such a chain in general form: a flowchart-like representation of a hypothesis map h. More formally, a decision tree is a directed acyclic graph whose root node receives the feature vector x of a data point. The root node then forwards the data point to one of its child nodes based on some elementary test on the features x. If the receiving child node is not a leaf node, i.e., it has child nodes itself, it represents another test. Based on the test result, the data point is forwarded to one of its descendants. This testing and forwarding of the data point is continued until the data point ends up in a leaf node without any children, which carries the prediction ŷ = h(x) returned by the tree for this data point (Fig. 1). The leaf nodes partition the feature space into decision regions; in Fig. 1, each test compares an entry of x with a threshold, so the decision regions are rectangles. Next to each node, Fig. 1 highlights the part of the feature space that contains the feature vectors reaching that node. The depth of a decision tree is the number of tests on the longest path from the root node to a leaf node; the tree in Fig. 1 has depth two. Fixing a maximum depth D and a family of allowed tests defines the model: the hypothesis space H of all decision trees of depth at most D whose node tests belong to the family, for instance all threshold tests xj ≤ ε with j ∈ 1, …, d and ε ∈ R. A tree in H is specified by its shape, by the index j of the feature and the threshold ε that each test node compares, and by the value of each leaf node. This hypothesis space has no natural parameterization. The shape of the tree and the index j of the feature tested at each node are discrete choices, and how many of them a tree has depends on its shape, so H is not the image of a vector of model parameters of fixed length: there is no parameter space Rn on which the training error is a function. The thresholds form a vector once the shape and the tested features are fixed, but the training error is piecewise constant in each of them, since a data point changes child only when the threshold crosses its feature value, so the gradient is zero wherever it exists. Empirical risk minimization over H can therefore not use gradient descent, and a fixed point view of the training iteration does not apply: an iteration adds a node, it does not update a vector. Minimizing a bound that adds a size penalty to the training error is computationally hard, and the methods below search H greedily. Training a decision tree amounts to extending a leaf node by attaching another decision tree. In the simplest case, a leaf node is replaced with a test node whose children are new leaf nodes (Fig. 2). Widely used training methods for decision trees include classification and regression trees (CART), iterative dichotomiser 3 (ID3), and C4.5. Starting from a single leaf node, CART repeatedly replaces a leaf node with a test node. An impurity measure assigns a nonnegative number to a set of labels: it is zero when the labels agree, and it grows as they spread out. Among candidate tests that compare a single feature with a threshold, CART scores each test by the impurity of the two children, weighted by the fraction of data points routed to each of them, and greedily selects the test with the smallest score, i.e., with the largest reduction against the impurity of the parent node. Common impurity measures are the Gini index and the entropy for classification, and the squared error around the mean label for regression. The growth stops only when a leaf node contains too few data points, not when no candidate test reduces the impurity much, since a test that reduces the impurity little can enable a test with a large impurity reduction below it. The large tree is then pruned back by cost-complexity pruning, which removes the subtrees whose impurity reduction is smaller than the penalty for the leaf nodes they add. Fig. 3 shows, as a scatterplot, the result of this training on real data. Each day of 2024 at the weather station Krems an der Donau (Austria) that carries both readings is a data point, with the air temperature at 06:00 (UTC) as its feature and the temperature at 15:00 (UTC) of the same day as its label. The learned depth-2 tree is a piecewise constant hypothesis with four pieces, one per leaf node, each equal to the mean label of the days routed there. The tree was grown to depth two rather than until the stopping rule above applied, so that each of its four pieces is visible in the picture. Decision trees serve as base models of the random forest and of gradient-boosted decision tree methods. A decision tree with a small number of nodes is often considered interpretable: its computation can be traced by following the data point from the root node to a leaf node. Small decision trees are therefore a common choice in interpretable machine learning.",
    "synonyms": [],
    "see_also": [
     "decisionregion",
@@ -1939,10 +1939,10 @@
    "demo": "https://dictionaryofml.org/terms/decisiontree.py",
    "notebook": "https://dictionaryofml.org/terms/decisiontree.ipynb",
    "sha256": {
-    "decisiontree.ipynb": "a21597f1220efd2fad45b418889f6dfe4b2fea9ecafd874accedd323f0d46477",
-    "decisiontree.md": "48da754268accf462c86c06907286929ebb171904038856b8ccd4f8bd7da6297",
-    "decisiontree.py": "ccdb0f13e98e7fae2d116db9e15e210714fb854d1f30358f08e453abdea12bb2",
-    "decisiontree.tex": "4f3f7496df1cdcfc88338023a156c9a822f35b3593aa1e7ff9c97af4dff9ed40"
+    "decisiontree.ipynb": "0cc469c34e9a325e040465be9c9c683add05241df2ed72f74cc2773355c044a2",
+    "decisiontree.md": "262cefa795a5ee8eb92304df1f687fbc764aaf22fb1a7a3af5093d741fb5117a",
+    "decisiontree.py": "4040697314811ec16e280656f0eceaecfab3e44cd7e1e5278ed54916bde3ae34",
+    "decisiontree.tex": "421c389d89b51bde56741436e3f5d7cba33bcb56b394a787df4509a43022c49e"
    }
   },
   {
@@ -2020,9 +2020,9 @@
    "demo": "https://dictionaryofml.org/terms/deepnet.py",
    "notebook": "https://dictionaryofml.org/terms/deepnet.ipynb",
    "sha256": {
-    "deepnet.ipynb": "8003a382706fc994dab3ca9df9efea3086cc04960a941765b3f79d490a24cb69",
+    "deepnet.ipynb": "827fad5c91a6c0548ae4ebc1337da84a0b1b4b38f736109dcf31d6328913c4f3",
     "deepnet.md": "2dccdbcebeff82769b4a463cc8540a47b560f10e308a7946b3b66e00d3af45c2",
-    "deepnet.py": "020171848ac61cf4df712f1da4af4d4465fa439fa01d39969f7eb16e2a1e5962",
+    "deepnet.py": "878856207055b5e7de5fefcee6c96cef97feac2007ebb51519372b021a6628da",
     "deepnet.tex": "e8e6b75b57a811fac3923b64b0212b07d278a6af5cefc1ad2947a6454dab7081"
    }
   },
@@ -2085,9 +2085,9 @@
    "demo": "https://dictionaryofml.org/terms/distshift.py",
    "notebook": "https://dictionaryofml.org/terms/distshift.ipynb",
    "sha256": {
-    "distshift.ipynb": "05aa7b33f6c055fcfa1305dddb2f32a8e4fef7878f23df6b0acf4c8abbd743b5",
+    "distshift.ipynb": "12b37c1c95fe4289d4713c20b19c21da6240911fb4645d91d4a6c70d5fef05a2",
     "distshift.md": "253518486ace5e17cb176ddbc14fb6d77c678f401531eb8f8b8e9ee4977c6d40",
-    "distshift.py": "2425150c9abcc67fffe88ec488941b50e9b4770d80fc95d94d72dc4d26e98355",
+    "distshift.py": "080f89fa2b5c6633879ddfd7d84c3d0c2e7d401cda604a0d381d8629d8c4a398",
     "distshift.tex": "68feb3c4579061a2e59da05ef39f225d33d47822228017dcb989d2573a2d014d"
    }
   },
@@ -2167,9 +2167,9 @@
    "demo": "https://dictionaryofml.org/terms/edgeweight.py",
    "notebook": "https://dictionaryofml.org/terms/edgeweight.ipynb",
    "sha256": {
-    "edgeweight.ipynb": "c63ba36cfff2fb42daa39143cb1cdba18f1f00b7aaef51103740123c8d8abd3e",
+    "edgeweight.ipynb": "ed2b3c708bf4f7f21f7713e2aa44f2c02f584f9fbdeeaf0a124ca5c68453e8c9",
     "edgeweight.md": "0793d38f777a5e6b2c1d3067961aa6566477ee4bf24107de7f8aa277552223f5",
-    "edgeweight.py": "8ef321dfd54cbcb9992499f09a3ea1b012d811b05b025f5c23533a35f88c1d21",
+    "edgeweight.py": "fe0cdf70e86148226c7af60f72b6a825a72d9aab3d1a1731e3c61a8818fb5b43",
     "edgeweight.tex": "5cd93e1fcf3e23a99e3776e5755d059b6f2ee0d6f23a9cdd4c0159571b3e9c0a"
    }
   },
@@ -2201,9 +2201,9 @@
    "demo": "https://dictionaryofml.org/terms/effdim.py",
    "notebook": "https://dictionaryofml.org/terms/effdim.ipynb",
    "sha256": {
-    "effdim.ipynb": "4b55026efbcffb76fcd75172583eddbad230e3a8ec5680a0fa0dea75b0356cd8",
+    "effdim.ipynb": "601819d368c5a8e6f3d038da5aa7818dce5f0112ea395b38fd8f6f64ed60647d",
     "effdim.md": "79294b74048c1ca56dce5ba83cb44b83192b110f234b6023d387061f206ce400",
-    "effdim.py": "235da7b835a7eeccbf72bad22ff9b63d0b3601bcb62de334b1878fb2b1c527aa",
+    "effdim.py": "ae1c5949fd250f40daf6596d3fdbc87283b2f3580779a846a1b1fa842c865332",
     "effdim.tex": "f378acba3f4a434c9468d8ca9ceb88788c91a723d92f06902caf5b5a91e1a9e3"
    }
   },
@@ -2271,9 +2271,9 @@
    "demo": "https://dictionaryofml.org/terms/eigenvector.py",
    "notebook": "https://dictionaryofml.org/terms/eigenvector.ipynb",
    "sha256": {
-    "eigenvector.ipynb": "77368ac268ed7c20b65f8742b106dd12b01d67bb7b986ba98cae2015940d569c",
+    "eigenvector.ipynb": "d3ab346f08ea234a6fa94e1a40e28c9815ba97a766418057bfefeccb87182177",
     "eigenvector.md": "2ba36c868d8b7f20703e6203057f5fd25d1256003c0d57d208ddca659bd1c0ac",
-    "eigenvector.py": "3d567590bf45f28649c64770ca60dd2d39f1530d67e91a60abcdc294463b397d",
+    "eigenvector.py": "46aeeebe5f423201492fcd4a0e74f57cc867af1d3e6f52964d5e19c2b5c5cb96",
     "eigenvector.tex": "dbe5014a5114a817b19c468ddf7f9a73b2d9b3e71970cc59128349d19faab24e"
    }
   },
@@ -2371,9 +2371,9 @@
    "demo": "https://dictionaryofml.org/terms/ensemble.py",
    "notebook": "https://dictionaryofml.org/terms/ensemble.ipynb",
    "sha256": {
-    "ensemble.ipynb": "961a8d414cdc28f87945ba747b76eec7dd1e57cd8c1728093abe9f9629ba452c",
+    "ensemble.ipynb": "4283bbcf9e1f97758698910da442c4163240109536736df3ac70756310c0b5f6",
     "ensemble.md": "e1b64a75d2a217a63fa908cd54e970652e1e11d75e188566b7511d9944efefb5",
-    "ensemble.py": "72902403db4314eed16639d06385804b26b18cc40010ccc4064f2a9f8350555e",
+    "ensemble.py": "a0eb4314d4cbb1100b121efe17a190b5c4a9fa689c1f435250d732a3e3d88340",
     "ensemble.tex": "c9b1e909136f36fa02f0592b8486ab5864e671d75c0343596386959be6de281a"
    }
   },
@@ -2446,9 +2446,9 @@
    "demo": "https://dictionaryofml.org/terms/evd.py",
    "notebook": "https://dictionaryofml.org/terms/evd.ipynb",
    "sha256": {
-    "evd.ipynb": "ca91b6d748ffb7f1e042144d8862ab2a82f4d6ec38fdd4014cd472112411c9aa",
+    "evd.ipynb": "15c1c3e6d1e9a1545321fcf58f2263172e1971ae4519f70eb63c63a2100645b6",
     "evd.md": "62a50b09f535a3649799a8c92d334b41ef0d521b4adfa21380ad27ab04b98875",
-    "evd.py": "5591c25504dfe2156a56e50a49f95eea753e470fc126c9bd96aa86df8a128378",
+    "evd.py": "a678b88e9cbaf9da55f2be404a73e9b5bc9dbe25f039e2a8bf28859f867cf6cf",
     "evd.tex": "98224cbea979a42fe7e52aca1c13d2062e7bcf5f9b694a62fc178c39f3cc70fd"
    }
   },
@@ -3057,9 +3057,9 @@
    "demo": "https://dictionaryofml.org/terms/graphclustering.py",
    "notebook": "https://dictionaryofml.org/terms/graphclustering.ipynb",
    "sha256": {
-    "graphclustering.ipynb": "8a69dba1328536183721d23b243815d68bfeedf4cbeabcdb2e6ba1ab82a07204",
+    "graphclustering.ipynb": "333997c4ffae5bb8d000afef3a31dcb0895213d42da5ab4015673dd346996625",
     "graphclustering.md": "03f059a9c8a0d6d1fd55facce2cab97b78f7299a06e1bda03e3323b7915b8548",
-    "graphclustering.py": "da8bbd760f7e3d9f8f335dd4bd1ce076918885879bce617c0182416a8d30d3cb",
+    "graphclustering.py": "982e75b50a57b90b4728475ec7e24c2a8b23d200d30f2b9a21625c93d2244caa",
     "graphclustering.tex": "58028e6ed31cd4aa5934be7ee39c2af8ca9756b3cc84746dce8fc8b7f88892bb"
    }
   },
@@ -3103,9 +3103,9 @@
    "demo": "https://dictionaryofml.org/terms/hardclustering.py",
    "notebook": "https://dictionaryofml.org/terms/hardclustering.ipynb",
    "sha256": {
-    "hardclustering.ipynb": "bfc4c6f1ef35348dab9d890b2f8ae07fd09f0f727a1663230c459f17d4206109",
+    "hardclustering.ipynb": "445bdc7ec79d5c9185f00b82fa6d29c67c6c713928c54994a8551a8a19a29278",
     "hardclustering.md": "4cdf72ff9169e7a29f1b095e83007b3bd8068058fb0e63e75019eec5f0b75032",
-    "hardclustering.py": "11f2d8c8d350686420e8f50044ebda49f013735176aad6940a93de3a9d29b23c",
+    "hardclustering.py": "c9f739f8c6a541ed2ccc5fc78adf10cbab8e9b86480a0ab9b57ad696d1b07702",
     "hardclustering.tex": "42f200165bdf63c4a8f1af7276bc6d763e0746955a68252014f1dc89991499f9"
    }
   },
@@ -3340,9 +3340,9 @@
    "demo": "https://dictionaryofml.org/terms/iidasspt.py",
    "notebook": "https://dictionaryofml.org/terms/iidasspt.ipynb",
    "sha256": {
-    "iidasspt.ipynb": "a6e16101c31820fa166b57e53ca3d99419fe4195f47a516a4ff2a9f20bbed5f7",
+    "iidasspt.ipynb": "50b1d9908968ed6d23eea62258210a90047f075a55f758ef7a6102475e49b8dc",
     "iidasspt.md": "493a4c2b76b08578fba3c0a079bc867403eedcd88cfc80f92e8563da33ac8783",
-    "iidasspt.py": "40dc7d2942f3e88973040ec09da125138eb98b16dba9118d016c16af0cbf24a0",
+    "iidasspt.py": "8bf8923d8a438fee04574b82092fade445de0a40ec04e0c8c061c696ef5f2b47",
     "iidasspt.tex": "2ccc136f5b6247ee0209e9b0242fffe466ac3f56bd872369faf3ae1480cef1ba"
    }
   },
@@ -3552,7 +3552,7 @@
    "url": "https://dictionaryofml.org/terms/kfoldcv.html",
    "pdf": "https://dictionaryofml.org/terms/kfoldcv.pdf",
    "abstract": "k-fold cross-validation (k-fold CV) divides a dataset into k folds of equal size and uses each fold once as the validation set while the other k-1 folds form the training set of a given machine learning method. The k resulting validation errors are averaged into a single number, an indicator of generalization beyond the training set. While a single validation step estimates the risk of a single hypothesis, k-fold CV estimates the risk of a machine learning method. Leave-one-out cross-validation is the extreme case of k-fold CV with one data point per fold.",
-   "description": "Fig. 1 depicts four data points, representing daily weather conditions at Krems an der Donau (Austria). Each data point is characterized by the temperature at 06:00 of a day as the feature x and the temperature at 15:00 of the same day as the label y. Three of the four data points are used as the training set for polynomial regression with degree three. The remaining data point serves as the validation set. A polynomial of degree three (a cubic) has four coefficients and the training set holds three data points. Thus, unless two data points have the same feature, polynomial regression delivers a hypothesis that passes exactly through those three data points and, in turn, the training error is zero. However, as depicted in Fig. 1, the learned hypothesis ĥ does not generalize well beyond the training set, i.e., polynomial regression with degree three is overfitting. The validation error on the held-back data point can reveal this overfitting, but a single split does so unreliably. Holding back the first data point gives a validation error of 1.37, which suggests a reliable hypothesis. Holding back the second, third, or fourth data point instead gives validation errors of 8.05, 7.02, and 72.42, as panels (b) to (d) of Fig. 1 illustrate. Their average 22.22 is the 4-fold CV estimate. Using different splits of a dataset into training set and validation set offers a more reliable assessment of a machine learning method. Consider a machine learning method A that maps a training set to a learned hypothesis ĥ = A(D(train)). k-fold CV estimates the expected loss (or risk) of the method A as follows. It divides a dataset D evenly into k subsets, the folds D(1), …, D(k) (Fig. 2). For each fold b = 1, …, k, one iteration trains the model on the union of all folds except D(b) and evaluates the resulting hypothesis on the held-out fold D(b). The k per-fold validation errors are then averaged to obtain the CV error ECV, the CV estimate of the expected loss. Algorithm 1 summarizes this procedure. \\begin{algorithm}[H] \\caption{k-fold CV } \\begin{algorithmic}[1] \\Statex Input: machine learning method A, dataset D, number of folds k \\State divide D evenly into the folds D(1), …, D(k) \\For{b = 1, …, k} \\State D(train) := D D(b), \\quad D(val) := D(b) \\State ĥ(b) := A(D(train)) \\State Ev(b) := L̂(ĥ(b)|D(val)) \\EndFor \\Statex Output: CV error ECV = (1/k) Σb=1k Ev(b) \\end{algorithmic} \\end{algorithm} A single validation set assesses one hypothesis, e.g., the one that A delivers from a training set. In contrast, k-fold CV does not assess a single hypothesis. Instead, every iteration learns a potentially different hypothesis; panels (a) to (d) of Fig. 1 show four such hypotheses. Thus, the average validation error ECV measures the method A rather than one hypothesis. In Fig. 1, A is polynomial regression with degree three and ECV = 22.22. In particular, ECV measures the average risk of the hypotheses obtained from training sets holding the fraction (k-1)/k of the dataset. Compared to a single split into training set and validation set, k-fold CV uses each data point for both training and validation. In Fig. 2, for example, each data point has been used four times for training and once for validation after all five iterations. Like k-fold CV, the bootstrap estimates the risk of a method by averaging over several hypotheses, each learned from a different resample of the dataset; unlike the folds of k-fold CV, these resamples overlap. Important variants and special cases of k-fold CV include the following: - Stratified k-fold cross-validation: It preserves the class proportions of the full dataset in every fold. Stratification matters for classification with imbalanced data: a plain random partition can leave a fold with almost no data points of the minority class. The validation error of that fold is then computed on a validation set whose class proportions differ from those of the full dataset, so it is an unreliable estimate of the risk. - Leave-one-out cross-validation: It is the extreme case k = m, with m the number of data points in the dataset, where each fold contains a single data point. It trains on almost the full dataset in every iteration, at the cost of m training runs and a high variance of the estimate. - Repeated k-fold CV: It averages the results of several runs with different random fold assignments. This reduces the variance contributed by the partitioning and is useful for small datasets, where a single partitioning strongly affects the estimate. The k iterations cost k training runs, against the single run of one split, and the gain depends on k. In a separate experiment, 2000 datasets of fifteen data points are drawn from a linear model with additive Gaussian noise, and linear regression has an expected loss of 2.62 there. The bias of ECV against that loss falls from +0.48 at k = 2 to +0.01 at k = 15, and the standard deviation of ECV across the 2000 datasets from 1.87 to 1.01. The upward bias at k = 2 follows from what ECV measures there, hypotheses learned from half of each dataset. The folds also require the independent and identically distributed assumption. For consecutive data points of a time series, or for several data points recorded at one weather station, a random partition places correlated data points in both the training set and the held-out fold, so ECV understates the risk. Folds built from contiguous blocks, or from whole groups, keep correlated data points on one side of each split. A step that uses the full dataset before the split also makes ECV understate the risk. Hastie et al. (2009, Sect. 7.10.2) select the 100 features most correlated with the label over all 50 data points, and the ECV of the resulting one-nearest-neighbor hypothesis is 3% on average, while no hypothesis in that setting has a risk below 50%. Such a step belongs inside every iteration.",
+   "description": "Fig. 1 depicts four data points, representing daily weather conditions at Krems an der Donau (Austria). Each data point is characterized by the temperature at 06:00 (UTC) of a day as the feature x and the temperature at 15:00 (UTC) of the same day as the label y. Three of the four data points are used as the training set for polynomial regression with degree three. The remaining data point serves as the validation set. Polynomial regression delivers a hypothesis that passes exactly through the three data points in the training set and, in turn, achieves a training error of zero. However, as depicted in Fig. 1, the learned hypothesis ĥ does not generalize well beyond the training set, i.e., polynomial regression with degree three is overfitting. The validation error on the held-back data point can reveal this overfitting, but a single split does so unreliably. Indeed, holding back the first data point of Fig. 1 gives a validation error of 1.37, which suggests a reliable hypothesis. On the other hand, holding back the second, third, or fourth data point instead gives validation errors of 8.05, 7.02, and 72.42, as panels (b) to (d) of Fig. 1 illustrate. Their average 22.22 is the 4-fold CV estimate. The idea is that considering different splits of a dataset into training set and validation set offers a more reliable assessment of a machine learning method. Consider a machine learning method A that maps a training set to a learned hypothesis ĥ = A(D(train)). k-fold CV estimates the expected loss (or risk) of the method A as follows. First, it divides a dataset D evenly into k subsets, the folds D(1), …, D(k) (Fig. 2). For each fold b = 1, …, k, one iteration trains the model on the union of all folds except D(b) and evaluates the resulting hypothesis on the held-out fold D(b). The k per-fold validation errors are then averaged to obtain the CV error ECV, the CV estimate of the expected loss. Algorithm 1 summarizes this procedure. \\begin{algorithm}[H] \\caption{k-fold CV } \\begin{algorithmic}[1] \\Statex Input: machine learning method A, dataset D, number of folds k \\State divide D evenly into the folds D(1), …, D(k) \\For{b = 1, …, k} \\State D(train) := D D(b), \\quad D(val) := D(b) \\State ĥ(b) := A(D(train)) \\State Ev(b) := L̂(ĥ(b)|D(val)) \\EndFor \\Statex Output: CV error ECV = (1/k) Σb=1k Ev(b) \\end{algorithmic} \\end{algorithm} The number of folds k is a hyperparameter, and Algorithm 1 shows what it costs: the k iterations require k training runs, against the single run of one split. What the extra runs buy depends on k. In a separate experiment, 2000 datasets of fifteen data points are drawn from a linear model with additive Gaussian noise, and linear regression has an expected loss of 2.62 there. The bias of ECV against that loss falls from +0.48 at k = 2 to +0.01 at k = 15, and the standard deviation of ECV across the 2000 datasets from 1.87 to 1.01. The upward bias at k = 2 follows from what ECV measures there, hypotheses learned from half of each dataset. A single validation set assesses one hypothesis, e.g., the one that A delivers from a training set. In contrast, k-fold CV does not assess a single hypothesis. Instead, every iteration learns a potentially different hypothesis; panels (a) to (d) of Fig. 1 show four such hypotheses. Thus, the average validation error ECV measures the method A itself rather than one single hypothesis A(D(train)) that it delivers for one specific training set. In Fig. 1, A is polynomial regression with degree three and ECV = 22.22. In particular, ECV measures the average risk of the hypotheses obtained from training sets that consist of a fraction of (k-1)/k of the dataset. Compared to a single split into training set and validation set, k-fold CV uses each data point for both training and validation. In Fig. 2, for example, each data point has been used four times for training and once for validation after all five iterations. Like k-fold CV, the bootstrap estimates the risk of a machine learning method by averaging over several hypotheses, each learned from a different modification of the original dataset; unlike the folds of k-fold CV, the modifications used by the bootstrap can overlap. Important variants and special cases of k-fold CV include the following: - Stratified k-fold cross-validation: It preserves the class proportions of the full dataset in every fold. Stratification matters for classification with imbalanced data: a plain random partition can leave a fold with almost no data points of the minority class. The validation error of that fold is then computed on a validation set whose class proportions differ from those of the full dataset, so it is an unreliable estimate of the risk. - Leave-one-out cross-validation: It is the extreme case k = m, with m the number of data points in the dataset, where each fold contains a single data point. It trains on almost the full dataset in every iteration, at the cost of m training runs and a high variance of the estimate. - Repeated k-fold CV: It averages the results of several runs with different random fold assignments. This reduces the variance contributed by the partitioning and is useful for small datasets, where a single partitioning strongly affects the estimate. - Blocked and grouped folds: The folds in Algorithm 1 require the independent and identically distributed assumption. For consecutive data points of a time series, or for several data points recorded at one weather station, a random partition places correlated data points in both the training set and the held-out fold, so ECV understates the risk. Folds built from contiguous blocks, or from whole groups, keep correlated data points on one side of each split. A step that uses the full dataset before the split understates the risk the same way. Hastie et al. (2009, Sect. 7.10.2) select the 100 features most correlated with the label over all 50 data points, and the ECV of the resulting one-nearest-neighbor hypothesis is 3% on average, while no hypothesis in that setting has a risk below 50%. Such a step belongs inside every iteration.",
    "synonyms": [],
    "see_also": [
     "validation",
@@ -3571,9 +3571,9 @@
    "notebook": "https://dictionaryofml.org/terms/kfoldcv.ipynb",
    "sha256": {
     "kfoldcv.ipynb": "9b2fe94e2bd8bffc422aba6b62af7b9f46e81e660e132bf1d374e1fb6d39cbd7",
-    "kfoldcv.md": "8635ee9663b72b572612d88df3c9e7fff5a903ebaeb27471272d258879a1aed8",
+    "kfoldcv.md": "e01c94ccb88b30fdc94d05399653eedbbf3cb583b2d0d3a532feeb9111c00c83",
     "kfoldcv.py": "5715c4bd246e589f1dd690f3229275795cecfe729be5dd8b185eb3c3cf93e830",
-    "kfoldcv.tex": "35ab7b9b2baaf706506e21aaa6618ff658049ff0347217265a8b5cf61e67ace0"
+    "kfoldcv.tex": "9c4db4eb656b830e2bfdab3fba9817a6dc6830a79d4e3e7372cca369c308f1ee"
    }
   },
   {
@@ -4123,9 +4123,9 @@
    "demo": "https://dictionaryofml.org/terms/membershipinferenceattack.py",
    "notebook": "https://dictionaryofml.org/terms/membershipinferenceattack.ipynb",
    "sha256": {
-    "membershipinferenceattack.ipynb": "e937171771e0e1cb818fe0aca986a7db5e3e6e794fc79e185cdc9bda5f6b0bd5",
+    "membershipinferenceattack.ipynb": "b3b90b44037dc917aa0827989238cfc16eb4cf782b0bc5c23ba2d728271bc183",
     "membershipinferenceattack.md": "898b7255e98e408710b2c064caa81b010a9442d681afa665c27dd486ef5f5b7f",
-    "membershipinferenceattack.py": "d1f5df79ad8b9eb4e07920045497c0cc4a2bafe1c588c7b824275d4abb5f2805",
+    "membershipinferenceattack.py": "27ff2debfdca414751997405bc17ec01cd696909ffaf2d3823b3a604f9b04fb6",
     "membershipinferenceattack.tex": "bcdb7186caca0d01c24402d73887cd26bcda85da751d84a4cee9417a20af9eaf"
    }
   },
@@ -4668,9 +4668,9 @@
    "demo": "https://dictionaryofml.org/terms/randomexperiment.py",
    "notebook": "https://dictionaryofml.org/terms/randomexperiment.ipynb",
    "sha256": {
-    "randomexperiment.ipynb": "6cd9c73505e64483a9c377cbba479a2b29151138a420f548f062d4dc08676478",
+    "randomexperiment.ipynb": "5f15329ff85f2039341ddc0533efec1640c9d31ccdceedf20286d264aff0c981",
     "randomexperiment.md": "dae32bc7642b12e046465404d59900386eb57ac889127b76bb463319a5e80082",
-    "randomexperiment.py": "1530f9b92068a70a320574638694759fcd5a1a39fdb7e6f84153b4604ba408b0",
+    "randomexperiment.py": "774a17da481796c846bed72cd950a46456730c9c5fcc16e7371a4336fd5468b9",
     "randomexperiment.tex": "5cff534aac540f1bf07f2038e6f7ecf493cb0a493b21aa1d0d7f7f52be2d960f"
    }
   },
@@ -5148,9 +5148,9 @@
    "demo": "https://dictionaryofml.org/terms/sigmoid.py",
    "notebook": "https://dictionaryofml.org/terms/sigmoid.ipynb",
    "sha256": {
-    "sigmoid.ipynb": "9cc78f626f07435920ea4a08b23274b0e8fced4962cff77809805757458976b5",
+    "sigmoid.ipynb": "9ccb8f4be35d5180bfc5c0558352241076217e6cdfd4403ef28316d43041800a",
     "sigmoid.md": "785ff4e0b72749b109d10fcbcce4e66e9ef7e5b81e31cd62ad0d6ac24a6b240a",
-    "sigmoid.py": "92d73be4dde6f76ff859a6d327fc33ec22eb26d981a5e99cb77927c53d150533",
+    "sigmoid.py": "dc93b657d49e37e7d58176bdc8f68ccbd7107adabe394072085c73f713f80d42",
     "sigmoid.tex": "8a1a86721947e54418d844064cbe03f4a26644a87abb92a667c8bcaf923476ed"
    }
   },
@@ -5185,9 +5185,9 @@
    "demo": "https://dictionaryofml.org/terms/sobolevspace.py",
    "notebook": "https://dictionaryofml.org/terms/sobolevspace.ipynb",
    "sha256": {
-    "sobolevspace.ipynb": "bf451b9b501800fde5445897c9fe01e48d5d130a860ebee66ba14c5750840953",
+    "sobolevspace.ipynb": "f74490d4f633867cbdd56dd6c61f95c8f4b75b4eaf98da6ca90f15982d1926fb",
     "sobolevspace.md": "f8a5f7c17e100ea3c24281540f314c183ebe9db2fbc9695c434ae5dc76f58b22",
-    "sobolevspace.py": "de51de083e38ac4e9329943e1f979609dbaec715e6125a1340bd2eba5faf1267",
+    "sobolevspace.py": "55077613106eafc158ab3f148ae9394a387c58002b33fa876b81e5c836758a6c",
     "sobolevspace.tex": "e1fbf5b93f71e96de4a17cd58944c5edf9d0e4e55cc1c373901813ca9f535051"
    }
   },
@@ -5197,7 +5197,7 @@
    "url": "https://dictionaryofml.org/terms/softclustering.html",
    "pdf": "https://dictionaryofml.org/terms/softclustering.pdf",
    "abstract": "Soft clustering assigns each data point to every cluster with a degree of belonging, a number between zero and one, so that the degrees of belonging of one data point form a vector in the probability simplex. Hard clustering is the special case in which this vector is a vertex of the simplex, with one entry equal to one and the others equal to zero. For numeric feature vectors, the principled choice of the degrees of belonging is the posterior distribution of the cluster index under a Gaussian mixture model whose model parameters are learned by the expectation–maximization algorithm. With equal cluster probabilities and covariance matrices σ2 I, the degrees of belonging tend to the vertices as σ2 shrinks, and the expectation–maximization algorithm becomes Lloyd's algorithm for k-means. Fuzzy c-means delivers degrees of belonging without a probabilistic model by minimizing a weighted clustering error over the simplex, and it also reduces to k-means as its fuzzifier tends to one. Assigning each data point to the cluster with the largest degree of belonging turns a soft clustering into a hard clustering, and one minus that largest degree of belonging measures how far the assignment is from certain.",
-   "description": "Consider the 365 days of 2024 at Krems an der Donau (Austria), each a data point with a feature vector x ∈ R2 that holds the air temperature at 06:00 and at temperature at 15:00 (UTC) of the day. k-means with k = 2 clusters assigns every day to the nearer of two cluster centroids, (3.9, 9.0) for 198 cold days and (17.5, 24.9) for 167 warm days. A day in April whose temperatures lie halfway between the two cluster centroids becomes a cold day or a warm day all the same, and nothing records that it was a borderline case. Soft clustering keeps that information: it assigns each data point to every cluster with a degree of belonging uc(r), a number between 0 and 1 for data point r = 1, …, m and cluster c = 1, …, k. The degrees of belonging of one data point form the vector \\begin{equation} {\\mathbf u}^{(r)} := \\big(u_{1}^{(r)}, \\ldots, u_{k}^{(r)}\\big)^{\\top} \\in \\Delta^{k-1}, \\quad \\text{i.e., } u_{c}^{(r)} \\geq 0 \\text{ and } \\sum_{c=1}^{k} u_{c}^{(r)} = 1 \\text{,} \\end{equation} a point of the probability simplex Δk-1. A hard clustering is the special case in which every vector Eq. (1) is a vertex of the simplex: one entry is 1 and the other k-1 entries are 0. A soft clustering method learns a hypothesis h: X → Δk-1 that maps a feature vector to a degree of belonging vector, so it can be evaluated for a day that did not belong to the dataset. A hard clustering method learns a map into the k vertices only. For data points with numeric feature vectors, the principled choice of the degrees of belonging is a probabilistic model, the Gaussian mixture model. It generates a data point by drawing a cluster index I with probabilities p1, …, pk and then the feature vector from the multivariate normal distribution of that cluster, with mean μ(c) and covariance matrix C(c). The degree of belonging of data point x(r) to cluster c is the posterior distribution of its cluster index, \\begin{equation} u_{c}^{(r)} := \\mathbb{P}\\left(I = c \\mid {\\mathbf x}^{(r)}\\right) = \\frac{p_{c} \\mathcal{N}\\left({\\boldsymbol \\mu}^{(c)},\\mathbf{C}^{(c)}\\right) ({\\mathbf x}^{(r)})} {\\sum_{c'=1}^{k} p_{c'} \\mathcal{N}\\left({\\boldsymbol \\mu}^{(c')},\\mathbf{C}^{(c')}\\right) ({\\mathbf x}^{(r)})} \\text{,} \\end{equation} which Bishop (2006, Sect. 9.2) calls the responsibility of cluster c for the data point. The model parameters are learned by maximum likelihood with the expectation–maximization algorithm, whose E-step computes the degrees of belonging Eq. (2) and whose M-step recomputes the model parameters as averages weighted by them. Maximum likelihood is empirical risk minimization with the negative logarithm of the probability density function as the loss, so the learned model parameters minimize a clustering error, and the expectation–maximization algorithm is a fixed-point iteration that never increases it. On the days at Krems, the expectation–maximization algorithm started from the k-means cluster centroids stops after 315 iterations with cluster probabilities 0.69 and 0.31 and means (6.2, 11.6) and (19.0, 27.0). For 60 of the 365 days, no degree of belonging reaches 0.8; 22 of them are in May, and none is in January, February, November, or December. A soft clustering is turned into a hard clustering by assigning each data point to the cluster with the largest degree of belonging, and 1 - maxc = 1, …, k uc(r) measures how far that assignment is from certain. For the days at Krems, this assignment agrees with k-means on 316 of the 365 days. Fig. 1(a) shows why the two disagree: the curve on which the two degrees of belonging Eq. (2) are equal is not the decision boundary of k-means, the perpendicular bisector of the two cluster centroids. It bends around the warm cluster, because the warm days scatter less than the cold ones and the covariance matrix of the warm cluster is smaller. Hard clustering is a limit of the Gaussian mixture model. Fix every cluster probability at 1/k and every covariance matrix at σ2 I, a multiple of the identity matrix with one common σ2; this shrinks the hypothesis space, which is model pruning, one of the three routes that regularization distinguishes. The degree of belonging Eq. (2) then depends on the feature vector only through its squared Euclidean distances to the means, \\begin{equation} u_{c}^{(r)} = \\frac{\\exp\\big(- \\left\\lVert {\\mathbf x}^{(r)} - {\\boldsymbol \\mu}^{(c)} \\right\\rVert_{2}^{2} / (2\\sigma^{2})\\big)} {\\sum_{c'=1}^{k} \\exp\\big(- \\left\\lVert {\\mathbf x}^{(r)} - {\\boldsymbol \\mu}^{(c')} \\right\\rVert_{2}^{2} / (2\\sigma^{2})\\big)} \\text{,} \\end{equation} the softmax function of the negative squared Euclidean distances divided by 2σ2. As σ2 shrinks towards 0, the degree of belonging Eq. (3) of the nearest mean tends to 1 and all others to 0, so the vector Eq. (1) tends to the vertex of the nearest-cluster centroid assignment, and the expectation–maximization algorithm becomes Lloyd's algorithm for k-means. With the means at the k-means cluster centroids of the days at Krems, 4 days have a degree of belonging between 0.2 and 0.8 for σ2 = 25, three days for σ2 = 4, and none for σ2 = 1, while for every σ2 the largest degree of belonging names the nearest cluster centroid. Fig. 1(b) draws the degree of belonging to the cold cluster along the line through the two cluster centroids, parametrized by s with s = 0 at the cold and s = 1 at the warm cluster centroid. Along this line, k-means jumps from 1 to 0 at s = 1/2, the Gaussian mixture model crosses 1/2 later and gradually, and the constrained Gaussian mixture model with σ2 = 4 is close to the jump. Fuzzy c-means delivers degrees of belonging without a probabilistic model. It minimizes a weighted clustering error, \\begin{equation} \\frac{1}{m} \\sum_{r=1}^{m} \\sum_{c=1}^{k} \\big(u_{c}^{(r)}\\big)^{\\varphi} \\left\\lVert {\\mathbf x}^{(r)} - {{\\mathbf w}}^{(c)} \\right\\rVert_{2}^{2} \\text{,} \\end{equation} jointly over the cluster centroids w(1), …, w(k) ∈ Rd and the degrees of belonging, each vector Eq. (1) constrained to the probability simplex, with a fuzzifier > 1. For fixed cluster centroids, the minimizing degrees of belonging are proportional to ‖ x(r) - w(c) ‖2-2/(- 1), normalized to sum to one; for fixed degrees of belonging, the minimizing cluster centroid w(c) is the average of the feature vectors weighted by (uc(r)). Alternating the two updates is a fixed-point iteration: each update minimizes the objective Eq. (4) exactly in one block of variables with the other fixed, so no iteration increases the objective, and a fixed point is a pair of cluster centroids and degrees of belonging at which neither update changes anything. As tends to 1, the degrees of belonging tend to the vertices of the simplex and the objective Eq. (4) to the clustering error of k-means. With = 1.05 on the days at Krems, the cluster centroids lie within 0.05 of those of k-means and the objective is 44.8, the clustering error of k-means. For 356 of the 365 days, the largest degree of belonging exceeds 0.99. With = 2, 63 days have no degree of belonging of 0.8 or more, and with = 10 every degree of belonging lies between 0.27 and 0.73. The degrees of belonging of fuzzy c-means decay like the reciprocal of a squared Euclidean distance, so far away from every cluster centroid they approach 1/k. At the ends of the line in Fig. 1(b), the degree of belonging to the cold cluster is 0.91 at s = -1/2 and 0.09 at s = 3/2, where the Gaussian mixture model gives 1 and 0 to within 0.02. In image segmentation by clustering the patches of a photograph by their colors, a patch on the horizon between a mountain and the sky is partly both, and its degree of belonging vector records both shares while a hard clustering must choose one. A soft clustering of the days at Krems records the transitional days of spring and autumn, which a hard clustering into a cold and a warm regime hides.",
+   "description": "Consider the 365 days of 2024 at Krems an der Donau (Austria), each a data point with a feature vector x ∈ R2 that holds the air temperature at 06:00 and at temperature at 15:00 (UTC) of the day. k-means with k = 2 clusters assigns every day to the nearer of two cluster centroids, (3.9, 9.0) for 198 cold days and (17.5, 24.9) for 167 warm days. A day in April whose temperatures lie halfway between the two cluster centroids becomes a cold day or a warm day all the same, and nothing records that it was a borderline case. Soft clustering keeps that information: it assigns each data point to every cluster with a degree of belonging uc(r), a number between 0 and 1 for data point r = 1, …, m and cluster c = 1, …, k. The degrees of belonging of one data point form the vector \\begin{equation} {\\mathbf u}^{(r)} := \\big(u_{1}^{(r)}, \\ldots, u_{k}^{(r)}\\big)^{\\top} \\in \\Delta^{k-1}, \\quad \\text{i.e., } u_{c}^{(r)} \\geq 0 \\text{ and } \\sum_{c=1}^{k} u_{c}^{(r)} = 1 \\text{,} \\end{equation} a point of the probability simplex Δk-1. A hard clustering is the special case in which every vector Eq. (1) is a vertex of the simplex: one entry is 1 and the other k-1 entries are 0. A soft clustering method learns a hypothesis h: X → Δk-1 that maps a feature vector to a degree of belonging vector, so it can be evaluated for a day that did not belong to the dataset. A hard clustering method learns a map into the k vertices only. For data points with numeric feature vectors, the principled choice of the degrees of belonging is a probabilistic model, the Gaussian mixture model. It generates a data point by drawing a cluster index I with probabilities p1, …, pk and then the feature vector from the multivariate normal distribution of that cluster, with mean μ(c) and covariance matrix C(c). The degree of belonging of data point x(r) to cluster c is the posterior distribution of its cluster index, \\begin{equation} u_{c}^{(r)} := \\mathbb{P}\\left(I = c \\mid {\\mathbf x}^{(r)}\\right) = \\frac{p_{c} \\mathcal{N}\\left({\\boldsymbol \\mu}^{(c)},\\mathbf{C}^{(c)}\\right) ({\\mathbf x}^{(r)})} {\\sum_{c'=1}^{k} p_{c'} \\mathcal{N}\\left({\\boldsymbol \\mu}^{(c')},\\mathbf{C}^{(c')}\\right) ({\\mathbf x}^{(r)})} \\text{,} \\end{equation} which Bishop (2006, Sect. 9.2) calls the responsibility of cluster c for the data point. The model parameters are learned by maximum likelihood with the expectation–maximization algorithm, whose E-step computes the degrees of belonging Eq. (2) and whose M-step recomputes the model parameters as averages weighted by them. Maximum likelihood is empirical risk minimization with the negative logarithm of the probability density function as the loss, so the learned model parameters minimize a clustering error, and the expectation–maximization algorithm is a fixed-point iteration that never increases it. On the days at Krems, the expectation–maximization algorithm started from the k-means cluster centroids stops after 315 iterations with cluster probabilities 0.69 and 0.31 and means (6.2, 11.6) and (19.0, 27.0). For 60 of the 365 days, no degree of belonging reaches 0.8; 22 of them are in May, and none is in January, February, November, or December. A soft clustering is turned into a hard clustering by assigning each data point to the cluster with the largest degree of belonging, and 1 - maxc = 1, …, k uc(r) measures how far that assignment is from certain. For the days at Krems, this assignment agrees with k-means on 316 of the 365 days. Fig. 1(a) shows why the two disagree: the curve on which the two degrees of belonging Eq. (2) are equal is not the decision boundary of k-means, the perpendicular bisector of the two cluster centroids. It bends around the warm cluster, because the warm days scatter less than the cold ones and the covariance matrix of the warm cluster is smaller. Hard clustering is a limit of the Gaussian mixture model. Fix every cluster probability at 1/k and every covariance matrix at σ2 I, a multiple of the identity matrix with one common σ2; this shrinks the hypothesis space, which is model pruning, one of the three routes that regularization distinguishes. The degree of belonging Eq. (2) then depends on the feature vector only through its squared Euclidean distances to the means, \\begin{equation} u_{c}^{(r)} = \\frac{\\exp\\big(- \\left\\lVert {\\mathbf x}^{(r)} - {\\boldsymbol \\mu}^{(c)} \\right\\rVert_{2}^{2} / (2\\sigma^{2})\\big)} {\\sum_{c'=1}^{k} \\exp\\big(- \\left\\lVert {\\mathbf x}^{(r)} - {\\boldsymbol \\mu}^{(c')} \\right\\rVert_{2}^{2} / (2\\sigma^{2})\\big)} \\text{,} \\end{equation} the softmax function of the negative squared Euclidean distances divided by 2σ2. As σ2 shrinks towards 0, the degree of belonging Eq. (3) of the nearest mean tends to 1 and all others to 0, so the vector Eq. (1) tends to the vertex of the nearest-cluster centroid assignment, and the expectation–maximization algorithm becomes Lloyd's algorithm for k-means. With the means at the k-means cluster centroids of the days at Krems, 4 days have a degree of belonging between 0.2 and 0.8 for σ2 = 25, three days for σ2 = 4, and none for σ2 = 1, while for every σ2 the largest degree of belonging names the nearest cluster centroid. Fig. 1(b) draws the degree of belonging to the cold cluster along the line through the two cluster centroids, parameterized by s with s = 0 at the cold and s = 1 at the warm cluster centroid. Along this line, k-means jumps from 1 to 0 at s = 1/2, the Gaussian mixture model crosses 1/2 later and gradually, and the constrained Gaussian mixture model with σ2 = 4 is close to the jump. Fuzzy c-means delivers degrees of belonging without a probabilistic model. It minimizes a weighted clustering error, \\begin{equation} \\frac{1}{m} \\sum_{r=1}^{m} \\sum_{c=1}^{k} \\big(u_{c}^{(r)}\\big)^{\\varphi} \\left\\lVert {\\mathbf x}^{(r)} - {{\\mathbf w}}^{(c)} \\right\\rVert_{2}^{2} \\text{,} \\end{equation} jointly over the cluster centroids w(1), …, w(k) ∈ Rd and the degrees of belonging, each vector Eq. (1) constrained to the probability simplex, with a fuzzifier > 1. For fixed cluster centroids, the minimizing degrees of belonging are proportional to ‖ x(r) - w(c) ‖2-2/(- 1), normalized to sum to one; for fixed degrees of belonging, the minimizing cluster centroid w(c) is the average of the feature vectors weighted by (uc(r)). Alternating the two updates is a fixed-point iteration: each update minimizes the objective Eq. (4) exactly in one block of variables with the other fixed, so no iteration increases the objective, and a fixed point is a pair of cluster centroids and degrees of belonging at which neither update changes anything. As tends to 1, the degrees of belonging tend to the vertices of the simplex and the objective Eq. (4) to the clustering error of k-means. With = 1.05 on the days at Krems, the cluster centroids lie within 0.05 of those of k-means and the objective is 44.8, the clustering error of k-means. For 356 of the 365 days, the largest degree of belonging exceeds 0.99. With = 2, 63 days have no degree of belonging of 0.8 or more, and with = 10 every degree of belonging lies between 0.27 and 0.73. The degrees of belonging of fuzzy c-means decay like the reciprocal of a squared Euclidean distance, so far away from every cluster centroid they approach 1/k. At the ends of the line in Fig. 1(b), the degree of belonging to the cold cluster is 0.91 at s = -1/2 and 0.09 at s = 3/2, where the Gaussian mixture model gives 1 and 0 to within 0.02. In image segmentation by clustering the patches of a photograph by their colors, a patch on the horizon between a mountain and the sky is partly both, and its degree of belonging vector records both shares while a hard clustering must choose one. A soft clustering of the days at Krems records the transitional days of spring and autumn, which a hard clustering into a cold and a warm regime hides.",
    "synonyms": [
     "fuzzy clustering"
    ],
@@ -5227,10 +5227,10 @@
    "demo": "https://dictionaryofml.org/terms/softclustering.py",
    "notebook": "https://dictionaryofml.org/terms/softclustering.ipynb",
    "sha256": {
-    "softclustering.ipynb": "e2a6c8821afe2d2978cd2af623f523b535e6e58fa689aa5c5e33c0f01820a413",
-    "softclustering.md": "47444cb36fd30b0b721dc8e932d533fc76b553f4df82078d79ff29922895bc9b",
-    "softclustering.py": "fc6aea2eea66bf2ddde3010887fc25378a83b73f1a6b43592332a49795f629a7",
-    "softclustering.tex": "1f8860ba5168777428533f7d8dd42833136952c3db247e8b8f8be3b9a6d17776"
+    "softclustering.ipynb": "a4a6d7d471256e2d5fa3761667857e05a7485470e0546891edfae142ab5d623e",
+    "softclustering.md": "9d08b7c4477370d752635eaa292aa55d66cd791c15379fb4b0d59a098d1dc8f4",
+    "softclustering.py": "b17cfe5c19f13f258197c6e252dc92f9528a3f3b4aa81f1692558559a5baf970",
+    "softclustering.tex": "7ed4d419623ceae0b7fd5e41c8f36b49fc4cdfec77d8051ac8fc5a72da7fb011"
    }
   },
   {
@@ -5271,9 +5271,9 @@
    "demo": "https://dictionaryofml.org/terms/specclustering.py",
    "notebook": "https://dictionaryofml.org/terms/specclustering.ipynb",
    "sha256": {
-    "specclustering.ipynb": "58936abdf36518a570b0cad3b3f891908e9fb8cc548d8378831760caa24689bb",
+    "specclustering.ipynb": "442b0540720664c13023c10224bba22ddcb65bbc151f5f93984f88fd0bed8ea4",
     "specclustering.md": "308c828082a92669957b6227f19be1da29ab44608db96d25c72e435529fd89ac",
-    "specclustering.py": "0e694d9eaf2f427eca495ddc4b78c8c3da8b09ec53e1b70b4665cef7dcd49dd4",
+    "specclustering.py": "d56aae0e6339d19a22725dd487b98c27f2d283850298f434ab67c5caccf27d2f",
     "specclustering.tex": "9b507d907dfe36a7cfdaf4591fb5684cf79ec40dcae48f737a818718a90bb91f"
    }
   },
@@ -5304,8 +5304,12 @@
    "readiness": 92,
    "markdown": "https://dictionaryofml.org/terms/spectraldecomp.md",
    "latex": "https://dictionaryofml.org/terms/spectraldecomp.tex",
+   "demo": "https://dictionaryofml.org/terms/spectraldecomp.py",
+   "notebook": "https://dictionaryofml.org/terms/spectraldecomp.ipynb",
    "sha256": {
-    "spectraldecomp.md": "9c7a0f5f783ce638101dd28af86d6ca6d5f180875ce39f5896e8fff6493fcaeb",
+    "spectraldecomp.ipynb": "7e679ad1474336414db484300a875743dec94d37e17547723b8ff0ca4518b529",
+    "spectraldecomp.md": "a9020966a04f9cb66e6158778257dbd6e04ea2a2583003e031580b766f3d24d7",
+    "spectraldecomp.py": "60b03bffdbd1b2af96bec056b7bcfa59df7d8aa4e827e80c1d19a90b627f5dfe",
     "spectraldecomp.tex": "75c2bc750706d0ef0da4664aae4e29ed0367248ddb6d9e7b036e7542793e7baf"
    }
   },
@@ -5325,8 +5329,12 @@
    "readiness": 90,
    "markdown": "https://dictionaryofml.org/terms/spectrum.md",
    "latex": "https://dictionaryofml.org/terms/spectrum.tex",
+   "demo": "https://dictionaryofml.org/terms/spectrum.py",
+   "notebook": "https://dictionaryofml.org/terms/spectrum.ipynb",
    "sha256": {
-    "spectrum.md": "9c3dbdaeeb7fe23c2bc90696c49506bca1500f93de38519022761a839a7794e3",
+    "spectrum.ipynb": "263a20f573149438d8dfed9d5b5b40d742a1cd1df39e95743245cf1a161c77fc",
+    "spectrum.md": "5e6be2e111f60f659b2ffa872962c034b65c32856d52d06702317810ee3f9698",
+    "spectrum.py": "2800b919bcc8aa3913241b379b67d66dc03c747c9134dad7984a9355ffb31e57",
     "spectrum.tex": "6074f81dbe35adf0dd5c9aec32cb66094aafa64279b917917380338acb3f6b61"
    }
   },
@@ -5426,8 +5434,12 @@
    "readiness": 85,
    "markdown": "https://dictionaryofml.org/terms/subspace.md",
    "latex": "https://dictionaryofml.org/terms/subspace.tex",
+   "demo": "https://dictionaryofml.org/terms/subspace.py",
+   "notebook": "https://dictionaryofml.org/terms/subspace.ipynb",
    "sha256": {
-    "subspace.md": "8c5fd13439abe65aca606cb03bc5a3b1276eb390d0e2faa0b1ac1c683499b686",
+    "subspace.ipynb": "6b374cc04c68a8d89a480f75e977038119dff7fd24e26f3e58ccce6fc08a974c",
+    "subspace.md": "d22a544eb51a9c2b72ff85876bbbf0c8100e7b399842a9d16047d64a5de5693a",
+    "subspace.py": "0c2eba2ae143efc565b2e17e18f759bd0a0f485278b247cd565ba2e31557c01b",
     "subspace.tex": "1d4c8661f5f910e4df24318ff6330ce63c0204a03ae592257a24b28c974e10a5"
    }
   },
@@ -5462,9 +5474,9 @@
    "demo": "https://dictionaryofml.org/terms/supervisedlearning.py",
    "notebook": "https://dictionaryofml.org/terms/supervisedlearning.ipynb",
    "sha256": {
-    "supervisedlearning.ipynb": "2094467ba121ec0d8db1ae7a5af71d76d36ba2fd07b6f1c2221036f3b0c391b6",
+    "supervisedlearning.ipynb": "3333c9d38ab7704853f73957504144c2ab12006addf61fd99a4793b033f15952",
     "supervisedlearning.md": "a81d4d607cbe221b72b6a2a41628e2b7e48ac3b6f78436ba9cbdacbb9f56c9a2",
-    "supervisedlearning.py": "3fad883d3d2ffb6b4d773f8ff3535f3286de8312bac45fda3c480ec36f0fcce4",
+    "supervisedlearning.py": "25627fe9bb956154a954a453cc3239138139c71427d62fde1296423aff15089b",
     "supervisedlearning.tex": "4694d0d5f2b91a174430e6fb63aef3b347b6336d9b871e4a611a18508b2d14f0"
    }
   },
@@ -6075,9 +6087,9 @@
    "demo": "https://dictionaryofml.org/terms/weightedgraph.py",
    "notebook": "https://dictionaryofml.org/terms/weightedgraph.ipynb",
    "sha256": {
-    "weightedgraph.ipynb": "7c617b0efe85d6b026879ea8a118555d91176fb209b047fcde4bffaa683cae00",
+    "weightedgraph.ipynb": "e227d01f147fd6c53abd36cdf8dc548a027998d0a12541b967cfb37e19b651ca",
     "weightedgraph.md": "ffc87e2334e16510d7b649b4db54508be446ddad2ed06091c1e1bfcdfc8a90b3",
-    "weightedgraph.py": "f9e95d64f174315061458bb33780b4fcd13394f4404cc834d9b9ec4e4b26b6b0",
+    "weightedgraph.py": "da17069c7e60df431db98f2a04d9c851ad8bf75197ccce0196ff4caf344d3bbf",
     "weightedgraph.tex": "71368889aebea4fb6330d321229ec6bfd383a9fc66ee1e62cfe7b5602bb825d3"
    }
   },
