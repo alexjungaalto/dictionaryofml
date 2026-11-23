@@ -3571,9 +3571,9 @@
    "notebook": "https://dictionaryofml.org/terms/kfoldcv.ipynb",
    "sha256": {
     "kfoldcv.ipynb": "9b2fe94e2bd8bffc422aba6b62af7b9f46e81e660e132bf1d374e1fb6d39cbd7",
-    "kfoldcv.md": "27c7015ccc556c11d1f82b31ac92cfafa92dd072332040bd36318655844a26ba",
+    "kfoldcv.md": "3ef2be6ff20a923598066cb7883303325a47f15c3d1e3ab2ca1d7c600c381baa",
     "kfoldcv.py": "5715c4bd246e589f1dd690f3229275795cecfe729be5dd8b185eb3c3cf93e830",
-    "kfoldcv.tex": "b67ccd52c52e21ad53bc14ab8be925eac1ef6fc0934ba4ddddbdf3f810627552"
+    "kfoldcv.tex": "3ef47b49afb68e45d156132a0e8f50699b335dcd721f6a7dbaaa18e85bc0378d"
    }
   },
   {
