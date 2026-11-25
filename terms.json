@@ -886,7 +886,7 @@
    "notebook": "https://dictionaryofml.org/terms/LapMat.ipynb",
    "sha256": {
     "LapMat.ipynb": "072ab3234113b4416d0cdf301fe9af7aa03a926eaad7dfaa04e13b1331874abb",
-    "LapMat.md": "6a79d83f15495ed7f924ab44940bc8e7a1db881b5ba69fac50903450878c710e",
+    "LapMat.md": "575f8717a497a32964f22907dd94b1a922d24d45bd1a4c391ad5cbfd557be830",
     "LapMat.py": "9b3c438c3896f9c9a2f3a36ed5175e67e1947fde90c4c90b8b1430e059c0436d",
     "LapMat.tex": "bf8e9988c871af31b63985c083540282e2e2bf19e402cd81fb4517616e4da9d9"
    }
@@ -914,7 +914,7 @@
    "notebook": "https://dictionaryofml.org/terms/accuracy.ipynb",
    "sha256": {
     "accuracy.ipynb": "29abf70894804b69355fe2ce15e05db71755e48a34fef1d3f9d841f73c66c36c",
-    "accuracy.md": "7e69ba1e7d9a66957b87535448007e213425957c3efb74cf3f1e4a88f0bbc368",
+    "accuracy.md": "646cb6e947684fedd8e5d6de76b202fa6d161611d25911724558d74995f0fc74",
     "accuracy.py": "eaafb209196c1a42a434bc36642c7beba5332b38e5dd7ff0a05bd05c1d4e84e8",
     "accuracy.tex": "ac493cef02c787b32fe8a76bca1dbfc62bac602e26844ba57f6011179113eb62"
    }
@@ -1012,9 +1012,9 @@
    "notebook": "https://dictionaryofml.org/terms/autoencoder.ipynb",
    "sha256": {
     "autoencoder.ipynb": "7b4fe668ffb60da707c51ccb7a231ec12f0b4ede31a9b0dc4523abb911316f68",
-    "autoencoder.md": "de59159d428eac85d322f6eebd4639ac11367c570e50f8fbad5692cb7dd8bc24",
+    "autoencoder.md": "027643816103298598388f9c909924522e1ee68395299f8fc2f3b8ac56dae96a",
     "autoencoder.py": "42fb4a103c3781c3852e2046b8607edd357434473e7534ab9e2561d61f18dd95",
-    "autoencoder.tex": "9743d94ab483a69b02c36786773145911c7f138cb93a14ca511645f6117c10be"
+    "autoencoder.tex": "07803a006ea355dc22e7ca7a63b4b74891a89ffd4cbdf53ef56e5fd86724f106"
    }
   },
   {
@@ -1076,7 +1076,7 @@
    "notebook": "https://dictionaryofml.org/terms/bagging.ipynb",
    "sha256": {
     "bagging.ipynb": "3b2068c6bdf682898ee300c4a3b72401f9940e95fbd7b8cb9f1cbd2f6dedd76e",
-    "bagging.md": "1acaeaa1acbc0293078102b31be0946e75fd625210fcafc207ede96e8fb9059d",
+    "bagging.md": "783e47454da2df01ef9de02731f97389eba4dc542f86ce62f191c436ca48ae50",
     "bagging.py": "11c49c6aab3bc99635b7102689443bbd1453caabcf20d132008873dd432cf369",
     "bagging.tex": "f5dd1c5f1cc000405ba1e75d83dd5a649bfc7134d2a66e3b90d7a603467eb6b9"
    }
@@ -1135,7 +1135,7 @@
    "notebook": "https://dictionaryofml.org/terms/baseline.ipynb",
    "sha256": {
     "baseline.ipynb": "69ed144d8e1b555c7f3b9694be13bd2ee393ed0a985d3e01b0b90779271108f0",
-    "baseline.md": "c8eaba4f6aa89fb01bf2a70c95a28c36d0d196637ac4abc61fdfd47956c1ba41",
+    "baseline.md": "b72cbc6529d5aac6d3da1ca08f671b8fcaaf1e0a5ee1bb88a25b6bb3350f7e78",
     "baseline.py": "2f35f77f62bec8a7def59454972f929b75e2900cf5f062d7341798a3f9f8e914",
     "baseline.tex": "087b20bf34c3688c77760b969d983ad2d72113c4069dbd591ab94720df5c4611"
    }
@@ -1168,7 +1168,7 @@
    "notebook": "https://dictionaryofml.org/terms/binclass.ipynb",
    "sha256": {
     "binclass.ipynb": "e28bd2d558961478d5da1026e91dccb4a73ae88b9d73565cc82be9fe0a5174e2",
-    "binclass.md": "a576bdbda2269af7dbae55334b90dcd63379a88474fad0838b348808d032d9a7",
+    "binclass.md": "334d30ca6367fcc74fb7cd01406d2569f443a80c21ba0ddc245b71192efa6941",
     "binclass.py": "130b12f00bff758dcb684eab0811bc54a6e604884a0f4bcf1d079a8218f674d7",
     "binclass.tex": "4d5c93e507bc424248e040c6d8c9ebbd635c6b921b394ebda777b8ae572e5d00"
    }
@@ -1196,7 +1196,7 @@
    "notebook": "https://dictionaryofml.org/terms/boosting.ipynb",
    "sha256": {
     "boosting.ipynb": "d431e6fc96b787d5dbf72680a4307b23d9a9b2822be121d153caf6b7b8a18d79",
-    "boosting.md": "aef9b163efa654ec87f7030d85f75b65dc5d0060ed6446ef252c9df186e759f1",
+    "boosting.md": "e4dee4a1d30ae82e4c2c9bac7b2f039c8537a90b91e4f57683b4e0bfa4b1853d",
     "boosting.py": "3aa523e07cc688423a1d250ac28df01495d41a997ad13c3889e88db63d671dba",
     "boosting.tex": "55c1e8e0cce633e56e8192a4a92119fe1b01c6f1bbc3a7f04fe6cc9a2382758e"
    }
@@ -1229,7 +1229,7 @@
    "notebook": "https://dictionaryofml.org/terms/bootstrap.ipynb",
    "sha256": {
     "bootstrap.ipynb": "868ea63b8eee61e7d643a3628f133eb1090a9c66be88cfa0c550839759dc4574",
-    "bootstrap.md": "cd1980201b65f50e287e704389bd3ae63e5c795ff99cb66bf1b478f9d12505ce",
+    "bootstrap.md": "516ffcc81e5b4638cd78c81fe81c8fc66fbac08d89edb4a6852c7940d4df1c4d",
     "bootstrap.py": "9c6e75766e302159b3d0f06bca4b4e98edfc204c8316be105c5f4510e8f8c601",
     "bootstrap.tex": "ee982a06954f81029180d3d7260c5f060ac647ca7381c69cc254c84fae0cc9ac"
    }
@@ -1264,7 +1264,7 @@
    "notebook": "https://dictionaryofml.org/terms/cav.ipynb",
    "sha256": {
     "cav.ipynb": "7b66b4ef84296486a5176f15b5d16a803922650e005600c6fddd5a549a02cad2",
-    "cav.md": "884a9a1850fcfca59856227bd00c308d956de120bf3d80495175023e49e47668",
+    "cav.md": "6e1df5736c78e31ad7bfc9b16c3a6b64f2775ef2babbb2a9b9fb8adc7c148b96",
     "cav.py": "226961f45198018028c985630fa148f7becd1b718bfbe1d532b8fb2599efbd7d",
     "cav.tex": "0c5608b11352f41ce5b3a0ecb78e8bac1b66d74277426054084bb7890ac07bf8"
    }
@@ -1303,7 +1303,7 @@
    "notebook": "https://dictionaryofml.org/terms/classification.ipynb",
    "sha256": {
     "classification.ipynb": "3121ba1b492960ef599cc8f370bc80979de9460c37d81c5e45aeb90e87983e9f",
-    "classification.md": "1f217e4821c37c85f0ce474d6be8ccc1481d64cbd96fc81f90730bc440eb1815",
+    "classification.md": "5f593b19ecb8d565e7c41945b9ef780d98c19952df592c5e44448f29adbf4760",
     "classification.py": "6229ebcc5dae05d7b706d81ae1ac4360daf9ccdfea78046b85b4f12575ac7d78",
     "classification.tex": "0f7c1bfaa990e86d2d37b407feb9fca86f85a8e2898822722dd9d99e3d2355c2"
    }
@@ -1348,7 +1348,7 @@
    "notebook": "https://dictionaryofml.org/terms/cluster.ipynb",
    "sha256": {
     "cluster.ipynb": "039d628a34297c7d2472b1e71eee802e8bfe33dcb9cb825c1f220b2711868dc2",
-    "cluster.md": "3dfe97d6d9e21f166f6e0e8a5ef29737d141a415146b0701e977ef05d3cb0574",
+    "cluster.md": "380d4a16e9894298ed2d94ce3800088ed5314db6d1b5d1d384b07b1dc79322d6",
     "cluster.py": "623d17b44d6164242033dc188bcf4c0539a83795a23b7e61651e70fdc0413404",
     "cluster.tex": "0f2d5685977892e6cafc0b0ce0953ae59d6d97d5002423ec90ad85416cc7dcdd"
    }
@@ -1359,7 +1359,7 @@
    "url": "https://dictionaryofml.org/terms/clustercentroid.html",
    "pdf": "https://dictionaryofml.org/terms/clustercentroid.pdf",
    "abstract": "A cluster centroid is a vector that represents a cluster of data points: among all vectors, it minimizes the summed loss over the data points of the cluster, where the loss measures how poorly a vector stands in for a data point. Under the squared Euclidean distance the cluster centroid is the mean of the feature vectors in the cluster, under the Euclidean distance their geometric median, and under the sum of absolute differences the median of each feature. k-means assigns a data point to its nearest cluster centroid, a rule that is a linear classifier whose decision boundary between two cluster centroids is the hyperplane through their midpoint and perpendicular to their difference. The averaging step of Lloyd's algorithm recomputes each cluster centroid as the mean of its cluster, and at a fixed point every cluster centroid is the mean of the data points nearest to it. The mean moves with every data point, so one outlier shifts it by the displacement divided by the size of the cluster, while the geometric median and the coordinate-wise median move little. A soft clustering method, such as a Gaussian mixture model, uses the mean weighted by the degrees of belonging as its cluster centroid. Replacing every data point by its cluster centroid compresses a dataset to k vectors and one cluster index per data point.",
-   "description": "Consider the 365 days of 2024 at Krems an der Donau (Austria), each a data point with a feature vector x ∈ R2 that holds the 06:00 reading and the temperature at 15:00 (UTC) of the day. k-means with k = 2 decomposes these days into 197 cold days and 168 warm days, and it describes each cluster by a single vector: a typical cold day, (3.9, 9.0), and a typical warm day, (17.5, 24.9). Such a vector is a cluster centroid. A hard clustering method that represents each cluster c = 1, …, k by a cluster centroid w(c) ∈ Rd assigns a data point to the cluster whose cluster centroid is nearest, as Fig. 1(a) shows for the days at Krems. Which vector represents a cluster best is decided by a loss function L(x,w ) that measures how poorly a vector w stands in for the feature vector x of a data point. The cluster centroid of a cluster with index set C(c) ⊆ 1, …, m is a vector that minimizes the summed loss over its data points, \\begin{equation} {{\\mathbf w}}^{(c)} \\in \\mathop{\\mathrm{arg min}}_{{\\mathbf w} \\in \\mathbb{R}^{d}} \\sum_{r \\in \\mathcal{C}^{(c)}} L\\left({\\mathbf x}^{(r)},{\\mathbf w} \\right) \\text{.} \\end{equation} For the squared Euclidean distance L(x,w ) = ‖ x - w ‖22, the summed loss is a strictly convex quadratic function of w, and its unique minimizer is the mean of the feature vectors, \\begin{equation} {{\\mathbf w}}^{(c)} = \\frac{1}{\\big|\\mathcal{C}^{(c)}\\big|} \\sum_{r \\in \\mathcal{C}^{(c)}} {\\mathbf x}^{(r)} \\text{,} \\end{equation} since the gradient of the summed loss vanishes exactly where the deviations x(r) - w sum to zero. The two cluster centroids of the days at Krems are the means Eq. (2) of the cold and of the warm days. Under the Euclidean distance itself, L(x,w ) = ‖ x - w ‖2, the minimizer of the summed loss Eq. (1) is the geometric median of the feature vectors. It has no closed form and is computed by Weiszfeld's fixed-point iteration, \\begin{equation} {\\mathbf w}^{(t+1)} = \\mathcal{F}\\big({\\mathbf w}^{(t)}\\big) := \\frac{\\sum_{r \\in \\mathcal{C}^{(c)}} {\\mathbf x}^{(r)} \\big/ \\left\\lVert {\\mathbf x}^{(r)} - {\\mathbf w}^{(t)} \\right\\rVert_{2}} {\\sum_{r \\in \\mathcal{C}^{(c)}} 1 \\big/ \\left\\lVert {\\mathbf x}^{(r)} - {\\mathbf w}^{(t)} \\right\\rVert_{2}} \\quad \\text{for } t = 0, 1, \\ldots \\text{,} \\end{equation} a mean of the feature vectors weighted by the reciprocal of their distance to the current iterate. A fixed point of the iteration Eq. (3) that coincides with no feature vector is a point where the unit vectors towards the feature vectors sum to zero, which is the optimality condition of the geometric median, and the summed loss never increases from one iterate to the next. Under the sum of absolute differences, L(x,w ) = ‖ x - w ‖1, the summed loss separates into one problem per feature, so the cluster centroid holds the median of each feature over the cluster. For the warm days at Krems, the three choices give (17.5, 24.9), (17.4, 24.8), and (17.8, 24.9), within 0.4 degrees of each other; Weiszfeld's iteration started from the mean stops after 605 iterations. For a fixed cluster, the minimization Eq. (1) is empirical risk minimization over the hypothesis space of constant maps h(x) = w. The cluster centroid is the hypothesis that predicts one vector for every data point of the cluster, and the summed loss is its training error up to the factor 1 / |C(c)|. The k cluster centroids together are the model parameters of the hypothesis h(x) = w(c⋆(x)) learned by k-means, which sends a feature vector to its nearest cluster centroid, \\begin{equation} c^{\\star}({\\mathbf x}) := \\mathop{\\mathrm{arg min}}_{c = 1, \\ldots, k} \\left\\lVert {\\mathbf x} - {{\\mathbf w}}^{(c)} \\right\\rVert_{2} \\text{.} \\end{equation} The average of the loss ‖ x - h(x) ‖22 over the dataset is the clustering error. The nearest-centroid rule Eq. (4) is a linear classifier. For two cluster centroids, a feature vector is nearer to w(1) than to w(2) if and only if \\begin{equation} \\big({{\\mathbf w}}^{(2)} - {{\\mathbf w}}^{(1)}\\big)^{\\top} {\\mathbf x} \\leq \\frac{1}{2} \\Big( \\left\\lVert {{\\mathbf w}}^{(2)} \\right\\rVert_{2}^{2} - \\left\\lVert {{\\mathbf w}}^{(1)} \\right\\rVert_{2}^{2} \\Big) \\text{,} \\end{equation} which follows from expanding the two squared Euclidean distances. The decision boundary of the linear rule Eq. (5) is the hyperplane through the midpoint of the two cluster centroids and perpendicular to their difference, the dashed line of Fig. 1(a). Each cluster is an intersection of halfspaces and so a convex region. The rule Eq. (4) also assigns a data point outside the dataset. A day with morning 06:00 reading 5 and 15:00 reading 18 degrees lies at distances 9.1 and 14.2 from the two cluster centroids of the days at Krems, so it is a cold day. The same rule serves classification when each class of a labeled dataset is represented by one or several cluster centroids and a new data point receives the label of the nearest one. Lloyd's algorithm for k-means alternates the assignment Eq. (4) of every data point with an averaging step that recomputes each cluster centroid as the mean Eq. (2) of the data points assigned to it. At a fixed point, each cluster centroid is the mean of the data points nearest to it. Two conditions then hold at the same time: each cluster centroid minimizes the summed loss Eq. (1) over its cluster, and each cluster consists of the data points nearest to its cluster centroid. For the days at Krems, started from the means of the colder and of the warmer half of the days, Lloyd's algorithm reaches this fixed point after 2 iterations. Changing the loss function changes only the averaging step: the geometric median gives k-medians, and restricting the cluster centroid to be one of the data points of its cluster gives k-medoids, which needs only the pairwise distances between data points. For a Bregman divergence as loss function, the mean Eq. (2) remains the cluster centroid. The mean Eq. (2) moves with every data point of its cluster: adding a vector to one feature vector adds the same vector divided by |C(c)| to the mean, whatever the other data points are. If the maximum temperature of the hottest warm day at Krems were recorded as 999.9, a value some archives use to mark a missing record, the mean of the 174 warm days would move by 965.6 / 174 = 5.5 degrees (Fig. 1(b)). The geometric median would move by 0.03 degrees and the coordinate-wise median not at all. The squared Euclidean distance gives the largest distances the largest weight, which is why cluster centroids built from an unsquared norm are less sensitive to outliers. A soft clustering method assigns each data point r to every cluster c with a degree of belonging uc(r) ∈ [0, 1], with Σc=1k uc(r) = 1. Its cluster centroid is the mean of all feature vectors weighted by their degrees of belonging, \\begin{equation} {\\boldsymbol \\mu}^{(c)} = \\frac{\\sum_{r=1}^{m} u_{c}^{(r)} {\\mathbf x}^{(r)}} {\\sum_{r=1}^{m} u_{c}^{(r)}} \\text{,} \\end{equation} whose denominator is the effective number of data points in the cluster. For a Gaussian mixture model, which represents the cluster c by a multivariate normal distribution with mean μ(c) and covariance matrix C(c), the degree of belonging is the posterior distribution of the cluster index, and the weighted mean Eq. (6) is the M-step of the expectation–maximization algorithm for μ(c). Hard clustering is the case uc(r) ∈ 0, 1, where the weighted mean Eq. (6) is the mean Eq. (2). For the days at Krems, the expectation–maximization algorithm started from the two k-means cluster centroids stops at the means (6.2, 11.6) and (19.0, 27.0), which lie 3.5 and 2.6 degrees from them. Of the 365 days, 60 have no degree of belonging above 0.8, and each of them is counted in part by both cluster centroids. Replacing every data point by its cluster centroid compresses a dataset to k vectors and one cluster index per data point, which is vector quantization. The 365 days at Krems become two typical days and one bit per day, and a photograph whose pixels are clustered by color becomes a palette of k colors and one palette index per pixel. The clustering error is the average distortion of this compression, and minimizing it over the cluster centroids is the task from which Lloyd's algorithm arose.",
+   "description": "Consider the 365 days of 2024 at Krems an der Donau (Austria), each a data point with a feature vector x ∈ R2 that holds the 06:00 reading and the temperature at 15:00 (UTC) of the day. k-means with k = 2 decomposes these days into 197 cold days and 168 warm days, and it describes each cluster by a single vector: a typical cold day, (3.9, 9.0), and a typical warm day, (17.5, 24.9). Such a vector is a cluster centroid. A hard clustering method that represents each cluster c = 1, …, k by a cluster centroid w(c) ∈ Rd assigns a data point to the cluster whose cluster centroid is nearest, as Fig. 1(a) shows for the days at Krems. Which vector represents a cluster best is decided by a loss function L(x,w ) that measures how poorly a vector w stands in for the feature vector x of a data point. The cluster centroid of a cluster with index set C(c) ⊆ 1, …, m is a vector that minimizes the summed loss over its data points, \\begin{equation} {{\\mathbf w}}^{(c)} \\in \\mathop{\\mathrm{arg min}}_{{\\mathbf w} \\in \\mathbb{R}^{d}} \\sum_{r \\in \\mathcal{C}^{(c)}} L\\left({\\mathbf x}^{(r)},{\\mathbf w} \\right) \\text{.} \\end{equation} For the squared Euclidean distance L(x,w ) = ‖ x - w ‖22, the summed loss is a strictly convex quadratic function of w, and its unique minimizer is the mean of the feature vectors, \\begin{equation} {{\\mathbf w}}^{(c)} = \\frac{1}{\\big|\\mathcal{C}^{(c)}\\big|} \\sum_{r \\in \\mathcal{C}^{(c)}} {\\mathbf x}^{(r)} \\text{,} \\end{equation} since the gradient of the summed loss vanishes exactly where the deviations x(r) - w sum to zero. The two cluster centroids of the days at Krems are the means Eq. (2) of the cold and of the warm days. Under the Euclidean distance itself, L(x,w ) = ‖ x - w ‖2, the minimizer of the summed loss Eq. (1) is the geometric median of the feature vectors. It has no closed form and is computed by Weiszfeld's fixed-point iteration, \\begin{equation} {\\mathbf w}^{(t+1)} = \\mathcal{F}\\big({\\mathbf w}^{(t)}\\big) := \\frac{\\sum_{r \\in \\mathcal{C}^{(c)}} {\\mathbf x}^{(r)} \\big/ \\left\\lVert {\\mathbf x}^{(r)} - {\\mathbf w}^{(t)} \\right\\rVert_{2}} {\\sum_{r \\in \\mathcal{C}^{(c)}} 1 \\big/ \\left\\lVert {\\mathbf x}^{(r)} - {\\mathbf w}^{(t)} \\right\\rVert_{2}} \\quad \\text{for } t = 0, 1, \\ldots \\text{,} \\end{equation} a mean of the feature vectors weighted by the reciprocal of their distance to the current iterate. A fixed point of the iteration Eq. (3) that coincides with no feature vector is a point where the unit vectors towards the feature vectors sum to zero, which is the optimality condition of the geometric median, and the summed loss never increases from one iterate to the next. Under the sum of absolute differences, L(x,w ) = ‖ x - w ‖1, the summed loss separates into one problem per feature, so the cluster centroid holds the median of each feature over the cluster. For the warm days at Krems, the three choices give (17.5, 24.9), (17.4, 24.8), and (17.8, 24.9), within 0.4 degrees of each other; Weiszfeld's iteration started from the mean stops after 605 iterations. For a fixed cluster, the minimization Eq. (1) is empirical risk minimization over the hypothesis space of constant maps h(x) = w. The cluster centroid is the hypothesis that predicts one vector for every data point of the cluster, and the summed loss is its training error up to the factor 1 / |C(c)|. The k cluster centroids together are the model parameters of the hypothesis h(x) = w(c⋆(x)) learned by k-means, which sends a feature vector to its nearest cluster centroid, \\begin{equation} c^{\\star}({\\mathbf x}) := \\mathop{\\mathrm{arg min}}_{c = 1, \\ldots, k} \\left\\lVert {\\mathbf x} - {{\\mathbf w}}^{(c)} \\right\\rVert_{2} \\text{.} \\end{equation} The average of the loss ‖ x - h(x) ‖22 over the dataset is the clustering error. The nearest-centroid rule Eq. (4) is a linear classifier. For two cluster centroids, a feature vector is nearer to w(1) than to w(2) if and only if \\begin{equation} \\big({{\\mathbf w}}^{(2)} - {{\\mathbf w}}^{(1)}\\big)^{\\top} {\\mathbf x} \\leq \\frac{1}{2} \\Big( \\left\\lVert {{\\mathbf w}}^{(2)} \\right\\rVert_{2}^{2} - \\left\\lVert {{\\mathbf w}}^{(1)} \\right\\rVert_{2}^{2} \\Big) \\text{,} \\end{equation} which follows from expanding the two squared Euclidean distances. The decision boundary of the linear rule Eq. (5) is the hyperplane through the midpoint of the two cluster centroids and perpendicular to their difference, the dashed line of Fig. 1(a). Each cluster is an intersection of halfspaces and so a convex region. The rule Eq. (4) also assigns a data point outside the dataset. A day with morning 06:00 reading 5 and 15:00 reading 18 degrees lies at distances 9.1 and 14.2 from the two cluster centroids of the days at Krems, so it is a cold day. The same rule serves classification when each class of a labeled dataset is represented by one or several cluster centroids and a new data point receives the label of the nearest one. Lloyd's algorithm for k-means alternates the assignment Eq. (4) of every data point with an averaging step that recomputes each cluster centroid as the mean Eq. (2) of the data points assigned to it. At a fixed point, each cluster centroid is the mean of the data points nearest to it. Two conditions then hold at the same time: each cluster centroid minimizes the summed loss Eq. (1) over its cluster, and each cluster consists of the data points nearest to its cluster centroid. For the days at Krems, started from the means of the colder and of the warmer half of the days, Lloyd's algorithm reaches this fixed point after 2 iterations. Changing the loss function changes only the averaging step: the geometric median gives k-medians, and restricting the cluster centroid to be one of the data points of its cluster gives k-medoids, which needs only the pairwise distances between data points. For a Bregman divergence as loss function, the mean Eq. (2) remains the cluster centroid. The mean Eq. (2) moves with every data point of its cluster: adding a vector to one feature vector adds the same vector divided by |C(c)| to the mean, whatever the other data points are. If the 15:00 (UTC) reading of the warmest warm day at Krems were recorded as 999.9, a value some archives use to mark a missing record, the mean of the 168 warm days would move by 965.6 / 168 = 5.7 degrees (Fig. 1(b)). The geometric median and the coordinate-wise median would each move by less than a hundredth of a degree. The squared Euclidean distance gives the largest distances the largest weight, which is why cluster centroids built from an unsquared norm are less sensitive to outliers. A soft clustering method assigns each data point r to every cluster c with a degree of belonging uc(r) ∈ [0, 1], with Σc=1k uc(r) = 1. Its cluster centroid is the mean of all feature vectors weighted by their degrees of belonging, \\begin{equation} {\\boldsymbol \\mu}^{(c)} = \\frac{\\sum_{r=1}^{m} u_{c}^{(r)} {\\mathbf x}^{(r)}} {\\sum_{r=1}^{m} u_{c}^{(r)}} \\text{,} \\end{equation} whose denominator is the effective number of data points in the cluster. For a Gaussian mixture model, which represents the cluster c by a multivariate normal distribution with mean μ(c) and covariance matrix C(c), the degree of belonging is the posterior distribution of the cluster index, and the weighted mean Eq. (6) is the M-step of the expectation–maximization algorithm for μ(c). Hard clustering is the case uc(r) ∈ 0, 1, where the weighted mean Eq. (6) is the mean Eq. (2). For the days at Krems, the expectation–maximization algorithm started from the two k-means cluster centroids stops at the means (6.2, 11.6) and (19.0, 27.0), which lie 3.5 and 2.6 degrees from them. Of the 365 days, 60 have no degree of belonging above 0.8, and each of them is counted in part by both cluster centroids. Replacing every data point by its cluster centroid compresses a dataset to k vectors and one cluster index per data point, which is vector quantization. The 365 days at Krems become two typical days and one bit per day, and a photograph whose pixels are clustered by color becomes a palette of k colors and one palette index per pixel. The clustering error is the average distortion of this compression, and minimizing it over the cluster centroids is the task from which Lloyd's algorithm arose.",
    "synonyms": [],
    "see_also": [
     "clustering",
@@ -1395,10 +1395,10 @@
    "demo": "https://dictionaryofml.org/terms/clustercentroid.py",
    "notebook": "https://dictionaryofml.org/terms/clustercentroid.ipynb",
    "sha256": {
-    "clustercentroid.ipynb": "92ac6c202c15be614fa02e8485e73c6ef6101ccb28fb5412fbf3f6900e0f449e",
-    "clustercentroid.md": "90731dea0cf68d4a794ca5b244de5da69074a330cc3ba481db5bb51104cd195c",
-    "clustercentroid.py": "0a569f26017d8092292e93ef174335e55fb673d4ac750277b7f06ea42316334c",
-    "clustercentroid.tex": "54071dca7e13a95744a80939b51697d4aa26fa64597823ef26a66eb5b157064b"
+    "clustercentroid.ipynb": "6680cb8757990d1e3ab65d616372ae8044b294473f07547851401844680dbe02",
+    "clustercentroid.md": "39068bb29a8428dd61a9edb7e0b41797f22cacc1e8c263c4df587fd8a9ad2c44",
+    "clustercentroid.py": "3fb7788396d6d2965b0c99597664f91c796286c2844862f18969879ea14ca403",
+    "clustercentroid.tex": "0ef15820a019e29cc8cb004b1a6a3cf45353c77fb0073edd4e0a2d8f06d13411"
    }
   },
   {
@@ -1406,8 +1406,8 @@
    "name": "clustering",
    "url": "https://dictionaryofml.org/terms/clustering.html",
    "pdf": "https://dictionaryofml.org/terms/clustering.pdf",
-   "abstract": "Clustering decomposes a dataset into subsets, called clusters, such that data points within the same cluster are more similar to each other than to data points in other clusters. Clustering methods differ in the measure of similarity between data points, in the representation of a cluster, and in whether each data point is assigned to exactly one cluster (hard clustering) or to several with varying degrees of belonging (soft clustering). k-means represents a cluster by a cluster centroid and a Gaussian mixture model by a multivariate normal distribution, so their clusters are convex regions and ellipsoids. Graph clustering represents the data points as the nodes of a similarity graph and uses its weighted edges to determine the clusters.",
-   "description": "A photograph taken in the Wachau shows sky, clouds, forested slopes, sunlit vineyards and rock (Fig. 1(a)). Cutting it into patches of 5 × 5 pixels gives 12288 data points, each characterized by a feature vector x ∈ R3 that holds the mean red, green and blue values of the patch. Clustering is the task of decomposing such a dataset into clusters, such that data points within the same cluster are more similar to each other than to data points in other clusters. Painting each patch in the mean color of its cluster divides the photograph into regions, an image segmentation. Fig. 1(b)--(f) shows the segmentations delivered by five clustering methods, k-means, a Gaussian mixture model, density-based spatial clustering of applications with noise, spectral clustering and convex clustering. The number k of clusters is either an input, as in k-means, or determined by the method from its other hyperparameters, as in density-based spatial clustering of applications with noise. Clustering methods differ in three design choices: (1) the measure of similarity between data points, e.g., the Euclidean distance between their feature vectors, which makes the feature space a metric space, or the edge weights of a graph whose nodes are the data points; (2) the representation of a cluster, e.g., a cluster centroid, a multivariate normal distribution, a set of data points connected by short hops, or a well-connected subset of the nodes of a graph; and (3) whether each data point is assigned to exactly one cluster (hard clustering) or to several with varying degrees of belonging (soft clustering). Fig. 2 illustrates three families of clustering methods: hard clustering, such as k-means; soft clustering, such as a Gaussian mixture model; and graph clustering, where the data points are the nodes of a graph and a cluster is a densely connected subset of nodes. k-means represents a cluster by a point of the feature space, referred to as cluster centroid. Each data point is assigned to the cluster whose cluster centroid is nearest in Euclidean distance. The cluster centroids are chosen to minimize the average squared Euclidean distance between a data point and its nearest cluster centroid, which Lloyd's algorithm approaches by alternating assignment and averaging: each step lowers the average, and the iterates converge to a local minimum, not necessarily the global one. On the photograph, the five cluster centroids of k-means with k = 5 are five representative colors, and each cluster consists of the patches whose color is nearest to one of them: sky, cloud, shaded forest, sunlit slopes and rock (Fig. 1(b)). Painting each patch in the color of its cluster centroid also compresses the photograph to five colors. A clustering learned from one photograph is judged by how it assigns new patches: in k-means, a new data point joins the cluster of the nearest cluster centroid, so the cluster centroids are the learned hypothesis. A Gaussian mixture model represents each cluster by a multivariate normal distribution: a cluster index is drawn first, then the feature vector from that cluster's multivariate normal distribution. The degree of belonging of a data point to a cluster is the posterior distribution of its cluster index, and the expectation–maximization algorithm learns the model parameters by maximum likelihood. The result is a soft clustering whose clusters are ellipsoids, the level sets of a multivariate normal distribution; hard clustering is the extreme case in which every degree of belonging is 0 or 1, reached when all clusters share the covariance matrix ε I and ε → 0. On the photograph, each surface type becomes a multivariate normal distribution over colors, and the degree of belonging of a patch to the sky cluster is the probability that its color was drawn from the multivariate normal distribution of the sky. Painting each patch by the cluster with the largest degree of belonging gives Fig. 1(c); one in eight patches, mostly along the horizon and the cloud edges, has no degree of belonging above 0.8. Density-based spatial clustering of applications with noise defines a cluster through two hyperparameters, a distance ε and a minimum size m* of a cluster. A data point is a core point if at least m* data points lie within Euclidean distance ε of it. A cluster is a maximal set of data points that are connected through a chain of core points at most ε apart, and data points that are neither core points nor within ε of one are noise. A cluster can therefore have any shape that a chain of nearby data points can trace, and the number of clusters is an output, not an input. On the photograph, ε is a distance between colors. With the two hyperparameters of Fig. 1(d), the blue of the sky and the white of the clouds are joined by a chain of intermediate colors, so sky and cloud form one cluster and the land another. The patches along the horizon, whose mixed colors are rare, are noise (Fig. 1(d)). Graph clustering methods represent the dataset as the nodes r = 1, …, m of a graph whose edge weights express the similarity between data points, e.g., the k-nearest-neighbor graph that connects each data point to its nearest neighbors. The clusters are determined by the connectivity of the nodes: a cluster is a subset of nodes whose total edge weight to the rest of the graph, divided by the number of nodes in the subset, is small. The sum of this ratio over the clusters is the ratio cut that spectral clustering minimizes approximately. Spectral clustering computes the clusters from eigenvectors of the Laplacian matrix of the graph and flow-based clustering from network flows between selected nodes. There are also graph clustering methods that incorporate node-wise feature vectors x(r), r = 1, …, m: convex clustering combines the connectivity of the nodes with the node-wise feature vectors. Graph clustering methods suit data points without an obvious choice for numeric feature vectors: scientific papers connected by citations, users of a social network connected by friendships, or web pages connected by links. On the photograph in Fig. 1(a), the nodes are the patches and each patch is connected to the ten patches of most similar color; spectral clustering then separates the five surface types (Fig. 1(e)), since the patches of one surface type are neighbors in color. Fig. 3 arranges the methods by the representation of the data points, as Euclidean vectors or as the nodes of a similarity graph, and of a cluster; the penalty term of convex clustering is weighted by the edges of that graph. Convex clustering uses both representations of Fig. 3. It gives every data point x(r) its own cluster centroid w(r), which avoids the non-convexity of the clustering error. The method minimizes the convex objective function \\[ \\sum_{r=1}^{m} \\left\\lVert {\\mathbf x}^{(r)} - {{\\mathbf w}}^{(r)} \\right\\rVert_{2}^{2} + \\alpha \\sum_{1 \\le r < r' \\le m} A_{r,r'} \\left\\lVert {{\\mathbf w}}^{(r)} - {{\\mathbf w}}^{(r')} \\right\\rVert_{2} \\text{.} \\] The penalty term fuses cluster centroids with weights Ar,r' ≥ 0. The data points that share a cluster centroid at the unique minimizer form a cluster. At α = 0 every cluster centroid equals its data point, so distinct data points form m clusters. Once α is large enough, all cluster centroids of a connected component of the graph with the weights Ar,r' as its edge weights coincide, so the number of clusters is set indirectly through α. With the edge weights of a similarity graph as weights, the penalty term fuses only neighboring data points and the clusters follow the graph. On the photograph, with the edge weights of the color graph of the patches and the α of Fig. 1(f), the fused cluster centroids leave 65 clusters, four of them with at least 80 patches; like density-based spatial clustering of applications with noise, the method fuses sky with cloud along the gradual color transition (Fig. 1(f)). Beyond image segmentation, clustering is used for customer segmentation, for grouping documents by topic in natural language processing, for community detection in social networks, and for anomaly detection, where a data point that falls into no cluster or into a tiny one is an outlier. As a preprocessing step for supervised learning, clustering reduces a dataset to its cluster centroids as prototypes, or adds the distances of a data point to the cluster centroids as new features. It can also split the dataset so that a separate hypothesis is learned per cluster, e.g., one linear regression per cluster. For a large dataset, k-means is run on a coreset: a small weighted subset of the data points whose weighted average squared Euclidean distance to the nearest cluster centroid approximates that of the full dataset for every choice of the cluster centroids.",
+   "abstract": "Clustering decomposes a dataset into subsets, called clusters, such that data points within the same cluster are more similar to each other than to data points in other clusters. Clustering methods differ in the measure of similarity between data points, in the representation of a cluster, and in whether each data point is assigned to exactly one cluster (hard clustering) or to several with varying degrees of belonging (soft clustering). k-means represents a cluster by a cluster centroid; its clusters are the regions of the feature space nearer to one cluster centroid than to any other, which are convex. A Gaussian mixture model represents a cluster by a multivariate normal distribution; its clusters are ellipsoids, the level sets of that distribution. Graph clustering represents the data points as the nodes of a similarity graph and uses its weighted edges to determine the clusters.",
+   "description": "A photograph taken in the Wachau, the Danube valley west of Krems an der Donau (Austria), shows sky, clouds, forested slopes, sunlit vineyards, and rock (Fig. 1(a)). Cutting it into patches of 5 × 5 pixels gives 12288 data points, each characterized by a feature vector x ∈ R3 that holds the mean red-green-blue (RGB) values of the patch. Clustering is the task of decomposing such a dataset into clusters, such that data points within the same cluster are more similar to each other than to data points in other clusters. Painting each patch in the mean color of its cluster divides the photograph into regions, an image segmentation. Fig. 1(b)--(f) shows the segmentations delivered by five clustering methods, k-means, a Gaussian mixture model, density-based spatial clustering of applications with noise, spectral clustering, and convex clustering. The number k of clusters is either an input, as in k-means, or determined by the method from its other hyperparameters, as in density-based spatial clustering of applications with noise. Clustering methods differ in three design choices: (1) the measure of similarity between data points, e.g., the Euclidean distance between their feature vectors, which makes the feature space a metric space, or the edge weights of a graph whose nodes are the data points; (2) the representation of a cluster, e.g., a cluster centroid, a point of the feature space that stands for the cluster, a multivariate normal distribution, a set of data points connected by short hops, or a well-connected subset of the nodes of a graph; and (3) whether each data point is assigned to exactly one cluster (hard clustering) or to several with varying degrees of belonging (soft clustering). These choices give three families of clustering methods. Hard clustering, as in k-means, uses the Euclidean distance (choice 1), a cluster centroid (choice 2), and one cluster per data point (choice 3). Soft clustering, as in a Gaussian mixture model, keeps the first choice, represents a cluster by a multivariate normal distribution, and assigns each data point to every cluster with a degree of belonging. Graph clustering replaces the Euclidean metric used by k-means and a Gaussian mixture model with a discrete metric space: an undirected weighted graph whose nodes are the data points and whose edge weights express their similarity. A cluster is then a densely connected subset of its nodes, and the methods are hard clusterings, each node joining one subset. k-means represents a cluster by a point of the feature space, referred to as cluster centroid. Each data point is assigned to the cluster whose cluster centroid is nearest in Euclidean distance, so a cluster is the region of the feature space nearer to its cluster centroid than to any other, a convex set. The cluster centroids are chosen to minimize the average squared Euclidean distance between a data point and its nearest cluster centroid, which Lloyd's algorithm approaches by alternating assignment and averaging: each step lowers the average, and the iterates converge to a local minimum, not necessarily the global one. Each data point belongs to exactly one cluster, so k-means is a hard clustering (Fig. 2(a)). On the photograph, the five cluster centroids of k-means with k = 5 are five representative colors, and each cluster consists of the patches whose color is nearest to one of them: sky, cloud, shaded forest, sunlit slopes, and rock (Fig. 1(b)). Painting each patch in the color of its cluster centroid also compresses the photograph to five colors. A clustering learned from one photograph is judged by how it assigns new patches: in k-means, a new data point joins the cluster of the nearest cluster centroid, so the cluster centroids are the learned hypothesis. A Gaussian mixture model represents each cluster by a multivariate normal distribution: a cluster index is drawn first, then the feature vector from that cluster's multivariate normal distribution. The degree of belonging of a data point to a cluster is the posterior distribution of its cluster index, and the expectation–maximization algorithm learns the model parameters by maximum likelihood. The result is a soft clustering (Fig. 2(b)) whose clusters are ellipsoids, the level sets of a multivariate normal distribution; hard clustering is the extreme case in which every degree of belonging is 0 or 1, reached when all clusters share the covariance matrix ε I and ε → 0. On the photograph, each surface type becomes a multivariate normal distribution over colors. Each patch receives five degrees of belonging, one per cluster, nonnegative and summing to one; its degree of belonging to the sky cluster is the probability that its color was drawn from the multivariate normal distribution of the sky. A patch whose largest degree of belonging is 0.9 is explained almost entirely by one cluster; a patch whose largest degree of belonging is 0.6 is shared, with the remaining 0.4 spread over the other clusters, like a data point in the overlap of Fig. 2(b). Painting each patch by the cluster with its largest degree of belonging gives the hard clustering of Fig. 1(c); the overlap itself is not drawn. Twelve percent of the patches, one in eight, mostly along the horizon and the cloud edges, have no degree of belonging above 0.8. Density-based spatial clustering of applications with noise defines a cluster through two hyperparameters, a distance ε and a minimum size m* of a cluster. A data point is a core point if at least m* data points lie within Euclidean distance ε of it. A cluster is a maximal set of data points that are connected through a chain of core points at most ε apart, and data points that are neither core points nor within ε of one are noise. A cluster can therefore have any shape that a chain of nearby data points can trace, and the number of clusters is an output, not an input. On the photograph, ε is a distance between colors. With the two hyperparameters of Fig. 1(d), the blue of the sky and the white of the clouds are joined by a chain of intermediate colors, so sky and cloud form one cluster and the land another. The patches along the horizon, whose mixed colors are rare, are noise (Fig. 1(d)). Graph clustering methods, among them spectral clustering, flow-based clustering, and convex clustering, represent the dataset as the nodes r = 1, …, m of a graph whose edge weights express the similarity between data points, e.g., the k-nearest-neighbor graph that connects each data point to its nearest neighbors. The clusters are determined by the connectivity of the nodes: a cluster is a subset of nodes whose total edge weight to the rest of the graph, divided by the number of nodes in the subset, is small (Fig. 2(c)). The sum of this ratio over the clusters is the ratio cut that spectral clustering minimizes approximately. Spectral clustering and flow-based clustering use the graph alone; convex clustering combines the connectivity of the nodes with the node-wise feature vectors x(r), r = 1, …, m (Fig. 1(f)). Spectral clustering computes the clusters from eigenvectors of the Laplacian matrix of the graph and flow-based clustering from network flows between selected nodes. These two methods, which use the graph alone, suit data points without an obvious choice for numeric feature vectors: scientific papers connected by citations, users of a social network connected by friendships, or web pages connected by links. On the photograph in Fig. 1(a), the nodes are the patches and each patch is connected to the ten patches of most similar color; spectral clustering then separates the five surface types (Fig. 1(e)), since the patches of one surface type are neighbors in color. Fig. 3 arranges the methods by the representation of the data points, as Euclidean vectors or as the nodes of a similarity graph, and of a cluster; the penalty term of convex clustering is weighted by the edges of that graph. Convex clustering uses both representations of Fig. 3. It gives every data point x(r) its own cluster centroid w(r), which avoids the non-convexity of the clustering error. The method minimizes, for a regularization parameter α > 0, the convex objective function \\[ \\sum_{r=1}^{m} \\left\\lVert {\\mathbf x}^{(r)} - {{\\mathbf w}}^{(r)} \\right\\rVert_{2}^{2} + \\alpha \\sum_{1 \\le r < r' \\le m} A_{r,r'} \\left\\lVert {{\\mathbf w}}^{(r)} - {{\\mathbf w}}^{(r')} \\right\\rVert_{2} \\text{.} \\] The penalty term fuses cluster centroids with weights Ar,r' ≥ 0. The data points that share a cluster centroid at the unique minimizer form a cluster. At α = 0 every cluster centroid equals its data point, so distinct data points form m clusters. Once α is large enough, all cluster centroids of a connected component of the graph with the weights Ar,r' as its edge weights coincide, so the number of clusters is set indirectly through α. With the edge weights of a similarity graph as weights, the penalty term fuses only neighboring data points and the clusters follow the graph. On the photograph, with the edge weights of the color graph of the patches and the α of Fig. 1(f), the fused cluster centroids leave 65 clusters, four of them with at least 80 patches; like density-based spatial clustering of applications with noise, the method fuses sky with cloud along the gradual color transition (Fig. 1(f)). The choice of a method follows the three design choices. k-means is the default when the number of clusters is known and compact clusters of similar size are expected. A Gaussian mixture model is the choice when the degree of belonging matters, as for the mixed colors along the horizon. Density-based spatial clustering of applications with noise is the choice when a cluster may have any shape, the number of clusters is unknown, and isolated data points should be flagged as noise. Spectral clustering is the choice when similarity is given as a graph or the clusters are not convex, with the number of clusters as input. Convex clustering is the choice when a whole sequence of clusterings over α is wanted and a unique minimum matters. On the photograph, the methods split along one line. Density-based spatial clustering of applications with noise and convex clustering follow chains of similar data points and therefore merge sky with cloud across the gradual color transition (Fig. 1(d), (f)), whereas k-means and spectral clustering cut that transition, the first because it measures the distance to a cluster centroid, the second because it minimizes a balanced cut (Fig. 1(b), (e)). Beyond image segmentation, clustering is used for customer segmentation, for grouping documents by topic in natural language processing, for community detection in social networks, and for anomaly detection, where a data point that falls into no cluster or into a tiny one is an outlier. As a preprocessing step for supervised learning, clustering reduces a dataset to its cluster centroids as prototypes, or adds the distances of a data point to the cluster centroids as new features. It can also split the dataset so that a separate hypothesis is learned per cluster, e.g., one linear regression per cluster. For a large dataset, k-means is run on a coreset: a small weighted subset of the data points whose weighted average squared Euclidean distance to the nearest cluster centroid approximates that of the full dataset for every choice of the cluster centroids.",
    "synonyms": [
     "segmentation"
    ],
@@ -1441,10 +1441,10 @@
    "demo": "https://dictionaryofml.org/terms/clustering.py",
    "notebook": "https://dictionaryofml.org/terms/clustering.ipynb",
    "sha256": {
-    "clustering.ipynb": "733af3f85a7ad1882b112a22f634371be3becc70860506285580cc75beba1aac",
-    "clustering.md": "a9c354e25195a9743c9cefd86232c2d811e5f60aa37e7ac6319e9daf875e59a4",
-    "clustering.py": "59b0575d0dec9bb5870546064b969823ebc76e3128a90672c924740b26de7f8f",
-    "clustering.tex": "6311f90fd30a545900961625001411015edb5d40a9c1e88841c6c41a34355617"
+    "clustering.ipynb": "425b11a177c21db7a044108f862695592a819220d691a1f988a7d9b98b0bba8c",
+    "clustering.md": "7ea063e1b626ade49a73d10045277249924588915a39267e6606057fda5de064",
+    "clustering.py": "0aaaca56723b5964958fb24807c53ed6464005f5fcad32442da6e230930a83d0",
+    "clustering.tex": "39ed3f90dd0d55f164440b243b5aeed208c36a409a3af15dfa02243708bdc2d3"
    }
   },
   {
@@ -1487,7 +1487,7 @@
    "notebook": "https://dictionaryofml.org/terms/clusteringerror.ipynb",
    "sha256": {
     "clusteringerror.ipynb": "7c6beac6449d340b90b9ae4babaf710d8fef83cfe82c4667dc8eb7abb099370b",
-    "clusteringerror.md": "1a8ce364128722b3e883678ad729816e377adb7b9540789db37484a4fe631091",
+    "clusteringerror.md": "52f07d04b8e6cdfce3337808ec8cd4020d1b1153409599b5b99616e3b454ed5e",
     "clusteringerror.py": "5e4516b8a67941f823acb6bde2963bf1f2fd9acd429ccf637f7fa842ad4b105a",
     "clusteringerror.tex": "53ea078c02a4e095b15e673e438141031e6649be2705e2ca87f1e57649fa8082"
    }
@@ -1521,7 +1521,7 @@
    "notebook": "https://dictionaryofml.org/terms/cm.ipynb",
    "sha256": {
     "cm.ipynb": "7cc740027c8077ad72cdfb5967bda7f837551fd097c60bafde40e79be63e06eb",
-    "cm.md": "79648a02f67390d350fcc2c7932aa1ef778f1232f91b9ff70e6f78b0145e4479",
+    "cm.md": "9fbde9aa35a53cea53ee67ca1b742c492adc9e77ed53316dd3fe3701b92dc71f",
     "cm.py": "c6e2abca26f4268bad7cc4c0d442461149f0959e6d8d18260e99c24f70948872",
     "cm.tex": "e618c7d1604e1ad293699f3d1b91162a3aa685ecb066964e7dd4ae1f24286f2d"
    }
@@ -1572,7 +1572,7 @@
    "notebook": "https://dictionaryofml.org/terms/correlation.ipynb",
    "sha256": {
     "correlation.ipynb": "79e83b7ca00df929db0a69dcd63f02a90980f3af121da16938af3baba16a03de",
-    "correlation.md": "eb99e2c3cd3a7454cbc83d3b980c7a9ce3dc11c1b74beb0618f2e01227102e60",
+    "correlation.md": "d56f239be7d9af5d2dbe2eef23c0a2632d1c5c38a49fe9fa8bc55a97cb793381",
     "correlation.py": "d93df14f173556a00ba26bfa3673c2af788f20632ff121d93d3c0e2e8f16825b",
     "correlation.tex": "84f324de226df6034f9e4b762cf89abd80204997af9287ef9f4edeadbefb262a"
    }
@@ -1608,7 +1608,7 @@
    "notebook": "https://dictionaryofml.org/terms/covmtx.ipynb",
    "sha256": {
     "covmtx.ipynb": "394034a6b576e76654d00d0f771d1d3e2a2fae0afe0e6675837cd479958e091b",
-    "covmtx.md": "7d8b525ac6413e26cccd25518701b3e365945386f585445bec958dbd556f09ca",
+    "covmtx.md": "4eb4e6fa56765bc51c3f0e974f486f0d66714442ab7a750c503625aa9f4dc5e2",
     "covmtx.py": "48cb7915f15d089222f784390a60b8d2ea5d0435041f67c8df69998d094f88ce",
     "covmtx.tex": "5a1efda1921825489758a83da67b773062520ec39bb54c01ff11e4be8a059968"
    }
@@ -1680,7 +1680,7 @@
    "notebook": "https://dictionaryofml.org/terms/dataaug.ipynb",
    "sha256": {
     "dataaug.ipynb": "13f5a48aa16105bf2a3f30f851d2e1460886b18e2869ac16457a3a099fe43b05",
-    "dataaug.md": "530e9ea2cfde471cacb2b8c702b3168ab870106f4c4cba5304fda90faadbfdc1",
+    "dataaug.md": "1e523b3a16d6090150aaa8b323f5de3426065eeb6745cd7885219c91118995b4",
     "dataaug.py": "5f26f397c9550d467587950a284368ad87c5eb71dc1b00264feaa96b6a3eafa2",
     "dataaug.tex": "7c99b8adad3b7e2220b080b452ff4b063943455de07b7c105304acf9af045404"
    }
@@ -1717,7 +1717,7 @@
    "notebook": "https://dictionaryofml.org/terms/dataimputation.ipynb",
    "sha256": {
     "dataimputation.ipynb": "bc79b41ff904f895dc93b26c129cbf849e8a084aaf7e584b1f9007ee779063b2",
-    "dataimputation.md": "7537c7322aa8ba875cfbd26002322b59ee39f6334b533cd8c9bc37e3093c96c4",
+    "dataimputation.md": "f30e29dcd482ae284c9b893e899640145109b08e88913ab78d1664641266fe95",
     "dataimputation.py": "c139680621d04392f3112d42a1527dcc6a78c66477a9369989601972234d29a2",
     "dataimputation.tex": "38cf850090dcdb11cf511c0d483cad6dd4a6bbcb8e1e169278e0e3c380cbc6b4"
    }
@@ -1788,7 +1788,7 @@
    "url": "https://dictionaryofml.org/terms/dataset.html",
    "pdf": "https://dictionaryofml.org/terms/dataset.pdf",
    "abstract": "A dataset is a finite collection of data points on which model training and validation are performed. Strictly speaking, a dataset is a set of distinct data points. With slight abuse of terminology, the term is also used interchangeably with sample, a finite sequence that may contain repetitions. Read as such a sequence, a dataset represents a probability distribution through its empirical distribution, in which a repeated data point counts as often as it is listed. The size of a dataset is measured most simply by its number of data points, which overstates what correlated data points carry and says nothing about how well they cover the feature space. In practice, machine learning methods do not access the data points themselves but a representation of them, such as a table of the relational model, which records their attributes and nothing about the dataset's fitness for a purpose.",
-   "description": "The cows of Fig. 2, or the rows of Table 1 that record them, form a dataset. A dataset is a collection D = z(1), …, z(m) of data points. Machine learning methods use a dataset for model training and validation. Strictly speaking, a dataset is an unordered collection of distinct data points, i.e., a set with no repetitions. In machine learning literature, however, the term is often used for a sample: a sequence of m data points, indexed by their position r = 1, …, m in the sequence, that may contain repetitions (see Fig. 1). Read as a list, a dataset also represents a probability distribution. Its empirical distribution P(D) assigns the probability 1/m to each entry of the list, so a data point that is listed twice receives the probability 2/m. A set, which cannot list a data point twice, has no such repetitions. The repetitions are therefore essential wherever a dataset represents a probability distribution. The bootstrap, e.g., draws new datasets from P(D) and so lists some data points several times. The size of a dataset has more than one measure. The most basic one is the number m of data points in the list. When the data points are realizations of correlated RVs, however, m overstates what they carry: the average over 30 consecutive days of a weather record scatters as much as the average over 7 days drawn at random from the whole record, because consecutive days are correlated (see sample size). The size of a dataset is then defined only relative to a probabilistic model of the data generation, as the number of independent and identically distributed data points that would carry the same information. A third measure asks how well the data points cover the feature space: the largest distance from a point of the region of interest to the nearest data point (see covering), which is small for a dataset whose features are spread out and large for one that leaves parts of the feature space empty, however many data points it holds. The notion of a dataset is broad: data points may represent concrete physical entities (such as humans or animals) or abstract objects (such as numbers). For illustration, Fig. 2 shows a dataset whose data points are cows. In machine learning applications, the dataset itself is often not accessible. For instance, accessing the dataset in Fig. 2 would require visiting the cow herd. What a machine learning method processes instead is a representation of the dataset within some data model, a formalism for representing and processing data. For example, the relational model organizes data as a collection of tables, or relations. A single table consists of rows and columns, where each row corresponds to a single data point and each column represents a specific attribute of a data point. The order of rows does not matter, and each attribute is associated with a domain that specifies its set of allowed values. Machine learning methods use these attributes as the features or the label of a data point, so the attribute domains correspond to the feature space and the label space. Table 1 shows an example obtained from the dataset in Fig. 2. A table records the content of a dataset, but not whether that content is appropriate for a given purpose. A dataset used in ethical and lawful ML systems must meet further requirements. For example, the EU AI Act requires that datasets on which high-risk ML systems are trained be ``sufficiently representative'' of the intended use cases. Trustworthy artificial intelligence also requires documenting how a dataset was assembled, for example through a datasheet that records the dataset's motivation, composition, and collection process. When the data points are personal data, this becomes a legal duty: under the purpose limitation principle, the general data protection regulation requires that such data be collected for ``specified, explicit and legitimate purposes''. These purposes are fixed at the time of collection.",
+   "description": "The cows of Fig. 2, or the rows of Table 1 that record them, form a dataset. A dataset is a collection D = z(1), …, z(m) of data points. Machine learning methods use a dataset for model training and validation. Strictly speaking, a dataset is an unordered collection of distinct data points, i.e., a set with no repetitions. In machine learning literature, however, the term is often used for a sample: a sequence of m data points, indexed by their position r = 1, …, m in the sequence, that may contain repetitions (see Fig. 1). Read as a list, a dataset also represents a probability distribution. Its empirical distribution P(D) assigns the probability 1/m to each entry of the list, so a data point that is listed twice receives the probability 2/m. A set, which cannot list a data point twice, has no such repetitions. The repetitions are therefore essential wherever a dataset represents a probability distribution. The bootstrap, e.g., draws new datasets from P(D) and so lists some data points several times. The size of a dataset has more than one measure. The most basic one is the number m of data points in the list. When the data points are realizations of correlated RVs, however, m overstates what they carry: consecutive days of a weather record are correlated, so their average scatters more than the average over as many days drawn at random from the whole record (see sample size). The size of a dataset is then defined only relative to a probabilistic model of the data generation, as the number of independent and identically distributed data points that would carry the same information. A third measure asks how well the data points cover the feature space: the largest distance from a point of the region of interest to the nearest data point (see covering), which is small for a dataset whose features are spread out and large for one that leaves parts of the feature space empty, however many data points it holds. The notion of a dataset is broad: data points may represent concrete physical entities (such as humans or animals) or abstract objects (such as numbers). For illustration, Fig. 2 shows a dataset whose data points are cows. In machine learning applications, the dataset itself is often not accessible. For instance, accessing the dataset in Fig. 2 would require visiting the cow herd. What a machine learning method processes instead is a representation of the dataset within some data model, a formalism for representing and processing data. For example, the relational model organizes data as a collection of tables, or relations. A single table consists of rows and columns, where each row corresponds to a single data point and each column represents a specific attribute of a data point. The order of rows does not matter, and each attribute is associated with a domain that specifies its set of allowed values. Machine learning methods use these attributes as the features or the label of a data point, so the attribute domains correspond to the feature space and the label space. Table 1 shows an example obtained from the dataset in Fig. 2. A table records the content of a dataset, but not whether that content is appropriate for a given purpose. A dataset used in ethical and lawful ML systems must meet further requirements. For example, the EU AI Act requires that datasets on which high-risk ML systems are trained be ``sufficiently representative'' of the intended use cases. Trustworthy artificial intelligence also requires documenting how a dataset was assembled, for example through a datasheet that records the dataset's motivation, composition, and collection process. When the data points are personal data, this becomes a legal duty: under the purpose limitation principle, the general data protection regulation requires that such data be collected for ``specified, explicit and legitimate purposes''. These purposes are fixed at the time of collection.",
    "synonyms": [],
    "see_also": [
     "datapoint",
@@ -1812,9 +1812,9 @@
    "notebook": "https://dictionaryofml.org/terms/dataset.ipynb",
    "sha256": {
     "dataset.ipynb": "9858c5886bd171992d517e792f0f32860fb81f3bbb19f001861429d694083717",
-    "dataset.md": "7d8857a612a5bfdddfb1ed7bea3fd7c52f32c02b313ee680f1ef5ade7088f3e2",
+    "dataset.md": "95b23bcbb661ad3d45acf1cba1f12b2752f176070b4bdebfee9f2c132edb291c",
     "dataset.py": "99a5aaa9c673faea191f58f5f9cb10f52d31d5f7f23220b1159cf1245aeccd74",
-    "dataset.tex": "36d01e1294b951a6e77b21698fc92ed5ed01ada3356a1c0bb8a99871e72ab031"
+    "dataset.tex": "4b67d18a78dec7c7e9e0da4210cb82be52691e69aef2dd827bc4f141af1e13aa"
    }
   },
   {
@@ -1845,7 +1845,7 @@
    "notebook": "https://dictionaryofml.org/terms/dbscan.ipynb",
    "sha256": {
     "dbscan.ipynb": "bcae1bb142cd83ff3ded7508ac05dabb23a2e15f4cd240b8db71cf9f2b18c86e",
-    "dbscan.md": "818d9353c6a830d615e1c020ac70f6758dd10f2f8bd000adb5c722d5d2b6e128",
+    "dbscan.md": "dcf6d4c0ab00ae7a171a699bfc66daee3af31e79df648a7934b0fa8d42d38acf",
     "dbscan.py": "fd1e0312e277caa2d5000b98b0db502d9e03f5d12ea0889f17a6b5be90f0eb44",
     "dbscan.tex": "12ac23b0e90259498ca3066d9cdcbfea76f0b9711d56ddb1c06c056a7175e37d"
    }
@@ -1873,7 +1873,7 @@
    "notebook": "https://dictionaryofml.org/terms/decisionboundary.ipynb",
    "sha256": {
     "decisionboundary.ipynb": "b80cad61fb7de0fb0ec86c7210f3d659a98db573df0c9bfc87ac4d7fcf1e5ca7",
-    "decisionboundary.md": "864a784e9b0ebf832e11abd7a8ccbbe6032e7d7223bfdf7fd83da5c2d7191f27",
+    "decisionboundary.md": "4bde2cb8102d1ceea6a5ee02a4367f6e1e7fe1c9f9ba33ea64b8824db1ae3b42",
     "decisionboundary.py": "4c4aab2c5774d1fe2718c326f458848b44892ae5fe5a3aeb879e929cae0c2703",
     "decisionboundary.tex": "3b6f54c25912910dae8dcfd309f7b4f07f25aea6e578c7a94cc000609d337565"
    }
@@ -1909,7 +1909,7 @@
    "notebook": "https://dictionaryofml.org/terms/decisionregion.ipynb",
    "sha256": {
     "decisionregion.ipynb": "e4e8941c8a56e54eda99487b713608b7c090858d67e599f5887e6364caa8ceb4",
-    "decisionregion.md": "772e8a939d7a9e52ae60f02efeb648c777d5e695f0d90618e08aa364ea989569",
+    "decisionregion.md": "623777b623f6253a125c82ad017b8bed2f5e115a7f7944526b2cb5c97beef7da",
     "decisionregion.py": "e41b18425d8e8873de368a20470cbd6f7830dffce0884a710771bf9efe493636",
     "decisionregion.tex": "13f34a5113618cb167bf2e7ef466b63f904824b99b80637e15b1665b7f8aefcc"
    }
@@ -1938,7 +1938,7 @@
    "notebook": "https://dictionaryofml.org/terms/decisiontree.ipynb",
    "sha256": {
     "decisiontree.ipynb": "0cc469c34e9a325e040465be9c9c683add05241df2ed72f74cc2773355c044a2",
-    "decisiontree.md": "262cefa795a5ee8eb92304df1f687fbc764aaf22fb1a7a3af5093d741fb5117a",
+    "decisiontree.md": "0cfe5f054e2c3db478678b96eebf581b0c9a90722769c655947981bf0e1ddc9b",
     "decisiontree.py": "4040697314811ec16e280656f0eceaecfab3e44cd7e1e5278ed54916bde3ae34",
     "decisiontree.tex": "421c389d89b51bde56741436e3f5d7cba33bcb56b394a787df4509a43022c49e"
    }
@@ -1981,7 +1981,7 @@
    "notebook": "https://dictionaryofml.org/terms/decoder.ipynb",
    "sha256": {
     "decoder.ipynb": "0b9d4f1c1a519d84e35d3a4055d7eca8e9fee25e7743c01d33c97343a8b0a861",
-    "decoder.md": "686fbd89fcaff5195de17704273498e9bc169a2685ee04bc921acf1b01dbe194",
+    "decoder.md": "3d6851e7c7681717a4d6450db0996ace921d02cdabdc7116d1e33f9779358381",
     "decoder.py": "31a5a909203fbbf4b24e6330afb9c8a629dce2d490a9a835ec844418c7cc96fd",
     "decoder.tex": "b7f04006022f59b3113b7409e029f86eb96df4e1f0f6bfbbdfc47c165896953f"
    }
@@ -2019,7 +2019,7 @@
    "notebook": "https://dictionaryofml.org/terms/deepnet.ipynb",
    "sha256": {
     "deepnet.ipynb": "827fad5c91a6c0548ae4ebc1337da84a0b1b4b38f736109dcf31d6328913c4f3",
-    "deepnet.md": "dd1656be8375fcc4a622c58e14040d497efd472589a199e5ecf15c184cd57c8a",
+    "deepnet.md": "58c2b736a60aa3eb7240bd363ca9e4328e5a6b766ebe67e49a3bc47d017c739a",
     "deepnet.py": "878856207055b5e7de5fefcee6c96cef97feac2007ebb51519372b021a6628da",
     "deepnet.tex": "d52e291f9f46a56503fbc78491956646298784215d5de7a2f17d5fc566e40f13"
    }
@@ -2048,7 +2048,7 @@
    "notebook": "https://dictionaryofml.org/terms/dimred.ipynb",
    "sha256": {
     "dimred.ipynb": "2677c43ad0cbe90dccee91b717aa0957c7c095c41c1d999a4dab565c81eb8bae",
-    "dimred.md": "1e599b4d707f6fb9b708ad92f300172dcd5a9075cf2832578acfe8660295a482",
+    "dimred.md": "39fa5da8c131bf1eee2a2c3b4f2f69b30873036473e34a290eaacc5e7f813441",
     "dimred.py": "9c4887b9412fbb003d6134d64edc8d25bd47978e7401f8c9db1d45d05a62b704",
     "dimred.tex": "923caa3248e3d6fa6c02eb94d8303c1a7546d3b02d2068ccda6077a187c8cb7e"
    }
@@ -2122,7 +2122,7 @@
    "notebook": "https://dictionaryofml.org/terms/dob.ipynb",
    "sha256": {
     "dob.ipynb": "767f7c4050751ca1116de90770594a1d9f32e80fbace7c4f0e7e859c4cf8ef91",
-    "dob.md": "001d6b9e51a3446531131963d7415d4d0f21b4e040ed97bdccd48a0aaea5164b",
+    "dob.md": "ce1e4c5b24c1de1adc3ddc672b18a2f809bcad569cc44c104572c247a4b2823e",
     "dob.py": "4993e84213bc01c60d1993f29073a25408c8b888f5bc0045c13b277a0f5412bb",
     "dob.tex": "d1e7388368b6c3aa8a976f8a463e134d6eab42b02b134609508f18001609e0e5"
    }
@@ -2165,10 +2165,10 @@
    "demo": "https://dictionaryofml.org/terms/edgeweight.py",
    "notebook": "https://dictionaryofml.org/terms/edgeweight.ipynb",
    "sha256": {
-    "edgeweight.ipynb": "ed2b3c708bf4f7f21f7713e2aa44f2c02f584f9fbdeeaf0a124ca5c68453e8c9",
-    "edgeweight.md": "0793d38f777a5e6b2c1d3067961aa6566477ee4bf24107de7f8aa277552223f5",
-    "edgeweight.py": "fe0cdf70e86148226c7af60f72b6a825a72d9aab3d1a1731e3c61a8818fb5b43",
-    "edgeweight.tex": "5cd93e1fcf3e23a99e3776e5755d059b6f2ee0d6f23a9cdd4c0159571b3e9c0a"
+    "edgeweight.ipynb": "6b4395257a88490a7cd4a4bdfdcafac3e55c1b6d2125d262fc0dae9edea4d135",
+    "edgeweight.md": "0a837568cfac9a9248c9c29a4db844a9fc70cb4463e9adddafbcc21980032f58",
+    "edgeweight.py": "91705354b777ede4d05fa6132e2077d7ec125f6a690f7eabdfacfad79e2dbee6",
+    "edgeweight.tex": "74c10b2927c88db017510ab2d14a3ea467cbeec8cc6d5222bef4aeed66b163b9"
    }
   },
   {
@@ -2200,7 +2200,7 @@
    "notebook": "https://dictionaryofml.org/terms/effdim.ipynb",
    "sha256": {
     "effdim.ipynb": "601819d368c5a8e6f3d038da5aa7818dce5f0112ea395b38fd8f6f64ed60647d",
-    "effdim.md": "455a402afc28bd937b47c508a6fd46bd146ae4d838686a2a924ecb00615fcad3",
+    "effdim.md": "84d73bdb5baf27d59a76c7a5c7bf2905e8640dd2fecc5e3e77a9f2bb15868a32",
     "effdim.py": "ae1c5949fd250f40daf6596d3fdbc87283b2f3580779a846a1b1fa842c865332",
     "effdim.tex": "0ab1bd25087521f6a1c89e744e45474a50cdce08273b8a96a109f1accb13a8e0"
    }
@@ -2270,7 +2270,7 @@
    "notebook": "https://dictionaryofml.org/terms/eigenvector.ipynb",
    "sha256": {
     "eigenvector.ipynb": "d3ab346f08ea234a6fa94e1a40e28c9815ba97a766418057bfefeccb87182177",
-    "eigenvector.md": "2ba36c868d8b7f20703e6203057f5fd25d1256003c0d57d208ddca659bd1c0ac",
+    "eigenvector.md": "00379d165ba7991783e6f4e0e28849c5bec38dd02787a11005111d65e3622bb4",
     "eigenvector.py": "46aeeebe5f423201492fcd4a0e74f57cc867af1d3e6f52964d5e19c2b5c5cb96",
     "eigenvector.tex": "dbe5014a5114a817b19c468ddf7f9a73b2d9b3e71970cc59128349d19faab24e"
    }
@@ -2306,7 +2306,7 @@
    "notebook": "https://dictionaryofml.org/terms/em.ipynb",
    "sha256": {
     "em.ipynb": "3c899f5adf6cd34f8bd252ed8865af06bad963d08ab781ab15f4683c4ec381a7",
-    "em.md": "2af2d4d9214373f58c43d87836e98e2a8a6c8db019060acad0c1f163a46e0a5f",
+    "em.md": "31861b5676cb65814afd46dcfaf0a0c679e07b0311fc2b4a28747a6638508485",
     "em.py": "b59790dc771301326a8bb64c2ce34be1540807aef3d6c2a9b82be587f1847095",
     "em.tex": "187843d205bc0eab96a1e751a48434c6b5d4b568a2f8aa7535e61f225dba128e"
    }
@@ -2341,7 +2341,7 @@
    "notebook": "https://dictionaryofml.org/terms/encoder.ipynb",
    "sha256": {
     "encoder.ipynb": "3b9b9fac084c03decf8d48ec55746d5cae49e2c06f1970e6b24f8745c154a38a",
-    "encoder.md": "13c3d40d1ff2ad625b33ee2d436a61800c9de075bfa29cbb8f6d51418fd627e3",
+    "encoder.md": "300ecfa2ac2cac4cc0b23f63a1a4d06b39de690f921d363876d0046745385c2f",
     "encoder.py": "f61547289595f2b6e75b8aaf770b020404d69142f9d896e58c5639dd96ae8afe",
     "encoder.tex": "37b7b4674928d4b498d01f709924540cae68090f4feffc01be6ea7e773ef2c8d"
    }
@@ -2370,9 +2370,9 @@
    "notebook": "https://dictionaryofml.org/terms/ensemble.ipynb",
    "sha256": {
     "ensemble.ipynb": "4283bbcf9e1f97758698910da442c4163240109536736df3ac70756310c0b5f6",
-    "ensemble.md": "e1b64a75d2a217a63fa908cd54e970652e1e11d75e188566b7511d9944efefb5",
+    "ensemble.md": "ad70f38e8ad654831e37f9bd72ae27a7f5234cbd9381928e8a5deaea7e1da3f2",
     "ensemble.py": "a0eb4314d4cbb1100b121efe17a190b5c4a9fa689c1f435250d732a3e3d88340",
-    "ensemble.tex": "c9b1e909136f36fa02f0592b8486ab5864e671d75c0343596386959be6de281a"
+    "ensemble.tex": "2fe26ac12fb8bb915821ef25c98163849ec665fcf1a9a19d4509d01e1dd8e9bd"
    }
   },
   {
@@ -2445,7 +2445,7 @@
    "notebook": "https://dictionaryofml.org/terms/evd.ipynb",
    "sha256": {
     "evd.ipynb": "15c1c3e6d1e9a1545321fcf58f2263172e1971ae4519f70eb63c63a2100645b6",
-    "evd.md": "62a50b09f535a3649799a8c92d334b41ef0d521b4adfa21380ad27ab04b98875",
+    "evd.md": "8cd2eaf7649e868687afbe13a06e0ab7f9f290e63c75c67a6aa9b2db7246fb23",
     "evd.py": "a678b88e9cbaf9da55f2be404a73e9b5bc9dbe25f039e2a8bf28859f867cf6cf",
     "evd.tex": "98224cbea979a42fe7e52aca1c13d2062e7bcf5f9b694a62fc178c39f3cc70fd"
    }
@@ -2476,7 +2476,7 @@
    "notebook": "https://dictionaryofml.org/terms/explainability.ipynb",
    "sha256": {
     "explainability.ipynb": "6d2b1ec3dffa98b6707686f1e9e250932dec12bf3c663a016e762f75f00300c6",
-    "explainability.md": "26071370b66cb2d36a13d0d9c5e9889286793d3e6e2fc1d47eaeef8eab5aca3d",
+    "explainability.md": "5ff3def2316a1b5e3faa1cbdec68a35329bccdff85959bdd36bb76930f4c0116",
     "explainability.py": "a1e55038086ed174a72a298445f14466803ed1856a4cef5fa93c05d2ca0859d3",
     "explainability.tex": "3074a2c2d3eb15dbb17e00b45dd7a02b91bcd5d0654a8207262655d42433ad21"
    }
@@ -2512,7 +2512,7 @@
    "notebook": "https://dictionaryofml.org/terms/explanation.ipynb",
    "sha256": {
     "explanation.ipynb": "9b565520612ba3ceea019439fdf3bbcee13b25909a9ad48624f853de3da97eae",
-    "explanation.md": "d66092773258b48d36c1be01ea3328d8999bbccc894c246ba500f07954b3b887",
+    "explanation.md": "b344b56b36d0151e0b844b1dae5e7b58b6ad259b0879c1e5584b3f7194493f5e",
     "explanation.py": "8afca98ecab2cc2970f0b8a3a2d2a69d67c688ebf8f8e71b4a6245685ba6c169",
     "explanation.tex": "060300723d0c999e23f09e1d80a178067cbb640a284436d83639cb09ff226e76"
    }
@@ -2586,7 +2586,7 @@
    "notebook": "https://dictionaryofml.org/terms/featlearn.ipynb",
    "sha256": {
     "featlearn.ipynb": "4b998ecf876b346e5eab472cbbbe6d390fb48787b2e1f4341e3bf730d44f55a6",
-    "featlearn.md": "a835035901a8cbf1788f9913d2199e2329f702ce9432b2638a2df8b9c7c86fef",
+    "featlearn.md": "d10bf5026a113e875dec37af15add4abfa2d74b43f67fe81719283dbe9d35d12",
     "featlearn.py": "db88b6db292d44f4ae746de6e842297473500f5fd9f390d0d6666af7693f6c5c",
     "featlearn.tex": "110b0292fd50f1c0b35686f64fee25cce82acdf08d15d977976161d9d00852a7"
    }
@@ -2699,7 +2699,7 @@
    "notebook": "https://dictionaryofml.org/terms/featuremtx.ipynb",
    "sha256": {
     "featuremtx.ipynb": "cc2d62b32e86a1229a1bcb4d8beb763df98e65305c6aca7cfbb863d4eaa009b7",
-    "featuremtx.md": "53b5d97e4422e714d7183609bb875ef177724d5cf2de14113ad5d419377d2920",
+    "featuremtx.md": "534fcc694bbd0cabe429169f1027713bf7462986f48c1834dda3be0166662a8e",
     "featuremtx.py": "0223eb07ee30bc47bc4fc8a43b39130314fedc98f24cbe515f89892bfd75a9c7",
     "featuremtx.tex": "8957543bf7b6301aeda966cdb20895d8e5642f13229042ff39129fd3499d3eb3"
    }
@@ -2745,7 +2745,7 @@
    "notebook": "https://dictionaryofml.org/terms/featurespace.ipynb",
    "sha256": {
     "featurespace.ipynb": "4e2d4d379ead339fc8b441b74fa4b370871fa4e43f31976424613c0944ee7add",
-    "featurespace.md": "47dcc22cd713a1aea5490c1e92690293e3eda5f5b5533205eceb951d9747145c",
+    "featurespace.md": "4addadaa55a366384ef5c47b7b3fc6472a8f4abdd7f80c4f0be9c7f999f63efd",
     "featurespace.py": "208a2f912232e3c3de25b71e1d69692f4277ccd060ce0483fabc475173f9fd8a",
     "featurespace.tex": "362a450ee1dd6e19914b6dc51c6c41b3cb6fe15912d2143832342cea290db5bd"
    }
@@ -2785,7 +2785,7 @@
    "notebook": "https://dictionaryofml.org/terms/featuretransformation.ipynb",
    "sha256": {
     "featuretransformation.ipynb": "6fc4704130729b0929c1355577d8806407ba9deddc4617028bf30ccf586e3a18",
-    "featuretransformation.md": "216203c9f48de5efa079ac7020b9d9a4050030033ce235476728dff705da9144",
+    "featuretransformation.md": "ebad5ee486392ce674075a38272fd7bfdef8a958d7c4a9398eddbfd60c5c7763",
     "featuretransformation.py": "8066e17b80c2c005acc77ddedbb98a94d8e3168b3f9b27e3ffb74841192cca2b",
     "featuretransformation.tex": "9bcf67ff70ed80f1a70e1eaeedfdad4a83536c559032f9d6cf7aa68be934bddc"
    }
@@ -2821,7 +2821,7 @@
    "notebook": "https://dictionaryofml.org/terms/featurevec.ipynb",
    "sha256": {
     "featurevec.ipynb": "51f2689586781a637fa925b97fdd680c4f6cfbf2ccb8427a3556df5992572c36",
-    "featurevec.md": "d7d5653b1300b0114dd827185c8236b496a5ae802e4cefe2343c0b2f3d9726c4",
+    "featurevec.md": "b5899606dc09e539586962e08b07d0545b025809bac3a7c02313cf8f39c94179",
     "featurevec.py": "26443ad4a8d5078352e4d87f56f6f58c73c3beffd9f31903b47a9c85aadc9e29",
     "featurevec.tex": "4a26b6891badf924366689b45aad1501f3a01996feb0d97ec90bc85650a88e1b"
    }
@@ -2856,7 +2856,7 @@
    "notebook": "https://dictionaryofml.org/terms/finetuning.ipynb",
    "sha256": {
     "finetuning.ipynb": "654c06946172ca26e892b81f70c53895e31ebbd1bbb31e37a4f4052f175b8dde",
-    "finetuning.md": "47c5644b7fdcbc88f5a1b2c8024f2b309e1bc717da5751f9ab9d89759ada0601",
+    "finetuning.md": "0fc71a7dbb87d4d53349c4fd3448221d61de175c0432b3f1cf12b426017b9af0",
     "finetuning.py": "f16067985a23b00a5f596684f8fe037ecd965ea71d9a7523ab6a153ae26a4ad8",
     "finetuning.tex": "ba745246156fcb536416d47f64ecbd0dbad831c0b7f42909d1bdd8b4b0d5a463"
    }
@@ -2885,7 +2885,7 @@
    "notebook": "https://dictionaryofml.org/terms/gaussrv.ipynb",
    "sha256": {
     "gaussrv.ipynb": "5cd87b2861be5fe190ed2d95c85d32e45213f2d403064586b5bf9b41582d84b3",
-    "gaussrv.md": "16144815a78d5d39a996ea2277ed2fa5e30c908367e19c2a28d24215c5f95448",
+    "gaussrv.md": "ba07422553ec5313120b0d3afdfc7327b26413d489f306611b749d5f2292b59f",
     "gaussrv.py": "3d7f49d897555e432d63702e986bd42721e8fffa5f25d73492975ef14754c096",
     "gaussrv.tex": "c2465e48e5c85442d02983b58fb516272f1088aeb5817a3af712abeb11c8d620"
    }
@@ -2985,7 +2985,7 @@
    "notebook": "https://dictionaryofml.org/terms/gmm.ipynb",
    "sha256": {
     "gmm.ipynb": "afd98bb851eb956777e049a91e4dda1520d68a74f0a7a4629f3dfd539440bdda",
-    "gmm.md": "7940ac8f4f71f9a01028005fc4a9fcce005f7cf7a0c959494031d05256b00fb0",
+    "gmm.md": "d3ac358c5bdae5372a5cbc7b0848bfe8210e74a4b10ae94be37019d556c97cf7",
     "gmm.py": "fe93029a893606ddb7cb98bb0cd186ddbc32e6a6e46fd9c695bd2a85daec18da",
     "gmm.tex": "6efde279ab09751c85f06518f9d083ad2696c7510be9877da67c886561188cac"
    }
@@ -3015,7 +3015,7 @@
    "notebook": "https://dictionaryofml.org/terms/gradient.ipynb",
    "sha256": {
     "gradient.ipynb": "5be0069df38dc3b769daf0fccb4e26e850ce60ab4e4e5342e215d2aa797cfb4e",
-    "gradient.md": "a2ebe45cf5d1db0bb16761bf132a4eb85814fc71d625b1aa77f46c23502cb62a",
+    "gradient.md": "befd5797bf13fa9946e365e93b2ecb7ea53eae1a820a75428f7b38e8feac438e",
     "gradient.py": "d8b4210544e13a71f4e0f0cb13dafa50256035b4040004b795f441b7be9eca41",
     "gradient.tex": "f534abdcba738fbc8c86a4375c295d384f1348a10e929c5420816a85f1cfa791"
    }
@@ -3057,7 +3057,7 @@
    "notebook": "https://dictionaryofml.org/terms/graphclustering.ipynb",
    "sha256": {
     "graphclustering.ipynb": "d92c859c5f63cbcc1ba6b1817666a00f1f6eaa32004c3373b62d616cc0793f59",
-    "graphclustering.md": "0ac47eae249291fd77bf41d7544123053539813f53f67f27b29eeffd9010bc32",
+    "graphclustering.md": "a29512fecf0e7483c1b57d698d4fc8eae64e00ba9647c5a67696d5e20819f1c1",
     "graphclustering.py": "615532d7fb138b381a1485ae5bb3700e909e19517d5bf0b30ff95bcc3ebedb41",
     "graphclustering.tex": "f715d28e8ddd7097479d47b578063f0d6721b77a582243d40e7e558db0c46bd1"
    }
@@ -3103,7 +3103,7 @@
    "notebook": "https://dictionaryofml.org/terms/hardclustering.ipynb",
    "sha256": {
     "hardclustering.ipynb": "445bdc7ec79d5c9185f00b82fa6d29c67c6c713928c54994a8551a8a19a29278",
-    "hardclustering.md": "4cdf72ff9169e7a29f1b095e83007b3bd8068058fb0e63e75019eec5f0b75032",
+    "hardclustering.md": "0bf5bb112fd2b67c82c5959aecff6e4275fb1d14dc511f8a2ffd7a2cffc9489e",
     "hardclustering.py": "c9f739f8c6a541ed2ccc5fc78adf10cbab8e9b86480a0ab9b57ad696d1b07702",
     "hardclustering.tex": "42f200165bdf63c4a8f1af7276bc6d763e0746955a68252014f1dc89991499f9"
    }
@@ -3135,7 +3135,7 @@
    "notebook": "https://dictionaryofml.org/terms/highdimregime.ipynb",
    "sha256": {
     "highdimregime.ipynb": "4a90689f8821d4ccb7baeeb8916ba80f773a865f331729d15e02569e339eb11c",
-    "highdimregime.md": "dc919a8060cd2f30cd3d44ca21a11380aea7087b9d7adf9a850eb0d5b218f6bd",
+    "highdimregime.md": "3f8619bf3d8c5b9cef598e76fb5a75857b6541fd202fcee720b36a6f5134a4ff",
     "highdimregime.py": "a3e298a745a4656263e3873bed246d454a5f989b1c640b3ae5f5c444cadc8e99",
     "highdimregime.tex": "62f3899974df08f65d7c20d2554e1f94ac39e5e3c7810f6683d3d0ddb39a2af6"
    }
@@ -3199,7 +3199,7 @@
    "notebook": "https://dictionaryofml.org/terms/hyperparameter.ipynb",
    "sha256": {
     "hyperparameter.ipynb": "d4512d19a661839484b9fbe0be70c1d47dce8881ec9d1b9a60c44420fedfa485",
-    "hyperparameter.md": "dc886cb8ff225fae2438363f7812da5dac461a4dd72a534b4dcab09d87bc6e22",
+    "hyperparameter.md": "31877517ed2dd7ba4f174eabb973695fbfede99ffb8981f660e18de1d9e4842d",
     "hyperparameter.py": "f04bca749fdd6250af89bbd235117b33fc92d6e5ad506def7854b866f4c94f47",
     "hyperparameter.tex": "7b775a35bac3297b4f0749bdbeac2fbc3e2274cc0c40c49ade3c85f615a0ba95"
    }
@@ -3302,7 +3302,7 @@
    "notebook": "https://dictionaryofml.org/terms/iid.ipynb",
    "sha256": {
     "iid.ipynb": "2921bed41469d6c45507f7c75c90e921d37d27e3117c33ace399b23194c5cf8d",
-    "iid.md": "4fb9f2d15c0f2cbc0b1e660da52730b0e12e29888eca7bd01888d418af70f62e",
+    "iid.md": "08162973024a7868039cfbb03ef5acfe2a9193b3bec9184c7e86131b0341f5a2",
     "iid.py": "ea1d2b4db7b7287a5f126f0674ac7427a895ee771f9f429d9b00cdd604f06fd4",
     "iid.tex": "5195ca71040773daf82502823eefd578490d75ffb82ebe64d90aeeee0dc70d2e"
    }
@@ -3540,7 +3540,7 @@
    "notebook": "https://dictionaryofml.org/terms/kernelridgeregression.ipynb",
    "sha256": {
     "kernelridgeregression.ipynb": "1c8e6d915a0cc2e51c86f1d27c26a4ebdb519071e81b7e7046c07e5c0ca11043",
-    "kernelridgeregression.md": "e6cc15dcb3afed998d4a61bcb51136d0d0bd6a4b9d3ad7ca87a765d6fefdb97a",
+    "kernelridgeregression.md": "700c439ba002fe36b80c9ad88a2beefa29e48ba767b49d3a3794784a756084f6",
     "kernelridgeregression.py": "7ed615876ca1c0460955b8d2ed4f06fccd9c1354b939b23f4c4862aa9491788c",
     "kernelridgeregression.tex": "040caacd49054db30dfeaf274daf02d47bf0f832bd2530ec8078bfd83e28cd7e"
    }
@@ -3570,7 +3570,7 @@
    "notebook": "https://dictionaryofml.org/terms/kfoldcv.ipynb",
    "sha256": {
     "kfoldcv.ipynb": "9b2fe94e2bd8bffc422aba6b62af7b9f46e81e660e132bf1d374e1fb6d39cbd7",
-    "kfoldcv.md": "59952e2c6af7e8635f430640ff83ac72af6cad84b811111e2602c80c1a41e1fc",
+    "kfoldcv.md": "8b7351187e3b32b4e29c9380ecefad46a6316b6295ba3295ed8c0b8dd7f61378",
     "kfoldcv.py": "5715c4bd246e589f1dd690f3229275795cecfe729be5dd8b185eb3c3cf93e830",
     "kfoldcv.tex": "0bc7094cdb4578047cec092e7c5d6f4fbf3d67f9cbbbfa949b778e12a860f51b"
    }
@@ -3612,7 +3612,7 @@
    "notebook": "https://dictionaryofml.org/terms/kmeans.ipynb",
    "sha256": {
     "kmeans.ipynb": "95b2418617923e52ef010108c8946d7095f87ede415fb2d732f4514357307ac4",
-    "kmeans.md": "249808dc0d1972803b692ac0806452dfefbe6b9ce1f989dce69cffb02d357a6e",
+    "kmeans.md": "3d1e8f2a8c7760378967ff73a6160a946bb70a4c59b987d316201297af1e590d",
     "kmeans.py": "008fe77d04737a38b56df8f1cae6f4da2b052dcfcded93d50aea32d4f6214138",
     "kmeans.tex": "deefc95317a8d08d8a7406fda44e64acc3073dba85e4a57606ccc3b827fef9f1"
    }
@@ -3648,7 +3648,7 @@
    "notebook": "https://dictionaryofml.org/terms/kmeanspp.ipynb",
    "sha256": {
     "kmeanspp.ipynb": "a8ce8c6401acb3a1d64ea07c886d23e2f14f23532fb18090f6f96f03847de5b9",
-    "kmeanspp.md": "9b6258468539870aadbbcab2417ea8e4ce784e7c288724892e4d9fce91bc8d11",
+    "kmeanspp.md": "96f313c3f40122972c41c96a20665ce7fd26dca34a6b90691bda0225b6c2579c",
     "kmeanspp.py": "5747ca7b480babc0c015188b54aa9bbdf13a7585d3a5c7e15a38eaab3fd6584e",
     "kmeanspp.tex": "aa72c699cf23ea1c638b220e235dd67bb8fd1efa5e9f24bbdfc2c36867c11954"
    }
@@ -3718,7 +3718,7 @@
    "notebook": "https://dictionaryofml.org/terms/lda.ipynb",
    "sha256": {
     "lda.ipynb": "f10de73e6b2d8280e8a34f6f893e2c482930464e2e34d64ad3919422d6796f60",
-    "lda.md": "e43b6650baeb47ececa90749103db6f3737f4e3982f1b91fc10b49630618f5b8",
+    "lda.md": "3b7fc798a84cfde280476f4b29bbd910905e0827f6c688d8d9f46147bd13ec3f",
     "lda.py": "cdc9df22504ebc19bbbb5d8a28a8989828fade03d156ea834675fc40b8a30eba",
     "lda.tex": "ed56e8a3dd9b3c547aeda249e1220212d28de8297d56cab7aafd1a8e80e77c31"
    }
@@ -3754,7 +3754,7 @@
    "notebook": "https://dictionaryofml.org/terms/learnrate.ipynb",
    "sha256": {
     "learnrate.ipynb": "c63944d7a419af3faeac23d32bd588b83c3257df07adc29b64b5647535aafe2b",
-    "learnrate.md": "6f0b50262c161803adf59cc07a91d70d50da09eca0de1876214c9544070071a1",
+    "learnrate.md": "8c3dc50e6683a9cbfeecd9ab6dbe574a1e822b3886fd62fac3da8695ad37c47d",
     "learnrate.py": "f8e90e807b5efdddcb277e2e02816cf3ac481063caf13ea498e91e766d53d304",
     "learnrate.tex": "cd545a946c80fa8c802aa4253cc725406360b95acbca04661ff099623d667c70"
    }
@@ -3791,7 +3791,7 @@
    "notebook": "https://dictionaryofml.org/terms/linclass.ipynb",
    "sha256": {
     "linclass.ipynb": "7c5f8a824e60ef744bebb94a5d04d79f911825ffe2ad887d77e7d0c11e2b11b8",
-    "linclass.md": "2feef7fe836117d6f81bc5449b39cc87645b9b74af16c2cd7c818c26b8cfddca",
+    "linclass.md": "11a36f30ff466229a990512f73b51475cc7a86a8f0d56cf32096b374e6231083",
     "linclass.py": "bc1ea5b43c4d5ef0e9fd806a2c1401fba9456d985da89215cb33784de0fb4c24",
     "linclass.tex": "a20aebeffd6fd193cd464a140c40af9b4e76aefb0c199691bd36ef597b99b182"
    }
@@ -3898,7 +3898,7 @@
    "notebook": "https://dictionaryofml.org/terms/logloss.ipynb",
    "sha256": {
     "logloss.ipynb": "dd389b4d4001dd58c5015d0f96ae5fe2a915e06b5e8ba3ce0c3e013d8179fcd8",
-    "logloss.md": "c140682ff51b90dcf560db0b55f1992c5001f6a13ce5b43db62b946e19227dbf",
+    "logloss.md": "585b871a0fb201c5f88e6e4f62d7ad0011e01c34bbcb6b1f2f5b24d03e8507c8",
     "logloss.py": "0487cc2efdd2e9a85d378b2b13d0c52c45f19a5eedd75729b781a32ca1c37871",
     "logloss.tex": "2672763fa855ca2e42185c4ef0bb2d591c5ac855de5905b81551ead05323188e"
    }
@@ -3938,7 +3938,7 @@
    "notebook": "https://dictionaryofml.org/terms/logreg.ipynb",
    "sha256": {
     "logreg.ipynb": "3e78927d281cd890976123c47a2dd208bf215f164ba3d6de62bad557b4e3347f",
-    "logreg.md": "7fdb7c86c339e4bd52dfbb3bcb399766eae5bcb25438fbc07f6a48835fa73cd0",
+    "logreg.md": "80af0ed115cefac9b9b5e2ced00f19c640295f961dbbdeaf8c90fd3f22002b91",
     "logreg.py": "e21d71eb7a4c4d3aa8540c06b09597d3668f4e96b105c0570af92eab12fb3aa0",
     "logreg.tex": "8c1d29ba2fe01003336faadc6b1d151e25946b3ebc668c30714882fd525ca200"
    }
@@ -4056,7 +4056,7 @@
    "notebook": "https://dictionaryofml.org/terms/maxlikelihood.ipynb",
    "sha256": {
     "maxlikelihood.ipynb": "274236943ebcbe06690b01fdc6b7d2e2adc1a285347065c3453a7c919a56f0b1",
-    "maxlikelihood.md": "c4aeee3667985949c9d7d3ab3f8a206b7a3ce1017ccf374d0f2010fc5229c0ed",
+    "maxlikelihood.md": "af7f7cb3e2a7148d62e79a58b2103861ec04575ccc873298985777c5dcbbbcf2",
     "maxlikelihood.py": "403f0218fbd58aa532cb9df4d23c26ccfcada7ef6263dd745182d4cff423170d",
     "maxlikelihood.tex": "9ee70bae7c4bdede1e21ab68b690dd8feee70fc8925226d78a74081a26c5378a"
    }
@@ -4123,7 +4123,7 @@
    "notebook": "https://dictionaryofml.org/terms/membershipinferenceattack.ipynb",
    "sha256": {
     "membershipinferenceattack.ipynb": "b3b90b44037dc917aa0827989238cfc16eb4cf782b0bc5c23ba2d728271bc183",
-    "membershipinferenceattack.md": "898b7255e98e408710b2c064caa81b010a9442d681afa665c27dd486ef5f5b7f",
+    "membershipinferenceattack.md": "ebd53bd264766d159ad80696223205b250393e5f78564dd6d1fc5729d7cc4297",
     "membershipinferenceattack.py": "27ff2debfdca414751997405bc17ec01cd696909ffaf2d3823b3a604f9b04fb6",
     "membershipinferenceattack.tex": "bcdb7186caca0d01c24402d73887cd26bcda85da751d84a4cee9417a20af9eaf"
    }
@@ -4221,7 +4221,7 @@
    "notebook": "https://dictionaryofml.org/terms/modelsel.ipynb",
    "sha256": {
     "modelsel.ipynb": "75d78860c1601d36e2f9fedcdb871942b4e259fd5cf68b63ca8f2a0b9afa1a78",
-    "modelsel.md": "f17edcb2b8b9e01e92707b4545532261293c77dc113a5a55d07a540b92124643",
+    "modelsel.md": "d00559567e760adb7b38bb8bcfd5c47954a77dad2e49e8c527b58891fccde2ca",
     "modelsel.py": "eeb46dfb956e44e94d4b677088f8edcb59cf5b437aaf024cf2c2476eef025538",
     "modelsel.tex": "03d11f271034803e98f4ed44b45b1375a5ac05d55f26e1526089079cfd74d9e4"
    }
@@ -4242,7 +4242,7 @@
    "notebook": "https://dictionaryofml.org/terms/mse.ipynb",
    "sha256": {
     "mse.ipynb": "446d1ba113b8d276f7eff6af18b23a4c3be0bb652293c5c7cf9690b3a21e86ff",
-    "mse.md": "d599cc7b3b7c370865944e3d30337d85b91f7fbcbc9d0770a892e8f31b7c368e",
+    "mse.md": "5066d2a27cf66752c8ccc8c0112020c27d91aecd8a96e8e49e1854e1b369e252",
     "mse.py": "399082978d1954ed7943d4615a6ec12da1529498925041e8c414d932f75e4790",
     "mse.tex": "599e396fc57e185f72c2f3aa871e3d8b5addaa4d8de4819e01d07414575051fc"
    }
@@ -4290,7 +4290,7 @@
    "notebook": "https://dictionaryofml.org/terms/mvndist.ipynb",
    "sha256": {
     "mvndist.ipynb": "b5c79ad86a0036cb077c45a8a918effd78d979b80288553a84b3712fd19e7717",
-    "mvndist.md": "b9a529a38a98361605490e46a1d98327b148f56e32cf7c7fb1586497c245a40c",
+    "mvndist.md": "829fc1685ba8743504df19f945fa24ce9c2cef8f024fed391ffa7bcc54ca6be0",
     "mvndist.py": "6d96008c1969133f4fee9b469b1c03f6cb39559abb452ed123958bdb80ba060a",
     "mvndist.tex": "d596abff7ec7c969a894565ab2308650c23b0770576fce500dd7c16d712a7454"
    }
@@ -4322,7 +4322,7 @@
    "notebook": "https://dictionaryofml.org/terms/norm.ipynb",
    "sha256": {
     "norm.ipynb": "2e2c254b3124402e49a3e19c987d948c9852d518834e75340b7b114ed8cbca9c",
-    "norm.md": "0ad919567fecb2a72065ee6d39b54f4993605dd74ba04921dfd28c3d66ffb5d8",
+    "norm.md": "e375d44527679637768586ca85a4c148c1c5954b622977fedba439b7715649a0",
     "norm.py": "477dcea41cc00c8390c19b6c25cfa8791cb7b908cdd70f3c081a0afa23a796f3",
     "norm.tex": "48ab13d57232c72a6500adcadc695b918d4be8002657aef56f70a72794d89b68"
    }
@@ -4364,9 +4364,9 @@
    "notebook": "https://dictionaryofml.org/terms/onlinelearning.ipynb",
    "sha256": {
     "onlinelearning.ipynb": "23e3369ca70342cf669bf91cc70ea3340cff59f703cc214cd6bf28d41958498c",
-    "onlinelearning.md": "208b63552598a4d87393adf3a986b14ede6e196ea0b6401d68912e79111c34b0",
+    "onlinelearning.md": "3c7bfc6eafb82cabfa8ef1c44da0cd0076525f794ffc1e4e3ae1a6be3ea2138d",
     "onlinelearning.py": "dd54717e0275452c43ebb5fdd3204b83c59fccc4964627a1e79feeeed3b3f711",
-    "onlinelearning.tex": "6bc8e3c2de588bd6df4aebddac8a5431f3ccf84f760f420eefe72e1254bc0f35"
+    "onlinelearning.tex": "f8eb8dd0f603fdd06b82ac0c801ace25de1779744b5dae82c1ab711e551428e0"
    }
   },
   {
@@ -4398,7 +4398,7 @@
    "notebook": "https://dictionaryofml.org/terms/outlier.ipynb",
    "sha256": {
     "outlier.ipynb": "ff4c10eb86364ee9e5cfd9085f843965427fc8d2dd4382269745e2426e2e37a6",
-    "outlier.md": "120632a74e7b0ed9a0973cdd8a41fbaf67fd53901c3a1a5afbfbd0a61e025ea5",
+    "outlier.md": "fc764d6f4d49703c247f0a36460256bbf936d2d51a981a2ef34c7022bda93c5e",
     "outlier.py": "b691dac74686e5e1a600f0774e2699630249f3a114df13a009a09af4b2353cdc",
     "outlier.tex": "4792ddd0078862426785cec10489e841854eb6aff31160e2904b39e2f0225743"
    }
@@ -4427,7 +4427,7 @@
    "notebook": "https://dictionaryofml.org/terms/overfitting.ipynb",
    "sha256": {
     "overfitting.ipynb": "f42ddb272e7ca9b1f9accbaa06baa0048e60b44eccbe972ba23a049918a93d21",
-    "overfitting.md": "31fe92aecaf41a2ac3e09aff0a8581ec71075f961d985ba4e4aa0990e2c5f316",
+    "overfitting.md": "b66166bc6a6c338cb1fb0e76a473afecf2b8eafdef324113e8b4b5cd70b0240f",
     "overfitting.py": "768cc56bfc787a8c4721f76ce7556935cbb03c8f602a037fa35cfaec8f11fc99",
     "overfitting.tex": "35051023fd547b88718b811b5816f1a2cb8e7a3dbda1054c1f3e7b557da84a69"
    }
@@ -4466,7 +4466,7 @@
    "notebook": "https://dictionaryofml.org/terms/pca.ipynb",
    "sha256": {
     "pca.ipynb": "bf55d2abd044cc59c8cdbe43a20d0e6c8d9ac473ff6e8f83e121f6a1411eef62",
-    "pca.md": "cba72aca8bcc8fa2859b55d8eea8eed62d46aa7df001b0ebeac66caf29ab2970",
+    "pca.md": "e07f5bf496a98f379e0e0096ff591417bfb24ae836ad73501b5689e6c46d5608",
     "pca.py": "ba693267c7f225fc1252c061bf6dc2e026a3b204cf2b2a0278d949406c061139",
     "pca.tex": "daf00f2d70a855dbbc0443f17f1857db29db535606f0eb9fb5a8fd77688bc06c"
    }
@@ -4534,7 +4534,7 @@
    "notebook": "https://dictionaryofml.org/terms/ppca.ipynb",
    "sha256": {
     "ppca.ipynb": "e4ef1e43e714c0ac8e6d1ac297f801b79fead262fbe493bed783a71449e2165c",
-    "ppca.md": "1712a24d556e2d7edb84c24e0ac4966e5da9b5208d40f3463cc0e77d56fe0e61",
+    "ppca.md": "288c1aa734e73c185cfe128ce7cb7b48d90e67767bcb59f374f70fe1222ef616",
     "ppca.py": "002b156832ba54f1e793469fb8399ebf9285ef8d687df62e22013e9bbcaef18d",
     "ppca.tex": "9017ba7aaf482461f4401a5fdce7c0f708656830335941fd4a670a6b2ce317e0"
    }
@@ -4562,7 +4562,7 @@
    "notebook": "https://dictionaryofml.org/terms/pretraining.ipynb",
    "sha256": {
     "pretraining.ipynb": "641dc868a8951c41e82f64889fdec1705a310c26038b893c822a3c9b561db5d2",
-    "pretraining.md": "f2a74d6b56600ae6b4fe73d430faea7452fd0d09992890a21427190ee8f4e875",
+    "pretraining.md": "5833fe35a1cde5d79efabe2d98f5246a7dcd388c0a81eff5726fb1e00b52fe9b",
     "pretraining.py": "a4d292bf2c69345988c12e84d4f646c1cec9bfd9096898c4c7e3ae47960c8e18",
     "pretraining.tex": "2382203f2f9bb6b78ca64bb25cea9ab2f46a8e760d727039648453c66c5bf5da"
    }
@@ -4601,7 +4601,7 @@
    "notebook": "https://dictionaryofml.org/terms/probdist.ipynb",
    "sha256": {
     "probdist.ipynb": "fb2b623dcf99d2f190048a566d5f8f67e30cd23eded52db21bea9e651c649442",
-    "probdist.md": "4b6bd39df839b3f4ff8e99815d678dc96965f122873def8e67358a9024cca752",
+    "probdist.md": "0cfc9c861e48f2282a9f59568e3c33a8b0f0a618964bbdbaecaacc24a614d347",
     "probdist.py": "a6ca81546903016201b14af919ba54ff5e656512eadafbd93a082170a2208687",
     "probdist.tex": "c7b1bb0a39d38f9893cc4e8c94a8c7d0e2d2c0d69129e4294d0c4ad9822d77a1"
    }
@@ -4666,7 +4666,7 @@
    "notebook": "https://dictionaryofml.org/terms/randomexperiment.ipynb",
    "sha256": {
     "randomexperiment.ipynb": "5f15329ff85f2039341ddc0533efec1640c9d31ccdceedf20286d264aff0c981",
-    "randomexperiment.md": "98a0cd73e8a43f197bfe09542f2f7ef831da76c2e0c8d361fa55ca1499429c42",
+    "randomexperiment.md": "6a8a74182a524b7a0397bc6616e96800e73dbbc30c3aa0e3d195c92a11a27efb",
     "randomexperiment.py": "774a17da481796c846bed72cd950a46456730c9c5fcc16e7371a4336fd5468b9",
     "randomexperiment.tex": "274aa944a94a7967c782cf771944b15dc864758eb3e1786d66b6c42adaa81c96"
    }
@@ -4695,7 +4695,7 @@
    "notebook": "https://dictionaryofml.org/terms/randomforest.ipynb",
    "sha256": {
     "randomforest.ipynb": "5ce11483be0baf19dff59d4a01796efb143b5e4e36484c4ced94a31fdf4d5082",
-    "randomforest.md": "c57d30a6f029794fcc020d879a15815c596f816f7dbd416f202239fae7530374",
+    "randomforest.md": "51e33f99da7546e97f8df0a61f3c8ea1d13b029b95c7947334ffe95236a5b94d",
     "randomforest.py": "edc0ce626043e4fa70bb2c9638c3fe1b3e0dfe23237349a23dcf531f49ba0ace",
     "randomforest.tex": "8aeff848fc7b31efa8a941a395b933ed084ddf6f8d82667fbb725ca419507bf0"
    }
@@ -4727,7 +4727,7 @@
    "notebook": "https://dictionaryofml.org/terms/randomprojection.ipynb",
    "sha256": {
     "randomprojection.ipynb": "25e9f5d7674676c7fcbb3e87102dd67ef44de2a2e0743a39ead15cbb0a3345f3",
-    "randomprojection.md": "7748ca5e607e6403c71e9f07328a1357c71feb2188bbb018d875dc3dcd13637c",
+    "randomprojection.md": "18422316a87ae971c00049d1544f82c7483e8911c95e4a10488969aed00a24e5",
     "randomprojection.py": "4beb87e228037b950b93d3ccad12c4948de2731dd12d0190610606bd079fd86c",
     "randomprojection.tex": "24704266c868242e20b2da20fbb3736c828c2364d02be023cb5d7b3b67c8cc80"
    }
@@ -4862,7 +4862,7 @@
    "notebook": "https://dictionaryofml.org/terms/ridgeregression.ipynb",
    "sha256": {
     "ridgeregression.ipynb": "623f5291a358de0077f380aaa5cea9a7e828b4a70108ebf68e169c7f34b1cb00",
-    "ridgeregression.md": "e439d730d645a8eb4aafe5c2ee9833c882637672f7752a79481703d7ba5c321d",
+    "ridgeregression.md": "f542e547f92ec5c0ddc62faa9f2c16ccfce468dce7a2d2769918df29b4cd902c",
     "ridgeregression.py": "ce1c42410b2d2ceed60fb3d8671a4ca9c426484ba01b182cf53a20cdb9434204",
     "ridgeregression.tex": "b9690b3828cffffe4cb3891000e063d9709e97976ec933817c4943f0e4d6a11e"
    }
@@ -4901,7 +4901,7 @@
    "notebook": "https://dictionaryofml.org/terms/rpca.ipynb",
    "sha256": {
     "rpca.ipynb": "b9946e2f9341cd46d3504d909c2af6b6554685e650360184e6eaa7b96da0ecc3",
-    "rpca.md": "a6dfa23a383d70e07cd6e8fc425660b64f6ad37a7cd753af39d59278aebc2180",
+    "rpca.md": "e0482c0e1e1499f3fffe5d2cb93a5dc763d01e1cbebb7326c949d29776006b46",
     "rpca.py": "5e9ce9b9173baec692c95fb2e10fc256eea163c9d5d4eff75ff3acef7cf9dc50",
     "rpca.tex": "0e3d860c8fec884448c40ea44e7295b4fdb22a6ab49e28586203eb577390da0e"
    }
@@ -4936,7 +4936,7 @@
    "notebook": "https://dictionaryofml.org/terms/rv.ipynb",
    "sha256": {
     "rv.ipynb": "c60892dca0985a993d55117218bcee23bd4ffac23ae4736f1d08bfd78d360992",
-    "rv.md": "cc2e10455741e6852ab61edcdf4f3c62fa887a942519fd060e56845a1b956abb",
+    "rv.md": "9a2ddbe03ba126e31a1c70dfe9d53e1f55930bd0b9479a5fb49ffdf3e9d31265",
     "rv.py": "cbbf2a5db98c21896438b75fa3ed3ef6dcc4220f09cade38d6138f798d828656",
     "rv.tex": "6da6f98574d98d6895714fd30608cd3033f6e279a87ae774ee647075bf18d02f"
    }
@@ -4967,7 +4967,7 @@
    "notebook": "https://dictionaryofml.org/terms/samplecovmtx.ipynb",
    "sha256": {
     "samplecovmtx.ipynb": "50ddc1d2e8f1364d376b655cf085be313e7cc5bd01e838cd05a8f2fd46d71152",
-    "samplecovmtx.md": "df95ec538120c303df5578b2c33f956d50d2db68cd532c455d635c314c16f0f2",
+    "samplecovmtx.md": "13f9c7d93cf99a8e3651a57de1b5712082919b096721f235d6ce095d9cf3885d",
     "samplecovmtx.py": "114fdeeae3086b9645f0b77ab1811c8d12887d33cb012ec3769f617cbdb63a7c",
     "samplecovmtx.tex": "eb08d2cc096515995a674a73dbd4a7ce3fbb786b04c651b01565fab1dcf001c9"
    }
@@ -5007,7 +5007,7 @@
    "notebook": "https://dictionaryofml.org/terms/samplesize.ipynb",
    "sha256": {
     "samplesize.ipynb": "14265128f04c132e6bd79f2a2a5b56515f1ffc06a4aa200c444090b51b34ccda",
-    "samplesize.md": "9ec6977d2b998649d557fef8eb4f9ec611d6946e48a778c4a0b9dcb5efdc78f9",
+    "samplesize.md": "6847e5eb64f2d28aa9478be20c9902ad1ab176e826fe382ae329942c2dc0fe01",
     "samplesize.py": "96fd1537710f2473a736527f98d3755c17faa535e20eddbadfe1f54c6c83c684",
     "samplesize.tex": "ef155a168682b53f1d1680895153592172d1cc8684bee6a31ec5d8e5bdf885af"
    }
@@ -5045,7 +5045,7 @@
    "notebook": "https://dictionaryofml.org/terms/scatterplot.ipynb",
    "sha256": {
     "scatterplot.ipynb": "eaefdf168a24abc77d2034078e5f6c750f65de3031cba34de6ee4e5acdff3d3a",
-    "scatterplot.md": "f453ac8c00159d5c3cb98537da0d6d18bd661d7c097fce5808e36ebc7812c283",
+    "scatterplot.md": "836b1f02bc8f1e2e082abed7a33012cb2052271bfc0af9d9c4c670ceb9efe706",
     "scatterplot.py": "59549180562cfb38fc8f8f3ee73fac7e20d3e7e5d1e6af36b23c02212bc8c100",
     "scatterplot.tex": "f002741309616892fd4bae8beaa276b874d5b7a703fa8c6d0dbef814142b55c3"
    }
@@ -5114,7 +5114,7 @@
    "notebook": "https://dictionaryofml.org/terms/sensattr.ipynb",
    "sha256": {
     "sensattr.ipynb": "6171a027fb56906c07c7d18ac9ca27dd3d356fe3ad5417c6fd2d924d143100d2",
-    "sensattr.md": "37dbd3efdc9751c25e988c194143a8486924d7bf4c16a29f64ccb0071285759a",
+    "sensattr.md": "96b69447004f029648cf70f66378588141251385a0e9be46b83199a502331f19",
     "sensattr.py": "49ca6c46baf1c971a591696510a588083e6a9a707ea32cfa4d6d1f914b02610e",
     "sensattr.tex": "3dffade45ddc610680d34105d82c663c78f938906dee5598d2d23544ee66ea98"
    }
@@ -5146,7 +5146,7 @@
    "notebook": "https://dictionaryofml.org/terms/sigmoid.ipynb",
    "sha256": {
     "sigmoid.ipynb": "9ccb8f4be35d5180bfc5c0558352241076217e6cdfd4403ef28316d43041800a",
-    "sigmoid.md": "785ff4e0b72749b109d10fcbcce4e66e9ef7e5b81e31cd62ad0d6ac24a6b240a",
+    "sigmoid.md": "a596c7eb0115296a876df5d5adfb0ee6eff982da3339f3714aa14143b0bb5a7a",
     "sigmoid.py": "dc93b657d49e37e7d58176bdc8f68ccbd7107adabe394072085c73f713f80d42",
     "sigmoid.tex": "8a1a86721947e54418d844064cbe03f4a26644a87abb92a667c8bcaf923476ed"
    }
@@ -5183,7 +5183,7 @@
    "notebook": "https://dictionaryofml.org/terms/sobolevspace.ipynb",
    "sha256": {
     "sobolevspace.ipynb": "f74490d4f633867cbdd56dd6c61f95c8f4b75b4eaf98da6ca90f15982d1926fb",
-    "sobolevspace.md": "f8a5f7c17e100ea3c24281540f314c183ebe9db2fbc9695c434ae5dc76f58b22",
+    "sobolevspace.md": "f346c7220293170f978f2d9e262a264f73d52fdea2ab3826da16283b01554b89",
     "sobolevspace.py": "55077613106eafc158ab3f148ae9394a387c58002b33fa876b81e5c836758a6c",
     "sobolevspace.tex": "e1fbf5b93f71e96de4a17cd58944c5edf9d0e4e55cc1c373901813ca9f535051"
    }
@@ -5225,7 +5225,7 @@
    "notebook": "https://dictionaryofml.org/terms/softclustering.ipynb",
    "sha256": {
     "softclustering.ipynb": "a4a6d7d471256e2d5fa3761667857e05a7485470e0546891edfae142ab5d623e",
-    "softclustering.md": "9d08b7c4477370d752635eaa292aa55d66cd791c15379fb4b0d59a098d1dc8f4",
+    "softclustering.md": "c12eb85ace5dc6215195dc7fddeb44f447d5cce5440ff63a6d8c3d19d09458e2",
     "softclustering.py": "b17cfe5c19f13f258197c6e252dc92f9528a3f3b4aa81f1692558559a5baf970",
     "softclustering.tex": "7ed4d419623ceae0b7fd5e41c8f36b49fc4cdfec77d8051ac8fc5a72da7fb011"
    }
@@ -5269,7 +5269,7 @@
    "notebook": "https://dictionaryofml.org/terms/specclustering.ipynb",
    "sha256": {
     "specclustering.ipynb": "442b0540720664c13023c10224bba22ddcb65bbc151f5f93984f88fd0bed8ea4",
-    "specclustering.md": "308c828082a92669957b6227f19be1da29ab44608db96d25c72e435529fd89ac",
+    "specclustering.md": "b4c61c4aaef77acd182cd6f7b8eb6004bddd0557c251c322b6c4bd78a2ef4101",
     "specclustering.py": "d56aae0e6339d19a22725dd487b98c27f2d283850298f434ab67c5caccf27d2f",
     "specclustering.tex": "9b507d907dfe36a7cfdaf4591fb5684cf79ec40dcae48f737a818718a90bb91f"
    }
@@ -5379,7 +5379,7 @@
    "notebook": "https://dictionaryofml.org/terms/sqerrloss.ipynb",
    "sha256": {
     "sqerrloss.ipynb": "6599792280830b87e6c1850a3965dbd9bd15c67180bd3577c8eec29b36503502",
-    "sqerrloss.md": "ee607b96586987bf30d3f0f60b12e277ac139e12b971a71dc34c98aa3f5a16a4",
+    "sqerrloss.md": "1d2c38dcf4a6c920591a6d302aa36f0a97fb8665ef45d5cb5cffc8443d469939",
     "sqerrloss.py": "43de842ad8ae4537cd80a500061852b4b672e8fce624666add9e712c7c0f01fe",
     "sqerrloss.tex": "ba3fd63f7c9510b20c374cf358fe08d6ff22f9edcd6a2b8e7b9006ed98ed4646"
    }
@@ -5410,7 +5410,7 @@
    "notebook": "https://dictionaryofml.org/terms/stochGD.ipynb",
    "sha256": {
     "stochGD.ipynb": "99e07f2c6171a764c695aa82e7ec656853bcf067ae925df22b816558515498bd",
-    "stochGD.md": "e9f2648d8dee44b07f39bd0187141c5d30b55f07af69cf780a71064fe5f0fdb5",
+    "stochGD.md": "b6d16f07b4d0d50016feefabc7d2f8b5b94016f27b55579722010a1d0e7e357a",
     "stochGD.py": "ea72354f672e5653868b58cc63fffd6fd5fa9ca13a4e5c34d6d15dbbf202ddf1",
     "stochGD.tex": "bc775b43ec42e73b736f3cd8f523976add91430cbd99a2c7f4ea4d0c3243d7d3"
    }
@@ -5472,7 +5472,7 @@
    "notebook": "https://dictionaryofml.org/terms/supervisedlearning.ipynb",
    "sha256": {
     "supervisedlearning.ipynb": "3333c9d38ab7704853f73957504144c2ab12006addf61fd99a4793b033f15952",
-    "supervisedlearning.md": "a81d4d607cbe221b72b6a2a41628e2b7e48ac3b6f78436ba9cbdacbb9f56c9a2",
+    "supervisedlearning.md": "067cb5e96db2b0e22b68851925fa76c945fa9df7034a5f52ebd0e34dba58a6fd",
     "supervisedlearning.py": "25627fe9bb956154a954a453cc3239138139c71427d62fde1296423aff15089b",
     "supervisedlearning.tex": "4694d0d5f2b91a174430e6fb63aef3b347b6336d9b871e4a611a18508b2d14f0"
    }
@@ -5574,7 +5574,7 @@
    "notebook": "https://dictionaryofml.org/terms/tabulardata.ipynb",
    "sha256": {
     "tabulardata.ipynb": "5d6e21dd1c51504f8bcb7ff1287f1b92a0ac03f8cff4362da80790abce200a68",
-    "tabulardata.md": "bdf40985cb223dc8a0acb8bc4bdba6ddfdf04e269e45f69e3f39920ae7fe8125",
+    "tabulardata.md": "788053b17083d6fa73cd5dd3e933f61e5abadaa69115f81a06ebed9f5f83f897",
     "tabulardata.py": "8c6497bc4b358b733e47da6ba2ad6738b6930a885f91f1798773d90246010e98",
     "tabulardata.tex": "4ced7bb56cfad2a9c8be5ef9871affea8204b572337aa8624be87e28ba969e35"
    }
@@ -5653,7 +5653,7 @@
    "url": "https://dictionaryofml.org/terms/trainerr.html",
    "pdf": "https://dictionaryofml.org/terms/trainerr.pdf",
    "abstract": "The training error of a hypothesis is its average loss over the training set, the empirical risk of the hypothesis on the data points used for training. For a hypothesis delivered by empirical risk minimization, it is the smallest empirical risk that any hypothesis of the hypothesis space attains. Because the same data points selected the hypothesis, the training error is often far below the risk, by a gap that grows with the size of the hypothesis space, so a hypothesis with zero training error can have a large risk. Under the independent and identically distributed assumption, the training error of every hypothesis is a noisy estimate of its risk, and empirical risk minimization compares all of them at once, so a generalization guarantee for the empirical risk minimization solution requires the deviation to be small uniformly over the hypothesis space. A training error far below the validation error indicates overfitting, and a large training error indicates underfitting.",
-   "description": "Twenty of the 1824 days of five years, 2020 to 2024, at the weather station Krems an der Donau (Austria), every 92nd day, are drawn in Fig. 1 as a scatterplot. Each day is a data point: its feature x is the air temperature at 06:00 (UTC), its label y the air temperature at 15:00 (UTC) of the same day. Three of the days, drawn in black, form a training set, the days used for training, for two empirical risk minimization-based methods that deliver the hypotheses ĥ(1) and ĥ(2). The hypothesis ĥ(1) is learned by empirical risk minimization with the squared error loss over the hypothesis space of affine maps h(x) = b + w x, the linear model. The dotted bars are its prediction errors on the three days, the differences between the recorded maximum and the value of ĥ(1), and the average of the three squared bars is its training error, 2.22. The second hypothesis ĥ(2) is learned by empirical risk minimization over the hypothesis space of all polynomials of degree at most two. Although the training error of ĥ(2) is zero, and therefore far below that of ĥ(1), it is the worse choice: averaged over all days of the five years, the loss of ĥ(2) is 26.93 against 19.18 for ĥ(1). Holding the intercept of ĥ(1) at the value empirical risk minimization gave it and varying only its slope w leaves the training error a function of one number. Fig. 2 shows it with the risk, the expected loss over the probability distribution of a day, approximated by the average over the five years. The two functions have different minimizers: the training error is smallest at the slope that empirical risk minimization picked, the risk at a smaller slope. At the slope empirical risk minimization picked, the training error is a third of the risk. The training error is an average over the three days that determined the hypothesis; it does not measure the loss on a day outside the training set. The training error Et of a hypothesis ĥ is its average loss over the training set D(train) = z(r)r=1m, \\[ E_{t} = \\frac{1}{m} \\sum_{r=1}^{m} L\\left({\\mathbf z}^{(r)},\\widehat{h} \\right) \\text{,} \\] i.e., the empirical risk of ĥ on the data points used for learning ĥ. The hypothesis is the output of a training method, a map A that reads in a training set and delivers ĥ = A(D(train)). For a hypothesis delivered by empirical risk minimization, the training error is the smallest empirical risk that any hypothesis of the hypothesis space attains on D(train), since empirical risk minimization minimizes this average. The training error is computed on the same data points that selected ĥ, which limits its use as a measure of quality. The goal of a machine learning method is to learn a hypothesis that incurs a small loss on any data point, also those outside the training set, that is, to minimize the risk introduced above. The training error of the learned hypothesis is often a poor estimator for its risk, because the learned hypothesis has been adapted to the training set by minimizing the training error. A hypothesis with zero training error can therefore have a large risk, as ĥ(2) of Fig. 1 does. The difference between the risk and the training error is the generalization gap. Under the independent and identically distributed assumption, the training error becomes a random variable, as it depends on the randomly generated training set. For one fixed hypothesis h ∈ H, the empirical risk L̂(h|D(train)) is an average of the m loss values L(z(1),h ), …, L(z(m),h ), which are realizations of independent and identically distributed RVs. It is therefore the realization of a random variable with expectation L̄ ( h ) and a variance proportional to 1/m. Empirical risk minimization does not evaluate this estimate at one fixed hypothesis: it compares the estimates of all hypotheses in H and picks the smallest. The estimates form the family L̂(h|D(train)) h ∈ H, a stochastic process indexed by the hypothesis space: one random variable for each hypothesis, all realized by the single draw of D(train). The minimizer ĥ of this process is itself a random variable, and its training error Et = L̂(ĥ|D(train)) is the minimum of many noisy estimates, so it is below L̄ ( ĥ ) on average. A guarantee of generalization for the empirical risk minimization solution must therefore hold uniformly over the hypothesis space: if \\begin{equation} \\sup_{h \\in \\mathcal{H}} \\big| \\widehat{L}\\big(h|\\mathcal{D}^{(\\rm train)}\\big) - \\bar{L} \\big( h \\big) \\big| \\leq \\epsilon \\text{,} \\end{equation} then L̄ ( ĥ ) ≤ Et + ε, and the risk of ĥ exceeds the smallest risk in H by at most 2ε. A hypothesis space for which the uniform deviation Eq. (1) falls below any ε with probability at least 1-δ once m is large enough has the uniform convergence property introduced by Vapnik and Chervonenkis (2015). For a finite hypothesis space and a loss with values in [0,1], a union bound over the hypotheses and Hoeffding's inequality give ε = √(ln(2 |H| / δ) / (2 m)). For an infinite hypothesis space, ln |H| is replaced by a measure of its size such as the Vapnik–Chervonenkis dimension or the Rademacher complexity. In contrast, the validation error, computed as the average loss on data points not used in the training, is often a much better estimator for the risk of the learned hypothesis. For example, let the data points of the validation set be realizations of independent and identically distributed RVs, independent of the training set. Each summand of the validation error is then the loss on an independent draw from the probability distribution of a data point, whose expectation conditional on the training set is the risk of the learned hypothesis. The expectation of the validation error conditional on the training set is therefore that risk. Moreover, the validation error estimates the risk of the single hypothesis that A delivered, so one Hoeffding bound without |H| suffices for it, and it concentrates around the risk at a rate that depends only on the size of the validation set, not on how the hypothesis was learned. Fig. 3 shows three deviations of a training error from a risk for one year of the Krems record: for one fixed hypothesis, for the hypothesis that empirical risk minimization learns, and the largest deviation over the hypothesis space. The 366 days of the year stand in for the probability distribution of a day, so the risk of a hypothesis is its average loss over the year, and a training set of m days is drawn at random from the year, 300 times for each m ∈ 10, 20, 40, 80. The hypothesis space is the linear model, which consists of all hypothesis maps h(x) = w1 x + w0 with w1, w0 ∈ R. The fixed hypothesis is the one with the smallest risk in the hypothesis space, the hypothesis learned by linear regression from all 366 days; it does not depend on the draw. The empirical risk minimization hypothesis is learned by linear regression from the drawn training set. The largest deviation over the hypothesis space, the uniform deviation Eq. (1), is approximated by the maximum over a grid of 2500 hypotheses around the learned one. Over the repeated draws, the deviation of the fixed hypothesis has mean zero. The training error of the empirical risk minimization hypothesis is below its risk on average, and the largest deviation is several times the standard deviation of the fixed hypothesis' deviation. The gap of the empirical risk minimization hypothesis never exceeds the largest deviation, as the uniform deviation Eq. (1) requires, and both decrease as the training set grows (pythondemos/trainerr.py). The size of the gap L̄ ( ĥ ) - Et depends on the hypothesis space. The first day of each month from January to August 2024 forms a training set of eight days, and the rest of the year is held back. A hypothesis of the linear model learned from the eight days has a training error of 20.36, only slightly below its average squared error of 21.60 on the held-back days: the linear model has two model parameters and can adapt little to the particular eight days. Fig. 4 shows the two errors for polynomials of prescribed maximum degree p = 0, …, 7. Increasing the degree means a larger hypothesis space, a polynomial of degree p being one of degree p+1 with a zero leading coefficient, so the training error never increases with the degree. In contrast, the average loss on the held-back days is smallest at degree one and grows for larger degrees, where the polynomial oscillates between the eight days it was learned from. By comparing the training error of a machine learning method with the resulting validation error, two failures can be detected. A training error far below the validation error indicates overfitting. A large training error indicates underfitting: a hypothesis space too small, or an iterative optimizer that stopped too early, which restricts the effective hypothesis space. Fig. 4 also shows the effect of regularization by model pruning: restricting the hypothesis space by using a small polynomial degree raises the training error a little and lowers the average loss on the held-back days.",
+   "description": "Twenty of the 1824 days of five years, 2020 to 2024, at the weather station Krems an der Donau (Austria), every 92nd day, are drawn in Fig. 1 as a scatterplot. Each day is a data point: its feature x is the air temperature at 06:00 (UTC), its label y the air temperature at 15:00 (UTC) of the same day. Three of the days, drawn in black, form a training set, the days used for training, for two empirical risk minimization-based methods that deliver the hypotheses ĥ(1) and ĥ(2). The hypothesis ĥ(1) is learned by empirical risk minimization with the squared error loss over the hypothesis space of affine maps h(x) = b + w x, the linear model. The dotted bars are its prediction errors on the three days, the differences between the recorded maximum and the value of ĥ(1), and the average of the three squared bars is its training error, 2.22. The second hypothesis ĥ(2) is learned by empirical risk minimization over the hypothesis space of all polynomials of degree at most two. Although the training error of ĥ(2) is zero, and therefore far below that of ĥ(1), it is the worse choice: averaged over all days of the five years, the loss of ĥ(2) is 26.93 against 19.18 for ĥ(1). Holding the intercept of ĥ(1) at the value empirical risk minimization gave it and varying only its slope w leaves the training error a function of one number. Fig. 2 shows it with the risk, the expected loss over the probability distribution of a day, approximated by the average over the five years. The two functions have different minimizers: the training error is smallest at the slope that empirical risk minimization picked, the risk at a smaller slope. At the slope empirical risk minimization picked, the training error is a third of the risk. The training error is an average over the three days that determined the hypothesis; it does not measure the loss on a day outside the training set. The training error Et of a hypothesis ĥ is its average loss over the training set D(train) = z(r)r=1m, \\[ E_{t} = \\frac{1}{m} \\sum_{r=1}^{m} L\\left({\\mathbf z}^{(r)},\\widehat{h} \\right) \\text{,} \\] i.e., the empirical risk of ĥ on the data points used for learning ĥ. The hypothesis is the output of a training method, a map A that reads in a training set and delivers ĥ = A(D(train)). For a hypothesis delivered by empirical risk minimization, the training error is the smallest empirical risk that any hypothesis of the hypothesis space attains on D(train), since empirical risk minimization minimizes this average. The training error is computed on the same data points that selected ĥ, which limits its use as a measure of quality. The goal of a machine learning method is to learn a hypothesis that incurs a small loss on any data point, also those outside the training set, that is, to minimize the risk introduced above. The training error of the learned hypothesis is often a poor estimator for its risk, because the learned hypothesis has been adapted to the training set by minimizing the training error. A hypothesis with zero training error can therefore have a large risk, as ĥ(2) of Fig. 1 does. The difference between the risk and the training error is the generalization gap. Under the independent and identically distributed assumption, the training error becomes a random variable, as it depends on the randomly generated training set. For one fixed hypothesis h ∈ H, the empirical risk L̂(h|D(train)) is an average of the m loss values L(z(1),h ), …, L(z(m),h ), which are realizations of independent and identically distributed RVs. It is therefore the realization of a random variable with expectation L̄ ( h ) and a variance proportional to 1/m. Empirical risk minimization does not evaluate this estimate at one fixed hypothesis: it compares the estimates of all hypotheses in H and picks the smallest. The estimates form the family L̂(h|D(train)) h ∈ H, a stochastic process indexed by the hypothesis space: one random variable for each hypothesis, all realized by the single draw of D(train). The minimizer ĥ of this process is itself a random variable, and its training error Et = L̂(ĥ|D(train)) is the minimum of many noisy estimates, so it is below L̄ ( ĥ ) on average. A guarantee of generalization for the empirical risk minimization solution must therefore hold uniformly over the hypothesis space: if \\begin{equation} \\sup_{h \\in \\mathcal{H}} \\big| \\widehat{L}\\big(h|\\mathcal{D}^{(\\rm train)}\\big) - \\bar{L} \\big( h \\big) \\big| \\leq \\epsilon \\text{,} \\end{equation} then L̄ ( ĥ ) ≤ Et + ε, and the risk of ĥ exceeds the smallest risk in H by at most 2ε. A hypothesis space for which the uniform deviation Eq. (1) falls below any ε with probability at least 1-δ once m is large enough has the uniform convergence property introduced by Vapnik and Chervonenkis (2015). For a finite hypothesis space and a loss with values in [0,1], a union bound over the hypotheses and Hoeffding's inequality give ε = √(ln(2 |H| / δ) / (2 m)). For an infinite hypothesis space, ln |H| is replaced by a measure of its size such as the Vapnik–Chervonenkis dimension or the Rademacher complexity. In contrast, the validation error, computed as the average loss on data points not used in the training, is often a much better estimator for the risk of the learned hypothesis. For example, let the data points of the validation set be realizations of independent and identically distributed RVs, independent of the training set. Each summand of the validation error is then the loss on an independent draw from the probability distribution of a data point, whose expectation conditional on the training set is the risk of the learned hypothesis. The expectation of the validation error conditional on the training set is therefore that risk. Moreover, the validation error estimates the risk of the single hypothesis that A delivered, so one Hoeffding bound without |H| suffices for it, and it concentrates around the risk at a rate that depends only on the size of the validation set, not on how the hypothesis was learned. Fig. 3 shows three deviations of a training error from a risk for one year of the Krems record: for one fixed hypothesis, for the hypothesis that empirical risk minimization learns, and the largest deviation over the hypothesis space. The 365 days of the year that carry both readings stand in for the probability distribution of a day, so the risk of a hypothesis is its average loss over the year, and a training set of m days is drawn at random from the year, 300 times for each m ∈ 10, 20, 40, 80. The hypothesis space is the linear model, which consists of all hypothesis maps h(x) = w1 x + w0 with w1, w0 ∈ R. The fixed hypothesis is the one with the smallest risk in the hypothesis space, the hypothesis learned by linear regression from all 365 days; it does not depend on the draw. The empirical risk minimization hypothesis is learned by linear regression from the drawn training set. The largest deviation over the hypothesis space, the uniform deviation Eq. (1), is approximated by the maximum over a grid of 2500 hypotheses around the learned one. Over the repeated draws, the deviation of the fixed hypothesis has mean zero. The training error of the empirical risk minimization hypothesis is below its risk on average, and the largest deviation is several times the standard deviation of the fixed hypothesis' deviation. The gap of the empirical risk minimization hypothesis never exceeds the largest deviation, as the uniform deviation Eq. (1) requires, and both decrease as the training set grows (pythondemos/trainerr.py). The size of the gap L̄ ( ĥ ) - Et depends on the hypothesis space. The first day of each month from January to August 2024 forms a training set of eight days, and the rest of the year is held back. A hypothesis of the linear model learned from the eight days has a training error of 20.36, only slightly below its average squared error of 21.60 on the held-back days: the linear model has two model parameters and can adapt little to the particular eight days. Fig. 4 shows the two errors for polynomials of prescribed maximum degree p = 0, …, 7. Increasing the degree means a larger hypothesis space, a polynomial of degree p being one of degree p+1 with a zero leading coefficient, so the training error never increases with the degree. In contrast, the average loss on the held-back days is smallest at degree one and grows for larger degrees, where the polynomial oscillates between the eight days it was learned from. By comparing the training error of a machine learning method with the resulting validation error, two failures can be detected. A training error far below the validation error indicates overfitting. A large training error indicates underfitting: a hypothesis space too small, or an iterative optimizer that stopped too early, which restricts the effective hypothesis space. Fig. 4 also shows the effect of regularization by model pruning: restricting the hypothesis space by using a small polynomial degree raises the training error a little and lowers the average loss on the held-back days.",
    "synonyms": [],
    "see_also": [
     "trainset",
@@ -5680,9 +5680,9 @@
    "notebook": "https://dictionaryofml.org/terms/trainerr.ipynb",
    "sha256": {
     "trainerr.ipynb": "3b6c53a98785ac6e45fc47f2cf2b08ed95c9cef4b4c5cd9862c4f7f78ffe022a",
-    "trainerr.md": "5e8629817a45e7bda56790a34e96c6a547e2718b7f175a3d1af0f8948f144e83",
+    "trainerr.md": "027fef7151e3b6d7efbb363f552c14fca3581ea9d20d9cf886435d166f327ab6",
     "trainerr.py": "43b7caaaf597d2ac5ec95506d2076400ef9d52f18a740c5ed93fcd02eaecd2f8",
-    "trainerr.tex": "600aaedaa692c591e61dbdae4eba3c6be6da634fe1fec3ac6099b978cb4bcab2"
+    "trainerr.tex": "35f3dd6aff2b843ce4b863407c5da77ee77d088cd89d8ff4f34148b4841c7a5d"
    }
   },
   {
@@ -5755,7 +5755,7 @@
    "notebook": "https://dictionaryofml.org/terms/trainset.ipynb",
    "sha256": {
     "trainset.ipynb": "1eb05f6d0445582c68d27b7c1bd78190e96120852b981e610f279cb986736d1c",
-    "trainset.md": "6d2082210ce5dab6e600ce3ccb87e046058f9d8a918a7db341d0ebb6347d7a91",
+    "trainset.md": "f76d2e4f5644384c1d8bd6b2fea84837882302112723fc861dcbd40318f8cb3c",
     "trainset.py": "3eece5a0091d21d9a20f5a6a98d60891adc1ccb7d457f0123fc21b34fd535399",
     "trainset.tex": "52a3a3e26ca62e16a66064db68abf42d844d17ff7c84e3c73ec79f3df0865108"
    }
@@ -5788,7 +5788,7 @@
    "notebook": "https://dictionaryofml.org/terms/transferlearning.ipynb",
    "sha256": {
     "transferlearning.ipynb": "99eebb91fac6356b2ca615553376c58ffb4d59c86e80905369272eca4fa9ecca",
-    "transferlearning.md": "a4ee26c8c3578f35c0157f1b2aeca67b6e7076f08bcd71232a1805d18049125a",
+    "transferlearning.md": "1d7fd87e3cfcf5d8e90b701510d87ac92375ca9174b9876fd54c05b0ed6a6b34",
     "transferlearning.py": "8d46015a2ddf28e4d309cbc4062ac8548934501305fc850973c2dd9bfa238fd7",
     "transferlearning.tex": "a9cdd9e2f2781c6d3a1bd8dbe5fc7fb2b36e745c4a984199aefd19401b0762cf"
    }
@@ -5823,7 +5823,7 @@
    "notebook": "https://dictionaryofml.org/terms/transformer.ipynb",
    "sha256": {
     "transformer.ipynb": "91ceee9b16c178b6e0f2d5e28c8d5cf13d43005ece4bf3e702a99001306cf8a2",
-    "transformer.md": "cf90c86e2f4318aca88f9602bec9cb0bc1aa69e50ac3207c4b82e11da312d5b9",
+    "transformer.md": "7346ff9a4c563342a94137221eaf0df78e7c969de90abe96ffc0295446d88da7",
     "transformer.py": "62e02831aaa3c55d949f5c6036e8ac7980388f3543b6d2a42989187482573f5d",
     "transformer.tex": "f87c24189b8b28c9f246f60d64bf37e1ef06a547b8c3941463a23c673823a929"
    }
@@ -5937,7 +5937,7 @@
    "notebook": "https://dictionaryofml.org/terms/unsupervisedlearning.ipynb",
    "sha256": {
     "unsupervisedlearning.ipynb": "d5938ae4b1244743114b64b2bf33d7e30a5cc959d24ad984bac1e7df8c578485",
-    "unsupervisedlearning.md": "0ca7035770685dc36d078af885f377f93b06ddc328e0259b82d6a6e2e6d564f3",
+    "unsupervisedlearning.md": "af767ea769cdceb30fb626ecf53f54f0eb0cbfbe276444227245f134bf7c0158",
     "unsupervisedlearning.py": "2a22357bf42be10b2f6b55134d61eae85ac691bde310f53d545e0a49fffc3ad2",
     "unsupervisedlearning.tex": "d490f402c83e31a553bbf1ba19e551d1a18502974e554bb1ef00f2013217b882"
    }
@@ -5974,7 +5974,7 @@
    "notebook": "https://dictionaryofml.org/terms/valerr.ipynb",
    "sha256": {
     "valerr.ipynb": "920db174e44b151d4134ffc96ae66227781cd0da28121c741db33ddac83aabad",
-    "valerr.md": "7a25b2d163a056c9c2ebd0a31b54e17af807ae1239fbdfc7d4191bcbdd02c490",
+    "valerr.md": "4eca63e6ccd2046cf25e43bbd47f01848f886644804bb2f8253b075229847ec3",
     "valerr.py": "c6e21093e1488c482425d9a32bd0d8674061e0a7cabb366c698a6c95ac81433e",
     "valerr.tex": "3ea3a08b2307e301aed999eeecf6343c41552240cec09b86192a09becd1a56a5"
    }
@@ -6008,7 +6008,7 @@
    "notebook": "https://dictionaryofml.org/terms/valset.ipynb",
    "sha256": {
     "valset.ipynb": "a40f11021d038dabd67e9943f4814369554682e25fe8987dcf653f533bef40fe",
-    "valset.md": "4adfc230fd08448c4cb8b7e6c8cc6da7a686f85bac5908c343cc1dce9a251174",
+    "valset.md": "7e43a500471416dc01f2d25bf311f45f0e211553716071f11573283cc718d878",
     "valset.py": "ab0278725097e7640617353156e9456cd80137b23151e34c1985c955723019d5",
     "valset.tex": "7c26212df9f208a03dde284d43787526bb6ade0dbc5c335d79f6db3a46bde37d"
    }
@@ -6045,7 +6045,7 @@
    "notebook": "https://dictionaryofml.org/terms/variance.ipynb",
    "sha256": {
     "variance.ipynb": "0d0ddfff9a40eeefb6b0ed5f66d2eab0c5c6207f2317f1013151e2d4af774a56",
-    "variance.md": "579c44bf617ef52803bad7f7565f76f8c7cf6a19d3b641b7d67bd04d9667be8e",
+    "variance.md": "550fb64c76f79a43634f2b25f89f236a3aba70fd020844523495e1a0a4e10164",
     "variance.py": "a809ef7ad6de5492e905a8348eb19ce2eb97101eecd35a01cddff19831bdc713",
     "variance.tex": "cfbae56e1347089fae4a487a918f3e048be9df5563fb10265a1651bf7ba540f6"
    }
@@ -6056,7 +6056,7 @@
    "url": "https://dictionaryofml.org/terms/weightedgraph.html",
    "pdf": "https://dictionaryofml.org/terms/weightedgraph.pdf",
    "abstract": "A weighted graph is a graph whose edges carry nonnegative numbers, the edge weights, that measure how strongly two nodes are tied. It consists of a finite set of nodes, a set of undirected edges joining pairs of distinct nodes, and a positive weight for each edge; a pair of nodes that is not an edge has weight zero. The weights form the weight matrix A, a symmetric matrix with a zero diagonal that is also the adjacency matrix of the graph, and the sum of a row is the weighted node degree of its node. In machine learning, the nodes are often the data points of a dataset and the weight of an edge is the similarity of two data points, e.g., a Gaussian function of the Euclidean distance between their feature vectors, kept for the k nearest neighbors of each data point. Graph clustering seeks subsets of nodes whose outgoing edges carry little weight. Transfer learning and federated learning use the weights of a graph of learning tasks as the coefficients of a penalty term that couples the hypotheses of neighboring tasks.",
-   "description": "Consider ten days of the year 2024 at Krems an der Donau (Austria), every 37th day from 1 January to 29 November, each a data point with a feature vector x ∈ R2 that holds the air temperature at 06:00 and at 15:00 (UTC) of the day. Two days are similar when their feature vectors are close. A drawing records the similarities: each day is a dot, called a node, two similar days are joined by a line, called an edge, and a number on the edge says how similar the two days are. Fig. 2(a) shows this drawing for the ten days, with an edge between two days whenever one of them is among the three days nearest to the other and a number between 0 and 1 that falls off with the Euclidean distance between them. Nodes, edges, and a number on every edge make a weighted graph. Formally, a weighted graph G = ( V,E ) consists of a finite set of nodes V = 1, …, n, a set E of edges, and an edge weight for each edge. Each edge is an unordered pair i,i' of two distinct nodes, so the graph is an undirected graph without self-loops, and the two nodes of an edge are neighbors of each other. The weight of an edge i,i' ∈ E is a positive number Ai,i' > 0, and a pair of nodes that is not an edge has weight Ai,i' = 0. With this convention, the weights determine the edge set, and they are collected in the weight matrix \\begin{equation} {\\mathbf A} \\in \\mathbb{R}^{n \\times n} \\text{ with entries } A_{i,i'} = A_{i',i} \\geq 0 \\text{ and } A_{i,i} = 0 \\text{ for } i, i' \\in \\mathcal{V} \\text{.} \\end{equation} The weight matrix Eq. (1) is a symmetric matrix with a zero diagonal. It is the adjacency matrix of the graph: the entry in row i and column i' is the weight of the edge between i and i', or zero when there is no edge. An unweighted graph is the special case in which every edge has weight 1, so the entries of its weight matrix Eq. (1) are 0 and 1. Fig. 1 shows a weighted graph with four nodes beside its weight matrix. The sum of the weights of the edges at a node is its weighted node degree, \\begin{equation} d^{(i)} = \\sum_{i' \\in \\mathcal{V}} A_{i,i'} \\text{,} \\end{equation} which is the sum of row i of the weight matrix. For an unweighted graph the node degree Eq. (2) counts the neighbors of the node. The Laplacian matrix of the graph is built from the weight matrix and the degrees Eq. (2), and its eigenvectors are what spectral clustering computes. What a weight means is fixed by the application, and two conventions are in use. In a road network, the nodes are intersections, the edges are road segments, and the weight of an edge is the length of the segment or the time needed to travel it. A large weight then means far apart, and the shortest route between two intersections is the path whose weights add up to the smallest value. In machine learning, the weight of an edge usually measures similarity: a large weight means close together. A method that reads a similarity as a length, or a length as a similarity, inverts every conclusion it draws, so the convention must be stated. The graph in Fig. 2(a) uses the similarity convention. The main use of a weighted graph in machine learning is the similarity graph of a dataset D = x(1), …, x(m). Its nodes are the data points, V = 1, …, m with node r standing for x(r), and the weight of an edge measures the similarity of its two data points. For feature vectors in Rd, a common choice is the Gaussian weight \\begin{equation} A_{r,r'} = \\exp \\Big( - \\left\\lVert {\\mathbf x}^{(r)} - {\\mathbf x}^{(r')} \\right\\rVert_{2}^{2} \\big/ (2 \\sigma^{2}) \\Big) \\text{,} \\end{equation} which is 1 for two identical feature vectors and falls off with their Euclidean distance at a rate set by the width σ > 0. Giving the Gaussian weight Eq. (3) to every pair of data points produces a fully connected graph with m(m-1)/2 edges, whose weight matrix has no zero off the diagonal. A sparse alternative is the k-nearest-neighbor graph: an edge joins r and r' when one of the two data points is among the k nearest data points of the other, it carries the Gaussian weight Eq. (3), and every other pair has weight zero. The width σ and the number k of neighbors are hyperparameters of the construction; a usual choice for σ is the mean distance of a data point to its k-th nearest neighbor. For the ten days at Krems and k = 3, this choice gives σ = 8.27 degrees, and 19 of the 45 pairs of days are edges. Their weights range from 0.06 to 0.98, between 16 September and 23 October, and the weighted degrees Eq. (2) from 1.11, on 11 August, to 4.59, on 8 February. Fig. 2(b) shows the weight matrix. A similarity graph turns clustering into a question about the weights. A cluster is a subset C ⊆ V of nodes whose inner edges carry large weights and whose outgoing edges carry small ones. The total weight of the edges that leave the subset, \\begin{equation} \\sum_{i \\in \\mathcal{C}} \\sum_{i' \\in \\mathcal{V} \\setminus \\mathcal{C}} A_{i,i'} \\text{,} \\end{equation} is the cut of C. Graph clustering methods such as spectral clustering choose the clusters to make their cuts Eq. (4) small relative to their sizes. For the ten days at Krems, take the seven days whose 15:00 reading is below 18 degrees as the subset C. Its cut Eq. (4) is 1.64 out of a total edge weight of 13.62: the four edges that leave it are 21 percent of the edges and carry 12.1 percent of the weight. On all 365 days of 2024 and with k = 10, the graph has 2214 edges. The edges between the 211 cold and the 154 warm days carry 1.9 percent of the total weight, and no edge joins a day of January or February with a day of July or August. On a photograph cut into patches, the same construction with the mean color of a patch as its feature vector gives a weighted graph whose clusters are the regions of an image segmentation. A weighted graph also enters empirical risk minimization through a penalty term. In transfer learning and in federated learning, the nodes are learning tasks, each with its own local dataset and a local hypothesis h(i), and the weight Ai,i' states how similar two tasks are. Generalized total variation minimization minimizes the sum of the local training errors plus the generalized total variation \\begin{equation} \\sum_{\\{i,i'\\} \\in \\mathcal{E}} A_{i,i'} d^{(i,i')} \\text{,} \\end{equation} with d(i,i') a measure of the discrepancy between h(i) and h(i'). The generalized total variation Eq. (5) couples the tasks: an edge with a large weight pulls the two hypotheses at its nodes together, and a zero weight leaves them independent. The network Lasso is the special case with the Euclidean distance between the local model parameters as the discrepancy. Adding a penalty term is one of the three routes that regularization distinguishes, and the weighted graph is where this penalty term is specified. On a similarity graph of labeled and unlabeled data points, the penalty term Eq. (5) with the squared difference (h(x(r)) - h(x(r')))2 as the discrepancy is the Laplacian regularizer of semi-supervised learning. It asks a hypothesis to take similar values on two data points joined by an edge of large weight, which is how the unlabeled data points shape the hypothesis. A graph neural network uses the weights for a third purpose, to combine the feature vectors of the neighbors of each node into a new feature vector of the node.",
+   "description": "Consider ten days of the year 2024 at Krems an der Donau (Austria), every 37th day from 1 January to 29 November, each a data point with a feature vector x ∈ R2 that holds the air temperature at 06:00 and at 15:00 (UTC) of the day. Two days are similar when their feature vectors are close. A drawing records the similarities: each day is a dot, called a node, two similar days are joined by a line, called an edge, and a number on the edge says how similar the two days are. Fig. 2(a) shows this drawing for the ten days, with an edge between two days whenever one of them is among the three days nearest to the other and a number between 0 and 1 that falls off with the Euclidean distance between them. Nodes, edges, and a number on every edge make a weighted graph. Formally, a weighted graph G = ( V,E ) consists of a finite set of nodes V = 1, …, n, a set E of edges, and an edge weight for each edge. Each edge is an unordered pair i,i' of two distinct nodes, so the graph is an undirected graph without self-loops, and the two nodes of an edge are neighbors of each other. The weight of an edge i,i' ∈ E is a positive number Ai,i' > 0, and a pair of nodes that is not an edge has weight Ai,i' = 0. With this convention, the weights determine the edge set, and they are collected in the weight matrix \\begin{equation} {\\mathbf A} \\in \\mathbb{R}^{n \\times n} \\text{ with entries } A_{i,i'} = A_{i',i} \\geq 0 \\text{ and } A_{i,i} = 0 \\text{ for } i, i' \\in \\mathcal{V} \\text{.} \\end{equation} The weight matrix Eq. (1) is a symmetric matrix with a zero diagonal. It is the adjacency matrix of the graph: the entry in row i and column i' is the weight of the edge between i and i', or zero when there is no edge. An unweighted graph is the special case in which every edge has weight 1, so the entries of its weight matrix Eq. (1) are 0 and 1. Fig. 1 shows a weighted graph with four nodes beside its weight matrix. The sum of the weights of the edges at a node is its weighted node degree, \\begin{equation} d^{(i)} = \\sum_{i' \\in \\mathcal{V}} A_{i,i'} \\text{,} \\end{equation} which is the sum of row i of the weight matrix. For an unweighted graph the node degree Eq. (2) counts the neighbors of the node. The Laplacian matrix of the graph is built from the weight matrix and the degrees Eq. (2), and its eigenvectors are what spectral clustering computes. What a weight means is fixed by the application, and two conventions are in use. In a road network, the nodes are intersections, the edges are road segments, and the weight of an edge is the length of the segment or the time needed to travel it. A large weight then means far apart, and the shortest route between two intersections is the path whose weights add up to the smallest value. In machine learning, the weight of an edge usually measures similarity: a large weight means close together. A method that reads a similarity as a length, or a length as a similarity, inverts every conclusion it draws, so the convention must be stated. The graph in Fig. 2(a) uses the similarity convention. The main use of a weighted graph in machine learning is the similarity graph of a dataset D = x(1), …, x(m). Its nodes are the data points, V = 1, …, m with node r standing for x(r), and the weight of an edge measures the similarity of its two data points. For feature vectors in Rd, a common choice is the Gaussian weight \\begin{equation} A_{r,r'} = \\exp \\Big( - \\left\\lVert {\\mathbf x}^{(r)} - {\\mathbf x}^{(r')} \\right\\rVert_{2}^{2} \\big/ (2 \\sigma^{2}) \\Big) \\text{,} \\end{equation} which is 1 for two identical feature vectors and falls off with their Euclidean distance at a rate set by the width σ > 0. Giving the Gaussian weight Eq. (3) to every pair of data points produces a fully connected graph with m(m-1)/2 edges, whose weight matrix has no zero off the diagonal. A sparse alternative is the k-nearest-neighbor graph: an edge joins r and r' when one of the two data points is among the k nearest data points of the other, it carries the Gaussian weight Eq. (3), and every other pair has weight zero. The width σ and the number k of neighbors are hyperparameters of the construction; a usual choice for σ is the mean distance of a data point to its k-th nearest neighbor. For the ten days at Krems and k = 3, this choice gives σ = 8.16 degrees, and 19 of the 45 pairs of days are edges. Their weights range from 0.06 to 0.98, between 16 September and 23 October, and the weighted degrees Eq. (2) from 1.11, on 11 August, to 4.59, on 8 February. Fig. 2(b) shows the weight matrix. A similarity graph turns clustering into a question about the weights. A cluster is a subset C ⊆ V of nodes whose inner edges carry large weights and whose outgoing edges carry small ones. The total weight of the edges that leave the subset, \\begin{equation} \\sum_{i \\in \\mathcal{C}} \\sum_{i' \\in \\mathcal{V} \\setminus \\mathcal{C}} A_{i,i'} \\text{,} \\end{equation} is the cut of C. Graph clustering methods such as spectral clustering choose the clusters to make their cuts Eq. (4) small relative to their sizes. For the ten days at Krems, take the seven days whose 15:00 reading is below 18 degrees as the subset C. Its cut Eq. (4) is 1.64 out of a total edge weight of 13.62: the four edges that leave it are 21 percent of the edges and carry 12.1 percent of the weight. On all 365 days of 2024 and with k = 10, the graph has 2214 edges. The edges between the 211 cold and the 154 warm days carry 1.9 percent of the total weight, and no edge joins a day of January or February with a day of July or August. On a photograph cut into patches, the same construction with the mean color of a patch as its feature vector gives a weighted graph whose clusters are the regions of an image segmentation. A weighted graph also enters empirical risk minimization through a penalty term. In transfer learning and in federated learning, the nodes are learning tasks, each with its own local dataset and a local hypothesis h(i), and the weight Ai,i' states how similar two tasks are. Generalized total variation minimization minimizes the sum of the local training errors plus the generalized total variation \\begin{equation} \\sum_{\\{i,i'\\} \\in \\mathcal{E}} A_{i,i'} d^{(i,i')} \\text{,} \\end{equation} with d(i,i') a measure of the discrepancy between h(i) and h(i'). The generalized total variation Eq. (5) couples the tasks: an edge with a large weight pulls the two hypotheses at its nodes together, and a zero weight leaves them independent. The network Lasso is the special case with the Euclidean distance between the local model parameters as the discrepancy. Adding a penalty term is one of the three routes that regularization distinguishes, and the weighted graph is where this penalty term is specified. On a similarity graph of labeled and unlabeled data points, the penalty term Eq. (5) with the squared difference (h(x(r)) - h(x(r')))2 as the discrepancy is the Laplacian regularizer of semi-supervised learning. It asks a hypothesis to take similar values on two data points joined by an edge of large weight, which is how the unlabeled data points shape the hypothesis. A graph neural network uses the weights for a third purpose, to combine the feature vectors of the neighbors of each node into a new feature vector of the node.",
    "synonyms": [],
    "see_also": [
     "graph",
@@ -6085,9 +6085,9 @@
    "notebook": "https://dictionaryofml.org/terms/weightedgraph.ipynb",
    "sha256": {
     "weightedgraph.ipynb": "e227d01f147fd6c53abd36cdf8dc548a027998d0a12541b967cfb37e19b651ca",
-    "weightedgraph.md": "ffc87e2334e16510d7b649b4db54508be446ddad2ed06091c1e1bfcdfc8a90b3",
+    "weightedgraph.md": "b25602731d441352948eec4d84413b64712075c84f154e1237506dd57525ef1e",
     "weightedgraph.py": "da17069c7e60df431db98f2a04d9c851ad8bf75197ccce0196ff4caf344d3bbf",
-    "weightedgraph.tex": "71368889aebea4fb6330d321229ec6bfd383a9fc66ee1e62cfe7b5602bb825d3"
+    "weightedgraph.tex": "f39de4b033340347e6608ee5ce3d34132b61abf78f7046f09159b715c1d2d7b6"
    }
   },
   {
@@ -6163,7 +6163,7 @@
    "notebook": "https://dictionaryofml.org/terms/zerooneloss.ipynb",
    "sha256": {
     "zerooneloss.ipynb": "97e553c3266197a8cae3c9c65da6460d3992acda6fec2c49e7a8f14f7657d0b6",
-    "zerooneloss.md": "62e3654c5d8c2ec96d19fcfa00a7ba802dd1f6dcd440f53254c08e2d3f8d65f3",
+    "zerooneloss.md": "3474d7719f44cf7bb909faa56d983b5a3f5464fb64b15fa958bc27b3bc466e4d",
     "zerooneloss.py": "e6de0a7ada9ca8d2f3058892f7afb384abb5fb86f67b2d8a31bb2e8afb863554",
     "zerooneloss.tex": "d777e554b76a68dc948ee0ee463a7b97505f6d133b0978d8e0b1c448a8f5c54c"
    }
