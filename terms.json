@@ -914,7 +914,7 @@
    "notebook": "https://dictionaryofml.org/terms/accuracy.ipynb",
    "sha256": {
     "accuracy.ipynb": "29abf70894804b69355fe2ce15e05db71755e48a34fef1d3f9d841f73c66c36c",
-    "accuracy.md": "646cb6e947684fedd8e5d6de76b202fa6d161611d25911724558d74995f0fc74",
+    "accuracy.md": "f8e86b64f72c26a2471d5527ee4429f78f95c50111993905562c1386e4a6a03c",
     "accuracy.py": "eaafb209196c1a42a434bc36642c7beba5332b38e5dd7ff0a05bd05c1d4e84e8",
     "accuracy.tex": "ac493cef02c787b32fe8a76bca1dbfc62bac602e26844ba57f6011179113eb62"
    }
@@ -944,7 +944,7 @@
    "notebook": "https://dictionaryofml.org/terms/ann.ipynb",
    "sha256": {
     "ann.ipynb": "b0bd0e3835e203f1ab10eae1ff58389412e7d98db2336f1d1c055e08493d73c0",
-    "ann.md": "e3a4d2f736a312d6eb61a35024af304c8f869089259e23c069609cd47a2f4b24",
+    "ann.md": "83308d86412dca00efe178aa988f1a4baf9e6e38638b83e1e09180b2c0335a22",
     "ann.py": "3d56ea5dc1ab1bcaaa56ca96f90016e659886e3bb751c702fc4840146dec9f33",
     "ann.tex": "dc7232445bfa152c090b5f7e4d5e3b07b8809bcdb9dd873772f6b6d4c61bd0e3"
    }
@@ -1012,7 +1012,7 @@
    "notebook": "https://dictionaryofml.org/terms/autoencoder.ipynb",
    "sha256": {
     "autoencoder.ipynb": "7b4fe668ffb60da707c51ccb7a231ec12f0b4ede31a9b0dc4523abb911316f68",
-    "autoencoder.md": "027643816103298598388f9c909924522e1ee68395299f8fc2f3b8ac56dae96a",
+    "autoencoder.md": "381ef6502f7c71d0d85c9cb0e2f452b46de5a80b48caf525513a3ec670691658",
     "autoencoder.py": "42fb4a103c3781c3852e2046b8607edd357434473e7534ab9e2561d61f18dd95",
     "autoencoder.tex": "07803a006ea355dc22e7ca7a63b4b74891a89ffd4cbdf53ef56e5fd86724f106"
    }
@@ -1045,7 +1045,7 @@
    "notebook": "https://dictionaryofml.org/terms/backpropagation.ipynb",
    "sha256": {
     "backpropagation.ipynb": "f606543b37279c5a043de17402a70574a9253f51d670c32c66dae06826add000",
-    "backpropagation.md": "446cd247f51fe3de1aaf968da6c1a36fa15a9c8cbdcc01be0c515159c63cb113",
+    "backpropagation.md": "268315de274f189095044151a0b5b8c4a012d0967b05b8a2c410b36808dc8fc2",
     "backpropagation.py": "bc084d49dfab63f3b4dfd9310ba716dc52348a56da1cbfe600f438f2eacaacd3",
     "backpropagation.tex": "6f2f538667fedbbec65d856e65d1eb8bc3310873b3f488c7e30c779b729dcc4d"
    }
@@ -1076,7 +1076,7 @@
    "notebook": "https://dictionaryofml.org/terms/bagging.ipynb",
    "sha256": {
     "bagging.ipynb": "3b2068c6bdf682898ee300c4a3b72401f9940e95fbd7b8cb9f1cbd2f6dedd76e",
-    "bagging.md": "783e47454da2df01ef9de02731f97389eba4dc542f86ce62f191c436ca48ae50",
+    "bagging.md": "df1635642a6d292b63b480e0554410fdd27fc6253634c294c2c0a421addc92d6",
     "bagging.py": "11c49c6aab3bc99635b7102689443bbd1453caabcf20d132008873dd432cf369",
     "bagging.tex": "f5dd1c5f1cc000405ba1e75d83dd5a649bfc7134d2a66e3b90d7a603467eb6b9"
    }
@@ -1102,7 +1102,7 @@
    "notebook": "https://dictionaryofml.org/terms/baselearner.ipynb",
    "sha256": {
     "baselearner.ipynb": "a60cad72e0ec91e6d6d2cd04029f65038a0504a147f2505eb0d31dee92841199",
-    "baselearner.md": "076f316b985fad8c1dd52a6ef514cb5e404951832aa1250adbfb4f437a8cd482",
+    "baselearner.md": "420905eb3dec8b1e67a478e3830f91a65078c3cc5dbbcd51a5009b99c6670758",
     "baselearner.py": "7f497457bfc92be6035b5ec172140c565fb85e02edc887246a0a5f780d3c322c",
     "baselearner.tex": "f27ec6d79a25405874d8df08b09596e3eaa6e300e4ffef54792b8abe5888ad3f"
    }
@@ -1135,7 +1135,7 @@
    "notebook": "https://dictionaryofml.org/terms/baseline.ipynb",
    "sha256": {
     "baseline.ipynb": "69ed144d8e1b555c7f3b9694be13bd2ee393ed0a985d3e01b0b90779271108f0",
-    "baseline.md": "b72cbc6529d5aac6d3da1ca08f671b8fcaaf1e0a5ee1bb88a25b6bb3350f7e78",
+    "baseline.md": "f9d3631a988c60f707cd03f9d316bccc364cb77d46fa8d937b9380a02149afb6",
     "baseline.py": "2f35f77f62bec8a7def59454972f929b75e2900cf5f062d7341798a3f9f8e914",
     "baseline.tex": "087b20bf34c3688c77760b969d983ad2d72113c4069dbd591ab94720df5c4611"
    }
@@ -1168,7 +1168,7 @@
    "notebook": "https://dictionaryofml.org/terms/binclass.ipynb",
    "sha256": {
     "binclass.ipynb": "e28bd2d558961478d5da1026e91dccb4a73ae88b9d73565cc82be9fe0a5174e2",
-    "binclass.md": "334d30ca6367fcc74fb7cd01406d2569f443a80c21ba0ddc245b71192efa6941",
+    "binclass.md": "329ec3535361bbe5b6c5763c5e862412b9552516514e6b56feebca01718787e2",
     "binclass.py": "130b12f00bff758dcb684eab0811bc54a6e604884a0f4bcf1d079a8218f674d7",
     "binclass.tex": "4d5c93e507bc424248e040c6d8c9ebbd635c6b921b394ebda777b8ae572e5d00"
    }
@@ -1196,7 +1196,7 @@
    "notebook": "https://dictionaryofml.org/terms/boosting.ipynb",
    "sha256": {
     "boosting.ipynb": "d431e6fc96b787d5dbf72680a4307b23d9a9b2822be121d153caf6b7b8a18d79",
-    "boosting.md": "e4dee4a1d30ae82e4c2c9bac7b2f039c8537a90b91e4f57683b4e0bfa4b1853d",
+    "boosting.md": "7743859233b280b1b78301c778fb142451b63c9f31b4efc2acebbf7dadbbf052",
     "boosting.py": "3aa523e07cc688423a1d250ac28df01495d41a997ad13c3889e88db63d671dba",
     "boosting.tex": "55c1e8e0cce633e56e8192a4a92119fe1b01c6f1bbc3a7f04fe6cc9a2382758e"
    }
@@ -1229,7 +1229,7 @@
    "notebook": "https://dictionaryofml.org/terms/bootstrap.ipynb",
    "sha256": {
     "bootstrap.ipynb": "868ea63b8eee61e7d643a3628f133eb1090a9c66be88cfa0c550839759dc4574",
-    "bootstrap.md": "516ffcc81e5b4638cd78c81fe81c8fc66fbac08d89edb4a6852c7940d4df1c4d",
+    "bootstrap.md": "2646455724d427889c6ce30577afc2b08ef21e4cc4a6f25bbad1fb5ec9cd0c89",
     "bootstrap.py": "9c6e75766e302159b3d0f06bca4b4e98edfc204c8316be105c5f4510e8f8c601",
     "bootstrap.tex": "ee982a06954f81029180d3d7260c5f060ac647ca7381c69cc254c84fae0cc9ac"
    }
@@ -1264,7 +1264,7 @@
    "notebook": "https://dictionaryofml.org/terms/cav.ipynb",
    "sha256": {
     "cav.ipynb": "7b66b4ef84296486a5176f15b5d16a803922650e005600c6fddd5a549a02cad2",
-    "cav.md": "6e1df5736c78e31ad7bfc9b16c3a6b64f2775ef2babbb2a9b9fb8adc7c148b96",
+    "cav.md": "23e8b8346b85a7ba1862f6789188da40f7c761881eeafa70a347d7a8a923b8f5",
     "cav.py": "226961f45198018028c985630fa148f7becd1b718bfbe1d532b8fb2599efbd7d",
     "cav.tex": "0c5608b11352f41ce5b3a0ecb78e8bac1b66d74277426054084bb7890ac07bf8"
    }
@@ -1303,7 +1303,7 @@
    "notebook": "https://dictionaryofml.org/terms/classification.ipynb",
    "sha256": {
     "classification.ipynb": "3121ba1b492960ef599cc8f370bc80979de9460c37d81c5e45aeb90e87983e9f",
-    "classification.md": "5f593b19ecb8d565e7c41945b9ef780d98c19952df592c5e44448f29adbf4760",
+    "classification.md": "c20958233ee77dc8d48b67dd2e2bdbb4df439317c68257cfffc853235a789d5c",
     "classification.py": "6229ebcc5dae05d7b706d81ae1ac4360daf9ccdfea78046b85b4f12575ac7d78",
     "classification.tex": "0f7c1bfaa990e86d2d37b407feb9fca86f85a8e2898822722dd9d99e3d2355c2"
    }
@@ -1348,7 +1348,7 @@
    "notebook": "https://dictionaryofml.org/terms/cluster.ipynb",
    "sha256": {
     "cluster.ipynb": "039d628a34297c7d2472b1e71eee802e8bfe33dcb9cb825c1f220b2711868dc2",
-    "cluster.md": "380d4a16e9894298ed2d94ce3800088ed5314db6d1b5d1d384b07b1dc79322d6",
+    "cluster.md": "30ebde0d3cae2e4634d4c73543d76c59143c9fed0483f6aaccbf1c725c6cbf55",
     "cluster.py": "623d17b44d6164242033dc188bcf4c0539a83795a23b7e61651e70fdc0413404",
     "cluster.tex": "0f2d5685977892e6cafc0b0ce0953ae59d6d97d5002423ec90ad85416cc7dcdd"
    }
@@ -1396,7 +1396,7 @@
    "notebook": "https://dictionaryofml.org/terms/clustercentroid.ipynb",
    "sha256": {
     "clustercentroid.ipynb": "6680cb8757990d1e3ab65d616372ae8044b294473f07547851401844680dbe02",
-    "clustercentroid.md": "39068bb29a8428dd61a9edb7e0b41797f22cacc1e8c263c4df587fd8a9ad2c44",
+    "clustercentroid.md": "3c1ad72e4f6fd543e494747bc76658661727d735f29a6cccf9c8b9942bb344fd",
     "clustercentroid.py": "3fb7788396d6d2965b0c99597664f91c796286c2844862f18969879ea14ca403",
     "clustercentroid.tex": "0ef15820a019e29cc8cb004b1a6a3cf45353c77fb0073edd4e0a2d8f06d13411"
    }
@@ -1442,7 +1442,7 @@
    "notebook": "https://dictionaryofml.org/terms/clustering.ipynb",
    "sha256": {
     "clustering.ipynb": "425b11a177c21db7a044108f862695592a819220d691a1f988a7d9b98b0bba8c",
-    "clustering.md": "0989e7cf46af28b59d63daf7949dee1c7910c75c6826534d1df1aca14650607a",
+    "clustering.md": "00b59b889e9eb8b486e8897f8c6afb9eb99ffb3bbf13b73d2aee0de38649ddd3",
     "clustering.py": "0aaaca56723b5964958fb24807c53ed6464005f5fcad32442da6e230930a83d0",
     "clustering.tex": "a70e2aa67ba7636cb1cc3e0814ddcd43b0fae87c61b348c5ba37bdde0fdb3457"
    }
@@ -1521,7 +1521,7 @@
    "notebook": "https://dictionaryofml.org/terms/cm.ipynb",
    "sha256": {
     "cm.ipynb": "7cc740027c8077ad72cdfb5967bda7f837551fd097c60bafde40e79be63e06eb",
-    "cm.md": "9fbde9aa35a53cea53ee67ca1b742c492adc9e77ed53316dd3fe3701b92dc71f",
+    "cm.md": "0f234ea94e37b8036536d79ee5d324470874770f413d6201bdf2a3d29f17a6ff",
     "cm.py": "c6e2abca26f4268bad7cc4c0d442461149f0959e6d8d18260e99c24f70948872",
     "cm.tex": "e618c7d1604e1ad293699f3d1b91162a3aa685ecb066964e7dd4ae1f24286f2d"
    }
@@ -1572,7 +1572,7 @@
    "notebook": "https://dictionaryofml.org/terms/correlation.ipynb",
    "sha256": {
     "correlation.ipynb": "79e83b7ca00df929db0a69dcd63f02a90980f3af121da16938af3baba16a03de",
-    "correlation.md": "d56f239be7d9af5d2dbe2eef23c0a2632d1c5c38a49fe9fa8bc55a97cb793381",
+    "correlation.md": "60b314347ec40fe9859a51f91eb34f06578cbc704c3f66e764562b597279f1c9",
     "correlation.py": "d93df14f173556a00ba26bfa3673c2af788f20632ff121d93d3c0e2e8f16825b",
     "correlation.tex": "84f324de226df6034f9e4b762cf89abd80204997af9287ef9f4edeadbefb262a"
    }
@@ -1608,7 +1608,7 @@
    "notebook": "https://dictionaryofml.org/terms/covmtx.ipynb",
    "sha256": {
     "covmtx.ipynb": "394034a6b576e76654d00d0f771d1d3e2a2fae0afe0e6675837cd479958e091b",
-    "covmtx.md": "4eb4e6fa56765bc51c3f0e974f486f0d66714442ab7a750c503625aa9f4dc5e2",
+    "covmtx.md": "0638e5e3f77cd7f91f1d106abc46734188769d36bfbb349197bf53aac0c7516a",
     "covmtx.py": "48cb7915f15d089222f784390a60b8d2ea5d0435041f67c8df69998d094f88ce",
     "covmtx.tex": "5a1efda1921825489758a83da67b773062520ec39bb54c01ff11e4be8a059968"
    }
@@ -1680,7 +1680,7 @@
    "notebook": "https://dictionaryofml.org/terms/dataaug.ipynb",
    "sha256": {
     "dataaug.ipynb": "13f5a48aa16105bf2a3f30f851d2e1460886b18e2869ac16457a3a099fe43b05",
-    "dataaug.md": "1e523b3a16d6090150aaa8b323f5de3426065eeb6745cd7885219c91118995b4",
+    "dataaug.md": "28794e4d2419899d43346502f4326b125a11e3ed950921c30302da952998d404",
     "dataaug.py": "5f26f397c9550d467587950a284368ad87c5eb71dc1b00264feaa96b6a3eafa2",
     "dataaug.tex": "7c99b8adad3b7e2220b080b452ff4b063943455de07b7c105304acf9af045404"
    }
@@ -1717,7 +1717,7 @@
    "notebook": "https://dictionaryofml.org/terms/dataimputation.ipynb",
    "sha256": {
     "dataimputation.ipynb": "bc79b41ff904f895dc93b26c129cbf849e8a084aaf7e584b1f9007ee779063b2",
-    "dataimputation.md": "f30e29dcd482ae284c9b893e899640145109b08e88913ab78d1664641266fe95",
+    "dataimputation.md": "1960393a741225e3a8dc46ea5fe20b0fe4689612448876bf65a553852e3bfe53",
     "dataimputation.py": "c139680621d04392f3112d42a1527dcc6a78c66477a9369989601972234d29a2",
     "dataimputation.tex": "38cf850090dcdb11cf511c0d483cad6dd4a6bbcb8e1e169278e0e3c380cbc6b4"
    }
@@ -1745,7 +1745,7 @@
    "notebook": "https://dictionaryofml.org/terms/dataleakage.ipynb",
    "sha256": {
     "dataleakage.ipynb": "063937f0ae0e70d2d060523a569bb398fa87a928599ec05fbca6353d0f417ca2",
-    "dataleakage.md": "ee8a861078b32f0e9bf2c647d3b19f8db0cc2dd32514fbf9ce36744c27ad1dd3",
+    "dataleakage.md": "be927dbe1075e1695b42c22a2695ea0096ef19d201abd98229e2863421111577",
     "dataleakage.py": "6b59d87be67099e6e24144b44900d61d51de27140c058f7c0662bc73c83884c5",
     "dataleakage.tex": "5525be8d3b8c04a9e6383d93f101a129f49f2f8e7833fa09fb2c5c1efce22968"
    }
@@ -1873,7 +1873,7 @@
    "notebook": "https://dictionaryofml.org/terms/decisionboundary.ipynb",
    "sha256": {
     "decisionboundary.ipynb": "b80cad61fb7de0fb0ec86c7210f3d659a98db573df0c9bfc87ac4d7fcf1e5ca7",
-    "decisionboundary.md": "4bde2cb8102d1ceea6a5ee02a4367f6e1e7fe1c9f9ba33ea64b8824db1ae3b42",
+    "decisionboundary.md": "4a02a279a1dc2eaabe3e05412f97813fe1675c96165cb26ebddbbc04b13c61db",
     "decisionboundary.py": "4c4aab2c5774d1fe2718c326f458848b44892ae5fe5a3aeb879e929cae0c2703",
     "decisionboundary.tex": "3b6f54c25912910dae8dcfd309f7b4f07f25aea6e578c7a94cc000609d337565"
    }
@@ -1909,7 +1909,7 @@
    "notebook": "https://dictionaryofml.org/terms/decisionregion.ipynb",
    "sha256": {
     "decisionregion.ipynb": "e4e8941c8a56e54eda99487b713608b7c090858d67e599f5887e6364caa8ceb4",
-    "decisionregion.md": "623777b623f6253a125c82ad017b8bed2f5e115a7f7944526b2cb5c97beef7da",
+    "decisionregion.md": "208f743eaa9550f93328e4a1d319a7533ba7c055670e43d63bbfd076be2a2e1f",
     "decisionregion.py": "e41b18425d8e8873de368a20470cbd6f7830dffce0884a710771bf9efe493636",
     "decisionregion.tex": "13f34a5113618cb167bf2e7ef466b63f904824b99b80637e15b1665b7f8aefcc"
    }
@@ -1938,7 +1938,7 @@
    "notebook": "https://dictionaryofml.org/terms/decisiontree.ipynb",
    "sha256": {
     "decisiontree.ipynb": "0cc469c34e9a325e040465be9c9c683add05241df2ed72f74cc2773355c044a2",
-    "decisiontree.md": "0cfe5f054e2c3db478678b96eebf581b0c9a90722769c655947981bf0e1ddc9b",
+    "decisiontree.md": "0727472f0701923c8d04e75b2179d4de41f00656a91b4696a9a02f09ad9c5989",
     "decisiontree.py": "4040697314811ec16e280656f0eceaecfab3e44cd7e1e5278ed54916bde3ae34",
     "decisiontree.tex": "421c389d89b51bde56741436e3f5d7cba33bcb56b394a787df4509a43022c49e"
    }
@@ -1981,7 +1981,7 @@
    "notebook": "https://dictionaryofml.org/terms/decoder.ipynb",
    "sha256": {
     "decoder.ipynb": "0b9d4f1c1a519d84e35d3a4055d7eca8e9fee25e7743c01d33c97343a8b0a861",
-    "decoder.md": "3d6851e7c7681717a4d6450db0996ace921d02cdabdc7116d1e33f9779358381",
+    "decoder.md": "5ace1c53d164e009250a5e1fdd35c438c129a991aaf9c3280ea592394435a4d6",
     "decoder.py": "31a5a909203fbbf4b24e6330afb9c8a629dce2d490a9a835ec844418c7cc96fd",
     "decoder.tex": "b7f04006022f59b3113b7409e029f86eb96df4e1f0f6bfbbdfc47c165896953f"
    }
@@ -2019,7 +2019,7 @@
    "notebook": "https://dictionaryofml.org/terms/deepnet.ipynb",
    "sha256": {
     "deepnet.ipynb": "827fad5c91a6c0548ae4ebc1337da84a0b1b4b38f736109dcf31d6328913c4f3",
-    "deepnet.md": "58c2b736a60aa3eb7240bd363ca9e4328e5a6b766ebe67e49a3bc47d017c739a",
+    "deepnet.md": "b333b904d4a9793ade676a614eec9f53952149628a7ecbafd88cd81c5a7ce219",
     "deepnet.py": "878856207055b5e7de5fefcee6c96cef97feac2007ebb51519372b021a6628da",
     "deepnet.tex": "d52e291f9f46a56503fbc78491956646298784215d5de7a2f17d5fc566e40f13"
    }
@@ -2048,7 +2048,7 @@
    "notebook": "https://dictionaryofml.org/terms/dimred.ipynb",
    "sha256": {
     "dimred.ipynb": "2677c43ad0cbe90dccee91b717aa0957c7c095c41c1d999a4dab565c81eb8bae",
-    "dimred.md": "39fa5da8c131bf1eee2a2c3b4f2f69b30873036473e34a290eaacc5e7f813441",
+    "dimred.md": "efdb4a4596a160f8eea3dd381e8601652efb724011abc8155f50f9b91ac6ac18",
     "dimred.py": "9c4887b9412fbb003d6134d64edc8d25bd47978e7401f8c9db1d45d05a62b704",
     "dimred.tex": "923caa3248e3d6fa6c02eb94d8303c1a7546d3b02d2068ccda6077a187c8cb7e"
    }
@@ -2084,7 +2084,7 @@
    "notebook": "https://dictionaryofml.org/terms/distshift.ipynb",
    "sha256": {
     "distshift.ipynb": "d50cec23f87ac5525dfa3956de10fbcada0edce97c6c1ae94c96a0d143a40e55",
-    "distshift.md": "ba195b7f6cea4b57303ff4b8a77f2a7ff955fd13cca07c1c86d74bc7f605a53e",
+    "distshift.md": "0819a66b5f2e0ded2b6f02633f3aca163178e9ddff116562c29edfda1d064c23",
     "distshift.py": "677d13dec86f76d96d70836d2f16ea1631b5815a9a393580413522e76dcc6b9f",
     "distshift.tex": "ef10a6c8ebe8eb1f3ea648f2b7fcb136c3fbd246e0203fc2822355f016896819"
    }
@@ -2122,7 +2122,7 @@
    "notebook": "https://dictionaryofml.org/terms/dob.ipynb",
    "sha256": {
     "dob.ipynb": "767f7c4050751ca1116de90770594a1d9f32e80fbace7c4f0e7e859c4cf8ef91",
-    "dob.md": "ce1e4c5b24c1de1adc3ddc672b18a2f809bcad569cc44c104572c247a4b2823e",
+    "dob.md": "37d2cccdfe756d14d81444e860827b89ce51ea1b5e4de8d8192585951ac7fa5b",
     "dob.py": "4993e84213bc01c60d1993f29073a25408c8b888f5bc0045c13b277a0f5412bb",
     "dob.tex": "d1e7388368b6c3aa8a976f8a463e134d6eab42b02b134609508f18001609e0e5"
    }
@@ -2166,7 +2166,7 @@
    "notebook": "https://dictionaryofml.org/terms/edgeweight.ipynb",
    "sha256": {
     "edgeweight.ipynb": "6b4395257a88490a7cd4a4bdfdcafac3e55c1b6d2125d262fc0dae9edea4d135",
-    "edgeweight.md": "0a837568cfac9a9248c9c29a4db844a9fc70cb4463e9adddafbcc21980032f58",
+    "edgeweight.md": "77687fe160426f9cfcb4205241852fae1d425d2bf4f80fd9ab4717fc4bd816b0",
     "edgeweight.py": "91705354b777ede4d05fa6132e2077d7ec125f6a690f7eabdfacfad79e2dbee6",
     "edgeweight.tex": "74c10b2927c88db017510ab2d14a3ea467cbeec8cc6d5222bef4aeed66b163b9"
    }
@@ -2200,7 +2200,7 @@
    "notebook": "https://dictionaryofml.org/terms/effdim.ipynb",
    "sha256": {
     "effdim.ipynb": "601819d368c5a8e6f3d038da5aa7818dce5f0112ea395b38fd8f6f64ed60647d",
-    "effdim.md": "84d73bdb5baf27d59a76c7a5c7bf2905e8640dd2fecc5e3e77a9f2bb15868a32",
+    "effdim.md": "99f8d766ef29d03012494613a07299000e6b12b4156437f02d0d4d7f74ba6d2b",
     "effdim.py": "ae1c5949fd250f40daf6596d3fdbc87283b2f3580779a846a1b1fa842c865332",
     "effdim.tex": "0ab1bd25087521f6a1c89e744e45474a50cdce08273b8a96a109f1accb13a8e0"
    }
@@ -2234,7 +2234,7 @@
    "notebook": "https://dictionaryofml.org/terms/eigenvalue.ipynb",
    "sha256": {
     "eigenvalue.ipynb": "0dd537bd414aca0abaf851c76c2d14fb17b790bde1646cd7b2eb850ffc2bdb78",
-    "eigenvalue.md": "6acc0f33334e447361db9783d381661dd84273ba8c9acb8bb47dbcc0ca2a4e94",
+    "eigenvalue.md": "82e9993bf9178a56fea279c589831e117df46eddb5089965d49cd06b8d204257",
     "eigenvalue.py": "735d4a9953035f086373caa8c3451c89e58adb15f396828ee40dc31198e32fdd",
     "eigenvalue.tex": "2cef4e94f91a3154823b2b804c16ce3e76bc1c61504763c7fe3421ce3818de3f"
    }
@@ -2270,7 +2270,7 @@
    "notebook": "https://dictionaryofml.org/terms/eigenvector.ipynb",
    "sha256": {
     "eigenvector.ipynb": "d3ab346f08ea234a6fa94e1a40e28c9815ba97a766418057bfefeccb87182177",
-    "eigenvector.md": "00379d165ba7991783e6f4e0e28849c5bec38dd02787a11005111d65e3622bb4",
+    "eigenvector.md": "119c7606f9d37acc55196d1b412ae09f3f9642d807ffab408b3bb89fcd215611",
     "eigenvector.py": "46aeeebe5f423201492fcd4a0e74f57cc867af1d3e6f52964d5e19c2b5c5cb96",
     "eigenvector.tex": "dbe5014a5114a817b19c468ddf7f9a73b2d9b3e71970cc59128349d19faab24e"
    }
@@ -2306,7 +2306,7 @@
    "notebook": "https://dictionaryofml.org/terms/em.ipynb",
    "sha256": {
     "em.ipynb": "3c899f5adf6cd34f8bd252ed8865af06bad963d08ab781ab15f4683c4ec381a7",
-    "em.md": "31861b5676cb65814afd46dcfaf0a0c679e07b0311fc2b4a28747a6638508485",
+    "em.md": "3aedb9eefda5e36b4b10a9455716e710066f52fd107f75c5c39a946666fea598",
     "em.py": "b59790dc771301326a8bb64c2ce34be1540807aef3d6c2a9b82be587f1847095",
     "em.tex": "187843d205bc0eab96a1e751a48434c6b5d4b568a2f8aa7535e61f225dba128e"
    }
@@ -2370,7 +2370,7 @@
    "notebook": "https://dictionaryofml.org/terms/ensemble.ipynb",
    "sha256": {
     "ensemble.ipynb": "4283bbcf9e1f97758698910da442c4163240109536736df3ac70756310c0b5f6",
-    "ensemble.md": "ad70f38e8ad654831e37f9bd72ae27a7f5234cbd9381928e8a5deaea7e1da3f2",
+    "ensemble.md": "98e1da0f1b78288e34c305069bc6dc4c844b0a2bfbc943a064ea82ced1a29ad5",
     "ensemble.py": "a0eb4314d4cbb1100b121efe17a190b5c4a9fa689c1f435250d732a3e3d88340",
     "ensemble.tex": "2fe26ac12fb8bb915821ef25c98163849ec665fcf1a9a19d4509d01e1dd8e9bd"
    }
@@ -2476,7 +2476,7 @@
    "notebook": "https://dictionaryofml.org/terms/explainability.ipynb",
    "sha256": {
     "explainability.ipynb": "6d2b1ec3dffa98b6707686f1e9e250932dec12bf3c663a016e762f75f00300c6",
-    "explainability.md": "5ff3def2316a1b5e3faa1cbdec68a35329bccdff85959bdd36bb76930f4c0116",
+    "explainability.md": "df93a93e39095796128824ca61d19d4ee0f50fc11627b90300c99bd669a40d5d",
     "explainability.py": "a1e55038086ed174a72a298445f14466803ed1856a4cef5fa93c05d2ca0859d3",
     "explainability.tex": "3074a2c2d3eb15dbb17e00b45dd7a02b91bcd5d0654a8207262655d42433ad21"
    }
@@ -2512,7 +2512,7 @@
    "notebook": "https://dictionaryofml.org/terms/explanation.ipynb",
    "sha256": {
     "explanation.ipynb": "9b565520612ba3ceea019439fdf3bbcee13b25909a9ad48624f853de3da97eae",
-    "explanation.md": "b344b56b36d0151e0b844b1dae5e7b58b6ad259b0879c1e5584b3f7194493f5e",
+    "explanation.md": "47a93ef3a4c7e4124247dbcc3ba2bacd5d7d0dddbd94310014a888b2562b6479",
     "explanation.py": "8afca98ecab2cc2970f0b8a3a2d2a69d67c688ebf8f8e71b4a6245685ba6c169",
     "explanation.tex": "060300723d0c999e23f09e1d80a178067cbb640a284436d83639cb09ff226e76"
    }
@@ -2586,7 +2586,7 @@
    "notebook": "https://dictionaryofml.org/terms/featlearn.ipynb",
    "sha256": {
     "featlearn.ipynb": "4b998ecf876b346e5eab472cbbbe6d390fb48787b2e1f4341e3bf730d44f55a6",
-    "featlearn.md": "d10bf5026a113e875dec37af15add4abfa2d74b43f67fe81719283dbe9d35d12",
+    "featlearn.md": "d7ae6e2fd47e4c0214251b5dfbe342607399a2f8bde2f7f50c9cc4b7a24baef5",
     "featlearn.py": "db88b6db292d44f4ae746de6e842297473500f5fd9f390d0d6666af7693f6c5c",
     "featlearn.tex": "110b0292fd50f1c0b35686f64fee25cce82acdf08d15d977976161d9d00852a7"
    }
@@ -2636,7 +2636,7 @@
    "url": "https://dictionaryofml.org/terms/featureimportance.html",
    "pdf": "https://dictionaryofml.org/terms/featureimportance.pdf",
    "abstract": "Feature importance scores measure how strongly a learned hypothesis relies on individual features. Such scores can be obtained from the weights of a linear hypothesis, learned either from the labels of a training set, where they measure the importance of a feature for the label, or from the predictions of a given hypothesis, where they measure its reliance on the feature. The weights of a linear model describe the prediction change per unit of a feature. Another construction uses the change of the average loss when the values of one feature are perturbed, either replaced by random values or permuted across the data points of a dataset. Feature importance scores measure primarily the reliance of a trained model on a feature. These scores might not reflect the relevance of the feature for the learning task itself. In particular, a trained model might ignore a relevant feature, which results in a low importance score.",
-   "description": "The weather station Krems an der Donau (Austria) records six observations of each day: the maximum and the minimum air temperature, the mean air pressure, the mean relative humidity, the sunshine duration, and the precipitation. These raw observations are used in a machine learning application where data points represent daily weather conditions. The label of such a data point is the maximum daytime temperature which is to be predicted from twelve features x1,…,x12. These features are the six observations of the day before and the six observations of two days before. Fig. 1 depicts observed maximum daily temperatures along with their predictions obtained from a hypothesis ĥ learned via linear regression. Each prediction (or forecast) ĥ(x) for a data point is computed from its feature vector x = (x1,…,x12 )ᵀ. A feature importance score quantifies how strongly this prediction relies on a particular feature of the data point. It assigns a number to each feature of a data point: a large number marks a feature that strongly affects the prediction, while a number near zero marks a feature that barely affects it. Which of the twelve features the predictions of Fig. 1 rely on is what the importance scores of Fig. 3 quantify. Machine learning methods compute feature importance scores for different purposes. As an explanation in explainable artificial intelligence, a score describes how much a learned hypothesis relies on individual features of a data point. During model selection, importance scores can guide the choice of a subset of the features of the data points, after which a new hypothesis is learned using that subset. Consider a linear model with the learned hypothesis \\[ \\widehat{h}({\\mathbf x}) = \\sum_{j=1}^{12} \\widehat{w}_{j} x_{j} \\text{.} \\] A natural choice of feature importance scores are its weights ŵj. Increasing the j-th feature of a data point by one unit changes the prediction by ŵj. The sign of ŵj says whether the prediction rises or falls with the feature, and the magnitude |ŵj| says by how much. A feature xj with a large magnitude |ŵj| can then be considered important. One challenge of using the weights ŵj delivered by linear regression as feature importance scores is their dependence on the scale of the feature values. As a case in point, replacing the feature x1 by 103 x1 makes linear regression learn a weight ŵ1 that is smaller by the factor 103, while every prediction stays the same. By rescaling a feature, or changing its measurement unit (e.g., millimeters instead of meters), its importance can therefore be made arbitrarily large or small. This dependence is avoided by applying linear regression to standardized features (see feature standardization): each column of the feature matrix is centered by its sample mean and divided by its standard deviation, so that ŵj becomes the prediction change per standard deviation of the j-th feature. Algorithm 1 summarizes the construction of feature importance scores by applying linear regression to the standardized feature values of a given dataset with feature matrix X = (x(1),…,x(m) )ᵀ ∈ Rm × d. Its second input, the label vector y, can be chosen in two ways, and the choice decides what the scores mean. The first choice for the entries of the input y to Algorithm 1 is the labels of the data points, y = (y(1),…,y(m))ᵀ. For this choice, the score Ij delivered by Algorithm 1 measures how much a linear hypothesis learned from the dataset uses the j-th feature to predict the label. Thus, the score Ij measures the importance of the feature xj for the label itself and can therefore guide the choice of a feature subset during model selection. The second choice for the entries of the input y to Algorithm 1 is the predictions of a given learned hypothesis (or trained model) ĥ, y = ( ĥ(x(1)), …,ĥ(x(m)) )ᵀ. The weights are those of a linear approximation of the (possibly nonlinear) hypothesis ĥ. For this choice, the scores Ij delivered by Algorithm 1 measure how much ĥ relies on the j-th feature. Here, the scores serve as an explanation for the predictions delivered by ĥ. For a linear ĥ the two choices agree whenever ĥ was itself learned by linear regression on the same dataset, since linear regression applied to its own predictions returns its weights. In contrast, for a nonlinear ĥ the two choices differ, as a simple experiment with a random forest shows below; its results are reported with Fig. 4. \\begin{algorithm}[H] \\caption{Feature importance from linear regression on standardized features } \\begin{algorithmic}[1] \\Statex Input: feature matrix X = (x(1), …, x(m))ᵀ ∈ Rm × d with entries xj(r); label vector y = (y(1), …, y(m))ᵀ, whose entries are either the labels of the data points or the predictions y(r) := ĥ(x(r)) of a learned hypothesis ĥ to be analyzed \\For{j = 1, …, d} \\State μ̂j := (1)/(m) Σr=1m xj(r), \\quad σ̂j := √((1)/(m) Σr=1m (xj(r) - μ̂j)2) \\State replace every entry xj(r) of column j by (xj(r) - μ̂j) / σ̂j \\Comment{standardize} \\EndFor \\State ȳ := (1)/(m) Σr=1m y(r); replace y by y - ȳ 1 \\Comment{center the labels} \\State ŵ := argminw ∈ Rd (1)/(m) ‖ y - X w ‖2 \\Comment{linear regression} \\Statex Output: importance scores Ij := |ŵj| for j = 1, …, d: the importance of the j-th feature for the label, or for the predictions of ĥ, according to the input \\end{algorithmic} \\end{algorithm} Another construction of a feature importance score does not learn a hypothesis at all. Its input is a hypothesis ĥ already learned by some machine learning method, and its output scores how strongly ĥ relies on each feature. This construction, introduced for random forests under the name variable importance, measures the change of the average loss when the values of a single feature are replaced by random values. For a random forest, each decision tree is scored on the training data points that were not in its own resampled training set, and the score is the relative increase of the misclassification rate. Algorithm 2 summarizes the method in a form that applies to any learned hypothesis. Fisher et al. (2019, Sect. 3) introduce this form under the name model reliance, for a fixed hypothesis, with the permutation estimate of their Sect. 3.1, and show that the score can be estimated on the training set itself. The input of Algorithm 2 is a dataset, characterized by a feature matrix X ∈ Rm × d and a label vector y ∈ Rm, and a learned hypothesis (or trained model) ĥ. This dataset is referred to as the scoring dataset. It should have the same statistical properties as the training set used to learn ĥ: ideally, the data points of both are realizations of independent and identically distributed RVs. For the j-th feature, Algorithm 2 delivers a score Ij that compares the average loss of ĥ on the dataset (X, y) with its average loss on a perturbed dataset with the same y but a different feature matrix \\[ \\widetilde{{\\mathbf X}}^{(j)} = \\big(\\widetilde{{\\mathbf x}}^{(1)}, \\ldots, \\widetilde{{\\mathbf x}}^{(m)}\\big)^{\\top} \\text{.} \\] The perturbed feature matrix is obtained by permuting the entries of the j-th column of X across its rows, with every other column unchanged (Fig. 2). The permutation importance of the j-th feature is the increase of the average loss that this exchange causes, \\[I_{j} := \\frac{1}{m} \\sum_{r=1}^{m} L\\left(\\left( \\widetilde{{\\mathbf x}}^{(r)},y^{(r)} \\right),\\widehat{h} \\right) - \\frac{1}{m} \\sum_{r=1}^{m} L\\left(\\left( {\\mathbf x}^{(r)},y^{(r)} \\right),\\widehat{h} \\right) \\text{,} \\] where y(r) is the label of data point r. The permutation is random, so Algorithm 2 averages Ij over B independent permutations of the j-th column of X. \\begin{algorithm}[H] \\caption{Permutation importance (variable importance), similar to Fisher et al. (2019, Sect. 3.1) } \\begin{algorithmic}[1] \\Statex Input: scoring dataset with feature matrix X = (x(1), …, x(m))ᵀ and label vector y = (y(1), …, y(m))ᵀ; learned hypothesis ĥ; loss L(·,· ); number B of permutations \\State L̂ := (1)/(m) Σr=1m L(( x(r),y(r) ),ĥ ) \\Comment{average loss on the dataset} \\For{j = 1, …, d} \\For{b = 1, …, B} \\State X̃(j) := X with the entries of column j permuted uniformly at random across the rows; denote its rows by (x̃(r))ᵀ \\State L̃(b) := (1)/(m) Σr=1m L(( x̃(r),y(r) ),ĥ ) \\EndFor \\State Ij := (1)/(B) Σb=1B L̃(b) - L̂ \\EndFor \\Statex Output: importance scores I1, …, Id for each feature x1,…,xd \\end{algorithmic} \\end{algorithm} Fig. 3 plots Ij computed by Algorithm 2 with B = 20 for the weather data points of Krems an der Donau. The scoring dataset consists of the 92 data points whose label is the maximum temperature of a day from October 1 to December 31, 2024, so their features are the observations of September 29 to December 30. The linear hypothesis of Fig. 1 was learned on the training set of the 272 data points whose label days run from January 3 to September 30. The maximum temperature of the day before obtains the largest score, while the minimum temperature of the day before obtains a score near zero. That minimum temperature is not useless: its correlation with the label on the scoring dataset is 0.69, as strong as that of the minimum temperature two days before. The score Ij primarily reflects how much ĥ relies on the feature xj, which can be different from its relevance for the label of a data point, that is, for the learning task. For the squared error loss and a linear hypothesis, the permutation score is approximately a function of the weights alone, \\begin{equation} I_{j} \\approx 2\\widehat{w}_{j}^{2} \\operatorname{var}\\left(x_{j}\\right) \\text{,} \\end{equation} with var(xj) the variance of the j-th feature on the scoring dataset, the additive-model formula of Gregorutti et al. (2017, Prop. 1) with fj(xj) = ŵj xj. Permuting the column replaces xj by an independent draw from the same probability distribution, which raises the expected loss by exactly 2ŵj2 var(xj) plus 2ŵj cov(y - ĥ(x),xj). The approximation Eq. (1) is therefore exact when the prediction error is uncorrelated with the feature: on the training set of a hypothesis learned by linear regression, whose residuals are orthogonal to every feature, and in expectation whenever the prediction error has expectation zero given x. On a scoring dataset that covariance is the approximation error, and the permutations add their own fluctuation; in Fig. 3 the three largest scores match Eq. (1) within 0.5. For standardized features, var(xj) = 1, so the score of Algorithm 2 is, up to the square, the score of Algorithm 1: for the maximum temperature of the day before, the weight of the hypothesis of Fig. 1 times the standard deviation of that feature on the scoring dataset is 4.96, and √(Ij/2) = 4.96. Both of the above algorithms access ĥ only through its predictions and therefore apply to any learned hypothesis. They differ in what they score: Algorithm 1 scores a linear approximation of ĥ, whereas Algorithm 2 scores ĥ itself, so its scores are meaningful also when no linear approximation is accurate. Fig. 4 shows the scores delivered by Algorithm 2 for a random forest, learned on the same training set and evaluated on the same scoring dataset as the linear hypothesis of Fig. 3. Both reach almost the same average squared error loss on the scoring dataset, 8.2 in squared degrees Celsius, but they rely on the features differently. Algorithm 1 shows the same difference when its input switches from the labels to the predictions: fed with the labels of the training set, it scores the maximum temperature of the day before 8.44 and the minimum temperature of the day before 0.09, whereas fed with the random forest's predictions on the same training set it scores them 6.16 and 0.40. The first pair describes the label, the second the random forest, which relies on the minimum temperature of the day before, a feature that the linear hypothesis ignores.",
+   "description": "Of the daily observations that the weather station Krems an der Donau (Austria) records, six are used here: the maximum and the minimum air temperature, the mean air pressure, the mean relative humidity, the sunshine duration, and the precipitation. These raw observations are used in a machine learning application where data points represent daily weather conditions. The label y of such a data point is the maximum daytime temperature that is to be predicted from twelve features x1,…,x12. These features are the six observations of the day before and the six observations of two days before. Fig. 1 shows observed maximum daily temperatures along with their predictions obtained from a hypothesis ĥ learned via linear regression. Each prediction (or forecast) ĥ(x) for a data point is computed from its feature vector x = (x1,…,x12 )ᵀ. A feature importance score measures how strongly this prediction relies on a particular feature of the data point. It assigns a number to each feature of a data point: a large number marks a feature that strongly affects the prediction, while a number near zero marks a feature that barely affects it. Which of the twelve features the predictions of Fig. 1 rely on is what the importance scores of Fig. 3 measure. Machine learning methods compute feature importance scores for different purposes. As an explanation in explainable artificial intelligence, a score describes how much a learned hypothesis relies on individual features of a data point. During model selection, importance scores can guide the choice of a subset of the features of the data points, after which a new hypothesis is learned using that subset. Consider a linear model with the learned hypothesis \\[ \\widehat{h}({\\mathbf x}) = \\sum_{j=1}^{12} \\widehat{w}_{j} x_{j} \\text{.} \\] A natural choice of feature importance scores are its weights ŵj. Increasing the j-th feature of a data point by one unit changes the prediction by ŵj. The sign of ŵj says whether the prediction rises or falls with the feature, and the magnitude |ŵj| says by how much. A feature xj with a large magnitude |ŵj| can then be considered important. One challenge of using the weights ŵj delivered by linear regression as feature importance scores is their dependence on the scale of the feature values. For example, replacing the feature x1 by 103 x1 makes linear regression learn a weight ŵ1 that is smaller by the factor 103, while every prediction stays the same. By rescaling a feature, or changing its measurement unit (e.g., millimeters instead of meters), its importance can therefore be made arbitrarily large or small. This dependence is avoided by applying linear regression to standardized features (see feature standardization): each column of the feature matrix is centered by its sample mean and divided by its standard deviation, so that ŵj becomes the prediction change per standard deviation of the j-th feature. Algorithm 1 summarizes the construction of feature importance scores by applying linear regression to the standardized feature values of a given dataset with feature matrix X = (x(1),…,x(m) )ᵀ ∈ Rm × d. Its second input, the label vector y, can be chosen in two ways, and the choice decides what the scores mean. The first choice for the entries of the input y to Algorithm 1 is the labels of the data points, y = (y(1),…,y(m))ᵀ. For this choice, the score Ij delivered by Algorithm 1 measures how much a linear hypothesis learned from the dataset uses the j-th feature to predict the label. Thus, the score Ij measures the importance of the feature xj for the label itself and can therefore guide the choice of a feature subset during model selection. The second choice for the entries of the input y to Algorithm 1 is the predictions of a given learned hypothesis (or trained model) ĥ, y = ( ĥ(x(1)), …,ĥ(x(m)) )ᵀ. The weights are those of a linear approximation of the (possibly nonlinear) hypothesis ĥ. For this choice, the scores Ij delivered by Algorithm 1 measure how much ĥ relies on the j-th feature. Here, the scores serve as an explanation for the predictions delivered by ĥ. For a linear ĥ the two choices agree whenever ĥ was itself learned by linear regression on the same dataset, since linear regression applied to its own predictions, which are already a linear function of the features, returns its weights. In contrast, for a nonlinear ĥ the two choices differ, as a simple experiment with a random forest shows below; its results are reported with Fig. 4. \\begin{algorithm}[H] \\caption{Feature importance from linear regression on standardized features } \\begin{algorithmic}[1] \\Statex Input: feature matrix X = (x(1), …, x(m))ᵀ ∈ Rm × d with entries xj(r); label vector y = (y(1), …, y(m))ᵀ, whose entries are either the labels of the data points or the predictions y(r) := ĥ(x(r)) of a learned hypothesis ĥ to be analyzed \\For{j = 1, …, d} \\State μ̂j := (1)/(m) Σr=1m xj(r), \\quad σ̂j := √((1)/(m) Σr=1m (xj(r) - μ̂j)2) \\State replace every entry xj(r) of column j by (xj(r) - μ̂j) / σ̂j \\Comment{standardize} \\EndFor \\State ȳ := (1)/(m) Σr=1m y(r); replace y by y - ȳ 1, with 1 ∈ Rm the vector of ones \\Comment{center the labels} \\State ŵ := argminw ∈ Rd (1)/(m) ‖ y - X w ‖2 \\Comment{linear regression} \\Statex Output: importance scores Ij := |ŵj| for j = 1, …, d: the importance of the j-th feature for the label, or for the predictions of ĥ, according to the input \\end{algorithmic} \\end{algorithm} Another construction of a feature importance score does not learn a hypothesis at all. Its input is a hypothesis ĥ already learned by some machine learning method, and its output scores how strongly ĥ relies on each feature. This construction, introduced for random forests under the name variable importance, measures the change of the average loss when the values of a single feature are replaced by random values. For a random forest, each decision tree is scored on the training data points that were not in its own resampled training set, and the score is the relative increase of the misclassification rate. Algorithm 2 summarizes the method in a form that applies to any learned hypothesis. Fisher et al. (2019, Sect. 3) introduce this form under the name model reliance, for a fixed hypothesis, with the permutation estimate of their Sect. 3.1, and show that the score can be estimated on the training set itself. The input of Algorithm 2 is a dataset, with a feature matrix X ∈ Rm × d and a label vector y ∈ Rm, and a learned hypothesis (or trained model) ĥ. This dataset is referred to as the scoring dataset. It should be generated by the same probability distribution as the training set used to learn ĥ: ideally, the data points of both are realizations of independent and identically distributed RVs. For the j-th feature, Algorithm 2 delivers a score Ij that compares the average loss of ĥ on the dataset (X, y) with its average loss on a perturbed dataset with the same y but a different feature matrix \\[ \\widetilde{{\\mathbf X}}^{(j)} = \\big(\\widetilde{{\\mathbf x}}^{(1)}, \\ldots, \\widetilde{{\\mathbf x}}^{(m)}\\big)^{\\top} \\text{.} \\] The perturbed feature matrix is obtained by permuting the entries of the j-th column of X across its rows, with every other column unchanged (Fig. 2). The permutation importance of the j-th feature is the increase of the average loss that this exchange causes, \\[I_{j} := \\frac{1}{m} \\sum_{r=1}^{m} L\\left(\\left( \\widetilde{{\\mathbf x}}^{(r)},y^{(r)} \\right),\\widehat{h} \\right) - \\frac{1}{m} \\sum_{r=1}^{m} L\\left(\\left( {\\mathbf x}^{(r)},y^{(r)} \\right),\\widehat{h} \\right) \\text{,} \\] where y(r) is the label of data point r. The permutation is random, so Algorithm 2 averages Ij over B independent permutations of the j-th column of X. \\begin{algorithm}[H] \\caption{Permutation importance (variable importance), similar to Fisher et al. (2019, Sect. 3.1) } \\begin{algorithmic}[1] \\Statex Input: scoring dataset with feature matrix X = (x(1), …, x(m))ᵀ and label vector y = (y(1), …, y(m))ᵀ; learned hypothesis ĥ; loss L(·,· ); number B of permutations \\State L̂ := (1)/(m) Σr=1m L(( x(r),y(r) ),ĥ ) \\Comment{average loss on the dataset} \\For{j = 1, …, d} \\For{b = 1, …, B} \\State X̃(j) := X with the entries of column j permuted uniformly at random across the rows; denote its rows by (x̃(r))ᵀ \\State L̃(b) := (1)/(m) Σr=1m L(( x̃(r),y(r) ),ĥ ) \\EndFor \\State Ij := (1)/(B) Σb=1B L̃(b) - L̂ \\EndFor \\Statex Output: importance scores I1, …, Id for each feature x1,…,xd \\end{algorithmic} \\end{algorithm} Fig. 3 plots Ij computed by Algorithm 2 with the squared error loss and B = 20 for the weather data points of Krems an der Donau, beside the value 2 ŵj2 var(xj) that the weights of the linear hypothesis and the variance of each feature give, which is explained after the figure. The scoring dataset consists of the 92 data points whose label is the maximum temperature of a day from October 1 to December 31, 2024, so their features are the observations of September 29 to December 30. The linear hypothesis of Fig. 1 was learned on the training set of the 272 data points whose label days run from January 3 to September 30. The maximum temperature of the day before obtains the largest score, while the minimum temperature of the day before obtains a score near zero. That minimum temperature is not useless: its correlation with the label on the scoring dataset is 0.69, as strong as that of the minimum temperature two days before. The score Ij primarily reflects how much ĥ relies on the feature xj, which can be different from its relevance for the label of a data point, that is, for the learning task. For the squared error loss and a linear hypothesis, the permutation score is approximately a function of the weights alone, \\begin{equation} I_{j} \\approx 2\\widehat{w}_{j}^{2} \\operatorname{var}\\left(x_{j}\\right) \\text{,} \\end{equation} with var(xj) the variance of the j-th feature on the scoring dataset, the additive-model formula of Gregorutti et al. (2017, Prop. 1) with fj(xj) = ŵj xj. Permuting the column replaces xj by an independent draw from the same probability distribution, which raises the expected loss by exactly 2ŵj2 var(xj) plus 2ŵj cov(y - ĥ(x),xj). The approximation Eq. (1) is therefore exact when the prediction error is uncorrelated with the feature: on the training set of a hypothesis learned by linear regression, whose residuals are orthogonal to every feature by the normal equations of linear regression, and in expectation whenever the prediction error has expectation zero given x. On a scoring dataset that covariance is the approximation error, and the permutations add their own fluctuation; in Fig. 3 the three largest scores match Eq. (1) within 0.5. For standardized features, var(xj) = 1, so the score of Algorithm 2 is, up to the square, the score of Algorithm 1: for the maximum temperature of the day before, the weight of the hypothesis of Fig. 1 times the standard deviation of that feature on the scoring dataset is 4.96, and √(Ij/2) = 4.96. Both of the above algorithms access ĥ only through its predictions and therefore apply to any learned hypothesis. They differ in what they score: Algorithm 1 scores a linear approximation of ĥ, while Algorithm 2 scores ĥ itself, so its scores are meaningful also when no linear approximation is accurate. Both score the reliance of ĥ on a feature over a whole dataset, unlike a local explanation such as local interpretable model-agnostic explanations, which approximates ĥ around one data point. Fig. 4 shows the scores delivered by Algorithm 2 for a random forest, learned on the same training set and evaluated on the same scoring dataset as the linear hypothesis of Fig. 3. Both reach almost the same average squared error loss on the scoring dataset, 8.2 in squared degrees Celsius, but they rely on the features differently. Algorithm 1 shows the same difference when its input switches from the labels to the predictions: fed with the labels of the training set, it scores the maximum temperature of the day before 8.44 and the minimum temperature of the day before 0.09, while fed with the random forest's predictions on the same training set it scores them 6.16 and 0.40. The first pair describes the label, the second the random forest, which relies on the minimum temperature of the day before, a feature that the linear hypothesis ignores.",
    "synonyms": [
     "variable importance"
    ],
@@ -2657,9 +2657,9 @@
    "notebook": "https://dictionaryofml.org/terms/featureimportance.ipynb",
    "sha256": {
     "featureimportance.ipynb": "1f4d5dd433f5e2203d4a6e94de7cd918b54743bc7f3b80800601c4a5928b95d4",
-    "featureimportance.md": "d0ca3e42d2d53f785217254928c9a23955163a6c1756fec9714cf2a26be742e2",
+    "featureimportance.md": "69a016757788fb92caa93b729757dd2291f3ea157d4a0f3adb98da0f3225cdbd",
     "featureimportance.py": "821202588c882dbf1c2e18cb2690ec3ee8cfc434a15adb17ac774a13401e9fdf",
-    "featureimportance.tex": "852737e6edd881464fc2be6baeb593cfb0e05317436ee0e352d472b2cec81673"
+    "featureimportance.tex": "33d736751e8aa887b6dec0f57418018d06c4fe9e2775208d58f642a8d47023b3"
    }
   },
   {
@@ -2745,7 +2745,7 @@
    "notebook": "https://dictionaryofml.org/terms/featurespace.ipynb",
    "sha256": {
     "featurespace.ipynb": "4e2d4d379ead339fc8b441b74fa4b370871fa4e43f31976424613c0944ee7add",
-    "featurespace.md": "4addadaa55a366384ef5c47b7b3fc6472a8f4abdd7f80c4f0be9c7f999f63efd",
+    "featurespace.md": "055a130b49d98e619b4689db03133057d59a1e1ae8ef88c2985f466ff729c06d",
     "featurespace.py": "208a2f912232e3c3de25b71e1d69692f4277ccd060ce0483fabc475173f9fd8a",
     "featurespace.tex": "362a450ee1dd6e19914b6dc51c6c41b3cb6fe15912d2143832342cea290db5bd"
    }
@@ -2785,7 +2785,7 @@
    "notebook": "https://dictionaryofml.org/terms/featuretransformation.ipynb",
    "sha256": {
     "featuretransformation.ipynb": "6fc4704130729b0929c1355577d8806407ba9deddc4617028bf30ccf586e3a18",
-    "featuretransformation.md": "ebad5ee486392ce674075a38272fd7bfdef8a958d7c4a9398eddbfd60c5c7763",
+    "featuretransformation.md": "a02fb62b6f4a0783ed6c40a478c4f0cbbb36bb53d701981cb009d51b8270030b",
     "featuretransformation.py": "8066e17b80c2c005acc77ddedbb98a94d8e3168b3f9b27e3ffb74841192cca2b",
     "featuretransformation.tex": "9bcf67ff70ed80f1a70e1eaeedfdad4a83536c559032f9d6cf7aa68be934bddc"
    }
@@ -2795,8 +2795,8 @@
    "name": "feature vector",
    "url": "https://dictionaryofml.org/terms/featurevec.html",
    "pdf": "https://dictionaryofml.org/terms/featurevec.pdf",
-   "abstract": "A feature vector is a list of numbers describing a data point, with one entry for each of its features. A feature is an attribute of the data point that is measured or computed without substantial human supervision. The precise specification of these measurements defines a feature transformation, the function that maps the data point to its feature vector in the feature space. A hypothesis map is applied to the feature vector to predict the label. The feature space is usually a Euclidean space whose dimension is the number of features. Nonnumeric features are encoded as numbers, a binary attribute as 0 or 1 and a categorical one by one-hot encoding. The domain of the feature transformation varies between applications: a data point can be a record of attributes, a text, a digital image, or an audio recording. More generally, the feature space can be any Hilbert space, and a kernel method uses such feature vectors without ever forming them, through their inner products alone.",
-   "description": "A machine learning method can represent a day at Krems an der Donau (Austria) by four numbers. They are the air temperature at 06:00 and at 15:00 (UTC) of that day, and the same two readings of the previous day. For 16 July 2024, these are 24.6 and 30.8 degrees Celsius, and 22.2 and 31.5 the day before. Stacking these measurements into a vector (24.6, 30.8, 22.2, 31.5)ᵀ ∈ R4 gives a feature vector that characterizes this day. In general, the entries of a feature vector x = (x1, …, xd)ᵀ are the features x1, …, xd of a data point: attributes measured or computed without substantial human supervision. A precise specification of how these attributes are measured defines a feature transformation \\[ {\\mathbf \\Phi}: \\mathcal{Z} \\rightarrow \\mathcal{X}, \\quad {\\mathbf x} = {\\mathbf \\Phi}({\\mathbf z}) \\text{.} \\] The function Φ maps a data point z ∈ Z to its feature vector x ∈ X (Fig. 1). Computing it is the preprocessing step also called feature extraction. A hypothesis map takes the feature vector as input and outputs a prediction of the label of the data point. One widely used choice for the feature space is a Euclidean space Rd of fixed dimension d. For the weather example above, the feature space is X=R4. The feature space Rd is the choice for machine learning applications whose features are numeric quantities, such as the four temperatures above. Nonnumeric features can also be entries of a feature vector, once their values are encoded as real numbers. A binary feature, such as whether there was rainfall during the day, is encoded as 0 or 1. A categorical feature with K possible values, such as the season (winter, spring, summer, or autumn), is one-hot encoded. It occupies K entries of the feature vector, all equal to 0 except for a single entry equal to 1, whose position names the value. On 16 July 2024, 18.7 millimeters of rain fell, and the season is summer, so the two features are encoded as the entries 1 and (0, 0, 1, 0), respectively. Stacked under the four temperatures, they give the feature vector x = (24.6, 30.8, 22.2, 31.5, 1, 0, 0, 1, 0)ᵀ ∈ R9 of the day. While the range of the feature transformation Φ can often be chosen as Rd, its domain Z varies widely among machine learning applications. For example, each element of Z can be a text document, with its feature vector consisting of word occurrence counts. In computer vision, the elements of Z are digital images, each an array of pixels. The feature vector then lists the red-green-blue (RGB) intensities of those pixels, one entry per intensity (Fig. 2). The feature vector of an audio recording typically consists of signal values at a sequence of time instants, one entry xj for each instant j=1,…,d (Fig. 3). The notion of a feature vector can be generalized by replacing the feature space Rd with an arbitrary Hilbert space H. Here, a feature vector is the image of a feature transformation \\[ {\\mathbf \\Phi}: \\mathcal{Z} \\rightarrow \\mathcal{H} \\text{,} \\] and any Hilbert space can serve as the feature space. One construction of such a feature vector uses a kernel k: Rd × Rd → R. The kernel assigns to each z ∈ Rd the function k(z,·): Rd → R, whose value at z' ∈ Rd is k(z,z'). That function is itself a vector in a reproducing kernel Hilbert space H, a Hilbert space whose elements are functions on Rd. A kernel method uses elements of H as feature vectors without ever forming them explicitly. Many machine learning methods use feature vectors only through their inner products, which the reproducing property reduces to kernel evaluations, k(z,·)k(z',·)H = k(z,z').",
+   "abstract": "A feature vector is a list of numbers describing a data point, with one entry for each of its features. A feature is an attribute of the data point that is measured or computed without substantial human supervision. The precise specification of these measurements defines a feature transformation, the function that maps the data point to its feature vector that belongs to an underlying feature space. The feature space is usually a Euclidean space whose dimension is the number of features. Nonnumeric features are encoded as numbers, a binary attribute as 0 or 1 and a categorical one by one-hot encoding. The domain of the feature transformation varies between applications: a data point can be a record of attributes, a text, a digital image, an audio recording, or a node of a graph, whose feature vector collects entries of the eigenvectors of the Laplacian matrix. More generally, the feature space can be any Hilbert space, and a kernel method uses such feature vectors without ever forming them, through their inner products alone.",
+   "description": "A machine learning method can represent a day at Krems an der Donau (Austria) by four numbers. They are the air temperature at 06:00 and at 15:00 (UTC) of that day, and the same two readings of the previous day. For 16 July 2024, these are 24.6 and 30.8 ∘C, and 22.2 and 31.5 ∘C the day before. Stacking these measurements into a vector (24.6, 30.8, 22.2, 31.5)ᵀ ∈ R4 gives a feature vector that characterizes this day. In general, the entries of a feature vector x = (x1, …, xd)ᵀ are the features x1, …, xd of a data point: attributes measured or computed without substantial human supervision. A precise specification of how these attributes are measured defines a feature transformation \\[ {\\mathbf \\Phi}: \\mathcal{Z} \\rightarrow \\mathcal{X}, \\quad {\\mathbf x} = {\\mathbf \\Phi}({\\mathbf z}) \\text{.} \\] The function Φ maps a data point z ∈ Z to its feature vector x in the feature space X (Fig. 1). Feature extraction, a preprocessing step, computes Φ(z) for a given data point. In supervised learning, the extracted feature vector is fed into a hypothesis h: X → Y that delivers a prediction ŷ = h(x) of the label y ∈ Y of the data point. The feature vectors x(1), …, x(m) of the data points in a dataset D of dataset size m are the rows of its feature matrix X ∈ Rm × d. One widely used choice for the feature space is a Euclidean space Rd of fixed dimension d. For the weather example above, the feature space is X=R4. The feature space Rd serves machine learning applications whose features are numeric quantities, such as the four temperatures. Features measured on different scales are often brought to a common scale by feature standardization before training. The dimension d ranges from a handful of measurements to millions of pixel intensities; a large d invites the curse of dimensionality and motivates dimensionality reduction. Nonnumeric features can also be entries of a feature vector, once their values are encoded as real numbers. A binary feature, such as whether there was rainfall during the day, is encoded as 0 or 1. A categorical feature with K possible values, such as the season (winter, spring, summer, or autumn), is one-hot encoded. It occupies K entries of the feature vector, all equal to 0 except for a single entry equal to 1, whose position names the value. On 16 July 2024, 18.7 millimeters of rain fell, and the season is summer, so the two features are encoded as the entries 1 and (0, 0, 1, 0), respectively. Stacked under the four temperatures, they give the feature vector x = (24.6, 30.8, 22.2, 31.5, 1, 0, 0, 1, 0)ᵀ ∈ R9 of the day. Records that mix numeric and nonnumeric attributes in this way, one row per data point, are tabular data. While the range of the feature transformation Φ can often be chosen as Rd, its domain Z varies widely among machine learning applications. For example, each element of Z can be a text document, with its feature vector consisting of word occurrence counts or of an average of the word embeddings of its words. In computer vision, the elements of Z are digital images, each an array of pixels. The feature vector then lists the red-green-blue (RGB) intensities of those pixels, one entry per intensity (Fig. 2). The feature vector of an audio recording typically consists of signal values at a sequence of time instants, one entry xj for each instant j=1,…,d (Fig. 3), or of the entries of its spectrogram. Instead of fixing Φ by hand, deep learning methods learn it from data: the layers of a deep net up to the last one compute a feature vector, and the last layer is the hypothesis applied to it (feature learning;). The domain Z can also be the node set V of a weighted graph G = ( V,E ), a similarity graph whose node r ∈ V := 1, …, m is the rth data point. An edge r,r' ∈ E with edge weight Ar,r' > 0 records that the two data points are similar in a domain-specific sense, such as two web pages linked to each other or two weather stations a few kilometers apart. Unlike an k-nearest-neighbor graph, which is built from features already at hand, such a graph presupposes no features; it delivers them. Let u(1), …, u(d) be eigenvectors of the Laplacian matrix L(G), each a vector in Rm, for its d smallest eigenvalues λ1 ≤ … ≤ λd. The feature vector of node r collects the rth entries of these eigenvectors, \\[ {\\mathbf x}^{(r)} = \\big(u^{(1)}_{r}, \\ldots, u^{(d)}_{r}\\big)^{\\top} \\in \\mathbb{R}^{d} \\]. An eigenvector with a small eigenvalue varies little across edges with large edge weight (see Laplacian matrix), so nodes joined by such edges receive nearby feature vectors: the map r ↦ x(r) is an embedding of the nodes into Rd. The eigenvector u(2), for the algebraic connectivity λ2, is the Fiedler vector of G. Spectral clustering applies this construction before clustering the resulting feature vectors, and a graph neural network learns node feature vectors from the same graph by message passing along its edges. The notion of a Euclidean feature vector can be generalized by replacing the feature space Rd with an arbitrary Hilbert space H. Here, a feature vector is the image of a feature transformation \\[ {\\mathbf \\Phi}: \\mathcal{Z} \\rightarrow \\mathcal{H} \\text{,} \\] and any Hilbert space can serve as the feature space. One construction of such a feature vector uses a kernel k: Rd × Rd → R. The kernel assigns to each z ∈ Rd the function k(z,·): Rd → R, whose value at z' ∈ Rd is k(z,z'). That function is itself a vector in a reproducing kernel Hilbert space H, a Hilbert space whose elements are functions on Rd. A kernel method, such as the support vector machine, kernel ridge regression, or a Gaussian process, uses elements of H as feature vectors without ever forming them explicitly. Many machine learning methods use feature vectors only through their inner products, which the reproducing property reduces to kernel evaluations, k(z,·)k(z',·)H = k(z,z').",
    "synonyms": [
     "covariate vector",
     "input vector",
@@ -2809,6 +2809,19 @@
     "datapoint",
     "vector",
     "euclidspace",
+    "featuremtx",
+    "inputvec",
+    "preprocessing",
+    "featlearn",
+    "dimred",
+    "tabulardata",
+    "graph",
+    "weightedgraph",
+    "simgraph",
+    "LapMat",
+    "eigenvector",
+    "embedding",
+    "specclustering",
     "kernel",
     "rkhs",
     "kernelmethod",
@@ -2821,9 +2834,9 @@
    "notebook": "https://dictionaryofml.org/terms/featurevec.ipynb",
    "sha256": {
     "featurevec.ipynb": "51f2689586781a637fa925b97fdd680c4f6cfbf2ccb8427a3556df5992572c36",
-    "featurevec.md": "b5899606dc09e539586962e08b07d0545b025809bac3a7c02313cf8f39c94179",
+    "featurevec.md": "c6bccde6926a50da5eb7bae5a2d9aa0765d444d9760cef487ad54e79431dd029",
     "featurevec.py": "26443ad4a8d5078352e4d87f56f6f58c73c3beffd9f31903b47a9c85aadc9e29",
-    "featurevec.tex": "4a26b6891badf924366689b45aad1501f3a01996feb0d97ec90bc85650a88e1b"
+    "featurevec.tex": "98f2c96ee1f4fd4bc3c7dc84b750202edf9dc222e1096b96f30c4e69101c4327"
    }
   },
   {
@@ -2856,7 +2869,7 @@
    "notebook": "https://dictionaryofml.org/terms/finetuning.ipynb",
    "sha256": {
     "finetuning.ipynb": "654c06946172ca26e892b81f70c53895e31ebbd1bbb31e37a4f4052f175b8dde",
-    "finetuning.md": "0fc71a7dbb87d4d53349c4fd3448221d61de175c0432b3f1cf12b426017b9af0",
+    "finetuning.md": "abed3910b757d194f60a406f68bc69bddfc46a96356471a27747bb1b2a7eeb24",
     "finetuning.py": "f16067985a23b00a5f596684f8fe037ecd965ea71d9a7523ab6a153ae26a4ad8",
     "finetuning.tex": "ba745246156fcb536416d47f64ecbd0dbad831c0b7f42909d1bdd8b4b0d5a463"
    }
@@ -2885,7 +2898,7 @@
    "notebook": "https://dictionaryofml.org/terms/gaussrv.ipynb",
    "sha256": {
     "gaussrv.ipynb": "5cd87b2861be5fe190ed2d95c85d32e45213f2d403064586b5bf9b41582d84b3",
-    "gaussrv.md": "ba07422553ec5313120b0d3afdfc7327b26413d489f306611b749d5f2292b59f",
+    "gaussrv.md": "cb86f1281129119f4dfe3098b02daa980f5cc9abf03956b5575e388317daa1e9",
     "gaussrv.py": "3d7f49d897555e432d63702e986bd42721e8fffa5f25d73492975ef14754c096",
     "gaussrv.tex": "c2465e48e5c85442d02983b58fb516272f1088aeb5817a3af712abeb11c8d620"
    }
@@ -2985,7 +2998,7 @@
    "notebook": "https://dictionaryofml.org/terms/gmm.ipynb",
    "sha256": {
     "gmm.ipynb": "afd98bb851eb956777e049a91e4dda1520d68a74f0a7a4629f3dfd539440bdda",
-    "gmm.md": "d3ac358c5bdae5372a5cbc7b0848bfe8210e74a4b10ae94be37019d556c97cf7",
+    "gmm.md": "3c5cb35df7e9c77087bca3b2af3ffc8544534961b5115b992d554ef7a51a6d86",
     "gmm.py": "fe93029a893606ddb7cb98bb0cd186ddbc32e6a6e46fd9c695bd2a85daec18da",
     "gmm.tex": "6efde279ab09751c85f06518f9d083ad2696c7510be9877da67c886561188cac"
    }
@@ -3015,7 +3028,7 @@
    "notebook": "https://dictionaryofml.org/terms/gradient.ipynb",
    "sha256": {
     "gradient.ipynb": "5be0069df38dc3b769daf0fccb4e26e850ce60ab4e4e5342e215d2aa797cfb4e",
-    "gradient.md": "befd5797bf13fa9946e365e93b2ecb7ea53eae1a820a75428f7b38e8feac438e",
+    "gradient.md": "cba6edb4c7c26ba6337979bc1334867b404db63a91efc21e284d200f87bead32",
     "gradient.py": "d8b4210544e13a71f4e0f0cb13dafa50256035b4040004b795f441b7be9eca41",
     "gradient.tex": "f534abdcba738fbc8c86a4375c295d384f1348a10e929c5420816a85f1cfa791"
    }
@@ -3103,7 +3116,7 @@
    "notebook": "https://dictionaryofml.org/terms/hardclustering.ipynb",
    "sha256": {
     "hardclustering.ipynb": "445bdc7ec79d5c9185f00b82fa6d29c67c6c713928c54994a8551a8a19a29278",
-    "hardclustering.md": "0bf5bb112fd2b67c82c5959aecff6e4275fb1d14dc511f8a2ffd7a2cffc9489e",
+    "hardclustering.md": "1cf341d28bfd3ba8210a6a2f9d8fd44b9ece746652c05ce889013a1b5bc09189",
     "hardclustering.py": "c9f739f8c6a541ed2ccc5fc78adf10cbab8e9b86480a0ab9b57ad696d1b07702",
     "hardclustering.tex": "42f200165bdf63c4a8f1af7276bc6d763e0746955a68252014f1dc89991499f9"
    }
@@ -3199,7 +3212,7 @@
    "notebook": "https://dictionaryofml.org/terms/hyperparameter.ipynb",
    "sha256": {
     "hyperparameter.ipynb": "d4512d19a661839484b9fbe0be70c1d47dce8881ec9d1b9a60c44420fedfa485",
-    "hyperparameter.md": "31877517ed2dd7ba4f174eabb973695fbfede99ffb8981f660e18de1d9e4842d",
+    "hyperparameter.md": "d2bbfbeec911395dbcac789f2dd8de7ed4f83e7a48231a5ef49f178aa64b50c7",
     "hyperparameter.py": "f04bca749fdd6250af89bbd235117b33fc92d6e5ad506def7854b866f4c94f47",
     "hyperparameter.tex": "7b775a35bac3297b4f0749bdbeac2fbc3e2274cc0c40c49ade3c85f615a0ba95"
    }
@@ -3302,7 +3315,7 @@
    "notebook": "https://dictionaryofml.org/terms/iid.ipynb",
    "sha256": {
     "iid.ipynb": "2921bed41469d6c45507f7c75c90e921d37d27e3117c33ace399b23194c5cf8d",
-    "iid.md": "08162973024a7868039cfbb03ef5acfe2a9193b3bec9184c7e86131b0341f5a2",
+    "iid.md": "81a1126c0a5ef869726929a13fd989f16ab5af536931d19b2d37a85c2a5b377b",
     "iid.py": "ea1d2b4db7b7287a5f126f0674ac7427a895ee771f9f429d9b00cdd604f06fd4",
     "iid.tex": "5195ca71040773daf82502823eefd578490d75ffb82ebe64d90aeeee0dc70d2e"
    }
@@ -3340,7 +3353,7 @@
    "notebook": "https://dictionaryofml.org/terms/iidasspt.ipynb",
    "sha256": {
     "iidasspt.ipynb": "cd26b20d1ca92c1866dbe7cdb2605ec32ed3bcde4060d21c4aca98f58f9cf0bd",
-    "iidasspt.md": "2e2ffd73818f5e07416dd069a16fa541de708b7cab88a3acbf2861798ba3a9c9",
+    "iidasspt.md": "b555deaa8fabc04cced7a0560de1082c4d9f55bc352aae5eb0b1acad02131545",
     "iidasspt.py": "03e641720cfb429b743f59f119cab996d84e77c85a8f96ebdb98718b2ff43207",
     "iidasspt.tex": "daaa0f5aebe0f1bc08938960b899c1623b784dc63629f9147e3c4cd380850902"
    }
@@ -3406,7 +3419,7 @@
    "notebook": "https://dictionaryofml.org/terms/interpretability.ipynb",
    "sha256": {
     "interpretability.ipynb": "9812f5b82cf33d5350b38e3c9e3f1a872670c52eedfda25e7311c9cde4938383",
-    "interpretability.md": "a25afebfe6f2b8ab3ce1e243bdb941babfe9997e3d182a6de437a72dac83cf07",
+    "interpretability.md": "e90c1cc7d121ee2defd02e822f66503f5b0ac9f944aa56d8eebc30401f8bccf2",
     "interpretability.py": "9d04903c5b30ee29b92ee901e4ba59cb3e5c904ce2c84db79faba3a2b8d2197e",
     "interpretability.tex": "534cb5527aecda0c2efe35339b0c37ae189bfe13f646ee53af883439af36710d"
    }
@@ -3473,7 +3486,7 @@
    "notebook": "https://dictionaryofml.org/terms/inverse.ipynb",
    "sha256": {
     "inverse.ipynb": "5acbd67f9051d0c2b9054e29cc72549e9690eee0e3386f487232c5f7081e5b38",
-    "inverse.md": "bd8cd640a3308d96bcc26a9d86e11b226a524b2fbf3768693f0070e31985bdd6",
+    "inverse.md": "b2d31a5d79be32ac2fbde707cbbd7cf0f8fcd8b44994f4e463c0a5ac998f888d",
     "inverse.py": "284e7e48bd5406d18f34bdabf1ce2f511be3b6a52964a84199459370ba538c6c",
     "inverse.tex": "589488c893d9d180e235d71ff734dde6c7e8df9d007487f2b5fe188acc80ffa1"
    }
@@ -3540,7 +3553,7 @@
    "notebook": "https://dictionaryofml.org/terms/kernelridgeregression.ipynb",
    "sha256": {
     "kernelridgeregression.ipynb": "1c8e6d915a0cc2e51c86f1d27c26a4ebdb519071e81b7e7046c07e5c0ca11043",
-    "kernelridgeregression.md": "700c439ba002fe36b80c9ad88a2beefa29e48ba767b49d3a3794784a756084f6",
+    "kernelridgeregression.md": "b946bc00d1ae6ac57da5cdc3256fc495e1358d84a9adc6bd19ca12d19ce3b90a",
     "kernelridgeregression.py": "7ed615876ca1c0460955b8d2ed4f06fccd9c1354b939b23f4c4862aa9491788c",
     "kernelridgeregression.tex": "040caacd49054db30dfeaf274daf02d47bf0f832bd2530ec8078bfd83e28cd7e"
    }
@@ -3570,7 +3583,7 @@
    "notebook": "https://dictionaryofml.org/terms/kfoldcv.ipynb",
    "sha256": {
     "kfoldcv.ipynb": "9b2fe94e2bd8bffc422aba6b62af7b9f46e81e660e132bf1d374e1fb6d39cbd7",
-    "kfoldcv.md": "8b7351187e3b32b4e29c9380ecefad46a6316b6295ba3295ed8c0b8dd7f61378",
+    "kfoldcv.md": "856944bde87a462b476c4fe84c35f853075048463f13ae44354941ed282413c5",
     "kfoldcv.py": "5715c4bd246e589f1dd690f3229275795cecfe729be5dd8b185eb3c3cf93e830",
     "kfoldcv.tex": "0bc7094cdb4578047cec092e7c5d6f4fbf3d67f9cbbbfa949b778e12a860f51b"
    }
@@ -3612,7 +3625,7 @@
    "notebook": "https://dictionaryofml.org/terms/kmeans.ipynb",
    "sha256": {
     "kmeans.ipynb": "95b2418617923e52ef010108c8946d7095f87ede415fb2d732f4514357307ac4",
-    "kmeans.md": "3d1e8f2a8c7760378967ff73a6160a946bb70a4c59b987d316201297af1e590d",
+    "kmeans.md": "0960604f5821ae19f6aa71876ef26b183207a343714afb3bbb4d4402eb4aff35",
     "kmeans.py": "008fe77d04737a38b56df8f1cae6f4da2b052dcfcded93d50aea32d4f6214138",
     "kmeans.tex": "deefc95317a8d08d8a7406fda44e64acc3073dba85e4a57606ccc3b827fef9f1"
    }
@@ -3754,7 +3767,7 @@
    "notebook": "https://dictionaryofml.org/terms/learnrate.ipynb",
    "sha256": {
     "learnrate.ipynb": "c63944d7a419af3faeac23d32bd588b83c3257df07adc29b64b5647535aafe2b",
-    "learnrate.md": "8c3dc50e6683a9cbfeecd9ab6dbe574a1e822b3886fd62fac3da8695ad37c47d",
+    "learnrate.md": "f029addcb3592ab14a86216aaff781338a797d5e49ea8acf17b0eda544af5a70",
     "learnrate.py": "f8e90e807b5efdddcb277e2e02816cf3ac481063caf13ea498e91e766d53d304",
     "learnrate.tex": "cd545a946c80fa8c802aa4253cc725406360b95acbca04661ff099623d667c70"
    }
@@ -3791,7 +3804,7 @@
    "notebook": "https://dictionaryofml.org/terms/linclass.ipynb",
    "sha256": {
     "linclass.ipynb": "7c5f8a824e60ef744bebb94a5d04d79f911825ffe2ad887d77e7d0c11e2b11b8",
-    "linclass.md": "11a36f30ff466229a990512f73b51475cc7a86a8f0d56cf32096b374e6231083",
+    "linclass.md": "e42562839b6919662e9294a26d93b68a3e05d43e3a846a666a9afb88521a0450",
     "linclass.py": "bc1ea5b43c4d5ef0e9fd806a2c1401fba9456d985da89215cb33784de0fb4c24",
     "linclass.tex": "a20aebeffd6fd193cd464a140c40af9b4e76aefb0c199691bd36ef597b99b182"
    }
@@ -3861,7 +3874,7 @@
    "notebook": "https://dictionaryofml.org/terms/llm.ipynb",
    "sha256": {
     "llm.ipynb": "ae406ac3ba99048c355b14c60ee0bfdf1848990c18344a10f76a31fd2e04f1de",
-    "llm.md": "93431c8eb60ab3050ccbaff01dd008b6901c478e26f65c236ddab77584581161",
+    "llm.md": "24fef031e7942ca25d9d69880036b5f980f6ee3d7fc9fa5a63883b747a2c661d",
     "llm.py": "0f1069aec59d2a89c5964f3a21d6052bb9df923b635e3dcf062d805eaf3121dc",
     "llm.tex": "ec530802f17368727222dd4bf7425a8c715f069090eb7843fddbabd777a64f50"
    }
@@ -3938,7 +3951,7 @@
    "notebook": "https://dictionaryofml.org/terms/logreg.ipynb",
    "sha256": {
     "logreg.ipynb": "3e78927d281cd890976123c47a2dd208bf215f164ba3d6de62bad557b4e3347f",
-    "logreg.md": "80af0ed115cefac9b9b5e2ced00f19c640295f961dbbdeaf8c90fd3f22002b91",
+    "logreg.md": "d5c6c781231404a61aca4af070e797895134a03c9d100eb70fb1427134de2bfd",
     "logreg.py": "e21d71eb7a4c4d3aa8540c06b09597d3668f4e96b105c0570af92eab12fb3aa0",
     "logreg.tex": "8c1d29ba2fe01003336faadc6b1d151e25946b3ebc668c30714882fd525ca200"
    }
@@ -4092,7 +4105,7 @@
    "notebook": "https://dictionaryofml.org/terms/mean.ipynb",
    "sha256": {
     "mean.ipynb": "4684acf7a58d6eca1cab3c848928f2bc4d12d570d628206e8a023c863c2df658",
-    "mean.md": "07c1fdaa9b28d6b724aa4e0d287dfed88a2f76e6f04baf67e505a128f075bfd3",
+    "mean.md": "4869bfc398f6180fcd24a5a4b55518c279d56ab989a3686e79f776567d4aba4f",
     "mean.py": "a7145bef1ed1aef83dfabe818b44f954c0eb8a96ddcfcd1be15d6f50ec074b6c",
     "mean.tex": "0477a18776d7251d9c10d9da243a0cd224706030d0f9b699f3064a8dca3f70f1"
    }
@@ -4123,7 +4136,7 @@
    "notebook": "https://dictionaryofml.org/terms/membershipinferenceattack.ipynb",
    "sha256": {
     "membershipinferenceattack.ipynb": "b3b90b44037dc917aa0827989238cfc16eb4cf782b0bc5c23ba2d728271bc183",
-    "membershipinferenceattack.md": "ebd53bd264766d159ad80696223205b250393e5f78564dd6d1fc5729d7cc4297",
+    "membershipinferenceattack.md": "e1d7ed4840b8c6127caa082aefc19e48b590891a044f4352e183846ba629f995",
     "membershipinferenceattack.py": "27ff2debfdca414751997405bc17ec01cd696909ffaf2d3823b3a604f9b04fb6",
     "membershipinferenceattack.tex": "bcdb7186caca0d01c24402d73887cd26bcda85da751d84a4cee9417a20af9eaf"
    }
@@ -4154,7 +4167,7 @@
    "notebook": "https://dictionaryofml.org/terms/mlpipeline.ipynb",
    "sha256": {
     "mlpipeline.ipynb": "0d781090d23f33283a9cadde258f0dc4c0627a8355c2147847aeb4b85afff2e8",
-    "mlpipeline.md": "bcb9567795a20a9df29e640e9b8b762e2e580b6e73124d619f654b6e3aedcb2d",
+    "mlpipeline.md": "44f21510fb6ec24805d3f01c57dfd48a057920d6910da37f8f2c033c7846ed9c",
     "mlpipeline.py": "2ee9f7d5121195ccc5fdca2c0228fa0f40ee10779e7c0105f9b6b46e9c9a81cf",
     "mlpipeline.tex": "fd0871cce98d65c9091814f8408f58c021189374aab733106711fa6a42379aac"
    }
@@ -4221,7 +4234,7 @@
    "notebook": "https://dictionaryofml.org/terms/modelsel.ipynb",
    "sha256": {
     "modelsel.ipynb": "75d78860c1601d36e2f9fedcdb871942b4e259fd5cf68b63ca8f2a0b9afa1a78",
-    "modelsel.md": "d00559567e760adb7b38bb8bcfd5c47954a77dad2e49e8c527b58891fccde2ca",
+    "modelsel.md": "61828170c01a95da494cb7ea618060c4dc2a40d15065555c42c392fa9ca2e327",
     "modelsel.py": "eeb46dfb956e44e94d4b677088f8edcb59cf5b437aaf024cf2c2476eef025538",
     "modelsel.tex": "03d11f271034803e98f4ed44b45b1375a5ac05d55f26e1526089079cfd74d9e4"
    }
@@ -4290,7 +4303,7 @@
    "notebook": "https://dictionaryofml.org/terms/mvndist.ipynb",
    "sha256": {
     "mvndist.ipynb": "b5c79ad86a0036cb077c45a8a918effd78d979b80288553a84b3712fd19e7717",
-    "mvndist.md": "829fc1685ba8743504df19f945fa24ce9c2cef8f024fed391ffa7bcc54ca6be0",
+    "mvndist.md": "f65d219fda73f7e326aa1913c00625ae8e516506fbc23014ed9c5e33a6632b40",
     "mvndist.py": "6d96008c1969133f4fee9b469b1c03f6cb39559abb452ed123958bdb80ba060a",
     "mvndist.tex": "d596abff7ec7c969a894565ab2308650c23b0770576fce500dd7c16d712a7454"
    }
@@ -4322,7 +4335,7 @@
    "notebook": "https://dictionaryofml.org/terms/norm.ipynb",
    "sha256": {
     "norm.ipynb": "2e2c254b3124402e49a3e19c987d948c9852d518834e75340b7b114ed8cbca9c",
-    "norm.md": "e375d44527679637768586ca85a4c148c1c5954b622977fedba439b7715649a0",
+    "norm.md": "16fd3cf7f1988f56cad1d9f9ab8239c7137b32f8b27557f8da2c20cdad1b33e9",
     "norm.py": "477dcea41cc00c8390c19b6c25cfa8791cb7b908cdd70f3c081a0afa23a796f3",
     "norm.tex": "48ab13d57232c72a6500adcadc695b918d4be8002657aef56f70a72794d89b68"
    }
@@ -4364,7 +4377,7 @@
    "notebook": "https://dictionaryofml.org/terms/onlinelearning.ipynb",
    "sha256": {
     "onlinelearning.ipynb": "23e3369ca70342cf669bf91cc70ea3340cff59f703cc214cd6bf28d41958498c",
-    "onlinelearning.md": "3c7bfc6eafb82cabfa8ef1c44da0cd0076525f794ffc1e4e3ae1a6be3ea2138d",
+    "onlinelearning.md": "2fd87330b3741da83682ffd9492da1f84a92da03dd33a35a5bce0d55d7f6d743",
     "onlinelearning.py": "dd54717e0275452c43ebb5fdd3204b83c59fccc4964627a1e79feeeed3b3f711",
     "onlinelearning.tex": "f8eb8dd0f603fdd06b82ac0c801ace25de1779744b5dae82c1ab711e551428e0"
    }
@@ -4398,7 +4411,7 @@
    "notebook": "https://dictionaryofml.org/terms/outlier.ipynb",
    "sha256": {
     "outlier.ipynb": "ff4c10eb86364ee9e5cfd9085f843965427fc8d2dd4382269745e2426e2e37a6",
-    "outlier.md": "fc764d6f4d49703c247f0a36460256bbf936d2d51a981a2ef34c7022bda93c5e",
+    "outlier.md": "dbe2b95f622aa70ed279a17356daa587c947513391522b14723687bf8520ff4c",
     "outlier.py": "b691dac74686e5e1a600f0774e2699630249f3a114df13a009a09af4b2353cdc",
     "outlier.tex": "4792ddd0078862426785cec10489e841854eb6aff31160e2904b39e2f0225743"
    }
@@ -4601,7 +4614,7 @@
    "notebook": "https://dictionaryofml.org/terms/probdist.ipynb",
    "sha256": {
     "probdist.ipynb": "fb2b623dcf99d2f190048a566d5f8f67e30cd23eded52db21bea9e651c649442",
-    "probdist.md": "0cfc9c861e48f2282a9f59568e3c33a8b0f0a618964bbdbaecaacc24a614d347",
+    "probdist.md": "def0a3c04452726e436c70eb52278469b455356644e9e81867be4461e643ceea",
     "probdist.py": "a6ca81546903016201b14af919ba54ff5e656512eadafbd93a082170a2208687",
     "probdist.tex": "c7b1bb0a39d38f9893cc4e8c94a8c7d0e2d2c0d69129e4294d0c4ad9822d77a1"
    }
@@ -4630,7 +4643,7 @@
    "notebook": "https://dictionaryofml.org/terms/projection.ipynb",
    "sha256": {
     "projection.ipynb": "4b5f623e5d9e8b673c5f76fe0b26bd88b16856bf589d8e9f114409d0d4eafaea",
-    "projection.md": "850b3fe77acebb3a9b31e809db0da07ca1cde2babb19de5deea61c97dd929764",
+    "projection.md": "7b739b6fd8bce6a41d29d1a2c8412903e88dd85af93feefb8e677cd9c292c2e4",
     "projection.py": "c2191dcb67245b9ef8ab04af342ca71e9ae4e2e3aafc370a4596c6d1f871a59d",
     "projection.tex": "2f57de5d33e66f873035460eeb9c52ee5749c565ec9b0071eb8f994ed7f127b3"
    }
@@ -4666,7 +4679,7 @@
    "notebook": "https://dictionaryofml.org/terms/randomexperiment.ipynb",
    "sha256": {
     "randomexperiment.ipynb": "5f15329ff85f2039341ddc0533efec1640c9d31ccdceedf20286d264aff0c981",
-    "randomexperiment.md": "6a8a74182a524b7a0397bc6616e96800e73dbbc30c3aa0e3d195c92a11a27efb",
+    "randomexperiment.md": "d9291abcb6a73f65b2f136baa65b56f8e2076dc057ad2c4887d46ac63374044e",
     "randomexperiment.py": "774a17da481796c846bed72cd950a46456730c9c5fcc16e7371a4336fd5468b9",
     "randomexperiment.tex": "274aa944a94a7967c782cf771944b15dc864758eb3e1786d66b6c42adaa81c96"
    }
@@ -4695,7 +4708,7 @@
    "notebook": "https://dictionaryofml.org/terms/randomforest.ipynb",
    "sha256": {
     "randomforest.ipynb": "5ce11483be0baf19dff59d4a01796efb143b5e4e36484c4ced94a31fdf4d5082",
-    "randomforest.md": "51e33f99da7546e97f8df0a61f3c8ea1d13b029b95c7947334ffe95236a5b94d",
+    "randomforest.md": "c88a30c5dd4b7965fa91e5436591e242767cecf73151b9cf11451b3421f96586",
     "randomforest.py": "edc0ce626043e4fa70bb2c9638c3fe1b3e0dfe23237349a23dcf531f49ba0ace",
     "randomforest.tex": "8aeff848fc7b31efa8a941a395b933ed084ddf6f8d82667fbb725ca419507bf0"
    }
@@ -4800,7 +4813,7 @@
    "notebook": "https://dictionaryofml.org/terms/reinforcementlearning.ipynb",
    "sha256": {
     "reinforcementlearning.ipynb": "d9ea9be53bd2072d1e5cdb8b659d1f0fa6d9e3d8a8e0ed63432bd3c853007374",
-    "reinforcementlearning.md": "3c5a2c7f301ef6e5dc7167f2242b9e3790c15397f1039963f50f2680ca930015",
+    "reinforcementlearning.md": "b0bbf388f673947c61061854dbe992ded8df9d2ba54946a73a80d14dcd23f3dc",
     "reinforcementlearning.py": "dc757196a754185c6f8498b898ef66f06d2e39a64d1bbc07f3a532f03a9f5a20",
     "reinforcementlearning.tex": "a0406d7ea135511b89a25e130bb2afe4bdc811715f8eb559629e652cd80c2270"
    }
@@ -4828,7 +4841,7 @@
    "notebook": "https://dictionaryofml.org/terms/reward.ipynb",
    "sha256": {
     "reward.ipynb": "8e25e9fdabf283070af612bc28976de0c2c435478e3baba0e576eb286a851954",
-    "reward.md": "4a49d37dc2f82ec5e431f4e440e74a413e55e30dcc2dd80a6c7f7eac283ceeaa",
+    "reward.md": "a2dc8c0c65f8ccb3032be582c9ef6ef083c1a41d00897c6d902d7bb3adbacac7",
     "reward.py": "397ec6ab402d5d8863fdd23e1628326dd20b5507bab94603910af84b1300573d",
     "reward.tex": "6ff8c338199f32f8919085c1b1c7231bdb2b2f55261af313d258f8eda4a6272e"
    }
@@ -4862,7 +4875,7 @@
    "notebook": "https://dictionaryofml.org/terms/ridgeregression.ipynb",
    "sha256": {
     "ridgeregression.ipynb": "623f5291a358de0077f380aaa5cea9a7e828b4a70108ebf68e169c7f34b1cb00",
-    "ridgeregression.md": "f542e547f92ec5c0ddc62faa9f2c16ccfce468dce7a2d2769918df29b4cd902c",
+    "ridgeregression.md": "13ac0dbe6df092d4bea09c679103f7f3d15623a97cd6aec2e8c1e52e34679872",
     "ridgeregression.py": "ce1c42410b2d2ceed60fb3d8671a4ca9c426484ba01b182cf53a20cdb9434204",
     "ridgeregression.tex": "b9690b3828cffffe4cb3891000e063d9709e97976ec933817c4943f0e4d6a11e"
    }
@@ -4901,7 +4914,7 @@
    "notebook": "https://dictionaryofml.org/terms/rpca.ipynb",
    "sha256": {
     "rpca.ipynb": "b9946e2f9341cd46d3504d909c2af6b6554685e650360184e6eaa7b96da0ecc3",
-    "rpca.md": "e0482c0e1e1499f3fffe5d2cb93a5dc763d01e1cbebb7326c949d29776006b46",
+    "rpca.md": "0a60a8139334fe4ccc7f0a98367d54b653e88db10bb40829ee35cdb897ee093f",
     "rpca.py": "5e9ce9b9173baec692c95fb2e10fc256eea163c9d5d4eff75ff3acef7cf9dc50",
     "rpca.tex": "0e3d860c8fec884448c40ea44e7295b4fdb22a6ab49e28586203eb577390da0e"
    }
