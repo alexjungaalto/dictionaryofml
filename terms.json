@@ -886,9 +886,9 @@
    "notebook": "https://dictionaryofml.org/terms/LapMat.ipynb",
    "sha256": {
     "LapMat.ipynb": "072ab3234113b4416d0cdf301fe9af7aa03a926eaad7dfaa04e13b1331874abb",
-    "LapMat.md": "852651611bd90967a4a43de0f28939f1a3ad449afeb6e44ec9e381bacab356ea",
+    "LapMat.md": "fad61cbf505917e53fbc37fb694ca567087125323d794b2dce7d3c8f3ec8d7a1",
     "LapMat.py": "9b3c438c3896f9c9a2f3a36ed5175e67e1947fde90c4c90b8b1430e059c0436d",
-    "LapMat.tex": "bf8e9988c871af31b63985c083540282e2e2bf19e402cd81fb4517616e4da9d9"
+    "LapMat.tex": "09896c1b76e2c2fb5ccb35071f5a707ccf17596c69497b6d899a111c0da7a9cb"
    }
   },
   {
@@ -1012,9 +1012,9 @@
    "notebook": "https://dictionaryofml.org/terms/autoencoder.ipynb",
    "sha256": {
     "autoencoder.ipynb": "7b4fe668ffb60da707c51ccb7a231ec12f0b4ede31a9b0dc4523abb911316f68",
-    "autoencoder.md": "381ef6502f7c71d0d85c9cb0e2f452b46de5a80b48caf525513a3ec670691658",
+    "autoencoder.md": "8eccf7f8c7893348a13449c537366c17caaf2bb8dc4da6816876d315f05ef37e",
     "autoencoder.py": "42fb4a103c3781c3852e2046b8607edd357434473e7534ab9e2561d61f18dd95",
-    "autoencoder.tex": "07803a006ea355dc22e7ca7a63b4b74891a89ffd4cbdf53ef56e5fd86724f106"
+    "autoencoder.tex": "54529a86f3ac653eb55823f2c353ad32cd2247aa6ed1f32ac65177ccf923d6ae"
    }
   },
   {
@@ -1076,9 +1076,9 @@
    "notebook": "https://dictionaryofml.org/terms/bagging.ipynb",
    "sha256": {
     "bagging.ipynb": "3b2068c6bdf682898ee300c4a3b72401f9940e95fbd7b8cb9f1cbd2f6dedd76e",
-    "bagging.md": "df1635642a6d292b63b480e0554410fdd27fc6253634c294c2c0a421addc92d6",
+    "bagging.md": "98d2396ff730f7831d1de6514a54426f405080722d101625d443c8163ce7422b",
     "bagging.py": "11c49c6aab3bc99635b7102689443bbd1453caabcf20d132008873dd432cf369",
-    "bagging.tex": "f5dd1c5f1cc000405ba1e75d83dd5a649bfc7134d2a66e3b90d7a603467eb6b9"
+    "bagging.tex": "5dea89042205522e88c12099aed6603fbe980f58bbf38eb32392c3ed327853f6"
    }
   },
   {
@@ -1196,9 +1196,9 @@
    "notebook": "https://dictionaryofml.org/terms/boosting.ipynb",
    "sha256": {
     "boosting.ipynb": "d431e6fc96b787d5dbf72680a4307b23d9a9b2822be121d153caf6b7b8a18d79",
-    "boosting.md": "7743859233b280b1b78301c778fb142451b63c9f31b4efc2acebbf7dadbbf052",
+    "boosting.md": "18bea9dcc28b233e727245cb428aa13f6488004f32d4b608b31f3b49c62543ec",
     "boosting.py": "3aa523e07cc688423a1d250ac28df01495d41a997ad13c3889e88db63d671dba",
-    "boosting.tex": "55c1e8e0cce633e56e8192a4a92119fe1b01c6f1bbc3a7f04fe6cc9a2382758e"
+    "boosting.tex": "31e5c477496625396ba426f228459066bda474adde6d5fed46dbd65b544988d5"
    }
   },
   {
@@ -1229,9 +1229,9 @@
    "notebook": "https://dictionaryofml.org/terms/bootstrap.ipynb",
    "sha256": {
     "bootstrap.ipynb": "868ea63b8eee61e7d643a3628f133eb1090a9c66be88cfa0c550839759dc4574",
-    "bootstrap.md": "2646455724d427889c6ce30577afc2b08ef21e4cc4a6f25bbad1fb5ec9cd0c89",
+    "bootstrap.md": "30c5a7c9a4b9e0d2c4d3e8fdf8a400a550706312d273182beec6f48ad153030c",
     "bootstrap.py": "9c6e75766e302159b3d0f06bca4b4e98edfc204c8316be105c5f4510e8f8c601",
-    "bootstrap.tex": "ee982a06954f81029180d3d7260c5f060ac647ca7381c69cc254c84fae0cc9ac"
+    "bootstrap.tex": "1c12ca6ab6dd0de25816fa2b66b525bb96b49e59b68965eb89895065f99251dc"
    }
   },
   {
@@ -1264,9 +1264,9 @@
    "notebook": "https://dictionaryofml.org/terms/cav.ipynb",
    "sha256": {
     "cav.ipynb": "7b66b4ef84296486a5176f15b5d16a803922650e005600c6fddd5a549a02cad2",
-    "cav.md": "23e8b8346b85a7ba1862f6789188da40f7c761881eeafa70a347d7a8a923b8f5",
+    "cav.md": "e00d4fbcbf156043788e50adb2f4a301ea7b483e4725692631672a3ed593f742",
     "cav.py": "226961f45198018028c985630fa148f7becd1b718bfbe1d532b8fb2599efbd7d",
-    "cav.tex": "0c5608b11352f41ce5b3a0ecb78e8bac1b66d74277426054084bb7890ac07bf8"
+    "cav.tex": "be28c871e99276eeb47e979c6e64620fc12233d3e93472e73a6ebc4257f5acd2"
    }
   },
   {
@@ -1348,9 +1348,9 @@
    "notebook": "https://dictionaryofml.org/terms/cluster.ipynb",
    "sha256": {
     "cluster.ipynb": "039d628a34297c7d2472b1e71eee802e8bfe33dcb9cb825c1f220b2711868dc2",
-    "cluster.md": "30ebde0d3cae2e4634d4c73543d76c59143c9fed0483f6aaccbf1c725c6cbf55",
+    "cluster.md": "68b1d6558d7cc59eee65f9cc4988e606eb8d16abb3a9b69224aedd1b4545f544",
     "cluster.py": "623d17b44d6164242033dc188bcf4c0539a83795a23b7e61651e70fdc0413404",
-    "cluster.tex": "0f2d5685977892e6cafc0b0ce0953ae59d6d97d5002423ec90ad85416cc7dcdd"
+    "cluster.tex": "29b5d3bce50ad2ff0d87783edc35ead74e893e5bdf5787a1a96233510811bd4e"
    }
   },
   {
@@ -1487,9 +1487,9 @@
    "notebook": "https://dictionaryofml.org/terms/clusteringerror.ipynb",
    "sha256": {
     "clusteringerror.ipynb": "7c6beac6449d340b90b9ae4babaf710d8fef83cfe82c4667dc8eb7abb099370b",
-    "clusteringerror.md": "3cce08c8a8d3b6bd301731150c548e386114706541ef88ae3adbe11f91166ee9",
+    "clusteringerror.md": "278322488f02b65ab749c94f550d69f0d8e38360a7e63137f3198eba4c64a85b",
     "clusteringerror.py": "5e4516b8a67941f823acb6bde2963bf1f2fd9acd429ccf637f7fa842ad4b105a",
-    "clusteringerror.tex": "53ea078c02a4e095b15e673e438141031e6649be2705e2ca87f1e57649fa8082"
+    "clusteringerror.tex": "55c987da360266b0aecbbdb09e8030f57c2fd406c19aabdc44c89591ca1364ad"
    }
   },
   {
@@ -1521,9 +1521,9 @@
    "notebook": "https://dictionaryofml.org/terms/cm.ipynb",
    "sha256": {
     "cm.ipynb": "7cc740027c8077ad72cdfb5967bda7f837551fd097c60bafde40e79be63e06eb",
-    "cm.md": "0f234ea94e37b8036536d79ee5d324470874770f413d6201bdf2a3d29f17a6ff",
+    "cm.md": "d2ce0dc37955b03c3ecda6b9ae814a4fdd6d886bedab3e8a7c5216c35489e311",
     "cm.py": "c6e2abca26f4268bad7cc4c0d442461149f0959e6d8d18260e99c24f70948872",
-    "cm.tex": "e618c7d1604e1ad293699f3d1b91162a3aa685ecb066964e7dd4ae1f24286f2d"
+    "cm.tex": "8899a4d67d32d0ba1a26749f24bd4f236087147b52ec41026d67293bc1054728"
    }
   },
   {
@@ -1680,9 +1680,9 @@
    "notebook": "https://dictionaryofml.org/terms/dataaug.ipynb",
    "sha256": {
     "dataaug.ipynb": "13f5a48aa16105bf2a3f30f851d2e1460886b18e2869ac16457a3a099fe43b05",
-    "dataaug.md": "28794e4d2419899d43346502f4326b125a11e3ed950921c30302da952998d404",
+    "dataaug.md": "16663c9331a83661e10732bb6bc140f468283bd31462a63610a9aa5ea38b2172",
     "dataaug.py": "5f26f397c9550d467587950a284368ad87c5eb71dc1b00264feaa96b6a3eafa2",
-    "dataaug.tex": "7c99b8adad3b7e2220b080b452ff4b063943455de07b7c105304acf9af045404"
+    "dataaug.tex": "b0f8c88b9659b85b578ae784699edddcbe70107d3c2e0ed892ffc7ec5e1c4eea"
    }
   },
   {
@@ -1938,9 +1938,9 @@
    "notebook": "https://dictionaryofml.org/terms/decisiontree.ipynb",
    "sha256": {
     "decisiontree.ipynb": "0cc469c34e9a325e040465be9c9c683add05241df2ed72f74cc2773355c044a2",
-    "decisiontree.md": "0727472f0701923c8d04e75b2179d4de41f00656a91b4696a9a02f09ad9c5989",
+    "decisiontree.md": "784c681141dceb3003a76c09ba597875169321170ab083a8c658f951ba0ccf5f",
     "decisiontree.py": "4040697314811ec16e280656f0eceaecfab3e44cd7e1e5278ed54916bde3ae34",
-    "decisiontree.tex": "421c389d89b51bde56741436e3f5d7cba33bcb56b394a787df4509a43022c49e"
+    "decisiontree.tex": "92b0a9dc951ecb25167266fc3739f7dda2a2f15c3565a9e5d8fed192993af906"
    }
   },
   {
@@ -1981,9 +1981,9 @@
    "notebook": "https://dictionaryofml.org/terms/decoder.ipynb",
    "sha256": {
     "decoder.ipynb": "0b9d4f1c1a519d84e35d3a4055d7eca8e9fee25e7743c01d33c97343a8b0a861",
-    "decoder.md": "5ace1c53d164e009250a5e1fdd35c438c129a991aaf9c3280ea592394435a4d6",
+    "decoder.md": "f1ae8559074b0cacb636105c844da4a4bd311c446ab8aceef5ede28100038d99",
     "decoder.py": "31a5a909203fbbf4b24e6330afb9c8a629dce2d490a9a835ec844418c7cc96fd",
-    "decoder.tex": "b7f04006022f59b3113b7409e029f86eb96df4e1f0f6bfbbdfc47c165896953f"
+    "decoder.tex": "56c54972b77c4b3a0b6dcbfd8eb5b5b5bfb4268e115fbd73b59a0b80ae3b664c"
    }
   },
   {
@@ -2019,9 +2019,9 @@
    "notebook": "https://dictionaryofml.org/terms/deepnet.ipynb",
    "sha256": {
     "deepnet.ipynb": "827fad5c91a6c0548ae4ebc1337da84a0b1b4b38f736109dcf31d6328913c4f3",
-    "deepnet.md": "b333b904d4a9793ade676a614eec9f53952149628a7ecbafd88cd81c5a7ce219",
+    "deepnet.md": "05d6c75d2471d0174ef1b8c0782468750c5251ff03b2e384e6f16e3aecb4e9dc",
     "deepnet.py": "878856207055b5e7de5fefcee6c96cef97feac2007ebb51519372b021a6628da",
-    "deepnet.tex": "d52e291f9f46a56503fbc78491956646298784215d5de7a2f17d5fc566e40f13"
+    "deepnet.tex": "9ffeeb0ead36b5a3f70a23557d6840f6305873d5807e5ec444efbf0a7b9946a6"
    }
   },
   {
@@ -2122,9 +2122,9 @@
    "notebook": "https://dictionaryofml.org/terms/dob.ipynb",
    "sha256": {
     "dob.ipynb": "767f7c4050751ca1116de90770594a1d9f32e80fbace7c4f0e7e859c4cf8ef91",
-    "dob.md": "37d2cccdfe756d14d81444e860827b89ce51ea1b5e4de8d8192585951ac7fa5b",
+    "dob.md": "e7525a0f6ade2a7dbd5dc9af8069f3948775d0d09b87568c70ba77f09ea7a345",
     "dob.py": "4993e84213bc01c60d1993f29073a25408c8b888f5bc0045c13b277a0f5412bb",
-    "dob.tex": "d1e7388368b6c3aa8a976f8a463e134d6eab42b02b134609508f18001609e0e5"
+    "dob.tex": "60d009e539b497d19dfb98155bd95deaf853bc5420d5f70172e1b4f710622bf6"
    }
   },
   {
@@ -2166,9 +2166,9 @@
    "notebook": "https://dictionaryofml.org/terms/edgeweight.ipynb",
    "sha256": {
     "edgeweight.ipynb": "6b4395257a88490a7cd4a4bdfdcafac3e55c1b6d2125d262fc0dae9edea4d135",
-    "edgeweight.md": "77687fe160426f9cfcb4205241852fae1d425d2bf4f80fd9ab4717fc4bd816b0",
+    "edgeweight.md": "75fadbc1a9fdbe120af51cec79d634a81fd00c5136952336a0eb676fcc34ca4c",
     "edgeweight.py": "91705354b777ede4d05fa6132e2077d7ec125f6a690f7eabdfacfad79e2dbee6",
-    "edgeweight.tex": "74c10b2927c88db017510ab2d14a3ea467cbeec8cc6d5222bef4aeed66b163b9"
+    "edgeweight.tex": "592b6e7c3eb3249c97f0fe53fa39adcd0461bba5d5ed5ab04ae0155e0e452ab6"
    }
   },
   {
@@ -2200,9 +2200,9 @@
    "notebook": "https://dictionaryofml.org/terms/effdim.ipynb",
    "sha256": {
     "effdim.ipynb": "601819d368c5a8e6f3d038da5aa7818dce5f0112ea395b38fd8f6f64ed60647d",
-    "effdim.md": "99f8d766ef29d03012494613a07299000e6b12b4156437f02d0d4d7f74ba6d2b",
+    "effdim.md": "54311a25b9fca7695858b22acd62f64022841f2334f410d71d29366967a29577",
     "effdim.py": "ae1c5949fd250f40daf6596d3fdbc87283b2f3580779a846a1b1fa842c865332",
-    "effdim.tex": "0ab1bd25087521f6a1c89e744e45474a50cdce08273b8a96a109f1accb13a8e0"
+    "effdim.tex": "6037cacca26a56f50b035f9f8e16bbe05b88ebe7d2b3ae0393cc987a5d458f78"
    }
   },
   {
@@ -2341,9 +2341,9 @@
    "notebook": "https://dictionaryofml.org/terms/encoder.ipynb",
    "sha256": {
     "encoder.ipynb": "3b9b9fac084c03decf8d48ec55746d5cae49e2c06f1970e6b24f8745c154a38a",
-    "encoder.md": "1c821a00e6a266607e029afdb881c52d6b2bd65b1a5f14cb4ffb70a51e52b4fa",
+    "encoder.md": "b891036463e95cc548a25a49b2e54bed9324ee951829f6507b20c1ada146d71e",
     "encoder.py": "f61547289595f2b6e75b8aaf770b020404d69142f9d896e58c5639dd96ae8afe",
-    "encoder.tex": "37b7b4674928d4b498d01f709924540cae68090f4feffc01be6ea7e773ef2c8d"
+    "encoder.tex": "dda8564406ccc040e5ec6f8edd7a3ec28ec7cca4625c74642474296f1c57695c"
    }
   },
   {
@@ -2370,9 +2370,9 @@
    "notebook": "https://dictionaryofml.org/terms/ensemble.ipynb",
    "sha256": {
     "ensemble.ipynb": "4283bbcf9e1f97758698910da442c4163240109536736df3ac70756310c0b5f6",
-    "ensemble.md": "98e1da0f1b78288e34c305069bc6dc4c844b0a2bfbc943a064ea82ced1a29ad5",
+    "ensemble.md": "11136fb6b079755176f2a8f79c5bdc46ed25fa26f9461b37bbc09f2469c0b2b0",
     "ensemble.py": "a0eb4314d4cbb1100b121efe17a190b5c4a9fa689c1f435250d732a3e3d88340",
-    "ensemble.tex": "2fe26ac12fb8bb915821ef25c98163849ec665fcf1a9a19d4509d01e1dd8e9bd"
+    "ensemble.tex": "fa5373bc2d86bc2ebc9c0fe2a9aed88053f2d591b81986d1cc883de955bb446c"
    }
   },
   {
@@ -2476,9 +2476,9 @@
    "notebook": "https://dictionaryofml.org/terms/explainability.ipynb",
    "sha256": {
     "explainability.ipynb": "6d2b1ec3dffa98b6707686f1e9e250932dec12bf3c663a016e762f75f00300c6",
-    "explainability.md": "df93a93e39095796128824ca61d19d4ee0f50fc11627b90300c99bd669a40d5d",
+    "explainability.md": "4698560c88ba75798e2e7604ff6cfc14e8bc0cdcf12ed1360c327784c9270134",
     "explainability.py": "a1e55038086ed174a72a298445f14466803ed1856a4cef5fa93c05d2ca0859d3",
-    "explainability.tex": "3074a2c2d3eb15dbb17e00b45dd7a02b91bcd5d0654a8207262655d42433ad21"
+    "explainability.tex": "5cb37515a9d43e30b8a9809e341a0a38fa7bc7679e838053f03a164cb9814e16"
    }
   },
   {
@@ -2552,9 +2552,9 @@
    "notebook": "https://dictionaryofml.org/terms/fairness.ipynb",
    "sha256": {
     "fairness.ipynb": "699387dd221934d9a9951b0aac5634a74d701056462a7b172c7765d0368cbed7",
-    "fairness.md": "c577aa25f6c74251ce5c25e56256da91032636009bd28398d4b8d6874548204d",
+    "fairness.md": "070986b8084010ab825e278785eb6288a6f244dc4ea2fe861ae6c15b942e9113",
     "fairness.py": "a00e41071731e0e6c94cc84cd6b03d12f794509eac0b66e3b0dd59c2e05d135f",
-    "fairness.tex": "cf9e609b01ee1bc48d703482cc59bc0d5015b01246332e072b6fbffe34693dce"
+    "fairness.tex": "a78ce71c54e5f7758f137b68dbe73dc141bfbba769077ef22d8525366c7f6ca3"
    }
   },
   {
@@ -2586,9 +2586,9 @@
    "notebook": "https://dictionaryofml.org/terms/featlearn.ipynb",
    "sha256": {
     "featlearn.ipynb": "4b998ecf876b346e5eab472cbbbe6d390fb48787b2e1f4341e3bf730d44f55a6",
-    "featlearn.md": "d7ae6e2fd47e4c0214251b5dfbe342607399a2f8bde2f7f50c9cc4b7a24baef5",
+    "featlearn.md": "9ddbbabae855b02a468b0d4a117cc730905f749160e1096647ab4de980a73703",
     "featlearn.py": "db88b6db292d44f4ae746de6e842297473500f5fd9f390d0d6666af7693f6c5c",
-    "featlearn.tex": "110b0292fd50f1c0b35686f64fee25cce82acdf08d15d977976161d9d00852a7"
+    "featlearn.tex": "ae0a7d7ac1ca7c52f153a12a20c498b6b4ce89c2264cfbf36b76e8bda847bc83"
    }
   },
   {
@@ -2745,9 +2745,9 @@
    "notebook": "https://dictionaryofml.org/terms/featurespace.ipynb",
    "sha256": {
     "featurespace.ipynb": "4e2d4d379ead339fc8b441b74fa4b370871fa4e43f31976424613c0944ee7add",
-    "featurespace.md": "055a130b49d98e619b4689db03133057d59a1e1ae8ef88c2985f466ff729c06d",
+    "featurespace.md": "9daf4bb5b388863d3b9db8a2e2f89700e414ee6c96f68996d99161d732b2af8f",
     "featurespace.py": "208a2f912232e3c3de25b71e1d69692f4277ccd060ce0483fabc475173f9fd8a",
-    "featurespace.tex": "362a450ee1dd6e19914b6dc51c6c41b3cb6fe15912d2143832342cea290db5bd"
+    "featurespace.tex": "c7b54113ef5cfafd0db64323cba80379bffae90f0c4d404a9c3a0e6c3cb57165"
    }
   },
   {
@@ -2785,9 +2785,9 @@
    "notebook": "https://dictionaryofml.org/terms/featuretransformation.ipynb",
    "sha256": {
     "featuretransformation.ipynb": "6fc4704130729b0929c1355577d8806407ba9deddc4617028bf30ccf586e3a18",
-    "featuretransformation.md": "a02fb62b6f4a0783ed6c40a478c4f0cbbb36bb53d701981cb009d51b8270030b",
+    "featuretransformation.md": "0b9c3ae363bd07fef6eeb5faf0e6f4c5f8bbf2caff6d1fcb3ad869fc67c72e6a",
     "featuretransformation.py": "8066e17b80c2c005acc77ddedbb98a94d8e3168b3f9b27e3ffb74841192cca2b",
-    "featuretransformation.tex": "9bcf67ff70ed80f1a70e1eaeedfdad4a83536c559032f9d6cf7aa68be934bddc"
+    "featuretransformation.tex": "0b955cfac329a9fc20f933c3d0bb56fc6960c60cf9afe0b09ac02834578e07b4"
    }
   },
   {
@@ -2869,9 +2869,9 @@
    "notebook": "https://dictionaryofml.org/terms/finetuning.ipynb",
    "sha256": {
     "finetuning.ipynb": "654c06946172ca26e892b81f70c53895e31ebbd1bbb31e37a4f4052f175b8dde",
-    "finetuning.md": "abed3910b757d194f60a406f68bc69bddfc46a96356471a27747bb1b2a7eeb24",
+    "finetuning.md": "a4233cbf44ee049376690152ce5f3d3d95745004237612efd3e889cead885cc4",
     "finetuning.py": "f16067985a23b00a5f596684f8fe037ecd965ea71d9a7523ab6a153ae26a4ad8",
-    "finetuning.tex": "ba745246156fcb536416d47f64ecbd0dbad831c0b7f42909d1bdd8b4b0d5a463"
+    "finetuning.tex": "a68d3e0a83722f22e2d31c35ce76ecb0693551215ce165e1c5ce38cb32a859b0"
    }
   },
   {
@@ -3070,9 +3070,9 @@
    "notebook": "https://dictionaryofml.org/terms/graphclustering.ipynb",
    "sha256": {
     "graphclustering.ipynb": "d92c859c5f63cbcc1ba6b1817666a00f1f6eaa32004c3373b62d616cc0793f59",
-    "graphclustering.md": "ad510dabcbffdaf9aef114903e4e8850a0fd1131ba4e71482a88fa20a9697281",
+    "graphclustering.md": "653bbfef466c05a73e886b1c56524ca372b3be2225405d008adb2bb705f40797",
     "graphclustering.py": "615532d7fb138b381a1485ae5bb3700e909e19517d5bf0b30ff95bcc3ebedb41",
-    "graphclustering.tex": "f715d28e8ddd7097479d47b578063f0d6721b77a582243d40e7e558db0c46bd1"
+    "graphclustering.tex": "eecdbf729839c46c397915460223e34612cb38549ef74a139b961452bbc97aae"
    }
   },
   {
@@ -3116,9 +3116,9 @@
    "notebook": "https://dictionaryofml.org/terms/hardclustering.ipynb",
    "sha256": {
     "hardclustering.ipynb": "445bdc7ec79d5c9185f00b82fa6d29c67c6c713928c54994a8551a8a19a29278",
-    "hardclustering.md": "1cf341d28bfd3ba8210a6a2f9d8fd44b9ece746652c05ce889013a1b5bc09189",
+    "hardclustering.md": "79b29dd64774a4b9ef7cd077598d4d6603659938b45614a1822485e820eff008",
     "hardclustering.py": "c9f739f8c6a541ed2ccc5fc78adf10cbab8e9b86480a0ab9b57ad696d1b07702",
-    "hardclustering.tex": "42f200165bdf63c4a8f1af7276bc6d763e0746955a68252014f1dc89991499f9"
+    "hardclustering.tex": "be6985d97fbe7785c76ba56f27dea1fc9a05fabff1852c32a95063032dc427a7"
    }
   },
   {
@@ -3148,9 +3148,9 @@
    "notebook": "https://dictionaryofml.org/terms/highdimregime.ipynb",
    "sha256": {
     "highdimregime.ipynb": "4a90689f8821d4ccb7baeeb8916ba80f773a865f331729d15e02569e339eb11c",
-    "highdimregime.md": "a406abfacd7e6fc30096cbddc192399193c5d13f8b1113e3d0ab77f2b4d6548a",
+    "highdimregime.md": "d2c3db69ed50bb19a123e2894dd12821a635872702f45481c7dcad5f8b098aa4",
     "highdimregime.py": "a3e298a745a4656263e3873bed246d454a5f989b1c640b3ae5f5c444cadc8e99",
-    "highdimregime.tex": "62f3899974df08f65d7c20d2554e1f94ac39e5e3c7810f6683d3d0ddb39a2af6"
+    "highdimregime.tex": "d1a1ffd201c824c553022488264aa97b32a5f461b2a49c41b799d73f6d9f576a"
    }
   },
   {
@@ -3661,9 +3661,9 @@
    "notebook": "https://dictionaryofml.org/terms/kmeanspp.ipynb",
    "sha256": {
     "kmeanspp.ipynb": "a8ce8c6401acb3a1d64ea07c886d23e2f14f23532fb18090f6f96f03847de5b9",
-    "kmeanspp.md": "15a19a1290a781be15993655eb2b9f2e64867a29fab068db49a06a3085591e42",
+    "kmeanspp.md": "87ac131cb3af993e95fc11547823289567900a3ae49b256ccc38c1a96ce45fd7",
     "kmeanspp.py": "5747ca7b480babc0c015188b54aa9bbdf13a7585d3a5c7e15a38eaab3fd6584e",
-    "kmeanspp.tex": "aa72c699cf23ea1c638b220e235dd67bb8fd1efa5e9f24bbdfc2c36867c11954"
+    "kmeanspp.tex": "fa3d21a34f319b6aad9d6635cafff33d035c5e8795b280636747842703f6fa08"
    }
   },
   {
@@ -3731,9 +3731,9 @@
    "notebook": "https://dictionaryofml.org/terms/lda.ipynb",
    "sha256": {
     "lda.ipynb": "f10de73e6b2d8280e8a34f6f893e2c482930464e2e34d64ad3919422d6796f60",
-    "lda.md": "8f5f0b18dd8e2e5724f1e3e463295e2fe8e313326dc25c0a6007528924c3b959",
+    "lda.md": "cb60cd3e62f716a4161f55508c8f2f15f0ee326ba7e79d62b2e409d1f3625c79",
     "lda.py": "cdc9df22504ebc19bbbb5d8a28a8989828fade03d156ea834675fc40b8a30eba",
-    "lda.tex": "ed56e8a3dd9b3c547aeda249e1220212d28de8297d56cab7aafd1a8e80e77c31"
+    "lda.tex": "f822e589cf6394981cd73f2be14730553c6342a4df32fcf03df180ad1df492b5"
    }
   },
   {
@@ -4069,9 +4069,9 @@
    "notebook": "https://dictionaryofml.org/terms/maxlikelihood.ipynb",
    "sha256": {
     "maxlikelihood.ipynb": "274236943ebcbe06690b01fdc6b7d2e2adc1a285347065c3453a7c919a56f0b1",
-    "maxlikelihood.md": "7947490356fcfe49bebf259a93ae927b76dacfcfd6fa0b96656d409dfb3816f8",
+    "maxlikelihood.md": "0084214d0d92cf5aee3237f018735074a89e2b9fe81f876e5a6c6cecaaa6f26a",
     "maxlikelihood.py": "403f0218fbd58aa532cb9df4d23c26ccfcada7ef6263dd745182d4cff423170d",
-    "maxlikelihood.tex": "9ee70bae7c4bdede1e21ab68b690dd8feee70fc8925226d78a74081a26c5378a"
+    "maxlikelihood.tex": "5442632b081ae6911a13beb913df90a67c8c5b6d57b36bbd06dbc6b343fac921"
    }
   },
   {
@@ -4255,9 +4255,9 @@
    "notebook": "https://dictionaryofml.org/terms/mse.ipynb",
    "sha256": {
     "mse.ipynb": "446d1ba113b8d276f7eff6af18b23a4c3be0bb652293c5c7cf9690b3a21e86ff",
-    "mse.md": "5464b5994e3124271c861325a3d3c6333ec07f89edd40e963a645cc2d1d34d79",
+    "mse.md": "96bc15f94a0f344a6b91e1b43c28ae4b5e7eebc2879597788005299c7c982514",
     "mse.py": "399082978d1954ed7943d4615a6ec12da1529498925041e8c414d932f75e4790",
-    "mse.tex": "599e396fc57e185f72c2f3aa871e3d8b5addaa4d8de4819e01d07414575051fc"
+    "mse.tex": "bb3167303cf62b6d26b02e23f7b3c69ef5f3e391f9a7d66a39f7af6e6572cae6"
    }
   },
   {
@@ -4411,9 +4411,9 @@
    "notebook": "https://dictionaryofml.org/terms/outlier.ipynb",
    "sha256": {
     "outlier.ipynb": "ff4c10eb86364ee9e5cfd9085f843965427fc8d2dd4382269745e2426e2e37a6",
-    "outlier.md": "dbe2b95f622aa70ed279a17356daa587c947513391522b14723687bf8520ff4c",
+    "outlier.md": "31a1f004d727f0b12b14bb671a7755e96722c424e16e995b6d081ca24446b885",
     "outlier.py": "b691dac74686e5e1a600f0774e2699630249f3a114df13a009a09af4b2353cdc",
-    "outlier.tex": "4792ddd0078862426785cec10489e841854eb6aff31160e2904b39e2f0225743"
+    "outlier.tex": "cc6b6de060bc3895674b55e11d43f91a54016b06e4155b53f0ab36fbe1930104"
    }
   },
   {
@@ -4547,9 +4547,9 @@
    "notebook": "https://dictionaryofml.org/terms/ppca.ipynb",
    "sha256": {
     "ppca.ipynb": "e4ef1e43e714c0ac8e6d1ac297f801b79fead262fbe493bed783a71449e2165c",
-    "ppca.md": "89ffa29b20d883e581e52dc8566bc497a9db37a8199576134dd2dd7698623eb0",
+    "ppca.md": "1bad12ab7dc33f31736943f1e4d8b96312d6fd548398475d882ee3e279cc8ed2",
     "ppca.py": "002b156832ba54f1e793469fb8399ebf9285ef8d687df62e22013e9bbcaef18d",
-    "ppca.tex": "9017ba7aaf482461f4401a5fdce7c0f708656830335941fd4a670a6b2ce317e0"
+    "ppca.tex": "93095ce4abbb9b3df776a286a202a604a52049aa07796e19447380ea5b876da6"
    }
   },
   {
@@ -4742,9 +4742,9 @@
    "notebook": "https://dictionaryofml.org/terms/randomprojection.ipynb",
    "sha256": {
     "randomprojection.ipynb": "25e9f5d7674676c7fcbb3e87102dd67ef44de2a2e0743a39ead15cbb0a3345f3",
-    "randomprojection.md": "537f8e9ac1224e6661791975755f6e9fb7404494035843b3b99af534146c2f70",
+    "randomprojection.md": "759a46b58d8c230775616f3fd606173d7ccb202744a5755e79fbc0097b97e32f",
     "randomprojection.py": "4beb87e228037b950b93d3ccad12c4948de2731dd12d0190610606bd079fd86c",
-    "randomprojection.tex": "24704266c868242e20b2da20fbb3736c828c2364d02be023cb5d7b3b67c8cc80"
+    "randomprojection.tex": "c14240431b52beef33523c573b1ba81f86da221987387cd57bd64bbf0eda342c"
    }
   },
   {
@@ -4982,9 +4982,9 @@
    "notebook": "https://dictionaryofml.org/terms/samplecovmtx.ipynb",
    "sha256": {
     "samplecovmtx.ipynb": "50ddc1d2e8f1364d376b655cf085be313e7cc5bd01e838cd05a8f2fd46d71152",
-    "samplecovmtx.md": "1411925a1a630284cde6eaf0a309daaf95bb0bc6a6b21aac209297e6b149396a",
+    "samplecovmtx.md": "50fcba262ffcb4e106b4a374fbea31c11f07cab98f786ba7e3ca8fa398c31e84",
     "samplecovmtx.py": "114fdeeae3086b9645f0b77ab1811c8d12887d33cb012ec3769f617cbdb63a7c",
-    "samplecovmtx.tex": "eb08d2cc096515995a674a73dbd4a7ce3fbb786b04c651b01565fab1dcf001c9"
+    "samplecovmtx.tex": "aa63a772614e418e27b101338524d72405791b1cf5474300455592ebb4609c7f"
    }
   },
   {
@@ -5060,9 +5060,9 @@
    "notebook": "https://dictionaryofml.org/terms/scatterplot.ipynb",
    "sha256": {
     "scatterplot.ipynb": "eaefdf168a24abc77d2034078e5f6c750f65de3031cba34de6ee4e5acdff3d3a",
-    "scatterplot.md": "5f1e24ed8c1eb203157f76640357799f1bc4d7607fbd4cb76baa9a8f494f09a3",
+    "scatterplot.md": "7b4f110702fc3dffe93c312b5d0b14729589e1e65fbd120ad70438696e0405dc",
     "scatterplot.py": "59549180562cfb38fc8f8f3ee73fac7e20d3e7e5d1e6af36b23c02212bc8c100",
-    "scatterplot.tex": "f002741309616892fd4bae8beaa276b874d5b7a703fa8c6d0dbef814142b55c3"
+    "scatterplot.tex": "86151f16efe199c533b629096d0fd6db94969ae24b877d17f50a449c3014fb62"
    }
   },
   {
@@ -5129,9 +5129,9 @@
    "notebook": "https://dictionaryofml.org/terms/sensattr.ipynb",
    "sha256": {
     "sensattr.ipynb": "6171a027fb56906c07c7d18ac9ca27dd3d356fe3ad5417c6fd2d924d143100d2",
-    "sensattr.md": "f5d364ce158eb591c19a57109034556a0582b46fce4aadc36e43f6db223f6ff2",
+    "sensattr.md": "67df404d6b2681e86dbb6395a442df4f7cdf54ed1139b7e8bf2cf4ffd281564c",
     "sensattr.py": "49ca6c46baf1c971a591696510a588083e6a9a707ea32cfa4d6d1f914b02610e",
-    "sensattr.tex": "3dffade45ddc610680d34105d82c663c78f938906dee5598d2d23544ee66ea98"
+    "sensattr.tex": "d65fd8a144adf74f5415ef650edae240f085c54a57dbe126500eb2e5947fcd48"
    }
   },
   {
@@ -5240,9 +5240,9 @@
    "notebook": "https://dictionaryofml.org/terms/softclustering.ipynb",
    "sha256": {
     "softclustering.ipynb": "a4a6d7d471256e2d5fa3761667857e05a7485470e0546891edfae142ab5d623e",
-    "softclustering.md": "372c67adf233fd995caebf5d45b3f1643a109bec011fd46233d599a15e0e0ef2",
+    "softclustering.md": "29ffabab3b668cd545ed85c5878b8f7c718a9c6093aee57636338e0cc561b3e2",
     "softclustering.py": "b17cfe5c19f13f258197c6e252dc92f9528a3f3b4aa81f1692558559a5baf970",
-    "softclustering.tex": "7ed4d419623ceae0b7fd5e41c8f36b49fc4cdfec77d8051ac8fc5a72da7fb011"
+    "softclustering.tex": "a12db46194e744b29e0e78d69e9c22135d26c3a9a89adb6715161a0440921c3b"
    }
   },
   {
@@ -5284,9 +5284,9 @@
    "notebook": "https://dictionaryofml.org/terms/specclustering.ipynb",
    "sha256": {
     "specclustering.ipynb": "442b0540720664c13023c10224bba22ddcb65bbc151f5f93984f88fd0bed8ea4",
-    "specclustering.md": "831390a38f314439f5f8cd1c7ce1002e500178c50b44962c41ef325078068447",
+    "specclustering.md": "9a9bc5c399e363aafc5eb71df70be22a2de4e2de424aa54e2070d142593bc451",
     "specclustering.py": "d56aae0e6339d19a22725dd487b98c27f2d283850298f434ab67c5caccf27d2f",
-    "specclustering.tex": "9b507d907dfe36a7cfdaf4591fb5684cf79ec40dcae48f737a818718a90bb91f"
+    "specclustering.tex": "d5fd3f3aaebd1f783646f5303707e6e6cf713f47aa20bbab24ab7e64c037d668"
    }
   },
   {
@@ -5394,9 +5394,9 @@
    "notebook": "https://dictionaryofml.org/terms/sqerrloss.ipynb",
    "sha256": {
     "sqerrloss.ipynb": "6599792280830b87e6c1850a3965dbd9bd15c67180bd3577c8eec29b36503502",
-    "sqerrloss.md": "d6734b034643a0b94727ad31a27b3266336180749c22aa2cd57b07832f3a4f95",
+    "sqerrloss.md": "dad85c2db1692f0d37d475605c8de066cb8088919f306831049480d1e6ba5458",
     "sqerrloss.py": "43de842ad8ae4537cd80a500061852b4b672e8fce624666add9e712c7c0f01fe",
-    "sqerrloss.tex": "ba3fd63f7c9510b20c374cf358fe08d6ff22f9edcd6a2b8e7b9006ed98ed4646"
+    "sqerrloss.tex": "4c80fb36bcbe398617fae0f91addb2e6daef9453e7d3f7dbfff7b1094480c45d"
    }
   },
   {
@@ -5589,7 +5589,7 @@
    "notebook": "https://dictionaryofml.org/terms/tabulardata.ipynb",
    "sha256": {
     "tabulardata.ipynb": "5d6e21dd1c51504f8bcb7ff1287f1b92a0ac03f8cff4362da80790abce200a68",
-    "tabulardata.md": "788053b17083d6fa73cd5dd3e933f61e5abadaa69115f81a06ebed9f5f83f897",
+    "tabulardata.md": "6041b754040306bc62d98cdb33c1829aea553bf110ee2e662fab01cb206e7c15",
     "tabulardata.py": "8c6497bc4b358b733e47da6ba2ad6738b6930a885f91f1798773d90246010e98",
     "tabulardata.tex": "4ced7bb56cfad2a9c8be5ef9871affea8204b572337aa8624be87e28ba969e35"
    }
@@ -5625,7 +5625,7 @@
    "notebook": "https://dictionaryofml.org/terms/tee.ipynb",
    "sha256": {
     "tee.ipynb": "60fe627e32f9cb6de084ca9728ed1c5e0ee641c2a03eb2d980beda81c4b9a74e",
-    "tee.md": "a88172139b1bfdb77ddaf7d5cac3582449a25a6a32310ef006e5ddf2bba865c7",
+    "tee.md": "223d69b8fd93aa884a32349644aed5b1b4d771c865f5a9d1e9501983ce19f9e8",
     "tee.py": "5ed517771fb0cb7a16acc937b61ea2b63c0759c6f58ab55b1303207610737d9a",
     "tee.tex": "b4f85fd21d47eaf22ce971e913c0cecba08208f039041ee1ba96fbbf1d7e5996"
    }
@@ -5657,7 +5657,7 @@
    "notebook": "https://dictionaryofml.org/terms/testset.ipynb",
    "sha256": {
     "testset.ipynb": "20d27db99a67f95cdc6e258c396b00300b724cacfbfb61cc550eb3bb120f5144",
-    "testset.md": "47c2152af2d6470ae69e34e71cbf89be810b4c5b24878296b987761dee4adc52",
+    "testset.md": "ceef1cf437f01effaf5ad26bd6f89da60d3b9d49580b8fe75dd0bcb70b9d464a",
     "testset.py": "446ae03cca445840caef2c2e9d62074cb849bb3ddc9e285b9ccbe3296cafef4b",
     "testset.tex": "ad58bea3d232fef780ae0ae5f9d285cda1b20115b5b92ea81ef3874ae012964a"
    }
@@ -5736,7 +5736,7 @@
    "notebook": "https://dictionaryofml.org/terms/training.ipynb",
    "sha256": {
     "training.ipynb": "61d6d807c86010c2c2a90a1644558df639db154ff434ea2cb46a991bd2fb4cde",
-    "training.md": "2fe8b203226c92f026ef9c717ca3ed8683d75e67b38e0509394bde71f6e2f64a",
+    "training.md": "ac83c7b7ea5d9e27b40a05e9e979551512207b5a26dd0a2a4a18bc9b65e3f172",
     "training.py": "3e8799add4cb21592f69fdbb0c820fdb98941360540af7a806381b387557a788",
     "training.tex": "d58be6ae9f21b3d0d0cefd9aae44873055f639c93ccb1a2b51bb34d2b45017c1"
    }
@@ -5770,7 +5770,7 @@
    "notebook": "https://dictionaryofml.org/terms/trainset.ipynb",
    "sha256": {
     "trainset.ipynb": "1eb05f6d0445582c68d27b7c1bd78190e96120852b981e610f279cb986736d1c",
-    "trainset.md": "f76d2e4f5644384c1d8bd6b2fea84837882302112723fc861dcbd40318f8cb3c",
+    "trainset.md": "655d68fca91faaebf1217a2777f5922307748fe1014b5f704811c04e20ff4d61",
     "trainset.py": "3eece5a0091d21d9a20f5a6a98d60891adc1ccb7d457f0123fc21b34fd535399",
     "trainset.tex": "52a3a3e26ca62e16a66064db68abf42d844d17ff7c84e3c73ec79f3df0865108"
    }
@@ -5803,7 +5803,7 @@
    "notebook": "https://dictionaryofml.org/terms/transferlearning.ipynb",
    "sha256": {
     "transferlearning.ipynb": "99eebb91fac6356b2ca615553376c58ffb4d59c86e80905369272eca4fa9ecca",
-    "transferlearning.md": "1d7fd87e3cfcf5d8e90b701510d87ac92375ca9174b9876fd54c05b0ed6a6b34",
+    "transferlearning.md": "c1176006856b711b47dbec0bb83b860ba0e7254d9b97a47676f42d5b8d34a691",
     "transferlearning.py": "8d46015a2ddf28e4d309cbc4062ac8548934501305fc850973c2dd9bfa238fd7",
     "transferlearning.tex": "a9cdd9e2f2781c6d3a1bd8dbe5fc7fb2b36e745c4a984199aefd19401b0762cf"
    }
@@ -5838,7 +5838,7 @@
    "notebook": "https://dictionaryofml.org/terms/transformer.ipynb",
    "sha256": {
     "transformer.ipynb": "91ceee9b16c178b6e0f2d5e28c8d5cf13d43005ece4bf3e702a99001306cf8a2",
-    "transformer.md": "7346ff9a4c563342a94137221eaf0df78e7c969de90abe96ffc0295446d88da7",
+    "transformer.md": "9acf492cda1934ab3b6eb67333a04048d6e6daa413448d427cbe24b6d9b1813b",
     "transformer.py": "62e02831aaa3c55d949f5c6036e8ac7980388f3543b6d2a42989187482573f5d",
     "transformer.tex": "f87c24189b8b28c9f246f60d64bf37e1ef06a547b8c3941463a23c673823a929"
    }
@@ -5876,7 +5876,7 @@
    "notebook": "https://dictionaryofml.org/terms/transparency.ipynb",
    "sha256": {
     "transparency.ipynb": "58df22b60c0092dc7856450c6a929cd09c2c23ccf242e2e88811a4d8dd4fd11a",
-    "transparency.md": "9fa4c65a0b095322d37b85e2673250557f8b84ded5f4d3a87c682bd5c783455e",
+    "transparency.md": "904e87bb0be1ce1bab89f5885363f9796f8a0b2b9bf14381b003a74bf8d6a8d8",
     "transparency.py": "83320b33c12ab3493b883125bbeb98a557fde819f043be1f255cdd0e2b558b68",
     "transparency.tex": "d7c4ea164fdf87400eac92a7b94176b0e2ee4d6859f242ce2aec59eb6f394093"
    }
@@ -5915,9 +5915,9 @@
    "notebook": "https://dictionaryofml.org/terms/trustAI.ipynb",
    "sha256": {
     "trustAI.ipynb": "7c03e8645fda72eab4bc718f66d71062ae64118945f15d8a81c67739f33aa8ae",
-    "trustAI.md": "dfbce48fee86b871fded5efc63dcc6a3f8aebe120f5b5de89deae22ebf35bcfa",
+    "trustAI.md": "679688b4766fee15b418140c98e68bb83d537ca6d2ebd1b4adb8d588f9d08393",
     "trustAI.py": "22b6826b7ebc3e872bc564c22fd7ca560d322e615810e74422f58d132408d295",
-    "trustAI.tex": "1a37c0904f11b9f99dcb9396a4fdd2af90276bb07b3cd865094d606d3ba8e434"
+    "trustAI.tex": "46e070f812b5ab169d248aafe2adb52ded80198f54ba3fcf4ddc88b50838df49"
    }
   },
   {
@@ -5952,7 +5952,7 @@
    "notebook": "https://dictionaryofml.org/terms/unsupervisedlearning.ipynb",
    "sha256": {
     "unsupervisedlearning.ipynb": "d5938ae4b1244743114b64b2bf33d7e30a5cc959d24ad984bac1e7df8c578485",
-    "unsupervisedlearning.md": "af767ea769cdceb30fb626ecf53f54f0eb0cbfbe276444227245f134bf7c0158",
+    "unsupervisedlearning.md": "835e8b47b8da4dcdfab6ee50c11fcefa2ad0790589d203ab7bdb920a82aec2e9",
     "unsupervisedlearning.py": "2a22357bf42be10b2f6b55134d61eae85ac691bde310f53d545e0a49fffc3ad2",
     "unsupervisedlearning.tex": "d490f402c83e31a553bbf1ba19e551d1a18502974e554bb1ef00f2013217b882"
    }
@@ -5989,7 +5989,7 @@
    "notebook": "https://dictionaryofml.org/terms/valerr.ipynb",
    "sha256": {
     "valerr.ipynb": "920db174e44b151d4134ffc96ae66227781cd0da28121c741db33ddac83aabad",
-    "valerr.md": "4eca63e6ccd2046cf25e43bbd47f01848f886644804bb2f8253b075229847ec3",
+    "valerr.md": "576c3c6da5f6f2729dd07e393276db2e73071a7d7a5511d822becb39c617ebf2",
     "valerr.py": "c6e21093e1488c482425d9a32bd0d8674061e0a7cabb366c698a6c95ac81433e",
     "valerr.tex": "3ea3a08b2307e301aed999eeecf6343c41552240cec09b86192a09becd1a56a5"
    }
@@ -6023,7 +6023,7 @@
    "notebook": "https://dictionaryofml.org/terms/valset.ipynb",
    "sha256": {
     "valset.ipynb": "a40f11021d038dabd67e9943f4814369554682e25fe8987dcf653f533bef40fe",
-    "valset.md": "7e43a500471416dc01f2d25bf311f45f0e211553716071f11573283cc718d878",
+    "valset.md": "4c50fefdc750d8590f31c4ab4f4b4d79d4ad569d0869fc32df972caba1313b86",
     "valset.py": "ab0278725097e7640617353156e9456cd80137b23151e34c1985c955723019d5",
     "valset.tex": "7c26212df9f208a03dde284d43787526bb6ade0dbc5c335d79f6db3a46bde37d"
    }
@@ -6060,7 +6060,7 @@
    "notebook": "https://dictionaryofml.org/terms/variance.ipynb",
    "sha256": {
     "variance.ipynb": "0d0ddfff9a40eeefb6b0ed5f66d2eab0c5c6207f2317f1013151e2d4af774a56",
-    "variance.md": "550fb64c76f79a43634f2b25f89f236a3aba70fd020844523495e1a0a4e10164",
+    "variance.md": "817ba7aff3d04af97cd35ef89c4588a484239cbda860730a583af9f99e5924da",
     "variance.py": "a809ef7ad6de5492e905a8348eb19ce2eb97101eecd35a01cddff19831bdc713",
     "variance.tex": "cfbae56e1347089fae4a487a918f3e048be9df5563fb10265a1651bf7ba540f6"
    }
@@ -6100,9 +6100,9 @@
    "notebook": "https://dictionaryofml.org/terms/weightedgraph.ipynb",
    "sha256": {
     "weightedgraph.ipynb": "e227d01f147fd6c53abd36cdf8dc548a027998d0a12541b967cfb37e19b651ca",
-    "weightedgraph.md": "b25602731d441352948eec4d84413b64712075c84f154e1237506dd57525ef1e",
+    "weightedgraph.md": "c841800179fc57a747e4b2e5a980a323d17f1d46008551e74b5c82cd9c71daed",
     "weightedgraph.py": "da17069c7e60df431db98f2a04d9c851ad8bf75197ccce0196ff4caf344d3bbf",
-    "weightedgraph.tex": "f39de4b033340347e6608ee5ce3d34132b61abf78f7046f09159b715c1d2d7b6"
+    "weightedgraph.tex": "9d6ebeb1894bcae3eb32ba7200ed9c5b1d8a6143d88dea5b58cb77f9b407a6ab"
    }
   },
   {
@@ -6136,7 +6136,7 @@
    "notebook": "https://dictionaryofml.org/terms/xaiterm.ipynb",
    "sha256": {
     "xaiterm.ipynb": "1393f8bc18c3e297f9f9daba83c12dea7109502a1a4e8c768330bc8a62b3f8c2",
-    "xaiterm.md": "b6ece9413c695825066bb43e3831228f6f8ae0efc0a5376b8ab64011c3d1ddcc",
+    "xaiterm.md": "5cca0d92d5ec0fa6761461bc99a50b0bc943a7d61dab0a6ee306bdb10b2f87d3",
     "xaiterm.py": "2c2593882e39cdaaeeab4245443f82550b49a961676eec287b3b58432cdedbcb",
     "xaiterm.tex": "9c10f76e46fdba3e1bc3ce9aa63d98880b7bf5c16ea7891c3cd9cfbc96276cb5"
    }
@@ -6178,7 +6178,7 @@
    "notebook": "https://dictionaryofml.org/terms/zerooneloss.ipynb",
    "sha256": {
     "zerooneloss.ipynb": "97e553c3266197a8cae3c9c65da6460d3992acda6fec2c49e7a8f14f7657d0b6",
-    "zerooneloss.md": "3474d7719f44cf7bb909faa56d983b5a3f5464fb64b15fa958bc27b3bc466e4d",
+    "zerooneloss.md": "b8f4cefa7e9d2b336852ccf2092a0c66698ec563771b60802207bd05c1d984f3",
     "zerooneloss.py": "e6de0a7ada9ca8d2f3058892f7afb384abb5fb86f67b2d8a31bb2e8afb863554",
     "zerooneloss.tex": "d777e554b76a68dc948ee0ee463a7b97505f6d133b0978d8e0b1c448a8f5c54c"
    }
